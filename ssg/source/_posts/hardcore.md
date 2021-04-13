@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:47:01.450Z
+date: 2021-04-13T03:57:07.080Z
 title: "hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -27,11 +27,11 @@ Dead Kennedys - Fresh Fruit for Rotting Vegetables (1980-09)
 <li data-cover="https://img.discogs.com/VMdolon7uKsIEO_Xu19HgAsoHpo=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5235304-1569775281-1713.jpeg.jpg" data-tags="hardcore punk, punk" role="button">
 Bad Brains - Bad Brains (1982)
 </li>
-<li data-cover="http://coverartarchive.org/release/df11248d-6a31-3a7d-a7a8-d384e6b3765c/17273598522-500.jpg" data-tags="hardcore, hardcore punk" role="button">
-Gorilla Biscuits - Start Today (1989-06-24)
-</li>
 <li data-cover="https://img.discogs.com/Q2KsQg4qcAV4pJn9uYkrAfvjag0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1836557-1541640206-9812.jpeg.jpg" data-tags="alternative metal" role="button">
 Helmet - Meantime (1992-06-23)
+</li>
+<li data-cover="https://img.discogs.com/iXcClxEhvbS_Geid68lhF8j_SI0=/fit-in/320x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3727342-1341947943-5305.jpeg.jpg" data-tags="thrash metal" role="button">
+Slayer - Undisputed Attitude (1996-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/a6fe0f2d-2a88-438e-bc55-2e32c576bfa8/9247843471-500.jpg" data-tags="hardcore" role="button">
 Hatebreed - Satisfaction Is the Death of Desire (1997-11-11)
@@ -72,6 +72,9 @@ Killswitch Engage - Alive or Just Breathing (2002-05-13)
 <li data-cover="http://coverartarchive.org/release/b877e532-bf36-437d-84df-a1facb14e308/27477356880-500.jpg" data-tags="metalcore" role="button">
 Atreyu - Suicide Notes And Butterfly Kisses (2002-06-04)
 </li>
+<li data-cover="https://img.discogs.com/DuZxiqzLd09K9H3hMhebldCqm9M=/fit-in/300x256/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-464307-1117349454.jpg.jpg" data-tags="post-hardcore" role="button">
+Glassjaw - Worship and Tribute (2002-07-09)
+</li>
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Alexisonfire - Alexisonfire (2002-10-29)
 </li>
@@ -83,6 +86,9 @@ Comeback Kid - Turn It Around (2003-03-04)
 </li>
 <li data-cover="https://img.discogs.com/54PHju_pBRbaDAAbP344C-jYO0Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383394-1108500259.jpg.jpg" data-tags="punk, punk rock, melodic hardcore" role="button">
 Rise Against - Revolutions Per Minute (2003-04-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/be477226-1f7e-4bd5-89d6-09232bad1427/944238133-500.jpg" data-tags="metalcore" role="button">
+As I Lay Dying - Frail Words Collapse (2003-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/290d2027-935a-4650-b41e-03716559c364/4441324397-500.jpg" data-tags="metalcore, hardcore" role="button">
 Every Time I Die - Hot Damn! (2003-07-01)
@@ -119,6 +125,9 @@ Rise Against - Siren Song of the Counter Culture (2004-08-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, groove metal, metal, thrash metal" role="button">
 Lamb of God - Ashes Of The Wake (2004-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/dc15df1e-9d7d-4f41-9314-9d14d8403d2a/26506588067-500.jpg" data-tags="hardcore, metalcore" role="button">
+Fear Before The March Of Flames - Art Damage (2004-09-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3f3dd24-798c-4d2e-8f34-7e97d3ced433/7264557525-500.jpg" data-tags="hardcore, metalcore, mathcore" role="button">
 Converge - You Fail Me (2004-09-15)
@@ -177,9 +186,6 @@ Ignite - Our Darkest Days (2006-05-15)
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
-Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - The Sufferer & the Witness (2006-07-03)
 </li>
@@ -219,9 +225,6 @@ Maylene and the Sons of Disaster - II (2007-03-20)
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
-blessthefall - His Last Walk (2007-04-10)
-</li>
 <li data-cover="https://img.discogs.com/IhR16Kk9wq_3d_gCYMgDCzqWb0M=/fit-in/385x385/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1834988-1273459962.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 Evergreen Terrace - Wolfbiker (2007-07-20)
 </li>
@@ -258,17 +261,11 @@ Bring Me the Horizon - Suicide Season (2008-09-29)
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/4e3d673e-8409-4514-9a89-5b81fd62dbeb/15138422971-500.jpg" data-tags="hardcore" role="button">
-In Fear and Faith - Your World on Fire (2009-01-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/41b4c3be-b228-4abc-a79c-5f2fd31169b4/20002393726-500.jpg" data-tags="metalcore, mathcore" role="button">
 Architects - Hollow Crown (2009-01-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
-Motionless in White - When Love Met Destruction (2009-02-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
@@ -291,9 +288,6 @@ The Ghost Inside - Returners (2010-06-08)
 <li data-cover="http://coverartarchive.org/release/37e4a79b-723f-4501-94aa-775c609b7fdf/20586680208-500.jpg" data-tags="hard rock, heavy metal" role="button">
 Avenged Sevenfold - Nightmare (2010-07-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/67eec991-c21c-452b-b4c9-49f7df5699ba/15585755840-500.jpg" data-tags="metalcore, post-hardcore" role="button">
-The Word Alive - Deceiver (2010-08-31)
-</li>
 <li data-cover="http://coverartarchive.org/release/cdcee761-d794-45ee-90bb-a21f51b66bf6/11691630679-500.jpg" data-tags="hardcore" role="button">
 Your Demise - The Kids We Used To Be... (2010-09-20)
 </li>
@@ -302,6 +296,9 @@ Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heav
 </li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - What Separates Me from You (2010-11-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/d5a7b21a-2ebc-4480-953c-88cab7f7e062/15294264800-500.jpg" data-tags="metalcore" role="button">
+Emmure - Speaker of the Dead (2011-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b7be6b5-5c0f-40f0-8db2-140d0ee635be/4766286256-500.jpg" data-tags="hardcore" role="button">
 Defeater - Empty Days & Sleepless Nights (2011-03-08)
@@ -320,5 +317,8 @@ Parkway Drive - Atlas (2012-10-26)
 </li>
 <li data-cover="https://img.discogs.com/ubHn7ClFjGnk_nTI9-Wy0mq1nsQ=/fit-in/340x340/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4315336-1361533440-8997.jpeg.jpg" data-tags="hardcore, black metal, black n roll" role="button">
 Kvelertak - Meir (2013-03-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
+Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:37:01.503Z
+date: 2021-04-13T04:15:01.752Z
 title: "stoner metal: 100 albums you must listen to before you die"
 ---
 ![High on Fire - Death Is This Communion (2007-09-18)](http://coverartarchive.org/release/8fffbe1c-8210-4042-ae95-9c3251bef3c2/20361901512-500.jpg "High on Fire - Death Is This Communion (2007-09-18)")
@@ -9,7 +9,7 @@ title: "stoner metal: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/8fffbe1c-8210-4042-ae95-9c3251bef3c2/20361901512-500.jpg" data-tags="stoner metal" role="button">High on Fire - Death Is This Communion (2007-09-18)</li>
 <li data-cover="http://coverartarchive.org/release/c70dd03b-6166-44c5-8615-3e54b154ea70/3081389429-500.jpg" data-tags="stoner metal" role="button">The Sword - Gods of the Earth (2008-03-31)</li>
 <li data-cover="http://coverartarchive.org/release/4d62e8fb-5371-33b0-aac7-c5ab0d956329/11089715437-500.jpg" data-tags="stoner rock, psychedelic, stoner metal" role="button">Om - God Is Good (2009-09-29)</li>
-<li data-cover="http://coverartarchive.org/release/136a1b24-5689-4d63-a208-04a3678a1c4a/15539630355-500.jpg" data-tags="stoner metal" role="button">The Sword - Warp Riders (2010-08-23)</li>
+<li data-cover="http://coverartarchive.org/release/ab6ed3dc-9e9c-49f6-b07f-5779e2b8833d/8770829070-500.jpg" data-tags="stoner metal" role="button">High on Fire - Snakes for the Divine (2010-02-23)</li>
 <li data-cover="http://coverartarchive.org/release/05188f1d-652b-49d0-afb8-7b1d356c6b77/6036245193-500.jpg" data-tags="stoner metal, sludge, sludge metal" role="button">Kylesa - Spiral Shadow (2010-10-25)</li>
 <li data-cover="http://coverartarchive.org/release/a7a943ec-37ee-46dd-b419-1a122faca975/3753046833-500.jpg" data-tags="doom metal, stoner metal" role="button">Electric Wizard - Black Masses (2010-11-01)</li>
 <li data-cover="http://coverartarchive.org/release/4c3e36e8-fb54-4d09-8a26-a195d03fb61b/15732409922-500.jpg" data-tags="stoner metal" role="button">Elder - Dead Roots Stirring (2011-01-01)</li>
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/67d450b3-9f16-43e7-a819-019e6e54e074/12107471021-500.jpg" data-tags="doom metal, grunge, sludge" role="button">
 Melvins - Bullhead (1991)
+</li>
+<li data-cover="https://img.discogs.com/Q2rq_XlwSX_VPHleZ5J4BJilcyg=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-565195-1132346436.jpeg.jpg" data-tags="stoner rock" role="button">
+Monster Magnet - Spine of God (1991-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c377a32e-5998-4316-b566-a33979d8053b/2149267241-500.jpg" data-tags="metal, stoner rock, stoner metal, hardcore punk, american metal, clutch, passive restraints" role="button">
 Clutch - Passive Restraints (1992)
@@ -45,8 +48,8 @@ Acid King - Zoroaster (1995)
 <li data-cover="http://coverartarchive.org/release/5bcc44c8-ac6e-4f54-a0ff-98897d26a934/3003155696-500.jpg" data-tags="stoner rock" role="button">
 Monster Magnet - Dopes to Infinity (1995-02-06)
 </li>
-<li data-cover="https://img.discogs.com/Zqy0iud98Vj46YzHpmLQ6iGkm1Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667228-1145379565.jpeg.jpg" data-tags="stoner rock" role="button">
-Slo Burn - Amusing the Amazing (1996)
+<li data-cover="https://img.discogs.com/NF1Av-gjTTdMYEU73RdJH-u0_PE=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16150803-1604299125-5521.jpeg.jpg" data-tags="drone" role="button">
+Earth - Phase 3: Thrones and Dominions (1995-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac665057-4edf-4e12-9157-aa57abdc32c7/6513527640-500.jpg" data-tags="stoner rock, heavy metal" role="button">
 Corrosion of Conformity - Wiseblood (1996)
@@ -65,6 +68,9 @@ Sheavy - The Electric Sleep (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/b55114c5-e463-35cb-b86d-da284aefede5/24919222054-500.jpg" data-tags="hard rock, stoner rock, stoner metal" role="button">
 Monster Magnet - Powertrip (1998-06-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/81f531fd-566b-4bf8-8fb3-a9c4ede03eea/21753887021-500.jpg" data-tags="stoner metal" role="button">
+Alabama Thunderpussy - Rise Again (1998-06-28)
 </li>
 <li data-cover="https://img.discogs.com/YcLJXGY0aOv7YZPgKWOtcRfIp8w=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2445526-1478987766-2016.jpeg.jpg" data-tags="heavy metal" role="button">
 Black Label Society - Sonic Brew (1998-10-28)
@@ -87,6 +93,9 @@ Kyuss - Muchas Gracias: The Best of Kyuss (2000)
 <li data-cover="http://coverartarchive.org/release/d404caa5-68ee-43fb-b9c1-ea3bca515eca/2232695588-500.jpg" data-tags="heavy metal" role="button">
 Black Label Society - Stronger Than Death (2000-03-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/aa55c189-1b39-4aeb-aca4-ec067beb6d5b/19955743334-500.jpg" data-tags="stoner rock, doom metal, stoner metal, traditional doom metal, rise above records, celestial hi-fi" role="button">
+Sheavy - Celestial Hi-Fi (2000-03-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/9e562937-1e92-37ae-8ac6-4591c54cfc5e/9744471681-500.jpg" data-tags="stoner rock, stoner metal" role="button">
 Orange Goblin - The Big Black (2000-05-16)
 </li>
@@ -98,9 +107,6 @@ Clutch - Pure Rock Fury (2001-03-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1ed1abbf-249d-4acd-b82d-be8276e1668b/15485201844-500.jpg" data-tags="stoner metal, southern metal" role="button">
 Alabama Thunderpussy - Staring At The Divine (2001-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/79a14e6b-aa4e-4a98-87e8-271805a7ef3d/19902690179-500.jpg" data-tags="stoner rock, instrumental" role="button">
-Karma to Burn - Almost Heathen (2001-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/149f46f6-2f87-409d-bb60-8fcc2689b7c6/18298518749-500.jpg" data-tags="doom metal, stoner metal, stoner doom" role="button">
 Electric Wizard - Let Us Prey (2002)
@@ -123,9 +129,6 @@ Electric Wizard - We Live (2004)
 <li data-cover="http://coverartarchive.org/release/bfed2f95-47b9-300d-b203-8a33e0f0f254/21569978308-500.jpg" data-tags="hard rock" role="button">
 Monster Magnet - Monolithic Baby! (2004-02-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/84229083-dcf9-45e3-921c-37fbd156acd2/24613696838-500.jpg" data-tags="doom metal, stoner rock" role="button">
-Witchcraft - Witchcraft (2004-03-08)
-</li>
 <li data-cover="http://coverartarchive.org/release/ab4639dd-6ad2-446c-8582-f643c5c2e7db/13036032474-500.jpg" data-tags="stoner rock, psychedelic" role="button">
 Earthless - Sonic Prayer (2005-04-26)
 </li>
@@ -137,9 +140,6 @@ Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 </li>
 <li data-cover="https://img.discogs.com/wXoqA52tWBq76bmvNsk4B9fUJGk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1119958-1193596414.jpeg.jpg" data-tags="doom metal, stoner metal" role="button">
 YOB - The Unreal Never Lived (2005-09-05)
-</li>
-<li data-cover="https://img.discogs.com/i7XmleItyicPAsbWjJiLtdInoMc=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5097047-1384387947-5814.jpeg.jpg" data-tags="rockabilly, heavy metal, volbeat" role="button">
-Volbeat - The Strength/The Sound/The Songs (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bf552d5-42b1-4017-b899-b70aabcf8650/19939103639-500.jpg" data-tags="rock, hard rock, stoner rock, live, stoner metal, live album, awesome metal" role="button">
 The Atomic Bitchwax - Boxriff (2006)
@@ -204,6 +204,9 @@ Mastodon - Crack the Skye (2009-02-23)
 <li data-cover="https://img.discogs.com/zPztsibNMG0_1WI-qrSwMurPO1c=/fit-in/600x615/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1856423-1589318076-9272.jpeg.jpg" data-tags="sludge metal" role="button">
 Kylesa - Static Tensions (2009-03-17)
 </li>
+<li data-cover="https://img.discogs.com/nuC2MvddDRsg0T-OnX6715GmGdg=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1762377-1241725124.jpeg.jpg" data-tags="doom metal" role="button">
+Black Math Horseman - Wyllt (2009-04-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/6ed892aa-f0a4-4443-b08a-f152be5e4aa0/2069980640-500.jpg" data-tags="doom metal, stoner metal" role="button">
 Church of Misery - Houses of the Unholy (2009-04-22)
 </li>
@@ -231,8 +234,8 @@ Bison B.C. - Dark Ages (2010-04-13)
 <li data-cover="http://coverartarchive.org/release/595b9588-f969-401b-b7ff-0d454e051616/3646610364-500.jpg" data-tags="black metal, black n roll" role="button">
 Kvelertak - Kvelertak (2010-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/136a1b24-5689-4d63-a208-04a3678a1c4a/15539630355-500.jpg" data-tags="stoner metal" role="button">
-The Sword - Warp Riders (2010-08-23)
+<li data-cover="https://img.discogs.com/nhn6hUCkG2XjPxnZf_iHZdmMqmU=/fit-in/535x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3400290-1361568360-9303.jpeg.jpg" data-tags="southern metal, heavy metal" role="button">
+Black Label Society - Order Of The Black (2010-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/c22caef3-c7e3-49e9-91c6-1452e4a44851/8172426331-500.jpg" data-tags="stoner metal" role="button">
 Stoned Jesus - First Communion (2010-08-30)
@@ -297,8 +300,8 @@ Jex Thoth - Blood Moon Rise (2013-06-15)
 <li data-cover="http://coverartarchive.org/release/104a8fd3-b0e5-4e9c-a058-46469fdf916d/5432527978-500.jpg" data-tags="stoner metal" role="button">
 Red Fang - Whales and Leeches (2013-10-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/0982a7ba-812d-4dd8-9c9f-fbf70841e1b5/7360844668-500.jpg" data-tags="rock, psychedelic rock" role="button">
-All Them Witches - Lightning At The Door (2013-11-05)
+<li data-cover="http://coverartarchive.org/release/e1c6c762-ddc6-4207-a5ba-a8c149c47697/7558944715-500.jpg" data-tags="stoner rock" role="button">
+Mustasch - Thank You for the Demon (2014-01-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="stoner metal" role="button">
 Dopelord - Black Arts, Riff Worship & Weed Cult (2014-04-04)
@@ -314,9 +317,6 @@ Mastodon - Once More 'Round the Sun (2014-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c5cbd73-220d-444d-8e13-ae5895998952/8126737670-500.jpg" data-tags="stoner metal" role="button">
 Karma to Burn - Arch Stanton (2014-08-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ddecc40-0a49-4651-93f9-37f56039c717/26273077269-500.jpg" data-tags="drone, stoner rock, psychedelic" role="button">
-Earth - Primitive and Deadly (2014-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/dc4d11a1-282c-4334-b5f1-f2c17e7aa7b2/8517348427-500.jpg" data-tags="stoner metal" role="button">
 Orange Goblin - Back from the Abyss (2014-10-06)

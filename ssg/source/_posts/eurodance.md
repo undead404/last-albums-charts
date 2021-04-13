@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:56:01.418Z
+date: 2021-04-13T04:29:23.852Z
 title: "eurodance: 100 albums you must listen to before you die"
 ---
 ![Aqua - Aquarium (1997-05-21)](http://coverartarchive.org/release/6faa4168-52d1-4375-8b67-2b143a370a75/2570451062-500.jpg "Aqua - Aquarium (1997-05-21)")
@@ -165,12 +165,6 @@ Gala - Come Into My Life (1997-11-18)
 <li data-cover="https://img.discogs.com/Nhp9vR2PFEno3Vi-SlDvzsvmw8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-635545-1556575726-3668.jpeg.jpg" data-tags="electronic, pop, british, female vocalists, dance, eurodance" role="button">
 Ann Lee - 2 Times (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/1b63e1da-d2a4-4d66-a925-4b37eefce63a/25880069052-500.jpg" data-tags="u96, dance, techno" role="button">
-U96 - Best U96 (1998)
-</li>
-<li data-cover="http://coverartarchive.org/release/096f5d5a-8ae2-4956-a503-5bf849c8fc80/27411662462-500.jpg" data-tags="racist country, blue da ba dee blue ice pop radio edit" role="button">
-Eiffel 65 - Blue (Da Ba Dee) (1998)
-</li>
 <li data-cover="https://img.discogs.com/fhyZgl7Dw6zBYC-UcCFtGN3ZkH4=/fit-in/560x560/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166300-1418833529-7618.jpeg.jpg" data-tags="dance, 90s, eurodance, hard dance, not techno, teinifiilis, 666 paradox" role="button">
 666 - Paradoxx (1998)
 </li>
@@ -182,6 +176,9 @@ E-Type - Last Man Standing (1998-11-27)
 </li>
 <li data-cover="https://img.discogs.com/r7BoauyxlhBHSHRQGSaKt9ICTy4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467749-1614619800-9578.jpeg.jpg" data-tags="freestyle" role="button">
 Shannon - The Best Is Yet to Come (1999)
+</li>
+<li data-cover="https://img.discogs.com/EbK255yEL3LCFlsP9QOtE3kpYIA=/fit-in/595x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3173387-1378828304-6469.jpeg.jpg" data-tags="pop, 90s, covers" role="button">
+A*Teens - The ABBA Generation (1999-07-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/977fff9d-d6c2-325d-bb96-4bc9facccacd/12429143366-500.jpg" data-tags="trance, dance, breathless" role="button">
 Tina Cousins - Killing Time (1999-07-02)
@@ -239,6 +236,9 @@ Brooklyn Bounce - Loud & Proud (2002-06-17)
 </li>
 <li data-cover="https://img.discogs.com/eEStnMkoTa4WzoaKQfSe0agLRPI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-96571-1604109777-6962.jpeg.jpg" data-tags="eurodance" role="button">
 Lasgo - Pray (2002-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/da4942c1-e469-41e9-869e-621da1bad0ee/11735036632-500.jpg" data-tags="trance, eurodance, sues fave, deek" role="button">
+Culture Beat - Best Of (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/2cf3cff7-c967-49c3-a200-2c27c60cca16/12748504052-500.jpg" data-tags="trance, dance" role="button">
 Novaspace - Supernova (2003-01-06)

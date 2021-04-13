@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T15:16:07.223Z
+date: 2021-04-13T04:21:01.459Z
 title: "funky: 100 albums you must listen to before you die"
 ---
 ![Duck Sauce - Barbra Streisand (2010-09-13)](http://coverartarchive.org/release/8757f5c0-2398-4157-b6c7-954f079794b1/27852846292-500.jpg "Duck Sauce - Barbra Streisand (2010-09-13)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">Jamiroquai - A Funk Odyssey (2001-08-29)</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/87935910-79cc-4b90-bd9f-9c3d2e08176e/8740605245-500.jpg" data-tags="funk, cover, jazz" role="button">Mark Ronson - Version (2007-04-14)</li>
+<li data-cover="http://coverartarchive.org/release/2fbe424a-cf39-4887-954b-9dc3b6665c95/9465629868-500.jpg" data-tags="rnb, trey" role="button">Trey Songz - Trey Day (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/57ecac8c-5207-4943-beff-c6096613cad5/10414860892-500.jpg" data-tags="pop-soul-rnb" role="button">Kelly Rowland - Work (2008-02-26)</li>
 <li data-cover="https://img.discogs.com/98tNSm3zZhZn4UAGlv68_EoCTck=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2057953-1261415919.png.jpg" data-tags="indie, rock, soul, indie rock, american, funky, need to ch-ch-check out" role="button">Generationals - Con Law (2009-07-21)</li>
 <li data-cover="http://coverartarchive.org/release/9a513fa8-3fea-4366-a290-b27c9fc5df19/15199998026-500.jpg" data-tags="soul, alternative, indie rock, funky, eternal love" role="button">Ramona Falls - Intuit (2009-08-18)</li>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/dc689536-49ad-32bd-97ba-975643b46e38/9667967278-500.jpg" data-tags="new orleans, rhythm and blues" role="button">
-Dr. John - In the Right Place (1973-02-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/e11be41a-4c71-44a4-ab7f-0185cac15899/6801939905-500.jpg" data-tags="rock, 60s" role="button">
 Janis Joplin - Best of Janis Joplin (1975)
 </li>
@@ -45,6 +42,9 @@ Edwin Birdsong - Edwin Birdsong (1979)
 <li data-cover="https://via.placeholder.com/450" data-tags="new wave" role="button">
 The B-52's - Cosmic Thing (1989-06-06)
 </li>
+<li data-cover="https://img.discogs.com/enufeQj0nr9h8ZTFtMUxF3GRIWY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2606385-1515988935-3293.jpeg.jpg" data-tags="hip-hop" role="button">
+Cypress Hill - CYPRESS HILL (1991-08-13)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
 </li>
@@ -57,6 +57,9 @@ Color Me Badd - Young, Gifted And Badd (The Remixes) (1992-12-24)
 <li data-cover="https://img.discogs.com/xZwC2Jkr_FDnLqb4L--AHlRNpQw=/fit-in/450x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4595417-1436162339-8307.jpeg.jpg" data-tags="60s, donovan" role="button">
 Donovan - Catch the Wind (1993)
 </li>
+<li data-cover="http://coverartarchive.org/release/84e9071c-cac7-42f6-9043-4ee04d215eea/5609681827-500.jpg" data-tags="rock" role="button">
+311 - Music (1993-02-09)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funky" role="button">
 Freakpower - Drive-Thru Booty (1994-04)
 </li>
@@ -68,6 +71,9 @@ Everclear - Sparkle And Fade (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b14f5b76-0f8c-3b16-b193-1438299abdea/12785839911-500.jpg" data-tags="funk metal" role="button">
 Incubus - Fungus Amongus (1995-11-01)
+</li>
+<li data-cover="https://img.discogs.com/ivb3G3QP1X2uN9Q2nq9p2Q7loK4=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-56279-1225073615.jpeg.jpg" data-tags="funky, groovy" role="button">
+Groove Collective - We The People (1996-03-26)
 </li>
 <li data-cover="https://img.discogs.com/2uDI11IP0s5RCrBjhVSpWunaVe0=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1336628-1488983534-1292.jpeg.jpg" data-tags="hip-hop" role="button">
 OutKast - ATLiens (1996-08-26)
@@ -87,20 +93,17 @@ Earth, Wind & Fire - Greatest Hits (1998-11-17)
 <li data-cover="https://img.discogs.com/JnsXDOGjQMxGMtrrZ92e094AK3c=/fit-in/320x213/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4611146-1413216205-4588.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk, funky, groovy, jamiroquai, jecks, r00ts, nice2have" role="button">
 Jamiroquai - Canned Heat (1999-05-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/87981701-cc00-3c5c-af07-00050c115435/24559007750-500.jpg" data-tags="hip-hop, funk, underground hip-hop, funk-hop" role="button">
-Blackalicious - A2G EP (1999-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/90f9c9d8-a4f9-4976-ba90-8620e9bd7696/19759823405-500.jpg" data-tags="rnb" role="button">
 Mary J. Blige - Family Affair (2000)
 </li>
 <li data-cover="https://img.discogs.com/990QvNo7eWnAzNhZ9wsWa9gDlf0=/fit-in/532x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6846409-1427854450-6351.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, groovy, funk rock, rap metal, jecks" role="button">
 O'Funk'illo - O'Funk'Illo (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/6f40287c-4d52-4a0c-b72a-ad90e4f2800b/20197568708-500.jpg" data-tags="soul, funky" role="button">
+Monkey Business - Why Be In When You Could Be Out (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/13ab517d-ed66-497a-a96d-634edd1c36ef/15191888314-500.jpg" data-tags="southern rock, classic rock" role="button">
 Lynyrd Skynyrd - All Time Greatest Hits (2000-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/b51f5f5a-0cf0-4bb2-b073-a0dabcc69bc4/10684704573-500.jpg" data-tags="alternative rock, progressive rock" role="button">
-A Perfect Circle - Judith (2000-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c120781-cf3c-47f0-88e3-7f20a05cf999/3671158198-500.jpg" data-tags="jazz, pop, rock, soul, instrumental, hard rock, acoustic, motown, funk, funky, groovy, jecks" role="button">
 Mr. Big - Actual Size (2001-08-08)
@@ -129,20 +132,20 @@ Electric Six - Fire (2003-05-20)
 <li data-cover="http://coverartarchive.org/release/85ffc0b7-1878-3ccb-9270-1d2f2d1595b3/24919226700-500.jpg" data-tags="rock" role="button">
 Jane's Addiction - Strays (2003-07-21)
 </li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/a5ad949c-a2c5-35d0-86c8-7a54cde44ba1/15258576861-500.jpg" data-tags="funk, neo-soul, funky" role="button">
-Amp Fiddler - Waltz Of A Ghetto Fly (2004-01-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
 </li>
 <li data-cover="https://img.discogs.com/5VBJ9gmffjk2S3Z34CO33665zKM=/fit-in/542x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-586081-1288170438.jpeg.jpg" data-tags="00s" role="button">
 Belle and Sebastian - Books (2004-04-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="funky, brazilian house, pld 007, pooledmusic" role="button">
+Ian Pooley - Souvenirs (2004-06)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="soul, funky" role="button">
 Nostalgia 77 - Seven Nation Army EP (2004-08-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/7eba290f-8d1d-4049-a730-fa8d0a8cf700/3814744146-500.jpg" data-tags="funky, fun" role="button">
+Greenskeepers - Pleetch (2004-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/5ba8de57-341d-4b8a-85de-c4ab8acf2620/15344356489-500.jpg" data-tags="soul, funky, labels - esl music" role="button">
 Chris Joss - You've Been Spiked (2004-10-05)
@@ -164,6 +167,9 @@ Fat Freddy's Drop - Based on a True Story (2005-05)
 </li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/f5e76ae6-1a5a-3eb9-8e0a-3e7588e16496/4812030096-500.jpg" data-tags="dub, ska, indie rock" role="button">
+The Dead 60s - The Dead 60s (2005-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/2659751f-9da5-4425-b070-457d8cf16567/6169026137-500.jpg" data-tags="pop, singer-songwriter" role="button">
 Jason Mraz - Mr. A-Z (2005-07-26)
@@ -273,9 +279,6 @@ Duck Sauce - Barbra Streisand (2010-09-13)
 <li data-cover="https://img.discogs.com/4sJ6SVYCfJ7DnGKLNrUN3vvIINE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2523213-1476638969-6988.jpeg.jpg" data-tags="pop, maroon 5" role="button">
 Maroon 5 - Hands All Over (2010-09-15)
 </li>
-<li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
-Anika - Anika (2010-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">
 Toro y Moi - Underneath the Pine (2011-02-21)
 </li>
@@ -297,9 +300,6 @@ The Roots - Undun (2011-12-05)
 <li data-cover="http://coverartarchive.org/release/051df6e9-2ffd-4d6c-85d8-bac27b0dd711/2932845844-500.jpg" data-tags="electronic, soul, alternative, experimental, funk, funky, must have" role="button">
 Łąki Łan - Armanda (2012-11-13)
 </li>
-<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
-The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
-</li>
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)
 </li>
@@ -318,7 +318,7 @@ Todd Terje - It's Album Time (2014-04-07)
 <li data-cover="http://coverartarchive.org/release/527c41b5-78a5-4975-989e-38416f9c976b/7041430564-500.jpg" data-tags="disco, dance, house, funky, disco house" role="button">
 Duck Sauce - Quack (2014-04-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/04ea8e96-ef0e-441c-9594-7128addc3951/10315151525-500.jpg" data-tags="funk, pop" role="button">
-Mark Ronson - Uptown Special (2015-01-12)
+<li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
+Kelis - Food (2014-04-17)
 </li>
 </ol>

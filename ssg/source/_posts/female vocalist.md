@@ -1,12 +1,12 @@
 ---
-date: 2021-04-12T21:45:07.450Z
+date: 2021-04-13T04:25:01.479Z
 title: "female vocalist: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">Destiny's Child - Survivor (2001-04-25)</li>
+<li data-cover="http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg" data-tags="pop rock" role="button">Avril Lavigne - Let Go (2002-06-04)</li>
 <li data-cover="http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg" data-tags="rock" role="button">Evanescence - Fallen (2003-03-04)</li>
-<li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">Rachael Yamagata - Happenstance (2004-06-08)</li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">Flyleaf - Flyleaf (2004-10-26)</li>
 <li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">Sara Bareilles - Little Voice (2007-07-03)</li>
@@ -27,6 +27,9 @@ Bonnie Tyler - Secret Dreams And Forbidden Fire (1986)
 <li data-cover="https://img.discogs.com/zSfF7pNlzLGUjMKQf-xI3r6_VjM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12912700-1544380800-4482.jpeg.jpg" data-tags="80s" role="button">
 Whitney Houston - Whitney (1987-06-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/e4d95059-df27-42bd-ac8f-7c5bf82e6aca/13886547423-500.jpg" data-tags="tina turner" role="button">
+Tina Turner - What's Love Got To Do With It (1993)
+</li>
 <li data-cover="http://coverartarchive.org/release/3945b500-1e03-3060-89a2-82b0938d8397/23040661690-500.jpg" data-tags="electronic, alternative" role="button">
 Björk - Debut (1993-07-12)
 </li>
@@ -36,9 +39,6 @@ Tori Amos - Under the Pink (1994-01-28)
 <li data-cover="https://img.discogs.com/5_ByL8XMido7M7zA6tfDC7q248s=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15895402-1601066012-3348.jpeg.jpg" data-tags="90s, alternative, female vocalists" role="button">
 PJ Harvey - To Bring You My Love (1995-02-22)
 </li>
-<li data-cover="https://img.discogs.com/BtszspByQCZTXl0NJT69C_iwdr0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1916821-1252274130.jpeg.jpg" data-tags="celine dion, pop" role="button">
-Céline Dion - Falling Into You (1996-03-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/e427c52c-60f4-3df4-9493-2df0734d85aa/3198645256-500.jpg" data-tags="female vocalists" role="button">
 Sarah McLachlan - Surfacing (1997-07-15)
 </li>
@@ -47,9 +47,6 @@ Björk - Homogenic (1997-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0caa32f8-85be-339f-ade9-d2ce32a6a1f7/5995318726-500.jpg" data-tags="90s, rock, alternative" role="button">
 Garbage - Version 2.0 (1998-05-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/63b3a8ca-26f2-4e2b-b867-647a6ec2bebd/11266341757-500.jpg" data-tags="pop, 90s, dance" role="button">
-Cher - Believe (1998-10-12)
 </li>
 <li data-cover="https://img.discogs.com/l0wbihb5wLkJC_KxHsCqaxt2LJg=/fit-in/379x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8631723-1465535299-2613.jpeg.jpg" data-tags="rock, alternative, 90s" role="button">
 Alanis Morissette - Supposed Former Infatuation Junkie (1998-11-02)
@@ -69,14 +66,17 @@ La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
 <li data-cover="http://coverartarchive.org/release/5e6656e2-26f5-42f9-ba42-89a72ff30859/17580232132-500.jpg" data-tags="pop" role="button">
 All Saints - Saints & Sinners (2000-10-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/1316d4a0-8a82-477d-a10e-4b4f36f5c10f/9398006891-500.jpg" data-tags="pop, soul, american, rnb, female vocalist, 00s, 2000s, girl band, girl groups, good cd, mall madness, man he da truth, cds i own and have yet to hear" role="button">
+3LW - 3LW (2000-11-14)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Destiny's Child - Survivor (2001-04-25)
 </li>
 <li data-cover="https://img.discogs.com/Y4Kwv65_HuZl71dja0wCaXKmXCg=/fit-in/300x297/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-540412-1129236660.jpeg.jpg" data-tags="rock, punk, swedish, power pop, garage rock" role="button">
 Sahara Hotnights - Jennie Bomb (2001-05-28)
 </li>
-<li data-cover="https://img.discogs.com/3CK529HiIwzc3kNoo8mCsUeO140=/fit-in/600x547/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7268457-1437683277-8109.jpeg.jpg" data-tags="pop" role="button">
-Geri Halliwell - Scream If You Wanna Go Faster (2001-07-30)
+<li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
+Alicia Keys - Songs in A Minor (2001-06-05)
 </li>
 <li data-cover="https://img.discogs.com/2Q7yBavtKprmJuGM2-2N9VSLyow=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4010103-1372561683-8385.jpeg.jpg" data-tags="rnb, female vocalists" role="button">
 Mary J. Blige - No More Drama (2001-08-18)
@@ -84,8 +84,8 @@ Mary J. Blige - No More Drama (2001-08-18)
 <li data-cover="http://coverartarchive.org/release/6217e136-71e2-3c8e-b4f5-57d264fa0773/2133435434-500.jpg" data-tags="shakira, pop, latin" role="button">
 Shakira - Laundry Service (2001-11-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
-Regina Spektor - Songs (2002)
+<li data-cover="http://coverartarchive.org/release/0de8efff-e99a-410e-9062-71fd6a63c3f1/8569046324-500.jpg" data-tags="rock, pop, ska" role="button">
+No Doubt - Rock Steady (2001-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">
 Norah Jones - Come Away with Me (2002-02-26)
@@ -126,23 +126,17 @@ Katie Melua - Call Off the Search (2003-11-03)
 <li data-cover="http://coverartarchive.org/release/94982128-51c8-3a44-b77c-ec78be7d8e5f/20542671034-500.jpg" data-tags="sarah mclachlan" role="button">
 Sarah McLachlan - Afterglow (2003-11-04)
 </li>
+<li data-cover="https://img.discogs.com/Jq2g9ZdIQ4wqqx8YNhCBD_iy2hc=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320079-1425553276-4556.jpeg.jpg" data-tags="pop, rock, female vocalists, scottish, oldies, female vocalist, femmina, femmine, donne, uk invasion, donna, bella topolina, gnocca, voce femminile, occhi a cuoricino, voci femminili, kt tunstall - because i said so, k tunstall" role="button">
+KT Tunstall - Black Horse And The Cherry Tree (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/d382c28a-b0eb-4b96-af83-a43c22708964/15534816604-500.jpg" data-tags="rock" role="button">
 Auf Der Maur - Auf Der Maur (2004-01-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
-Jem - Finally Woken (2004-03-23)
-</li>
-<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
-Alanis Morissette - So-Called Chaos (2004-04-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
-Rachael Yamagata - Happenstance (2004-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
-Regina Spektor - Soviet Kitsch (2004-08-17)
-</li>
 <li data-cover="https://img.discogs.com/qkvDofuDAKamlVevQ6NpGVxtJCY=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567304-1132414198.jpeg.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - Unwritten (2004-09-06)
+</li>
+<li data-cover="https://img.discogs.com/vQxPQaHOPKN1O9XjiqUCUz5peIs=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-528700-1133487383.jpeg.jpg" data-tags="alternative rock, female vocalist" role="button">
+Tsunami Bomb - The Definitive Act (2004-09-21)
 </li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
@@ -155,6 +149,9 @@ KT Tunstall - Eye to the Telescope (2004-12-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0d6c31f-8f9f-47fe-b5f5-3b96746b48fa/2774682576-500.jpg" data-tags="jazz, female vocalists, katie melua" role="button">
 Katie Melua - Piece by Piece (2005-09-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/a33b9822-9f09-4e19-9d6e-e05af85c727b/5228564975-500.jpg" data-tags="country" role="button">
+Carrie Underwood - Some Hearts (2005-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8cdee963-2bcb-34dd-b682-5d5dc80dbea3/2519957819-500.jpg" data-tags="jazz, female vocalists" role="button">
 Norah Jones - Not Too Late (2006)
@@ -207,14 +204,17 @@ Elsiane - Hybrid (2007-04-07)
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
 </li>
-<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
-Kate Nash - Made of Bricks (2007-08-06)
-</li>
 <li data-cover="https://img.discogs.com/Ac6KrOzJLeBWuioFwn1OsSnLvgM=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1236134-1341822714-7399.jpeg.jpg" data-tags="pop, rock, folk" role="button">
 KT Tunstall - Drastic Fantastic (2007-09-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/6c0b8efa-8e4e-4960-af8d-23c9a15e2b5d/28669059525-500.jpg" data-tags="lounge, house" role="button">
+Samantha James - Rise (2007-09-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/3bc43105-9f72-4fe8-8eb8-ff089c0fc8af/21663830337-500.jpg" data-tags="pop" role="button">
 Sugababes - Change (2007-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ae35324-42a2-4cd8-880e-9d810ef964b2/6121102106-500.jpg" data-tags="country" role="button">
+Carrie Underwood - Carnival Ride (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b86285db-3459-37e8-a190-493ac9b7954f/21075550304-500.jpg" data-tags="pop, rnb" role="button">
 Jordin Sparks - Jordin Sparks (2007-10-29)
@@ -246,12 +246,6 @@ She & Him - Volume One (2008-03-18)
 <li data-cover="http://coverartarchive.org/release/329a367e-7a4a-4089-b51f-f4c97c680cc6/12776821602-500.jpg" data-tags="country, female vocalist, jewel" role="button">
 Jewel - Perfectly Clear (2008-06-03)
 </li>
-<li data-cover="https://img.discogs.com/Mj-VniH_KORzVNWCsLnQ3Oqouk0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1479106-1222759285.jpeg.jpg" data-tags="pop" role="button">
-Lenka - Lenka (2008-06-28)
-</li>
-<li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
-Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
-</li>
 <li data-cover="https://img.discogs.com/iMr4EtTmLjmeBSFTYJ31dNqmXdI=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2716560-1417511195-4062.jpeg.jpg" data-tags="female vocalists, female vocalist" role="button">
 Sara Bareilles - Between The Lines: Sara Bareilles Live At The Fillmore (2008-10-28)
 </li>
@@ -275,6 +269,9 @@ Zaz - Je Veux (2010-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
+</li>
+<li data-cover="https://img.discogs.com/LMUnSMR1Ulib07tuoBJCHqTETDI=/fit-in/336x336/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220537-1270625362.jpeg.jpg" data-tags="lo-fi" role="button">
+Dum Dum Girls - I Will Be (2010-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a29ce30f-9b97-347f-89cf-eeec57174ac0/5227604030-500.jpg" data-tags="freak folk" role="button">
 CocoRosie - Grey Oceans (2010-04-30)
@@ -314,6 +311,9 @@ Attila - About That Life (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">
 Agnes Obel - Aventine (2013-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8e3ca07-71c4-4c15-8675-c49543813138/5643082410-500.jpg" data-tags="pop" role="button">
+Céline Dion - Loved Me Back to Life (2013-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fcf13fb9-6887-42e1-9b80-fd2e8446dff2/15541280931-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - War Eternal (2014-06-04)

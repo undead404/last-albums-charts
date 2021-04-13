@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:55:01.475Z
+date: 2021-04-13T04:40:07.056Z
 title: "idm: 100 albums you must listen to before you die"
 ---
 ![Boards of Canada - The Campfire Headphase (2005-10-12)](http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg "Boards of Canada - The Campfire Headphase (2005-10-12)")
@@ -11,8 +11,8 @@ title: "idm: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">Boards of Canada - The Campfire Headphase (2005-10-12)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="idm, electronica" role="button">Apparat - Walls (2007-05)</li>
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">Aphex Twin - Windowlicker (2010)</li>
-<li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">Four Tet - There Is Love in You (2010-01-25)</li>
 <li data-cover="http://coverartarchive.org/release/5c545925-f48c-3d5b-b448-23a25f9ec048/5554295701-500.jpg" data-tags="electronic, experimental, alternative" role="button">Radiohead - The King of Limbs (2011-02-18)</li>
+<li data-cover="http://coverartarchive.org/release/6bc86b31-424a-48bc-8156-4d9656bb5f30/2751813457-500.jpg" data-tags="electronic, indie, idm, glitch, glitch mob" role="button">The Glitch Mob - We Can Make The World Stop - EP (2011-07-12)</li>
 <li data-cover="http://coverartarchive.org/release/3a039fd3-634f-4691-bf0d-091d852d272a/8119962414-500.jpg" data-tags="idm" role="button">Aphex Twin - Syro (2014-09-19)</li>
 </ol>
 List of 100 - under the cut.
@@ -59,6 +59,9 @@ Aphex Twin - Richard D. James Album (1996-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/e382e9a2-8637-4781-a29b-3dac5c991899/3760547066-500.jpg" data-tags="idm" role="button">
 Autechre - Chiastic Slide (1997-02-17)
+</li>
+<li data-cover="https://img.discogs.com/Eht8j7YitQMMMVTxYYF8b_cSrOY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-92206-1297738014.jpeg.jpg" data-tags="ambient, downtempo, electronic" role="button">
+Banco De Gaia - Big Men Cry (1997-07-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/32ad4a8c-cd44-3637-ac39-3479d7be8fb2/19702223299-500.jpg" data-tags="electronic, idm" role="button">
 Aphex Twin - Come to Daddy (1997-10-16)
@@ -138,6 +141,9 @@ Autechre - Untilted (2005-04-09)
 <li data-cover="http://coverartarchive.org/release/fe6ce1a1-a9d5-48b3-bc9d-4cd557954a33/11141493728-500.jpg" data-tags="ambient" role="button">
 Secede - Tryshasla (2005-06-05)
 </li>
+<li data-cover="https://img.discogs.com/n6RxQIreY_P_N3D2pi38CmQNLmU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15454907-1591804356-3077.jpeg.jpg" data-tags="warp, idm, glitch" role="button">
+Jackson and His Computer Band - Smash (2005-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/46448c2f-dbf1-49eb-a07a-ab9cb8d4ad4f/9818690351-500.jpg" data-tags="ambient, electronic" role="button">
 Boards of Canada - The Campfire Headphase (2005-10-12)
 </li>
@@ -204,9 +210,6 @@ Aphex Twin - Windowlicker (2010)
 <li data-cover="http://coverartarchive.org/release/47f2833f-f125-4a8c-8a10-a3fddf16c2b8/1772748552-500.jpg" data-tags="downtempo" role="button">
 Emancipator - safe in the steep cliffs (2010-01-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
-Four Tet - There Is Love in You (2010-01-25)
-</li>
 <li data-cover="https://img.discogs.com/BeOJW2lLMm85jFxab4MCqNwSkfU=/fit-in/600x451/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2192232-1269004584.jpeg.jpg" data-tags="idm" role="button">
 Autechre - Oversteps (2010-02-22)
 </li>
@@ -218,9 +221,6 @@ Mux Mool - Skulltaste (2010-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/76e5d7ce-8051-4bb4-8aac-f248a4834114/18402662166-500.jpg" data-tags="glitch, electronic" role="button">
 The Glitch Mob - Drink the Sea (2010-05-25)
-</li>
-<li data-cover="https://img.discogs.com/QUHpmK4R_P7sftn3KHppBK8vLm8=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300524-1494626974-2948.jpeg.jpg" data-tags="techno" role="button">
-Actress - Splazsh (2010-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f0675eb-31db-4578-9235-6a7e8726d709/2330597280-500.jpg" data-tags="idm" role="button">
 The Flashbulb - Arboreal (2010-06-08)

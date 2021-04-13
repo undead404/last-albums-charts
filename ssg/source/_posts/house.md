@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:40:01.473Z
+date: 2021-04-13T04:06:07.052Z
 title: "house: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -71,9 +71,6 @@ David Guetta - Just A Little More Love (2002-06-10)
 </li>
 <li data-cover="https://img.discogs.com/tpyi9QDYj0tJQNUVlrImxE7K5eM=/fit-in/600x966/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16688886-1609264840-5102.jpeg.jpg" data-tags="trance" role="button">
 Paul Oakenfold - Bunkka (2002-06-18)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/ao8trswytlnbZgZr3dagbE2_lQQ=/fit-in/366x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538745-1129068276.jpeg.jpg" data-tags="electronic, dance" role="button">
 Basement Jaxx - Kish Kash (2003-10-20)
@@ -192,9 +189,6 @@ Basement Jaxx - Scars (2009-09-20)
 <li data-cover="http://coverartarchive.org/release/6d8d4c13-2ab6-41e1-acfb-2a2781ed4c82/6754961716-500.jpg" data-tags="electronic, alternative, dance, house" role="button">
 Example - Kickstarts (2010)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
-Four Tet - There Is Love in You (2010-01-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/75cc7390-a1e9-4609-aa75-5917b353c237/9438908387-500.jpg" data-tags="house, boogie" role="button">
 Yolanda Be Cool & Dcup - We No Speak Americano (2010-02-27)
 </li>
@@ -209,6 +203,9 @@ Kelis - Flesh Tone (2010-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/39d89de6-ac42-4275-bd39-59285df14673/8175969090-500.jpg" data-tags="electronica, house, ash" role="button">
 Adrian Lux - Teenage Crime (2010-06-28)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="pop, rap, dance" role="button">
+Taio Cruz - Dynamite (2010-07-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/469de530-4198-4b4b-8408-66dfe1373212/1425963529-500.jpg" data-tags="dubstep, house, uk garage, katy, katy b, nton" role="button">
 Katy B - Katy On A Mission (2010-08-22)
@@ -260,6 +257,9 @@ Adana Twins - Everyday (2012-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6d363f29-6cea-4255-96bb-72708ac3f1b3/1246080273-500.jpg" data-tags="electronic, electro, dance, house, electro house, pure awesome, absofuckinglutely amazing, madeon, electro-pop-house-whatever" role="button">
 Madeon - Icarus (2012-02-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
+Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/c041d785-6b72-47f2-a8db-79fdb4067b4a/1472209895-500.jpg" data-tags="alternative, rap, hip-house, seapunk" role="button">
 Azealia Banks - Fantasea (2012-07-11)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:41:01.457Z
+date: 2021-04-13T03:52:01.484Z
 title: "post-punk: 100 albums you must listen to before you die"
 ---
 ![Interpol - Our Love to Admire (2007-07-09)](http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg "Interpol - Our Love to Admire (2007-07-09)")
@@ -39,9 +39,6 @@ Magazine - Real Life (1978-07)
 <li data-cover="http://coverartarchive.org/release/a580e5c6-fb3a-4b62-8170-daa13fa1c046/28316388522-500.jpg" data-tags="post-punk" role="button">
 Siouxsie and the Banshees - The Scream (1978-11-13)
 </li>
-<li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
-The Raincoats - The Raincoats (1979)
-</li>
 <li data-cover="http://coverartarchive.org/release/9b62f7ca-2b74-3a22-b76f-c0c184466a3a/7904776862-500.jpg" data-tags="post-punk, new wave" role="button">
 The Cure - Three Imaginary Boys (1979-05-08)
 </li>
@@ -56,12 +53,6 @@ Gang of Four - Entertainment! (1979-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/199e9877-d3b6-4eb4-9ba7-60124b2c3f99/6366122426-500.jpg" data-tags="post-punk" role="button">
 Public Image Ltd. - Metal Box (1979-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/94e18c2c-5aa8-44dc-ad69-5f905831f4fe/12349380353-500.jpg" data-tags="alternative, post-punk, post punk" role="button">
-Blondie - Call Me (1980)
-</li>
-<li data-cover="http://coverartarchive.org/release/d43ec088-ce52-44a9-b58a-a34bd5fe7df6/16629301425-500.jpg" data-tags="post-punk" role="button">
-Young Marble Giants - Colossal Youth (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/710f4e35-a355-45ba-b61f-2a969ff8e870/12483197648-500.jpg" data-tags="post-punk" role="button">
 The Cure - Seventeen Seconds (1980-04-22)
@@ -81,6 +72,9 @@ Talking Heads - Remain in Light (1980-10-08)
 <li data-cover="https://img.discogs.com/2SBGJzgJFV8lrI4NUuon4M9CUf0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9191287-1555343079-6941.jpeg.jpg" data-tags="post-punk, rock, 80s" role="button">
 U2 - Boy (1980-10-20)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="new wave, post-punk" role="button">
+The Psychedelic Furs - Talk Talk Talk (1981-05-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, new wave" role="button">
 Joy Division - Still (1981-10-08)
 </li>
@@ -89,9 +83,6 @@ Mission of Burma - Vs. (1982)
 </li>
 <li data-cover="https://img.discogs.com/GBj_nRxrCZwhdJtghzlS34JAfms=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1015733-1562370755-6922.jpeg.jpg" data-tags="new wave, post-punk" role="button">
 The Psychedelic Furs - Forever Now (1982-09-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/ac145397-4d4e-4f9b-ae94-ebbf2a7cc5a6/23440279381-500.jpg" data-tags="post-punk" role="button">
-Echo & the Bunnymen - Porcupine (1983-02-04)
 </li>
 <li data-cover="https://img.discogs.com/HV3PkcnCqXxcN3RtBp1JG39rK5M=/fit-in/443x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3019834-1407571984-2110.jpeg.jpg" data-tags="rock, 80s" role="button">
 U2 - War (1983-02-28)
@@ -113,6 +104,9 @@ The Jesus and Mary Chain - Psychocandy (1985-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/205952c4-e54f-35a5-a299-5d16e600b23f/10919499939-500.jpg" data-tags="new wave, 80s" role="button">
 Talking Heads - Little Creatures (1985-06-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="post-punk" role="button">
+The Fall - This Nation's Saving Grace (1985-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/830cce8b-4ddd-4d1e-8773-2e896fddf88c/11626984147-500.jpg" data-tags="80s, post-punk" role="button">
 Echo & the Bunnymen - Songs to Learn & Sing (1985-11-15)
@@ -240,6 +234,9 @@ Arctic Monkeys - Humbug (2009-08-19)
 <li data-cover="https://img.discogs.com/ZrzWeONUtVrJz4UzL1bO3auIr7U=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2084980-1423077313-1815.jpeg.jpg" data-tags="synthpop, electronic, post-punk, alternative, post-punk revival" role="button">
 Editors - In This Light and on This Evening (2009-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/cf874fec-82ce-418c-80b3-0ebb63312dc7/11305058117-500.jpg" data-tags="post-punk" role="button">
+Human Tetris - Things I Don't Need (2010)
+</li>
 <li data-cover="http://coverartarchive.org/release/327a5e7a-02d3-3a6b-bc23-7d607d62bb67/9346943191-500.jpg" data-tags="alternative rock, alternative" role="button">
 Black Rebel Motorcycle Club - Beat the Devil's Tattoo (2010-03-08)
 </li>
@@ -311,6 +308,9 @@ Warpaint - Warpaint (2014-01-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/5983b723-c46b-417c-ba5d-dedb5fde9e6b/21907065051-500.jpg" data-tags="post-punk, shoegaze, drone" role="button">
 Have a Nice Life - The Unnatural World (2014-01-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/21e9d6b9-7297-4e5a-a285-cd2dee7cb118/7367242288-500.jpg" data-tags="neo-psychedelia" role="button">
+The Horrors - Luminous (2014-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/3142baf1-e562-4759-9510-be1983e79e8e/7349660598-500.jpg" data-tags="indie rock, post-punk" role="button">
 Parquet Courts - Sunbathing Animal (2014-05-27)

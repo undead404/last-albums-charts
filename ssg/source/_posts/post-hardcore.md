@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:45:01.773Z
+date: 2021-04-13T04:22:01.461Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -72,6 +72,9 @@ Glassjaw - Worship and Tribute (2002-07-09)
 <li data-cover="http://coverartarchive.org/release/ac803e8f-4243-3a3d-91b4-9f9680380bac/6927512878-500.jpg" data-tags="post-hardcore, rock" role="button">
 My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-07-23)
 </li>
+<li data-cover="https://img.discogs.com/2nNN2YKPA2mQxOrx_JG8NEd4wZY=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1283816-1206296351.jpeg.jpg" data-tags="post-hardcore" role="button">
+Sparta - Wiretap Scars (2002-08-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Alexisonfire - Alexisonfire (2002-10-29)
 </li>
@@ -86,6 +89,9 @@ Thrice - The Artist In The Ambulance (2003-07-22)
 </li>
 <li data-cover="https://img.discogs.com/XWsMUgPk_LaCkwEyVYdB9qqUsT8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-830536-1435862452-8830.jpeg.jpg" data-tags="metalcore, hardcore" role="button">
 From Autumn To Ashes - The Fiction We Live (2003-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/e61cbdfc-e830-4aa1-bd58-471a51b05d3f/2517909352-500.jpg" data-tags="punk rock" role="button">
+Billy Talent - Billy Talent (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/af6212bb-3139-3251-9a89-0e510de3ed11/2341635674-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - War All The Time (2003-09-15)
@@ -168,9 +174,6 @@ AFI - Decemberunderground (2006-05-19)
 <li data-cover="http://coverartarchive.org/release/0a23771f-6649-44cf-a85d-6d1ac44cda15/15092932333-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - There's No Sympathy For The Dead (2006-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
-Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
-</li>
 <li data-cover="https://img.discogs.com/FRZ3gNetLCW2_nAvk5ktVtBgHzU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7274424-1575807464-9451.jpeg.jpg" data-tags="punk rock" role="button">
 Billy Talent - Billy Talent II (2006-06-23)
 </li>
@@ -189,9 +192,6 @@ A Skylit Drive - She Watched The Sky (2007-01-23)
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
-blessthefall - His Last Walk (2007-04-10)
-</li>
 <li data-cover="https://img.discogs.com/F0PJpap4eBWr5cbsS72NJ-CgUBo=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1071802-1215843325.jpeg.jpg" data-tags="post-hardcore" role="button">
 The Fall of Troy - Manipulator (2007-05-01)
 </li>
@@ -200,9 +200,6 @@ Emarosa - This Is Your Way Out (2007-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a12d1805-794f-4744-ba79-c9e7dd7ffb5f/12049773567-500.jpg" data-tags="post-hardcore" role="button">
 Before Their Eyes - Before Their Eyes (2007-05-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/c2753149-fc02-4804-a989-b537b7016489/6515469434-500.jpg" data-tags="post-hardcore" role="button">
-Dance Gavin Dance - Downtown Battle Mountain (2007-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
 Circa Survive - On Letting Go (2007-05-29)
@@ -231,23 +228,14 @@ Story of the Year - The Black Swan (2008-04-19)
 <li data-cover="http://coverartarchive.org/release/18bd479d-e0de-4603-b1c3-1217482181c9/15093249429-500.jpg" data-tags="post-hardcore" role="button">
 From First to Last - From First To Last (2008-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/5d9a3787-a6ae-475a-b93e-1c72a18c7018/3330594215-500.jpg" data-tags="post-hardcore" role="button">
-Greeley Estates - Go West Young Man, Let The Evil Go East (2008-05-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/4697991e-b4f2-48f4-bbf3-552ae81ed05d/17979922684-500.jpg" data-tags="post-hardcore" role="button">
 Emarosa - Relativity (2008-07-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
-Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/82d305e4-8d45-4673-9240-1b36da06b1eb/8973784940-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - This War Is Ours (2008-10-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/21e82ff6-5b8d-4638-b78c-825b9a4971d4/15092596957-500.jpg" data-tags="post-hardcore" role="button">
-Attack Attack! - Someday Came Suddenly (2008-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4e48e1b-510f-4671-b51c-ae66fa6adfa7/9206975708-500.jpg" data-tags="post-hardcore" role="button">
 La Dispute - Somewhere at the Bottom of the River Between Vega and Altair (2008-11-11)
@@ -258,11 +246,11 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/42d9fa8b-db09-4dfc-982c-6928471096fb/11692241662-500.jpg" data-tags="post-hardcore" role="button">
 Adept - Another Year of Disaster (2009-02-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/1cb2d444-77c7-39ab-bed7-8546a2481603/7181128313-500.jpg" data-tags="post-hardcore" role="button">
+Silverstein - A Shipwreck in the Sand (2009-03-31)
+</li>
 <li data-cover="https://img.discogs.com/wVvQZsZIbXmB5WoO8KH9wW7fwWQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1828314-1550360653-9051.jpeg.jpg" data-tags="post-hardcore" role="button">
 Alexisonfire - Old Crows / Young Cardinals (2009-06-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cb08444-26c6-48e8-a0a9-b30126895e7e/19429003524-500.jpg" data-tags="post-hardcore" role="button">
-The Word Alive - Empire (2009-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/53e71236-6849-3089-a38b-4b84072fe38b/26299801216-500.jpg" data-tags="post-hardcore, rock, experimental rock" role="button">
 Thrice - Beggars (2009-08-11)
@@ -270,8 +258,8 @@ Thrice - Beggars (2009-08-11)
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/6fa37e34-e402-4620-9786-0d0da6ead881/11173683563-500.jpg" data-tags="post-hardcore" role="button">
-blessthefall - Witness (2009-10-06)
+<li data-cover="http://coverartarchive.org/release/aa69a080-f4bd-44cd-bc3d-513880be9ea5/9465797397-500.jpg" data-tags="alternative rock" role="button">
+Brand New - Daisy (2009-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/11c90d9e-3e34-45d6-817e-13beddc9e827/8461512951-500.jpg" data-tags="emocore, post-hardcore" role="button">
 Alesana - The Emptiness (2010-01-26)
@@ -291,8 +279,14 @@ Escape the Fate - Escape The Fate (2010-11-02)
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - What Separates Me from You (2010-11-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/27f2d3c5-50b6-4a97-a2d1-2da283881fe3/20002674834-500.jpg" data-tags="metalcore" role="button">
+Architects - The Here And Now (2011-01-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/9646d5f9-08c9-43a2-bebf-c80a3b86368f/7273863258-500.jpg" data-tags="post-hardcore" role="button">
 Asking Alexandria - Reckless & Relentless (2011-04-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/6092b1b4-90f3-4f68-9792-fedaae699d01/4943465577-500.jpg" data-tags="post-hardcore" role="button">
+Memphis May Fire - The Hollow (2011-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/143fbcad-b633-4b98-a553-3a54b78d989c/6997936845-500.jpg" data-tags="post-hardcore" role="button">
 Sleeping with Sirens - Let's Cheers to This (2011-05-10)
@@ -320,5 +314,11 @@ Asking Alexandria - From Death To Destiny (2013-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/57428883-05ae-4cf8-b428-da8ee43a16ed/17944451521-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - Common Courtesy (2013-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
+Bring Me the Horizon - Drown (2014-11-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/194e4271-fcb2-4d45-878a-0eceeb215391/8743852867-500.jpg" data-tags="post-hardcore" role="button">
+Enter Shikari - The Mindsweep (2015-01-14)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:58:01.473Z
+date: 2021-04-13T04:18:01.468Z
 title: "trip hop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)](http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg "Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)")
@@ -114,6 +114,9 @@ Archive - Take My Head (1999-04-20)
 <li data-cover="http://coverartarchive.org/release/4086fb2d-8bae-4d8e-9557-30b84f10755f/19988749407-500.jpg" data-tags="indie, pop, female vocalists, singer-songwriter, trip hop" role="button">
 Emilíana Torrini - Love in the Time of Science (1999-10-28)
 </li>
+<li data-cover="https://img.discogs.com/GtoMOXBxTsOqrQvOQ4_degxBtlA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31372-1258068612.jpeg.jpg" data-tags="electronica, everything but the girl, electronic, lounge" role="button">
+Everything But the Girl - Temperamental (2000-02-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/2aa6105b-3176-4392-b82a-0fcaf5724e27/9776425084-500.jpg" data-tags="trip hop" role="button">
 DJ Cam - Loa Project, Volume 2 (2000-05)
 </li>
@@ -156,14 +159,8 @@ Moloko - Statues (2003-01-06)
 <li data-cover="https://img.discogs.com/BR7I3yZqy88Oow1dPTjGLE2Wlp8=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-125883-1548029554-5121.jpeg.jpg" data-tags="electronica, trip-hop, electro, trip hop" role="button">
 Massive Attack - Special Cases (2003-02-24)
 </li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/5969ae15-8e51-44b7-a5a7-b55d6dea1053/24102546544-500.jpg" data-tags="chillout" role="button">
 Blue Foundation - Sweep Of Days (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
-Jem - Finally Woken (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
 The Streets - A Grand Don't Come for Free (2004-05-10)
@@ -197,6 +194,9 @@ Massive Attack - Live With Me (2006-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/4447a8b7-439c-434e-9937-34231d4eb7cd/3840466846-500.jpg" data-tags="trip-hop" role="button">
 Massive Attack - Collected (2006-03-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/0526cd89-0e9f-4fd1-bf29-c349091396f4/15207616068-500.jpg" data-tags="electronic, trip-hop, female vocalists" role="button">
+Moloko - Catalogue (2006-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3f1378d-7dbd-49a9-afe0-0d6c0a4b6ccc/8131898956-500.jpg" data-tags="ninja tune" role="button">
 Yppah - You Are Beautiful At All Times (2006-11-06)

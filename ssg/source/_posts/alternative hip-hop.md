@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:12:07.222Z
+date: 2021-04-13T04:39:01.519Z
 title: "alternative hip-hop: 100 albums you must listen to before you die"
 ---
 ![Twenty One Pilots - Twenty One Pilots (2009-12-29)](http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg "Twenty One Pilots - Twenty One Pilots (2009-12-29)")
@@ -30,9 +30,6 @@ Main Source - Breaking Atoms (1991-07-23)
 <li data-cover="https://img.discogs.com/yHfAagQxkLUKSbPunOauh4xD12c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5408733-1392627713-8707.jpeg.jpg" data-tags="hip hop, hiphop" role="button">
 A Tribe Called Quest - Revised Quest for the Seasoned Traveller (1992-11-16)
 </li>
-<li data-cover="https://img.discogs.com/CISzqiFmRulElecW-IrSwFgywiM=/fit-in/600x921/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2697116-1566057935-6023.jpeg.jpg" data-tags="rap" role="button">
-Funkdoobiest - Which Doobie U B? (1993-05-04)
-</li>
 <li data-cover="https://img.discogs.com/x-XBH8YKpwmafthP8SsFian0t6s=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6458210-1465577851-2875.jpeg.jpg" data-tags="hip-hop" role="button">
 Beastie Boys - Ill Communication (1994-05-18)
 </li>
@@ -56,6 +53,9 @@ Lootpack - Soundpieces: Da Antidote! (1999-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/80dc9693-3e9a-4570-8452-6ce3d6fb31d1/4528884990-500.jpg" data-tags="hip-hop, rap, underground hip-hop, 90s, alternative hip-hop, hhc 95-05 top 100, rawkus, hood, hot song, good new music, middle finger, he cuts so fresh" role="button">
 The High & Mighty - Home Field Advantage (1999-08-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/cc59bda6-56cd-40f5-9a1e-0fef160b19e1/4784562978-500.jpg" data-tags="hip hop, live" role="button">
+The Roots - The Roots Come Alive (1999-11-02)
 </li>
 <li data-cover="https://img.discogs.com/iLkCCAozsFMzR5zKato975r0dyc=/fit-in/596x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10899981-1506192162-6403.jpeg.jpg" data-tags="hip-hop, revolutionary" role="button">
 dead prez - Lets Get Free (2000-01-14)
@@ -168,9 +168,6 @@ Aesop Rock - None Shall Pass (2007-08-28)
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/2d11f1fd-2383-41b5-9c12-83df182ebdbf/1448823036-500.jpg" data-tags="hip-hop, hip hop, soul" role="button">
-Little Brother - Getback (2007-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/0a8a4523-0288-467b-b028-0b0e72dd52b7/2810122194-500.jpg" data-tags="trent reznor, alternative hip-hop" role="button">
 Saul Williams - The Inevitable Rise and Liberation of Niggy Tardust (2007-11-01)
 </li>
@@ -281,6 +278,9 @@ Twenty One Pilots - Regional at Best (2011-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/27b537fb-33ea-48ab-bb1e-7453aa0d7e1d/3258588413-500.jpg" data-tags="alternative" role="button">
 Astronautalis - This Is Our Science (2011-09-13)
+</li>
+<li data-cover="https://img.discogs.com/UfGFO0JOi8gIW2CPvOUcBgwIvt4=/fit-in/453x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274793-1323464129.jpeg.jpg" data-tags="hip hop, grime, alternative hip-hop" role="button">
+Eligh & Amp Live - Therapy At 3 (2011-11-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/17105002-a6fd-4f92-9589-aa7f98073638/4785732549-500.jpg" data-tags="hip hop" role="button">
 The Roots - Undun (2011-12-05)

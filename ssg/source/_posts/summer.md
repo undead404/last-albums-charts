@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:51:01.461Z
+date: 2021-04-13T03:49:01.451Z
 title: "summer: 100 albums you must listen to before you die"
 ---
 ![Mark Ronson - Uptown Funk (2014-11-10)](http://coverartarchive.org/release/07d112f1-d696-439f-87ad-2e84f2652ad9/9104421383-500.jpg "Mark Ronson - Uptown Funk (2014-11-10)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/8m_-6lygdnEbzCgx3KESBloy5hE=/fit-in/472x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2387817-1281102047.jpeg.jpg" data-tags="60s, psychedelic" role="button">
+The Human Beinz - Nobody But Me (1967)
+</li>
 <li data-cover="http://coverartarchive.org/release/1c945eec-1deb-43af-b2d4-56fe732581b2/1955338420-500.jpg" data-tags="disco, 80s, donna summer" role="button">
 Donna Summer - Love to Love You Baby (1975-08-27)
 </li>
@@ -39,6 +42,9 @@ Guster - Parachute (1995-11-14)
 <li data-cover="http://coverartarchive.org/release/4e0383b3-ca53-4e2e-b4f3-6973d09d7f22/18016479630-500.jpg" data-tags="alternative, rock" role="button">
 Primitive Radio Gods - Rocket (1996-06-18)
 </li>
+<li data-cover="https://img.discogs.com/Q-g8fNBSeBlsXe8jlt67IwJ9MnA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-114245-1264216179.jpeg.jpg" data-tags="folk, singer-songwriter" role="button">
+Beth Orton - Trailer Park (1996-10-14)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="hip-hop, indie, alternative, blues, summer, modern blues, mile high music festival 2009, leapsandbounds cdcollection, g love, leapsandalbums, g l s sauce" role="button">
 G. Love & Special Sauce - Yeah, it's That Easy (1997)
 </li>
@@ -48,23 +54,29 @@ Mineral - The Power of Failing (1997-02)
 <li data-cover="https://img.discogs.com/42yY8-728mQ_HeoZtb58netsqT8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-127733-1369690762-6030.jpeg.jpg" data-tags="chillout, electronic, electronica, trip-hop, downtempo" role="button">
 Mr. Scruff - Mrs Cruff (1997-05-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/c14321b9-137b-4000-933e-ff12237744d1/10057690503-500.jpg" data-tags="emo" role="button">
-The Promise Ring - Nothing Feels Good (1997-10-11)
-</li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/067a1e41-bae3-30d6-a797-d256e96c94f6/5072584211-500.jpg" data-tags="indie, indie rock" role="button">
-Blonde Redhead - In an Expression of the Inexpressible (1998-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/43a4e614-562d-4fd6-8693-df11aa8c06bc/15905929940-500.jpg" data-tags="rock, alternative rock, summer" role="button">
 Sugar Ray - 14:59 (1999-01-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/6b6275fd-965b-4d03-9ef2-b26254d02055/26541491265-500.jpg" data-tags="donna summer" role="button">
+Donna Summer - VH1 Presents Live & More Encore! (1999-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/ce798ecf-4694-48a8-869e-b852d283cd8a/21926102762-500.jpg" data-tags="funk, summer" role="button">
 Galactic - Late for the Future (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/2de2916a-3597-45c1-a6b6-c5f49ae9dc5e/4817256557-500.jpg" data-tags="electronic, dub" role="button">
+Asian Dub Foundation - Community Music (2000-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c9ebbe41-cfc2-4ab3-8ea3-3471f849b6b0/27574455327-500.jpg" data-tags="alternative rock, britpop, electronic, indie rock" role="button">
 Doves - Lost Sides (2000-11-20)
+</li>
+<li data-cover="https://img.discogs.com/Wr5ZGkDkrXd_bta5DFdach9lQGU=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10974423-1507486248-7874.jpeg.jpg" data-tags="summer" role="button">
+The Yellow Monkey - GOLDEN YEARS Singles 1996-2001 (2001-06-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a07f1b1-5772-4a82-8f5c-5d4ac9532022/16120195921-500.jpg" data-tags="ska" role="button">
+Reel Big Fish - Favorite Noise (2002-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ec89647-6a77-4757-b334-382bd44e60e7/8217126604-500.jpg" data-tags="rock" role="button">
 Phantom Planet - California (2002-05-07)
@@ -72,17 +84,8 @@ Phantom Planet - California (2002-05-07)
 <li data-cover="https://img.discogs.com/LwWZxiZvwMTey_dXq2s0OXoVx5s=/fit-in/320x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1554329-1328635839.jpeg.jpg" data-tags="ska punk, ska" role="button">
 Reel Big Fish - Cheer Up! (2002-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">
-Minus the Bear - Highly Refined Pirates (2002-11-19)
-</li>
-<li data-cover="https://img.discogs.com/A5nEZNzogO7mFKeI2ZGwiq4w3MA=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2420126-1386682159-4769.jpeg.jpg" data-tags="rock, alternative, alternative rock, female vocalists, happy, summer, punk rock, uplifting, summer rock, merkliste" role="button">
-Dover - The Flame (2003)
-</li>
 <li data-cover="https://img.discogs.com/KgBjHyjGEwqcvfrXOmPth4FEFFQ=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3576516-1336355004.jpeg.jpg" data-tags="reggae, ska, summer" role="button">
 Slightly Stoopid - Everything You Need (2003-03-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
-Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0410ba6d-4c31-42de-8209-809006026825/25732150659-500.jpg" data-tags="disco, pop, soul, dance, summer, rnb, donna summer, donna, withdrjazzmrfunkmusicradio" role="button">
 Donna Summer - The Journey: The Very Best of Donna Summer (2003-09-30)
@@ -102,17 +105,11 @@ Butch Walker - Letters (2004-08-25)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Pinback - Summer in Abaddon (2004-10-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5121d98-590b-4c1e-ac3e-ee8b8149b9bf/4889929333-500.jpg" data-tags="indie rock" role="button">
-MAE - Destination: B-Sides (2004-11-16)
-</li>
 <li data-cover="https://img.discogs.com/qiaxuueQe3-tI2vs-PL7qH6S1C0=/fit-in/538x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785452-1176376382.jpeg.jpg" data-tags="summer, radio arcadia, rough trade, gives me a warm fuzzy feeling" role="button">
 The Libertines - What Became of the Likely Lads (2004-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - In Between Dreams (2005-02-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c258da99-ac2f-479c-95e7-21d9724fc225/11205419977-500.jpg" data-tags="indie, pop, folk" role="button">
-Aqualung - Strange and Beautiful (2005-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/4efa9e15-dea6-34ba-916d-b9a1f96244bf/4783882548-500.jpg" data-tags="indie rock, indie, rock, canadian" role="button">
 Hot Hot Heat - Elevator (2005-03-30)
@@ -147,9 +144,6 @@ Ballyhoo! - Do It For The Money! (2006-01-24)
 <li data-cover="http://coverartarchive.org/release/d6cd5fc3-53b3-475c-90e1-a967e999ad4a/15586885193-500.jpg" data-tags="pop punk" role="button">
 Zebrahead - Broadcast To The World (2006-02-22)
 </li>
-<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
-Islands - Return to the Sea (2006-04-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/ad575d96-11ce-4809-9d7b-0ef2e5aa7409/5146187890-500.jpg" data-tags="acoustic" role="button">
 Sandi Thom - Smile...It Confuses People (2006-06-05)
 </li>
@@ -162,11 +156,17 @@ Albert Hammond, Jr. - Yours To Keep (2006-10-09)
 <li data-cover="https://img.discogs.com/T7_pLWM6rGnFtXYFAbqToMmrRe4=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887153-1203597059.jpeg.jpg" data-tags="alternative, indie, rock, britpop, 00s" role="button">
 The Good, the Bad & the Queen - The Good, the Bad & the Queen (2007-01-22)
 </li>
+<li data-cover="https://img.discogs.com/0rjmWBD0s7jaVLVl4Ibb9ycdGPM=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-938433-1274192545.jpeg.jpg" data-tags="electronica, summer, playful, thrill jockey, aural fixation - best of 2007, wmbr" role="button">
+Trans Am - Sex Change (2007-02-20)
+</li>
 <li data-cover="https://img.discogs.com/bl4vspegq3dbuH24SEtRmJQhnEM=/fit-in/600x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1853857-1296769804.jpeg.jpg" data-tags="indie pop" role="button">
 Rilo Kiley - Under The Blacklight (2007-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/56690bd7-5023-4e5e-8cac-b1fa263c60ef/4086134991-500.jpg" data-tags="rock, alternative rock" role="button">
 Collective Soul - Afterwords (2007-08-28)
+</li>
+<li data-cover="https://img.discogs.com/73Q-eleNH6hXOcN9IBvrZ1-KKE8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2741968-1298967903.jpeg.jpg" data-tags="ambient, instrumental, postrock" role="button">
+Port Blue - The Airship (2007-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8270390-c345-4d3a-a341-187722f75160/8583241241-500.jpg" data-tags="post-rock, icelandic" role="button">
 Sigur Rós - Hvarf - Heim (2007-11-05)
@@ -198,11 +198,14 @@ Shwayze - Shwayze (2008-08-19)
 <li data-cover="http://coverartarchive.org/release/3192c4f0-6099-4aa2-8008-09da81da0467/22600473176-500.jpg" data-tags="rnb, soul, female vocalists" role="button">
 Jazmine Sullivan - Fearless (2008-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2111aeb-1666-4b3d-9ba9-50e7f66c5de0/7171674981-500.jpg" data-tags="happy" role="button">
-Little Joy - Little Joy (2008-11-03)
+<li data-cover="http://coverartarchive.org/release/8f89ed84-9b30-4d09-95ef-ea8ab06836b5/23940491742-500.jpg" data-tags="math rock, emo, midwest emo" role="button">
+Midwest Pen Pals - Inside Jokes EP (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg" data-tags="electronic, indie pop, indie" role="button">
 Passion Pit - Manners (2009-05-19)
+</li>
+<li data-cover="https://img.discogs.com/nUAQyRgw5gI7DXkYWacY4jxF0sk=/fit-in/600x543/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1805125-1367086169-6807.jpeg.jpg" data-tags="female fronted metal, metal, doom metal, summer, gothic metal, gothic doom metal" role="button">
+Ava Inferi - Blood of Bacchus (2009-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/6aa055b1-051e-42e2-8782-65d25013e48d/12504569177-500.jpg" data-tags="pop, rock, british, happy, summer" role="button">
 Gary Go - Gary Go (2009-05-25)
@@ -236,9 +239,6 @@ Gypsy & The Cat - Gilgamesh (2010-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/734bc2bf-fec5-4133-8fc3-7f88a5c03e69/24038436103-500.jpg" data-tags="dubstep" role="button">
 Rusko - Everyday (2011-03-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/b39a631c-435d-482b-b4a5-3d4489574c97/7092627480-500.jpg" data-tags="dream pop" role="button">
-Craft Spells - Idle Labor (2011-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2412d797-4511-417c-9608-c3b0e88bcaf4/15993113659-500.jpg" data-tags="summer, alternative dance" role="button">
 Friendly Fires - Pala (2011-05-16)

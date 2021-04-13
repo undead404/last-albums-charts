@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:38:01.463Z
+date: 2021-04-13T04:12:01.474Z
 title: "indietronica: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -75,6 +75,9 @@ Mice Parade - Mice Parade (2007-05-08)
 <li data-cover="https://img.discogs.com/6NnlrO_rxFuHD3yIn9SWoJ45y54=/fit-in/463x463/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021020-1314456883.jpeg.jpg" data-tags="electro, electronic" role="button">
 Digitalism - Idealism (2007-05-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">
+Stateless - Stateless (2007-06-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
 </li>
@@ -123,9 +126,6 @@ Washed Out - Life of Leisure (2009-09-15)
 <li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
 Neon Indian - Psychic Chasms (2009-10-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
-Four Tet - There Is Love in You (2010-01-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d2dca48-73cb-3739-a6e8-abdca9538134/8303197337-500.jpg" data-tags="indie" role="button">
 Yeasayer - Odd Blood (2010-02-08)
 </li>
@@ -164,6 +164,9 @@ Foster the People - Torches (2011-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/913ff272-5878-4c36-983e-cef912531209/7039610643-500.jpg" data-tags="electronica, indie, indietronica" role="button">
 Death Cab for Cutie - Keys And Codes Remix EP (2011-05-27)
+</li>
+<li data-cover="https://img.discogs.com/kZPd2fmvmZ_9jSpe7sW6nI6Wzu8=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375517-1280377713.jpeg.jpg" data-tags="indie" role="button">
+Kaiser Chiefs - The Future Is Medieval (2011-06-03)
 </li>
 <li data-cover="https://img.discogs.com/GozW49NBtRGHP72sChmrFA69m7M=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-309857-1170001126.jpeg.jpg" data-tags="electronic, ambient" role="button">
 Apparat - The Devil's Walk (2011-09-26)
@@ -305,9 +308,6 @@ MØ - No Mythologies to Follow (2014-03-07)
 </li>
 <li data-cover="https://img.discogs.com/X4BPyuwih9Ftjun2RLU7v5627hA=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5659142-1399187504-3176.jpeg.jpg" data-tags="experimental" role="button">
 tUnE-yArDs - Nikki Nack (2014-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/9815a22f-d7ca-447f-a144-dfa658207998/7044912523-500.jpg" data-tags="electronic, synthpop, testament, exodus" role="button">
-Little Dragon - Nabuma Rubberband (2014-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2418376-2c16-416d-84a6-bd045f0464dd/7515767685-500.jpg" data-tags="indie pop, 2010s, rca records" role="button">
 Bleachers - Strange Desire (2014-07-15)

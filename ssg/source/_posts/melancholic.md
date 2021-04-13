@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:43:12.679Z
+date: 2021-04-13T04:13:07.069Z
 title: "melancholic: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -60,8 +60,8 @@ Archive - Londinium (1996-05-20)
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5188c17-b8a6-32ed-9c2c-32f0404f20a8/13522514205-500.jpg" data-tags="gothic metal" role="button">
-Moonspell - Sin / Pecado (1997)
+<li data-cover="https://img.discogs.com/ScAik7qeUvIMZcBiSScZX7BzsVg=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3433782-1330221831.jpeg.jpg" data-tags="doom metal" role="button">
+My Dying Bride - Like Gods of the Sun (1996-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7f89d02-9f8c-40f5-adc7-9b63631bc464/13321854605-500.jpg" data-tags="indie, indie rock, 90s" role="button">
 Grandaddy - Under The Western Freeway (1997-10-21)
@@ -69,17 +69,29 @@ Grandaddy - Under The Western Freeway (1997-10-21)
 <li data-cover="https://img.discogs.com/5p0bYzMxbO-g0FixydX4t22HKkI=/fit-in/600x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4736214-1435140831-9496.jpeg.jpg" data-tags="love metal, gothic rock" role="button">
 Him - Greatest Lovesongs Vol. 666 (1997-11-20)
 </li>
+<li data-cover="https://img.discogs.com/QewfXQd_CWh7p6LqDpskU4QvKss=/fit-in/579x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-139018-1254248853.jpeg.jpg" data-tags="melancholic, hood, josta59 radio, the leaves grow old and fade and die, interesting sounding stuff - get some trialsongs" role="button">
+Hood - Rustic Houses Forlorn Valleys (1998)
+</li>
 <li data-cover="http://coverartarchive.org/release/ce037097-b68d-4bbb-8d17-476fc82ebde3/3613013207-500.jpg" data-tags="piano, melancholic" role="button">
 Current 93 - Soft Black Stars (1998)
 </li>
 <li data-cover="https://img.discogs.com/CbVuh-CQJmkzYnbLiyuvqYfrFew=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513116-1362379308-9396.jpeg.jpg" data-tags="rock, 90s, alternative rock, jeff buckley" role="button">
 Jeff Buckley - Sketches for my Sweetheart the Drunk (1998-05-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/4fbf62b9-6111-4898-a0ea-d7fa3fde6896/25954166388-500.jpg" data-tags="indie, alternative, math rock, indie rock, usa, romantic, melodic, energetic, melancholy, melancholic, alt rock, indie emo" role="button">
+No Knife - Fire In The City of Automatons (1998-05-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/e68bc44b-f410-35cc-bf84-c0abbbcc08b8/11497364966-500.jpg" data-tags="acoustic, unplugged, live" role="button">
+Alanis Morissette - MTV Unplugged (1998-11-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/16a2fa8b-480e-3d58-8c42-684b9bec1493/7940071006-500.jpg" data-tags="britpop" role="button">
 Blur - 13 (1999-03-15)
+</li>
+<li data-cover="https://img.discogs.com/V0xbJHSbaeQvvGyarxyn0FVZ5w0=/fit-in/458x328/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-907946-1488650324-9919.jpeg.jpg" data-tags="rock, alternative rock, polish" role="button">
+Myslovitz - Miłość w czasach popkultury (1999-10-25)
 </li>
 <li data-cover="https://img.discogs.com/O6kMQiGCpQQW-BPjZvJsMsNmKiY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-612679-1138414798.jpeg.jpg" data-tags="neofolk, folk" role="button">
 Tenhi - Kauan (1999-11)
@@ -102,12 +114,6 @@ Elbow - Asleep in the Back (2001-05-03)
 <li data-cover="https://img.discogs.com/zE1g7EfR92bN-uRdWuFEdTw8lvQ=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3695431-1552089588-2064.jpeg.jpg" data-tags="melancholic" role="button">
 Anathema - Resonance (2001-09-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad3244de-1c41-4eb2-a090-7ac797ed4b0a/20032202540-500.jpg" data-tags="melancholic, autumn, favorites ever, skiver, albums 2, maarts, bobjebus16 owns this, dice-throw: six, go get it" role="button">
-Thomas Dybdahl - That great october sound (2001-10)
-</li>
-<li data-cover="https://img.discogs.com/47xuNForVmL8VhFijNcP3PhgP6U=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-716025-1493787625-5590.jpeg.jpg" data-tags="female vocalists" role="button">
-Azure Ray - November (2002-01-22)
-</li>
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
 </li>
@@ -116,15 +122,6 @@ Myslovitz - Korova Milky Bar (2002-05-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ac99528-77a9-3624-84b7-3400f6f56e47/22056699402-500.jpg" data-tags="folk metal, doom metal" role="button">
 Agalloch - The Mantle (2002-08-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/2a9d5a0a-d699-4a6b-9418-e3e9aff9a64b/3452268315-500.jpg" data-tags="dream pop, shoegaze" role="button">
-Trespassers William - Different Stars (2002-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/79e7d819-e3fc-4df0-89ff-4bb732b443c1/20839334016-500.jpg" data-tags="norwegian, scandinavian, melancholic, autumn, favorites ever, skiver, albums 2, maarts, music to drink slowly" role="button">
-Thomas Dybdahl - Stray Dogs (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/3fe02bae-ffbc-3a1f-82b7-d7b338f78b71/6695442614-500.jpg" data-tags="progressive rock" role="button">
 Opeth - Damnation (2003-04-07)
@@ -153,23 +150,20 @@ John Frusciante - The Will to Death (2004-06-22)
 <li data-cover="http://coverartarchive.org/release/25e2716b-2c65-3ef8-b4ff-afc96570347d/7947383918-500.jpg" data-tags="post-punk, rock, alternative" role="button">
 The Cure - The Cure (2004-06-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
-Anna Ternheim - Somebody Outside (2004-10-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)
 </li>
 <li data-cover="https://img.discogs.com/itVrfZcx8n0MgA_KXy2-Unf46oM=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1072264-1274908332.jpeg.jpg" data-tags="black metal, metal, shoegaze, shoegaze black metal" role="button">
 Alcest - Le secret (2005-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/912971e6-7c55-447c-bd99-42033294eef3/9479740370-500.jpg" data-tags="folk, norwegian" role="button">
-Ane Brun - A Temporary Dive (2005-02-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/4186b65f-c36d-4dac-82d3-221d3f8c7925/17754966442-500.jpg" data-tags="indie pop" role="button">
 Eisley - Room Noises (2005-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd6e8880-000e-4135-b002-915288baa2fd/18678248229-500.jpg" data-tags="rock, finnish, melancholic" role="button">
 Zen Café - Laiska, tyhmä ja saamaton (2005-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c6156f9-38a0-3183-85e8-df6432517dca/4207186910-500.jpg" data-tags="alternative, indie pop, alternative rock" role="button">
+Eels - Blinking Lights And Other Revelations (2005-04-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
@@ -188,6 +182,9 @@ Green Carnation - The Acoustic Verses (2006-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab7ebe88-c495-4a44-808b-61f89e7ad3f7/9100597320-500.jpg" data-tags="cardiowave" role="button">
 Flëur - Всё вышло из-под контроля (2006-04)
+</li>
+<li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
+Kate Havnevik - Melankton (2006-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0c59bf53-49ca-3920-a021-779dd2ce1c71/1463498207-500.jpg" data-tags="doom metal" role="button">
 Saturnus - Veronika Decides to Die (2006-05-03)
@@ -213,6 +210,9 @@ Marissa Nadler - Songs III: Bird On The Water (2007-03-12)
 <li data-cover="http://coverartarchive.org/release/f5a18cca-3f4d-4bd4-adb4-e487716a0d2c/1696124266-500.jpg" data-tags="melancholic" role="button">
 Porn Sword Tobacco - New Exclusive Olympic Heights (2007-04-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/beae99c0-6d98-4504-8989-21c0341a50fb/11870538298-500.jpg" data-tags="post-rock" role="button">
+Crippled Black Phoenix - A Love of Shared Disasters (2007-04-02)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="downtempo, chillout" role="button">
 The Cinematic Orchestra - Ma Fleur (2007-05-07)
 </li>
@@ -236,9 +236,6 @@ Brett Anderson - Wilderness (2008-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0c588fc-5669-4b8f-b25c-560111e0bbba/5284367213-500.jpg" data-tags="acoustic, progressive rock" role="button">
 Anathema - Hindsight (2008-08-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
-Jem - Down to Earth (2008-09-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="melancholic, heartache music" role="button">
 Bosse - Taxi (2009-02-06)
@@ -279,8 +276,14 @@ Youth Lagoon - The Year of Hibernation (2011-09-26)
 <li data-cover="http://coverartarchive.org/release/b4cfc997-a4d0-4703-8058-9ffef127d537/16424727978-500.jpg" data-tags="singer-songwriter, canadian, melancholic, lieblingslied, play on words, lieblingssongs, webrecced" role="button">
 Dan Mangan - Oh Fortune (2011-09-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/b02dd44e-2b35-44f1-8001-768fc94f5d14/4083920556-500.jpg" data-tags="singer-songwriter" role="button">
+Leonard Cohen - Old Ideas (2012-01-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/92fd4e41-09b7-451f-b6b7-8957e8a535e7/13703419175-500.jpg" data-tags="doom metal" role="button">
 Woods of Ypres - Woods 5: Grey Skies & Electric Light (2012-02-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg" data-tags="synthpop, darkwave, electronic" role="button">
+Trust - Trst (2012-02-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)
@@ -314,9 +317,6 @@ Damien Rice - My Favourite Faded Fantasy (2014-10-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/7704bdf5-5fcd-4f80-a759-30fba880bfe6/8762633349-500.jpg" data-tags="electronic, downtempo" role="button">
 Röyksopp - The Inevitable End (2014-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/283133d8-a904-4b45-992e-3d286e93de06/8951746002-500.jpg" data-tags="indie rock" role="button">
-Mitski - Bury Me at Makeout Creek (2014-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fe0a7ce-6876-44a6-b966-6f5fe466473b/9837934274-500.jpg" data-tags="alternative rock, hard rock, rock, blues rock" role="button">
 Marilyn Manson - The Pale Emperor (2015-01-16)

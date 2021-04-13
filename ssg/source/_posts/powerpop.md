@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T17:05:01.533Z
+date: 2021-04-13T04:34:01.492Z
 title: "powerpop: 100 albums you must listen to before you die"
 ---
 ![Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)](http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg "Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)")
 <ol class="albums">
+<li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, indie" role="button">OK Go - Oh No (2005-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/437b6335-ded3-4882-aa90-5a5c746b9b10/16310488534-500.jpg" data-tags="powerpop, alternative" role="button">Hellogoodbye - Zombies! Aliens! Vampires! Dinosaurs! (2006-08-08)</li>
 <li data-cover="https://img.discogs.com/lNju4-4GTTVLQU-MEOp2glgPq8o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2406287-1284085702.jpeg.jpg" data-tags="pop punk" role="button">The Maine - The Way We Talk (2007-12-11)</li>
 <li data-cover="https://img.discogs.com/ZGL0HhZKwQcKL-zWkq3hYjLC8Lc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2444943-1284431336.jpeg.jpg" data-tags="powerpop" role="button">The White Tie Affair - Walk This Way (2008-04-22)</li>
-<li data-cover="http://coverartarchive.org/release/89dd0390-5a5d-457f-900e-90fd1c43f077/10226970067-500.jpg" data-tags="pop punk" role="button">All Time Low - Nothing Personal (2009-01-09)</li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">The Summer Set - Love Like This (2009-10-13)</li>
 <li data-cover="https://img.discogs.com/peHPJK9RHkQ68Dwclf8SiCjp_mo=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2607155-1469978877-3107.jpeg.jpg" data-tags="powerpop" role="button">Forever the Sickest Kids - The Weekend: Friday (2009-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/f5663634-2bd6-4b01-beab-1d979a599da0/1487209368-500.jpg" data-tags="powerpop" role="button">The Cab - Symphony Soldier (2011-04-23)</li>
@@ -24,14 +24,17 @@ _________________
 <li data-cover="http://coverartarchive.org/release/58713cce-6dec-409a-b674-f30050f6fb82/5949082744-500.jpg" data-tags="psychedelic, 60s" role="button">
 Love - Da Capo (1966-11)
 </li>
+<li data-cover="https://img.discogs.com/LSnRNWM5bowulS7miVSNrBxD3eM=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1214637-1201261034.jpeg.jpg" data-tags="pop, power pop, powerpop" role="button">
+The Nerves - The Nerves (1976)
+</li>
 <li data-cover="http://coverartarchive.org/release/5cc90116-6833-4271-8477-42fb5fbee846/20706339769-500.jpg" data-tags="post-punk" role="button">
 Television - Adventure (1978-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/489e7f56-d73e-3772-9229-c45375da5e5b/7506671171-500.jpg" data-tags="classic rock" role="button">
 The Knack - Get The Knack (1979-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, 70s" role="button">
-The Boomtown Rats - The Fine Art Of Surfacing (1979-10-24)
+<li data-cover="https://img.discogs.com/T7w1UV50SWd7SSXDXm0WiACqOiU=/fit-in/524x527/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-768191-1156788267.jpeg.jpg" data-tags="powerpop" role="button">
+Any Trouble - Where Are All the Nice Girls? (1980)
 </li>
 <li data-cover="https://img.discogs.com/v6mfNUGyW07eVGDU_twQsDcgWcs=/fit-in/517x517/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8246265-1479563638-5200.jpeg.jpg" data-tags="80s, new wave" role="button">
 XTC - English Settlement (1982-02-12)
@@ -45,6 +48,9 @@ Yes - 90125 (1983-11-07)
 <li data-cover="http://coverartarchive.org/release/08c1b5dc-8b44-4039-b86f-c0dc4975cc27/9230305954-500.jpg" data-tags="80s, rock, new wave" role="button">
 Billy Idol - Vital Idol (1985)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s" role="button">
+The Fixx - One Thing Leads To Another: Greatest Hits (1989)
+</li>
 <li data-cover="https://img.discogs.com/UGLkfyzaC9F8vzuuNd2I-6uWEYA=/fit-in/268x268/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7919633-1528727617-6341.jpeg.jpg" data-tags="rock" role="button">
 Lenny Kravitz - Let Love Rule (1989-07-23)
 </li>
@@ -53,6 +59,9 @@ The Romantics - What I Like About You (And Other Romantic Hits) (1990-12-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/69d51f77-ce4c-3132-881e-6c004cf5097b/9582955606-500.jpg" data-tags="pop" role="button">
 XTC - Nonsuch (1992-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/74d240ec-b27f-4554-af7c-36269b7f42a5/8243009873-500.jpg" data-tags="rock, alternative" role="button">
+Redd Kross - Phaseshifter (1993)
 </li>
 <li data-cover="http://coverartarchive.org/release/8126990b-62c2-459f-8319-ec5cab3524a6/8157450797-500.jpg" data-tags="rock, 90s" role="button">
 Tom Petty - Wildflowers (1994-10-31)
@@ -63,17 +72,14 @@ Guided by Voices - Alien Lanes (1995-04-04)
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
 </li>
-<li data-cover="https://img.discogs.com/R_DBxpkzS4iv3i4HrTVINHBXVlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1637459-1233745460.jpeg.jpg" data-tags="power pop, 90s" role="button">
-Teenage Fanclub - Grand Prix (1995-05-29)
+<li data-cover="https://img.discogs.com/DZagcKVfCNlDk-j3WY1vh55EWo8=/fit-in/600x583/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1938700-1385023844-1337.jpeg.jpg" data-tags="rock, alternative, alternative rock, power pop, powerpop" role="button">
+Imperial Drag - IMPERIAL DRAG (1996-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce3418e9-83f9-4ecb-acc5-82c47a67c9b5/6010970718-500.jpg" data-tags="rock" role="button">
 American Hi-Fi - American Hi-Fi (2001-02-27)
 </li>
 <li data-cover="https://img.discogs.com/T-2UhJb6yNxe4U8bg2J_FrqBFxk=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2487770-1287344991.jpeg.jpg" data-tags="punk rock, pop punk" role="button">
 Avril Lavigne - Sk8er Boi (2002-08-27)
-</li>
-<li data-cover="https://img.discogs.com/68bZU-MoVIi9dtnu9-zdsCZT85o=/fit-in/500x479/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-763546-1423858208-4178.jpeg.jpg" data-tags="powerpop, pandapop, my cds" role="button">
-Bad Cash Quartet - Midnight Prayer (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a269305-3699-4bfb-8889-1482b99b9d50/10665995130-500.jpg" data-tags="indie rock, indie, indie pop, canadian, 00s" role="button">
 The New Pornographers - Electric Version (2003-04-25)
@@ -111,14 +117,14 @@ American Hi-Fi - Hearts on Parade (2005-04-12)
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/1dddc32b-1a2a-4a44-81a9-611c570b04a5/20752577327-500.jpg" data-tags="pop punk, powerpop" role="button">
-Houston Calls - A Collection Of Short Stories (2005-08-02)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, indie rock, indie" role="button">
 OK Go - Oh No (2005-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/654760fa-5cee-4f2d-926d-7be8bc620b35/8677068687-500.jpg" data-tags="classic rock, dance, psychedelic, garage rock, glam rock, powerpop, parody, chameleon, and i hate that my feet are dancing so much" role="button">
 Ladyfuzz - Kerfuffle (2006-04-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/f429d8e3-7dfd-4a11-b036-913acba52d2c/7340907744-500.jpg" data-tags="powerpop" role="button">
+Annika Eklund - Shanghain valot (2006-04-05)
 </li>
 <li data-cover="https://img.discogs.com/ylqgZk5XYoi4gDChjvVznqU1ShQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445218-1330668701.jpeg.jpg" data-tags="alternative" role="button">
 Forgive Durden - Wonderland (2006-05-09)
@@ -180,14 +186,11 @@ The Pink Spiders - Sweat It Out (2008-09-23)
 <li data-cover="https://img.discogs.com/DL6wyKT7zN0CdqK1wZfHRHX-O1U=/fit-in/467x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3181445-1331982850.jpeg.jpg" data-tags="pop punk" role="button">
 You Me at Six - Take Off Your Colours (2008-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/3cc04595-5572-44bd-86d1-f49b1bcd60c3/15528819341-500.jpg" data-tags="pop punk, powerpop, acoustic rock, emo pop" role="button">
-Artist vs. Poet - Artist Vs Poet EP (2008-11-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/5fdbc4ff-5556-4a33-b0fc-a536ffa55b69/10453801244-500.jpg" data-tags="pop, rock, punk, alternative rock, industrial, powerpop, post-hardcore, horrorcore, indi rock" role="button">
 Get Scared - Cheap Tricks And Theatrics (2009)
 </li>
-<li data-cover="http://coverartarchive.org/release/89dd0390-5a5d-457f-900e-90fd1c43f077/10226970067-500.jpg" data-tags="pop punk" role="button">
-All Time Low - Nothing Personal (2009-01-09)
+<li data-cover="https://img.discogs.com/47-Wv0VplMLpEfhHNkRHYK2fYLg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2379892-1280619421.jpeg.jpg" data-tags="indie, pop, powerpop, chicago, relax, tasty" role="button">
+Office - Mecca (2009-01-01)
 </li>
 <li data-cover="https://img.discogs.com/WwLdLGZed6V06YNSGC1AzL_Cd_U=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9014440-1605321098-8903.jpeg.jpg" data-tags="electropop, powerpop, electro indie, russian roulette, no cure1, red city pt2, from dreams to life, no cure, definition of fantabulous, you cant illustrate while you suffocate, for everything youve done, enjoy your stay isaac, no cure band" role="button">
 The Secret Handshake - My Name Up In Lights (2009-04-21)
@@ -198,11 +201,11 @@ The Friday Night Boys - Off The Deep End (2009-06-09)
 <li data-cover="https://img.discogs.com/qRAsZcRIqvDYjv14Y33dmMX4ohM=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14103147-1567892554-5593.jpeg.jpg" data-tags="alternative, happy, powerpop, fucking good" role="button">
 Goodnight Sunrise - Stop, Drop, & Roll (2009-06-23)
 </li>
+<li data-cover="https://img.discogs.com/NA8z3V1Z5w0Sn5E9fhGyammdAuo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12733168-1540916978-6574.jpeg.jpg" data-tags="pop, powerpop, rock pop" role="button">
+Pambo - Descubrir (2009-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/5eb46f96-76c0-48e2-8a6c-e54ec8d2298f/25457970141-500.jpg" data-tags="dutch indie" role="button">
 Moss - Never Be Scared / Don't Be A Hero (2009-09-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
-Mayday Parade - Anywhere But Here (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4631f280-bc71-403f-a8fd-4637974ccf31/17601593140-500.jpg" data-tags="the summer set, rock, powerpop" role="button">
 The Summer Set - Love Like This (2009-10-13)
@@ -222,9 +225,6 @@ Forever the Sickest Kids - The Weekend: Friday (2009-11-17)
 <li data-cover="http://coverartarchive.org/release/7c58568b-9a54-4834-ac30-56eb81ea7561/14767389167-500.jpg" data-tags="pop punk" role="button">
 We the Kings - Smile Kid (2009-12-08)
 </li>
-<li data-cover="https://img.discogs.com/V1h3I7_1zESDNSoXOGmR1Er-m_o=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7151528-1434886533-9314.jpeg.jpg" data-tags="powerpop" role="button">
-The Bigger Lights - The Bigger Lights (2010-03-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/554db6c1-6705-43eb-a22a-63f1dfd3557b/16397831218-500.jpg" data-tags="powerpop, the ready set" role="button">
 The Ready Set - I'm Alive, I'm Dreaming (2010-06-09)
 </li>
@@ -243,8 +243,8 @@ Weezer - Death to False Metal (2010-11-02)
 <li data-cover="http://coverartarchive.org/release/3c6bf386-774f-4680-93bf-286b6bf996c4/12182847250-500.jpg" data-tags="post-metal, progressive metal, experimental, sludge" role="button">
 The Ocean - Anthropocentric (2010-11-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/e1c3f08f-cabf-4bdc-8426-803429d1badd/27137659704-500.jpg" data-tags="pop punk, powerpop, emo pop" role="button">
-Junior Doctor - Clumsy Words and Bad Pickup Lines (2011-01-25)
+<li data-cover="http://coverartarchive.org/release/c4a84602-202e-4b05-aea4-80363e76a7cd/9309191627-500.jpg" data-tags="powerpop" role="button">
+Short Stack - This Is Bat Country (2010-11-12)
 </li>
 <li data-cover="https://img.discogs.com/OxO9W8Gb4Cb-eK-D1oYjdXx8LHg=/fit-in/580x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8507579-1463003433-2681.jpeg.jpg" data-tags="powerpop" role="button">
 These Kids Wear Crowns - Jumpstart (2011-03-01)
@@ -260,9 +260,6 @@ All Time Low - Dirty Work (2011-06-06)
 </li>
 <li data-cover="https://img.discogs.com/OYGOui3QdD2zulCjsh76DlWNsnM=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3153478-1318210457.jpeg.jpg" data-tags="acoustic" role="button">
 Stephen Jerzak - Miles And Miles (2011-06-14)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="pop punk" role="button">
-The Summer Set - Everything's Fine (2011-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c2b6d42-0f71-4345-9b81-ec63ba95bffd/15128577308-500.jpg" data-tags="alternative rock, pop punk" role="button">
 You Me at Six - Sinners Never Sleep (2011-09-30)
@@ -293,6 +290,9 @@ All Time Low - Don't Panic: It's Longer Now! (2012-10-09)
 </li>
 <li data-cover="https://img.discogs.com/ltiWxp1iE70LnYBqFTMD18Y6S78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4016139-1486677843-4548.jpeg.jpg" data-tags="pop, punk, hardcore, powerpop, new england, connecticut, run for cover, post-ska, ct, run for cover records, hartford whalers, shoeless blow jackson, street-funk, uconn huskies, mozercise" role="button">
 Hostage Calm - Please Remain Calm (2012-10-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/6280f543-0e6e-45b3-9d6d-3af926036d08/3035881143-500.jpg" data-tags="powerpop" role="button">
+Artist vs. Poet - Keep Your Secrets (2013-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b5927d5-c769-4721-9927-685f171eca1d/14632967566-500.jpg" data-tags="powerpop, and if you ever get lonely just go to a record store and visit your friends" role="button">
 A Rocket to the Moon - Wild & Free (2013-01-29)

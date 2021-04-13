@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:57:07.062Z
+date: 2021-04-13T04:36:07.073Z
 title: "techno: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Homework (1997-01-20)](http://coverartarchive.org/release/770b9b80-10e1-4297-b1fd-46ad0dbb0305/1148987477-500.jpg "Daft Punk - Homework (1997-01-20)")
@@ -144,8 +144,8 @@ Scooter - The Stadium Techno Experience (2003-03-31)
 <li data-cover="http://coverartarchive.org/release/d63f901b-d232-4814-84d4-eeef097bb0ee/5454987213-500.jpg" data-tags="trance" role="button">
 Armin van Buuren - 76 (2003-06-30)
 </li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
+<li data-cover="http://coverartarchive.org/release/e3dcd87e-37ce-4b68-a80c-c066673a786a/4194036386-500.jpg" data-tags="pop, dance" role="button">
+O-Zone - Disco-zone (2003-08-13)
 </li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
@@ -204,6 +204,9 @@ AFX - Chosen Lords (2006-04-10)
 <li data-cover="http://coverartarchive.org/release/6b2adb75-f025-45f4-8c91-e2cb85178428/1558810005-500.jpg" data-tags="basshunter" role="button">
 Basshunter - Welcome to Rainbow (2006-06-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/b023b391-190f-49f9-8b3f-1c256a4748f6/8208439592-500.jpg" data-tags="techno, minimal, tr00 kvlt christraping blaek metel with the most blasphemous lyrics written by misanthropik satanists under a freezing m00n in the most frostbitten forest of eternal darkness in norway while they sacrifice goats in the most inverted altar to ablazagorth" role="button">
+Paul Kalkbrenner - Keule (2006-07-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/ded7ac3b-4a17-36a2-8fc5-4a878d229f35/1353184902-500.jpg" data-tags="psytrance, electronic" role="button">
 Infected Mushroom - Vicious Delicious (2007-03-20)
 </li>
@@ -233,6 +236,9 @@ Scooter - Jumping All Over The World (2008-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f08b488c-7526-4c7f-8e12-5a317cf600b7/16531192090-500.jpg" data-tags="electronic" role="button">
 Moby - Last Night (2008-03-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa46db08-6be2-4a8c-9e27-082e20a2401d/6798249962-500.jpg" data-tags="techno" role="button">
+Andy Hunter° - Colour (2008-04-08)
 </li>
 <li data-cover="https://img.discogs.com/_eMqMMDVOx2FX8aNRz1eCGJZuyQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1331305-1316727049.jpeg.jpg" data-tags="dance" role="button">
 Guru Josh Project - Infinity 2008 (2008-05-07)
@@ -264,17 +270,11 @@ Fuck Buttons - Tarot Sport (2009-10-12)
 <li data-cover="https://img.discogs.com/0ldZPAyteJHU9oLD-amTVAIxXvE=/fit-in/531x467/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-166064-1183274518.jpeg.jpg" data-tags="idm, electronic" role="button">
 Aphex Twin - Windowlicker (2010)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
-Four Tet - There Is Love in You (2010-01-25)
-</li>
 <li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
 Ellie Goulding - Starry Eyed (2010-02-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/84431d2b-4af9-43b0-805c-c6579c774de6/1207883515-500.jpg" data-tags="dubstep" role="button">
 Scuba - Triangulation (2010-03-10)
-</li>
-<li data-cover="https://img.discogs.com/QUHpmK4R_P7sftn3KHppBK8vLm8=/fit-in/600x567/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2300524-1494626974-2948.jpeg.jpg" data-tags="techno" role="button">
-Actress - Splazsh (2010-05-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, rap, dance" role="button">
 Taio Cruz - Dynamite (2010-07-30)

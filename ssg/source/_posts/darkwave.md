@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:01:18.255Z
+date: 2021-04-13T04:43:01.460Z
 title: "darkwave: 100 albums you must listen to before you die"
 ---
 ![Trust - Trst (2012-02-28)](http://coverartarchive.org/release/7bd4468c-2434-4450-8fa5-76812f1b56aa/9082713992-500.jpg "Trust - Trst (2012-02-28)")
@@ -87,6 +87,9 @@ The Crüxshadows - Echoes and Artifacts (2001)
 <li data-cover="http://coverartarchive.org/release/63ff3f6d-7715-4079-b86d-0ea47394c9b5/6367555042-500.jpg" data-tags="darkwave, steampunk" role="button">
 Abney Park - From Dreams or Angels (2001)
 </li>
+<li data-cover="https://img.discogs.com/hWdPqNXPwsFrpxTRYHlZLsmUeqc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2228302-1309560049.jpeg.jpg" data-tags="live, gothic rock" role="button">
+Joy Division - Les Bains Douches 18 December 1979 (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
 </li>
@@ -120,9 +123,6 @@ God Module - Empath (2003-04-01)
 <li data-cover="http://coverartarchive.org/release/003ad0e3-3b5f-4e15-8fc1-2878ff00008f/2216965260-500.jpg" data-tags="darkwave" role="button">
 Collide - Some Kind of Strange (2003-04-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/ab4c39c2-fcff-4ec3-92bd-00879500319d/9595704047-500.jpg" data-tags="electronic, japanese, darkwave" role="button">
-Schwarz Stein - New Vogue Children (2003-06-30)
-</li>
 <li data-cover="https://img.discogs.com/PwLxDpKp4ZMyejyXT5CjJ_eDh8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-479776-1402230122-1820.jpeg.jpg" data-tags="darkwave, gothic rock" role="button">
 Faith and the Muse - The Burning Season (2003-07-08)
 </li>
@@ -134,9 +134,6 @@ The Crüxshadows - Ethernaut (2003-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/fd494008-b1d9-4c12-a3b0-599d06523113/20957527967-500.jpg" data-tags="darkwave" role="button">
 Girls Under Glass - Ohne Dich (2004)
-</li>
-<li data-cover="http://coverartarchive.org/release/58f47cac-c702-4018-ba4a-7cf3a40941a2/2610903396-500.jpg" data-tags="ambient, ethereal, darkwave, female vocalists" role="button">
-Angelzoom - Angelzoom (2004-01-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/05c76df8-a899-4fb7-aae9-ed5b12fb531b/2138443877-500.jpg" data-tags="gothic" role="button">
 Unheilig - Zelluloid (2004-02-16)
@@ -167,6 +164,9 @@ Flesh Field - Strain (2004-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f59c0e6-5d8c-40f6-bb40-eb3300c0854f/15577878025-500.jpg" data-tags="electronic, synthpop, darkwave" role="button">
 Diorama - Amaroid (2005-04-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/3540c355-fcfb-4c1d-960e-7622b7759e2f/15619857746-500.jpg" data-tags="industrial, synth rock" role="button">
+Project Pitchfork - Kaskade (2005-05-30)
 </li>
 <li data-cover="https://img.discogs.com/kmtbiIzL5C7taavRSw_Indg9b7k=/fit-in/600x537/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-543537-1589356231-7706.jpeg.jpg" data-tags="darkwave" role="button">
 Diary of Dreams - Alive (2005-09-30)

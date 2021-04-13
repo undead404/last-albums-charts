@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:44:01.471Z
+date: 2021-04-13T03:48:01.503Z
 title: "electronica: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Discovery (2001-02-26)](http://coverartarchive.org/release/51467269-3122-3d7e-92b2-0f0a694d30c1/1269784284-500.jpg "Daft Punk - Discovery (2001-02-26)")
@@ -114,14 +114,14 @@ The Knife - Deep Cuts (2003-01-17)
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">
 The Postal Service - Give Up (2003-02-18)
 </li>
+<li data-cover="https://img.discogs.com/ao8trswytlnbZgZr3dagbE2_lQQ=/fit-in/366x366/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-538745-1129068276.jpeg.jpg" data-tags="electronic, dance" role="button">
+Basement Jaxx - Kish Kash (2003-10-20)
+</li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
 </li>
 <li data-cover="https://img.discogs.com/J9Tu6lndSIaA29Jg85GuI0GDcWI=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1935782-1253543842.jpeg.jpg" data-tags="chillout" role="button">
 Zero 7 - When It Falls (2004-02-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/dfb9db5d-bb8c-4fcd-a256-96841b6d090a/7929248241-500.jpg" data-tags="pop, female vocalists" role="button">
-Jem - Finally Woken (2004-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b8ea2ae-e0d7-3b74-8667-42f2a4886835/4534453533-500.jpg" data-tags="electronica, electropop" role="button">
 Cut Copy - Bright Like Neon Love (2004-04-05)
@@ -255,9 +255,6 @@ Miami Horror - Sometimes (2009-11-20)
 <li data-cover="http://coverartarchive.org/release/5cac29b4-3c6b-46a5-8abb-79bb7fba623d/15992581396-500.jpg" data-tags="alternative dance, electronica, pop" role="button">
 Delphic - Acolyte (2010-01-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b2abdde-9acb-44dd-84de-42592224123a/21122160818-500.jpg" data-tags="idm, electronic" role="button">
-Four Tet - There Is Love in You (2010-01-25)
-</li>
 <li data-cover="https://img.discogs.com/BkGqM6GnrMT2cJ6M4VWH74p5ZAM=/fit-in/462x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2135595-1266229554.jpeg.jpg" data-tags="indie, electronic, electropop" role="button">
 Hot Chip - One Life Stand (2010-01-29)
 </li>
@@ -308,6 +305,9 @@ Daft Punk - Random Access Memories (2013-05-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/a4e031e1-42b0-4cd8-a909-b7089d04dd5a/4207663303-500.jpg" data-tags="electronica, dubstep, post-dubstep" role="button">
 Mount Kimbie - Cold Spring Fault Less Youth (2013-05-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/d4081f66-bcee-4805-800c-cae6e9847fb7/5176860791-500.jpg" data-tags="wake me up" role="button">
+Avicii - Wake Me Up (2013-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">
 Lorde - Pure Heroine (2013-09-27)

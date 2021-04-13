@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:19:01.469Z
+date: 2021-04-13T04:16:12.566Z
 title: "canadian: 100 albums you must listen to before you die"
 ---
 ![Feist - Let It Die (2004-05-18)](https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg "Feist - Let It Die (2004-05-18)")
@@ -126,9 +126,6 @@ Nelly Furtado - Folklore (2003-11-24)
 <li data-cover="http://coverartarchive.org/release/c983158c-6f18-4116-ab5f-3da41322641a/11216133596-500.jpg" data-tags="rock" role="button">
 Avril Lavigne - Under My Skin (2004-03)
 </li>
-<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
-Alanis Morissette - So-Called Chaos (2004-04-21)
-</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
 </li>
@@ -194,6 +191,9 @@ The New Pornographers - Challengers (2007-08-07)
 </li>
 <li data-cover="https://img.discogs.com/Pxilf2hUZbctuPvV0rC3JtIpIV0=/fit-in/250x248/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1973286-1255989158.jpeg.jpg" data-tags="canadian" role="button">
 Wintersleep - Welcome To The Night Sky (2007-09-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/48b36c2e-6cbe-492c-bb8c-0a80ddbf3cbe/25351184261-500.jpg" data-tags="psychedelic, rock" role="button">
+Black Mountain - In the Future (2008-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/da472951-e8a4-3af3-ba96-8fa771003e9f/5246794220-500.jpg" data-tags="pop punk, rock, simple plan" role="button">
 Simple Plan - Simple Plan (2008-02-06)

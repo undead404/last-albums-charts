@@ -1,8 +1,8 @@
 ---
-date: 2021-04-12T23:17:01.467Z
+date: 2021-04-13T04:33:07.048Z
 title: "screamo: 100 albums you must listen to before you die"
 ---
-![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
+![Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)](http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg "Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">The Used - The Used (2002-06-25)</li>
 <li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">Alexisonfire - Alexisonfire (2002-10-29)</li>
@@ -10,10 +10,10 @@ title: "screamo: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">Underoath - They're Only Chasing Safety (2004-06-15)</li>
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">Senses Fail - Let It Enfold You (2004-09-07)</li>
 <li data-cover="http://coverartarchive.org/release/0615cf12-505d-4a88-bcaa-2451da7bb28e/17952063492-500.jpg" data-tags="post-hardcore" role="button">Chiodos - All's Well That Ends Well (2005-07-26)</li>
-<li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">Alesana - On Frail Wings of Vanity And Wax (2006-06-20)</li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
+<li data-cover="http://coverartarchive.org/release/b7b89f8a-6b62-4e5b-8675-492ecc731336/7181118799-500.jpg" data-tags="post-hardcore" role="button">Silverstein - Discovering the Waterfront (2005-08-16)</li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)</li>
 <li data-cover="https://img.discogs.com/1PvyKtZ-ooTwaD0TkN-cxj5VoGE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3650727-1533415894-4992.jpeg.jpg" data-tags="post-hardcore, screamo" role="button">Eyes Set to Kill - Reach (2008-02-19)</li>
+<li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">Asking Alexandria - Stand Up And Scream (2009-09-15)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -27,6 +27,9 @@ Orchid - Chaos Is Me (1999-06-09)
 <li data-cover="http://coverartarchive.org/release/80e6be11-86f5-4d0b-9d55-0f1c62b7afb8/6514440841-500.jpg" data-tags="metalcore" role="button">
 Avenged Sevenfold - Sounding the Seventh Trumpet (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/b30deec3-e1f0-419c-aa52-3e8dd50068e3/23065747905-500.jpg" data-tags="screamo" role="button">
+Pg.99 - Document #8 (2001-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/dcfd1c6a-8461-417d-86e7-834f85416cd3/16743266556-500.jpg" data-tags="screamo" role="button">
 Saetia - A Retrospective (2001-10-01)
 </li>
@@ -38,6 +41,12 @@ Finch - What It Is to Burn (2002-03-12)
 </li>
 <li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Tell All Your Friends (2002-03-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/3d842346-393e-40aa-b55b-2a11612d21e0/3842694447-500.jpg" data-tags="metalcore" role="button">
+36 Crazyfists - Bitterness the Star (2002-04-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/b877e532-bf36-437d-84df-a1facb14e308/27477356880-500.jpg" data-tags="metalcore" role="button">
+Atreyu - Suicide Notes And Butterfly Kisses (2002-06-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">
 The Used - The Used (2002-06-25)
@@ -57,8 +66,14 @@ A Static Lullaby - ...And Don't Forget To Breathe (2003-01-28)
 <li data-cover="https://img.discogs.com/kRhGE1p4CAb52fJpgyfezYZq1rw=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-371783-1530777030-9373.png.jpg" data-tags="screamo, post hardcore" role="button">
 Envy - A Dead Sinking Story (2003-04-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/b40fbe51-7fd8-3526-b451-e98c340aeebb/15731841501-500.jpg" data-tags="metalcore, hardcore, post-hardcore" role="button">
+Fear Before The March Of Flames - Odd How People Shake (2003-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/290d2027-935a-4650-b41e-03716559c364/4441324397-500.jpg" data-tags="metalcore, hardcore" role="button">
 Every Time I Die - Hot Damn! (2003-07-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/ecd8e938-73a4-4809-8fc6-f43555f93a37/14774111813-500.jpg" data-tags="screamo, live" role="button">
+The Used - Maybe Memories (2003-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/85dfca0f-3733-4ca2-9c2a-079053425594/19387940645-500.jpg" data-tags="post-hardcore" role="button">
 Thrice - The Artist In The Ambulance (2003-07-22)
@@ -81,6 +96,9 @@ The Used - In Love and Death (2004-01-24)
 <li data-cover="https://img.discogs.com/DzsZcP8IOXdd8AukKcjKD0hUUK4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-407309-1336738383-3595.jpeg.jpg" data-tags="post-hardcore, emocore" role="button">
 Dead Poetic - New Medicines (2004-03-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/95b641bb-8bd5-3dfe-860f-836652452e3f/1699086161-500.jpg" data-tags="screamo, post-hardcore" role="button">
+Alexisonfire - "Watch Out!" (2004-06-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Underoath - They're Only Chasing Safety (2004-06-15)
 </li>
@@ -93,6 +111,9 @@ Taking Back Sunday - Where You Want to Be (2004-07-27)
 <li data-cover="http://coverartarchive.org/release/42f3b9d6-52b3-49a8-a65d-972b578decf0/5893187085-500.jpg" data-tags="emo" role="button">
 Senses Fail - Let It Enfold You (2004-09-07)
 </li>
+<li data-cover="https://img.discogs.com/ojJinsXLqVidfTZ6XzTNU1f69Ck=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3420674-1551653142-3081.jpeg.jpg" data-tags="emo" role="button">
+A Thorn For Every Heart - Things Aren't So Beautiful Now (2004-10-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/255b7de2-cb0b-413c-a739-5d362e0156cc/2731146114-500.jpg" data-tags="rock" role="button">
 The Red Jumpsuit Apparatus - The Red Jumpsuit Apparatus (2005)
 </li>
@@ -104,6 +125,9 @@ A Static Lullaby - Faso Latido (2005-04-05)
 </li>
 <li data-cover="https://img.discogs.com/-UoGMnyppBVeGLr2iBvS7PNNRg8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15656215-1595349081-4594.jpeg.jpg" data-tags="metalcore, post-hardcore, hardcore" role="button">
 A Day to Remember - And Their Name Was Treason (2005-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/8f9460ec-334d-4488-8e86-baa496381f8f/24459678223-500.jpg" data-tags="metal, progressive, screamo, post-hardcore" role="button">
+Gospel - The Moon Is a Dead World (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3e1b1ed-5ac4-43c8-9d54-069105bd0869/1313064174-500.jpg" data-tags="post-hardcore, emo" role="button">
 Funeral for a Friend - Hours (2005-06-08)
@@ -128,9 +152,6 @@ Alexisonfire - Crisis (2005-08-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e03bab0e-bbf7-4a06-aa18-e4672c6c2afa/25033973531-500.jpg" data-tags="post-hardcore" role="button">
 Aiden - Nightmare Anatomy (2005-10-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/367cd2ba-ddac-4589-af69-3a24eecff68f/6512456098-500.jpg" data-tags="emocore, post-hardcore" role="button">
-Alesana - Try This With Your Eyes Closed (2005-12-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/d39b5760-18ad-4a8e-a625-ca128e69384a/2330331132-500.jpg" data-tags="emo" role="button">
 Hawthorne Heights - If Only You Were Lonely (2006-02-28)
@@ -159,20 +180,14 @@ Envy - Insomniac Doze (2006-05-31)
 <li data-cover="https://img.discogs.com/rN0ZlQluJHvRPB1ht-CTa9AmDwU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2956495-1463869010-9686.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
 Greeley Estates - Far From The Lies (2006-06-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
-Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
-The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
+<li data-cover="https://img.discogs.com/9mNRDBfMxg-ccMi1IvZEIqyzFJs=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1709392-1566235854-9761.jpeg.jpg" data-tags="metalcore, hardcore, screamo, emocore" role="button">
+Across Five Aprils - Collapse (2006-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd4f60c8-d4b5-4c41-b200-a78dfe9e1aaf/25342698261-500.jpg" data-tags="post-hardcore, emo" role="button">
 Saosin - Saosin (2006-09-26)
-</li>
-<li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
-Senses Fail - Still Searching (2006-10-09)
 </li>
 <li data-cover="https://img.discogs.com/sQw0cTRb0aPCGSgjMrqGPfRWnn8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970717-1515106686-7186.jpeg.jpg" data-tags="deathcore" role="button">
 Bring Me the Horizon - Count Your Blessings (2006-10-30)
@@ -183,11 +198,8 @@ A Day to Remember - For Those Who Have Heart (2007-01-23)
 <li data-cover="http://coverartarchive.org/release/2c7efad2-73f2-4652-b6b6-2ec78963fcf6/8691616470-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - She Watched The Sky (2007-01-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
-The Almost - Southern Weather (2007-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
-blessthefall - His Last Walk (2007-04-10)
+<li data-cover="https://img.discogs.com/pFFecob40VP1dxGso8TVmZHV4jA=/fit-in/600x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4897340-1545558377-6427.jpeg.jpg" data-tags="live" role="button">
+The Used - Berth (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7ff2419-8d8d-4c5a-a5b0-fa355924cc62/17979913063-500.jpg" data-tags="post-hardcore" role="button">
 Emarosa - This Is Your Way Out (2007-05-01)
@@ -195,17 +207,11 @@ Emarosa - This Is Your Way Out (2007-05-01)
 <li data-cover="http://coverartarchive.org/release/a12d1805-794f-4744-ba79-c9e7dd7ffb5f/12049773567-500.jpg" data-tags="post-hardcore" role="button">
 Before Their Eyes - Before Their Eyes (2007-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2753149-fc02-4804-a989-b537b7016489/6515469434-500.jpg" data-tags="post-hardcore" role="button">
-Dance Gavin Dance - Downtown Battle Mountain (2007-05-15)
-</li>
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">
 The Used - Lies For The Liars (2007-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e12d6912-2309-4fbc-8d98-9a67c2cca307/8355143858-500.jpg" data-tags="indie, emo, experimental" role="button">
 Circa Survive - On Letting Go (2007-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/7312e2b3-02ca-4baa-9518-becfc7245d69/21755008729-500.jpg" data-tags="screamo, post-hardcore" role="button">
-Devil Sold His Soul - A Fragile Hope (2007-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5591c8e3-f52a-487c-b130-da267a13f759/22180030295-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Silverstein - Arrivals & Departures (2007-07-03)
@@ -231,23 +237,11 @@ Eyes Set to Kill - Reach (2008-02-19)
 <li data-cover="http://coverartarchive.org/release/f0107d42-e161-422c-807c-f0ace39d32c6/2533532968-500.jpg" data-tags="screamo, metalcore, post-hardcore, melodic hardcore, emocore" role="button">
 Burden of a Day - Blessed Be Our Ever After (2008-03-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/6db3d7ec-fd51-473f-8e8a-cb9c47e5f5e6/25186336161-500.jpg" data-tags="screamo, post-hardcore, metalcore" role="button">
-A Bullet For Pretty Boy - Beauty In The Eyes of the Beholder (2008-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/5d9a3787-a6ae-475a-b93e-1c72a18c7018/3330594215-500.jpg" data-tags="post-hardcore" role="button">
-Greeley Estates - Go West Young Man, Let The Evil Go East (2008-05-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/1a157f06-d2f8-41c1-8ef0-0fced6b12b7a/15093516792-500.jpg" data-tags="screamo, post-hardcore, metalcore, hardcore, emo, emocore" role="button">
 A Skylit Drive - Wires...And the Concept of Breathing (2008-05-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/931feaa8-0dcc-4305-b978-70d9c654e059/3722997461-500.jpg" data-tags="post-hardcore, screamo" role="button">
 Alesana - Where Myth Fades to Legend (2008-06-03)
-</li>
-<li data-cover="https://img.discogs.com/G_2D0AjMs78K4xMs5169gOnfx9Q=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3168720-1318866783.jpeg.jpg" data-tags="emocore, screamo, post-hardcore, post hardcore" role="button">
-Hopes Die Last - Six Years Home (2008-08-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
-Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
 Underoath - Lost in the Sound of Separation (2008-09-02)
@@ -273,14 +267,11 @@ A Day to Remember - Homesick (2009-02-03)
 <li data-cover="http://coverartarchive.org/release/42d9fa8b-db09-4dfc-982c-6928471096fb/11692241662-500.jpg" data-tags="post-hardcore" role="button">
 Adept - Another Year of Disaster (2009-02-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
-Motionless in White - When Love Met Destruction (2009-02-17)
+<li data-cover="http://coverartarchive.org/release/1cb2d444-77c7-39ab-bed7-8546a2481603/7181128313-500.jpg" data-tags="post-hardcore" role="button">
+Silverstein - A Shipwreck in the Sand (2009-03-31)
 </li>
-<li data-cover="https://img.discogs.com/XzaWfi-BngGAQzQ73P3mjOdzc7w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2692720-1302358066.jpeg.jpg" data-tags="screamo, post-hardcore" role="button">
-A Skylit Drive - Adelphia (2009-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/8cb08444-26c6-48e8-a0a9-b30126895e7e/19429003524-500.jpg" data-tags="post-hardcore" role="button">
-The Word Alive - Empire (2009-07-21)
+<li data-cover="http://coverartarchive.org/release/91d33912-b3b3-4902-8c86-521d5311f503/15093112862-500.jpg" data-tags="experimental, post-hardcore" role="button">
+Dance Gavin Dance - Happiness (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5da0eb07-a22b-4eac-8624-bf7c04d0a0e8/7601074964-500.jpg" data-tags="metalcore, post-hardcore" role="button">
 Asking Alexandria - Stand Up And Scream (2009-09-15)
@@ -300,6 +291,9 @@ ONE OK ROCK - Nicheシンドローム (2010-06-09)
 <li data-cover="https://img.discogs.com/2czUQI7RV67WNWkyJ5ZC8VUV7N4=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4933779-1399036342-1959.jpeg.jpg" data-tags="alternative rock, indie rock, noise rock, screamo, alternative metal, post-hardcore, britrock" role="button">
 Pulled Apart By Horses - Pulled Apart By Horses (2010-06-21)
 </li>
+<li data-cover="https://img.discogs.com/Suzg7iOEmID30cF-Uou7E8NLCFk=/fit-in/230x230/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2490935-1286906941.jpeg.jpg" data-tags="screamo" role="button">
+Envy - Recitation (2010-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/50b69889-a425-4e70-941b-7a8aea7f3b1f/7674176983-500.jpg" data-tags="metalcore" role="button">
 Bring Me the Horizon - There Is a Hell, Believe Me I've Seen It. There Is a Heaven, Let's Keep It a Secret (2010-10-04)
 </li>
@@ -315,10 +309,16 @@ La Dispute - Wildlife (2011-10-04)
 <li data-cover="http://coverartarchive.org/release/5cba3798-6b2b-41bd-baff-bdcf34cd9a23/4199812326-500.jpg" data-tags="metalcore, screamo, post-hardcore" role="button">
 Bring Me the Horizon - Shadow Moses (2013-01-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/2cdf4fd3-6426-44a7-8156-8c9b1bd1d7f4/8635459268-500.jpg" data-tags="screamo, post-hardcore" role="button">
+Old Gray - An Autobiography (2013-03-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/75fc346b-9c1f-4b2b-a089-4cda6b955222/7162049583-500.jpg" data-tags="rock, hardcore, emo, screamo, post-hardcore, emocore" role="button">
 Falling in Reverse - Fashionably Late (Deluxe Edition) (2013-06-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/dcd35a02-5508-48ac-aed1-da82fae6287c/7870056008-500.jpg" data-tags="emo" role="button">
 Hawthorne Heights - The Silence in Black and White (2014-05-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/1fbcc827-f4a9-4efe-bff3-cc4122a9ad6b/7576454269-500.jpg" data-tags="metalcore, electronic, rock, hardcore, emo, screamo, post-hardcore, trancecore" role="button">
+Crown the Empire - The Resistance: Rise of the Runaways (2014-07-22)
 </li>
 </ol>
