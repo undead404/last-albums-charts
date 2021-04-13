@@ -3,23 +3,24 @@ import find from 'lodash/find';
 import map from 'lodash/map';
 import lunr from 'lunr';
 import { useMemo } from 'react';
+import { useRouteData } from 'react-static';
 
 import { Tag } from '../../types';
-
-import searchIndex from '../search-index.json';
-
-const search = lunr.Index.load(searchIndex);
 
 export default function useFilteredTags(
   tags: Tag[],
   searchTerm?: string,
 ): Tag[] {
+  const { searchIndex } = useRouteData();
+  const search: lunr.Index | null = useMemo(
+    () => (searchIndex ? lunr.Index.load(searchIndex) : null),
+    [searchIndex],
+  );
   const filteredItems = useMemo(() => {
-    if (!searchTerm) {
+    if (!search || !searchTerm) {
       return tags;
     }
     const results = search.search(searchTerm);
-    console.info(results);
     return compact(map(results, (result) => find(tags, ['name', result.ref])));
   }, [searchTerm, tags]);
   return filteredItems;

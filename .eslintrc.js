@@ -207,11 +207,11 @@ module.exports = {
     'import/resolver': {
       typescript: {
         alwaysTryTypes: true, // always try to resolve types under `<root>@types` directory even it doesn't contain any source code, like `@types/unist`,
-        project: ['./functions', './site', './ssg'],
+        project: ['./functions', './site'],
       },
     },
     react: {
-      version: '17.0',
+      version: '16.14',
     },
   },
 };

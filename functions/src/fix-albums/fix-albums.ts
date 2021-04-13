@@ -4,7 +4,7 @@ import { publish } from '../common/amqp-broker';
 import mongoDatabase from '../common/mongo-database';
 import { AlbumAmqpPayload } from '../common/types';
 
-const LIMIT_FOR_ONE_SHOT = 1000;
+const LIMIT_FOR_ONE_SHOT = 10_000;
 
 export default async function fixAlbums(): Promise<void> {
   const albums = await mongoDatabase.albums

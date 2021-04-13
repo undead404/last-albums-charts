@@ -14,7 +14,11 @@ export default async function pickTag(): Promise<WithId<TagRecord> | null> {
   const indexToPick = toInteger(Math.random() * numberOfTags);
   tag =
     head(
-      await mongoDatabase.tags.find({}).skip(indexToPick).limit(1).toArray(),
+      await mongoDatabase.tags
+        .find({ power: 0 })
+        .skip(indexToPick)
+        .limit(1)
+        .toArray(),
     ) || null;
   return tag;
 }

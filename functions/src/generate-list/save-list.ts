@@ -1,14 +1,35 @@
-import { UpdateWriteOpResult, WithId } from 'mongodb';
+import some from 'lodash/some';
+import { WithId } from 'mongodb';
 
 import mongoDatabase from '../common/mongo-database';
 import { AlbumRecord, TagRecord } from '../common/types';
 
-export default function saveList(
+function didAlbumsChange(
   tagRecord: TagRecord,
   albums?: WithId<AlbumRecord>[],
-): Promise<UpdateWriteOpResult> {
-  if (!albums) {
-    return mongoDatabase.tags.updateOne(
+): boolean {
+  if (!albums && !tagRecord.topAlbums) {
+    return false;
+  }
+  if (!albums || !tagRecord.topAlbums) {
+    return true;
+  }
+  return some(albums, (chartAlbum, index) => {
+    const tagAlbum = tagRecord.topAlbums?.[index];
+    return (
+      !tagAlbum ||
+      chartAlbum.artist !== tagAlbum.artist ||
+      chartAlbum.name !== tagAlbum.name
+    );
+  });
+}
+
+export default async function saveList(
+  tagRecord: TagRecord,
+  albums?: WithId<AlbumRecord>[],
+): Promise<void> {
+  if (!albums || !didAlbumsChange(tagRecord, albums)) {
+    await mongoDatabase.tags.updateOne(
       { name: tagRecord.name },
       {
         $set: {
@@ -19,13 +40,14 @@ export default function saveList(
         },
       },
     );
+    return;
   }
   const tagUpdate: Partial<TagRecord> = {
     listCreatedAt: new Date(),
     topAlbums: albums,
   };
 
-  return mongoDatabase.tags.updateOne(
+  await mongoDatabase.tags.updateOne(
     { name: tagRecord.name },
     { $set: tagUpdate },
   );

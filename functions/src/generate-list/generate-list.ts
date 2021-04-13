@@ -7,7 +7,6 @@ import logger from '../common/logger';
 import mongodb from '../common/mongo-database';
 import sleep from '../common/sleep';
 import { AlbumRecord, TagRecord, Weighted } from '../common/types';
-import generatePost from './generate-post';
 
 import pickTag from './pick-tag';
 import saveList from './save-list';
@@ -106,17 +105,16 @@ export default async function generateList(): Promise<void> {
       await sleep(DELAY);
       await generateList();
     } else {
-      await generatePost(tagRecord, albums);
-    }
-    logger.debug('generateList: success');
+      logger.debug('generateList: success');
 
-    await publish('perf', {
-      end: new Date().toISOString(),
-      start: start.toISOString(),
-      success: true,
-      targetName: tagRecord?.name,
-      title: 'generateList',
-    });
+      await publish('perf', {
+        end: new Date().toISOString(),
+        start: start.toISOString(),
+        success: true,
+        targetName: tagRecord?.name,
+        title: 'generateList',
+      });
+    }
   } catch (error) {
     await publish('perf', {
       end: new Date().toISOString(),

@@ -1,5 +1,5 @@
 import { parseISO } from 'date-fns';
-import { SerializedTag, Tag } from 'types';
+import { SerializedTag, Tag } from '../../types';
 
 export default function deserializeTag(serializedTag: SerializedTag): Tag {
   return {

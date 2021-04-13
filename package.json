@@ -35,7 +35,7 @@
 	"scripts": {
 		"fix": "eslint . --fix",
 		"lint": "eslint .",
-		"postinstall": "cd ./functions && yarn; cd ../ssg && yarn; cd ..",
+		"postinstall": "cd ./functions && yarn; cd ../site && yarn; cd ..",
 		"process": "cd ./functions && yarn start; cd .."
 	},
 	"version": "0.1.0"

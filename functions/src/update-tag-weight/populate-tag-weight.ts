@@ -1,0 +1,59 @@
+import { publish } from '../common/amqp-broker';
+import logger from '../common/logger';
+import mongoDatabase from '../common/mongo-database';
+
+import pickTag from './pick-tag';
+
+const HUNDRED_MILLIONS = 100_000_000;
+const NORMALIZATION = 1 / HUNDRED_MILLIONS;
+
+export default async function populateTagWeight(): Promise<void> {
+  const start = new Date();
+  const tag = await pickTag();
+  if (!tag) {
+    logger.warn('No tag to populate weight');
+    return;
+  }
+  try {
+    logger.info(`populateTagWeight: ${tag.name}`);
+    const [{ power } = { power: 0 }] = await mongoDatabase.albums
+      .aggregate<{ power: number }>([
+        { $match: { [`tags.${tag.name}`]: { $gt: 0 } } },
+        {
+          $group: {
+            _id: null,
+            power: {
+              $sum: {
+                $multiply: [
+                  `$tags.${tag.name}`,
+                  '$playcount',
+                  '$listeners',
+                  NORMALIZATION,
+                ],
+              },
+            },
+          },
+        },
+      ])
+      .toArray();
+    await (power === 0
+      ? mongoDatabase.tags.deleteOne({ _id: tag._id })
+      : mongoDatabase.tags.updateOne({ _id: tag._id }, { $set: { power } }));
+    await publish('perf', {
+      end: new Date().toISOString(),
+      start: start.toISOString(),
+      success: true,
+      targetName: tag.name,
+      title: 'populateTagWeight',
+    });
+  } catch (error) {
+    await publish('perf', {
+      end: new Date().toISOString(),
+      start: start.toISOString(),
+      success: false,
+      targetName: tag.name,
+      title: 'populateTagWeight',
+    });
+    throw error;
+  }
+}

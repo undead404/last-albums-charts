@@ -12,6 +12,7 @@ const BLACKLISTED_TAGS = [
   '8 soothing songs for rut',
   'a',
   'agitada',
+  'album',
   'album i own',
   'albums',
   'albums i have',
@@ -142,6 +143,7 @@ const BLACKLISTED_TAGS = [
   'fully streamable',
   'fully streamable albums',
   'fun',
+  'funny',
   'garbage',
   'gay',
   'gay metal',
@@ -195,6 +197,7 @@ const BLACKLISTED_TAGS = [
   'all-time-favorite',
   'its not indie assholes',
   'just put your what what deep in my butt butt and let juice fly and ill soak up the what what in the butt butt penis fish meat carebears',
+  'k1r7m',
   'kacke',
   'kategorische elative',
   'kept in freezer to be served as dinner',
@@ -214,6 +217,7 @@ const BLACKLISTED_TAGS = [
   'love',
   'love at first listen',
   'love it',
+  'lovely',
   'masterpiece',
   'me',
   'mediocore',
@@ -240,9 +244,6 @@ const BLACKLISTED_TAGS = [
   'my favorite albums',
   'my favorites',
   'my favourite albums',
-  'my gang',
-  'my gang 08',
-  'my gang 10',
   'my hatred of this is so thick and rich that you could drizzle it over pancakes',
   'my little kvlts',
   'my private work station',
@@ -328,6 +329,7 @@ const BLACKLISTED_TAGS = [
   'spermgrind',
   'streamable',
   'stupid',
+  'stylish',
   'suavesfabio power',
   'superb song to drive to',
   'superr',
@@ -398,6 +400,9 @@ export default function isTagBlacklisted(tagName: string): boolean {
   if (includes(BLACKLISTED_TAGS, tagName)) {
     return true;
   }
+  if (startsWith(tagName, ' ')) {
+    return true;
+  }
   if (startsWith(tagName, 'best ')) {
     return true;
   }
@@ -435,6 +440,9 @@ export default function isTagBlacklisted(tagName: string): boolean {
     return true;
   }
   if (endsWith(tagName, 'buttcore')) {
+    return true;
+  }
+  if (startsWith(tagName, 'my gang')) {
     return true;
   }
   return false;

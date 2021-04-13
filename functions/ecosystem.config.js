@@ -130,5 +130,28 @@ module.exports = {
       script: 'lib/track-performance/run.js',
       watch: false,
     },
+    {
+      cron_restart: '* * * * *',
+      env: {
+        APP_NAME: 'utWeight',
+      },
+      exec_mode: 'fork',
+      instances: 1,
+      name: 'utWeight',
+      script: 'lib/update-tag-weight/run.js',
+      watch: false,
+    },
+    {
+      autorestart: true,
+      cron_restart: '* * * * *',
+      env: {
+        APP_NAME: 'uList',
+      },
+      exec_mode: 'fork',
+      instances: 1,
+      name: 'uList',
+      script: 'lib/update-list/run.js',
+      watch: false,
+    },
   ],
 };

@@ -1,3 +1,7 @@
+export type Weighted<T> = T & {
+  weight: number;
+};
+
 export interface Album {
   artist: string;
   cover?: null | string;
@@ -8,6 +12,7 @@ export interface Album {
   name: string;
   numberOfTracks: number | null;
   playcount: number | null;
+  rating: number;
   tags: { [name: string]: number } | null;
   thumbnail?: null | string;
 }
@@ -17,7 +22,7 @@ export interface Tag {
   lastProcessedAt: null | Date;
   listCreatedAt: null | Date;
   power: number;
-  topAlbums?: Album[] | null;
+  topAlbums?: Weighted<Album>[] | null;
 }
 
 export interface SerializedTag

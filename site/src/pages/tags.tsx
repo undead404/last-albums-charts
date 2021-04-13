@@ -1,9 +1,9 @@
 import { Link } from '@reach/router';
-import { Input, Layout, Table, TableProps, Typography } from 'antd';
+import { BackTop, Input, Layout, PageHeader, Table, TableProps } from 'antd';
 import { formatISO } from 'date-fns';
 import filenamify from 'filenamify';
 import map from 'lodash/map';
-import React, { useMemo, useState } from 'react';
+import React, { CSSProperties, useMemo, useState } from 'react';
 import { useRouteData } from 'react-static';
 
 import { SerializedTag, Tag } from '../../types';
@@ -14,15 +14,9 @@ import useLogChanges from '../hooks/use-log-changes';
 import compareDates from '../utils/compare-dates';
 import compareStrings from '../utils/compare-strings';
 import deserializeTag from '../utils/deserialize-tag';
+import goBack from '../utils/go-back';
 
 const COLUMNS: TableProps<Tag>['columns'] = [
-  {
-    key: 'number',
-    render(_value, _tag, index) {
-      return `${index + 1}`;
-    },
-    title: '#',
-  },
   {
     key: 'name',
     render(_value, tag) {
@@ -34,16 +28,19 @@ const COLUMNS: TableProps<Tag>['columns'] = [
     title: 'Name',
   },
   {
+    align: 'right',
     key: 'thumbnail',
     render(_value, tag) {
       return <TagImage tag={tag} />;
     },
+    responsive: ['xs', 'sm', 'md', 'lg', 'xl', 'xxl'],
   },
   {
     key: 'listCreatedAt',
     render(_value, tag) {
       return formatISO(tag.listCreatedAt);
     },
+    responsive: ['md', 'lg', 'xl', 'xxl'],
     sorter(tag1, tag2) {
       return compareDates(tag1.listCreatedAt, tag2.listCreatedAt);
     },
@@ -54,6 +51,7 @@ const COLUMNS: TableProps<Tag>['columns'] = [
     render(_value, tag) {
       return formatISO(tag.lastProcessedAt);
     },
+    responsive: ['lg', 'xl', 'xxl'],
     sorter(tag1, tag2) {
       return compareDates(tag1.lastProcessedAt, tag2.lastProcessedAt);
     },
@@ -61,6 +59,7 @@ const COLUMNS: TableProps<Tag>['columns'] = [
   },
   {
     dataIndex: 'power',
+    responsive: ['xl', 'xxl'],
     sorter(tag1, tag2) {
       if (tag1.power < tag2.power) {
         return -1;
@@ -74,6 +73,12 @@ const COLUMNS: TableProps<Tag>['columns'] = [
   },
 ];
 
+const SCROLL: TableProps<Tag>['scroll'] = {
+  y: '100vh',
+};
+
+const HEADER_STYLE: CSSProperties = { background: 'none' };
+
 export default function Tags(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState('');
   const { tags: serializedTags }: { tags: SerializedTag[] } = useRouteData();
@@ -85,13 +90,26 @@ export default function Tags(): JSX.Element {
   useLogChanges('Tags', 'filteredTags', filteredTags);
   return (
     <Layout>
-      <Layout.Header>
-        <Typography.Title>Available charts</Typography.Title>
+      <Layout.Header style={HEADER_STYLE}>
+        <PageHeader
+          extra={<Link to="/tag-list">Full list</Link>}
+          onBack={goBack}
+          title="Available charts"
+        ></PageHeader>
       </Layout.Header>
       <Layout.Content>
-        <Input.Search onSearch={setSearchTerm}></Input.Search>
-        <Table columns={COLUMNS} dataSource={filteredTags} rowKey="name" />
+        <Input.Search
+          onSearch={setSearchTerm}
+          placeholder="Search..."
+        ></Input.Search>
+        <Table
+          columns={COLUMNS}
+          dataSource={filteredTags}
+          rowKey="name"
+          scroll={SCROLL}
+        />
       </Layout.Content>
+      <BackTop />
     </Layout>
   );
 }

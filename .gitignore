@@ -67,3 +67,5 @@ node_modules/
 **/node_modules/**
 **/lib/**
 site/dist
+site/tmp
+site/artifacts
