@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:34:01.469Z
+date: 2021-04-13T02:18:12.658Z
 title: "new age: 100 albums you must listen to before you die"
 ---
 ![Enya - Amarantine (2005-11-18)](http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg "Enya - Amarantine (2005-11-18)")
@@ -222,6 +222,9 @@ Diane Arkenstone - Aquaria: A Liquid Blue Trancescape (2001-10-02)
 <li data-cover="http://coverartarchive.org/release/880019b0-9411-4bb1-ad55-fb8b31d14bce/22408375238-500.jpg" data-tags="celtic" role="button">
 Secret Garden - Once in a Red Moon (2002-03-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/de303c46-f1b4-404b-9216-fb65002f858f/16223376046-500.jpg" data-tags="female vocalists, emma shapplin" role="button">
+Emma Shapplin - Etterna (2002-05-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/b1374cc9-4e6f-4ec8-9902-84ae1430d0a6/21618689737-500.jpg" data-tags="ambient, chillout" role="button">
 Conjure One - Conjure One (2002-09-17)
 </li>
@@ -302,9 +305,6 @@ Amethystium - Isabliss (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/16d139e2-e940-36e4-b865-99f4dd667573/14012130666-500.jpg" data-tags="christmas" role="button">
 Enya - And Winter Came (2008-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/38d98a67-9fe0-3c1d-9b9a-6ba6475da30c/5572267812-500.jpg" data-tags="instrumental, epic, choral, new age, orchestral, uplifting, 10s, february, trailer music, 2nd" role="button">
-E.S. Posthumus - Makara (2010-02-02)
 </li>
 <li data-cover="https://img.discogs.com/IZ7G1DN-PATB30I1Rs5mvGmZ14Y=/fit-in/598x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2129117-1414612668-5460.jpeg.jpg" data-tags="trance, electronic, ambient" role="button">
 Ellie Goulding - Starry Eyed (2010-02-18)

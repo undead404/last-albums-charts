@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:16:06.948Z
+date: 2021-04-13T02:03:01.450Z
 title: "progressive death metal: 100 albums you must listen to before you die"
 ---
 ![Opeth - Watershed (2008-05-28)](http://coverartarchive.org/release/eed810a6-8266-4009-879d-cb3dd7c875a9/27886281233-500.jpg "Opeth - Watershed (2008-05-28)")
@@ -237,9 +237,6 @@ Between the Buried and Me - The Great Misdirect (2009-10-26)
 <li data-cover="http://coverartarchive.org/release/321ba2e7-9476-4573-84c8-e138bd8561d9/1078403771-500.jpg" data-tags="doom metal, death doom metal" role="button">
 Swallow the Sun - New Moon (2009-11-04)
 </li>
-<li data-cover="https://img.discogs.com/cphJ96s0yDGx89i7brUKgACacEI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059678-1188925726.jpeg.jpg" data-tags="japanese, progressive metal, death metal, j-rock, visual kei, progressive death metal, experimental metal" role="button">
-DIR EN GREY - 激しさと、この胸の中で絡み付いた灼熱の闇 (2009-12-02)
-</li>
 <li data-cover="http://coverartarchive.org/release/1e1ce544-b97e-43e9-b225-7f6e7c3c31a9/10894091664-500.jpg" data-tags="death metal, brutal technical death metal, progressive death metal" role="button">
 Burning the Masses - Offspring Of Time (2010)
 </li>
@@ -272,6 +269,9 @@ Novembers Doom - Aphotic (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9eb85d92-5de3-435e-8887-c84bc1a5840a/1123301127-500.jpg" data-tags="progressive metal" role="button">
 Amorphis - The Beginning of Times (2011-05-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/47321357-568f-4fa1-bb06-b03cb7fceab7/7530934595-500.jpg" data-tags="progressive metal" role="button">
+DIR EN GREY - Dum Spiro Spero (2011-08-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/99c84ccf-8593-483f-9f3c-e7f16a6a0ddc/8684736002-500.jpg" data-tags="technical death metal, progressive death metal" role="button">
 Fallujah - The Harvest Wombs (2011-11-22)

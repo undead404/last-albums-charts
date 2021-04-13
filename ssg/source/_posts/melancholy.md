@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T12:19:01.533Z
+date: 2021-04-13T02:30:35.025Z
 title: "melancholy: 100 albums you must listen to before you die"
 ---
 ![Coldplay - Viva la Vida (2008-06-11)](http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg "Coldplay - Viva la Vida (2008-06-11)")
@@ -102,9 +102,6 @@ Manic Street Preachers - This Is My Truth Tell Me Yours (1998-09-09)
 <li data-cover="http://coverartarchive.org/release/18274d01-86aa-4f26-ab80-5526bd285d9b/5129179403-500.jpg" data-tags="90s, indie rock" role="button">
 Eels - Electro-Shock Blues (1998-09-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
-Robbie Williams - I've Been Expecting You (1998-10-26)
-</li>
 <li data-cover="https://img.discogs.com/yddcCoFsO9U_SADeJAtvIt7ZHBI=/fit-in/503x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3445893-1330696514.jpeg.jpg" data-tags="pop, folk, jewel" role="button">
 Jewel - Spirit (1998-11-17)
 </li>
@@ -116,6 +113,9 @@ The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/534c550b-6e60-4dbc-9e95-05ea0340b0e1/26393492763-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Every Day and Every Night (1999-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/7e5b58b3-b809-4e27-80fc-d40159dda8b2/2323970147-500.jpg" data-tags="indie pop" role="button">
+Kings of Convenience - Kings of Convenience (2000)
 </li>
 <li data-cover="https://img.discogs.com/0tLx6h37PbIT-dOy4e4LysLs5Jk=/fit-in/500x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-491534-1122498312.jpg.jpg" data-tags="rock, melancholy, emusic, my favorites, stoney" role="button">
 Mark Kozelek - Rock 'N' Roll Singer (2000-03-01)
@@ -141,6 +141,9 @@ Embrace - If You've Never Been (2001-09-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">
 Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/93da75f9-fdb9-4614-98e9-d7e265f5419d/27163965605-500.jpg" data-tags="folk, rosie thomas" role="button">
+Rosie Thomas - When We Were Small (2002-01-22)
+</li>
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
 </li>
@@ -149,9 +152,6 @@ Coldplay - In My Place (2002-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fc6366c-ad31-4825-80b0-b2830ba9712b/10272280281-500.jpg" data-tags="singer-songwriter, female vocalists" role="button">
 Aimee Mann - Lost in Space (2002-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/d6dfec82-bdcc-4e05-9d8e-7666f9e74c0b/14023327941-500.jpg" data-tags="female vocalists, trip-hop" role="button">
-Beth Gibbons & Rustin Man - Out of Season (2002-10-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, electronic, singer-songwriter, melancholy, klik plum" role="button">
 Erlend Øye - Sudden Rush (2003)
@@ -198,6 +198,9 @@ DIR EN GREY - Withering to death (2005-03-09)
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/d87a354a-b0eb-44cc-bc09-cc966eb86df2/20833625751-500.jpg" data-tags="pop" role="button">
+a-ha - Analogue (2005-10-31)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic, female vocalists" role="button">
 Lou Rhodes - Beloved One (2005-12-05)
 </li>
@@ -221,9 +224,6 @@ The National - Boxer (2007-05-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">
 Stateless - Stateless (2007-06-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
-Stars - In Our Bedroom After the War (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa2b78dc-f318-4b16-9b7f-e0ddc52a2429/23547814573-500.jpg" data-tags="melancholy" role="button">
 Jon Foreman - Winter (2008-01-15)

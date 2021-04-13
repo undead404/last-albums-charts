@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:02:01.468Z
+date: 2021-04-13T02:08:01.459Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -50,6 +50,9 @@ Zebrahead - Playmate of the Year (2000-08-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1dc23ce-a039-3667-b7e0-e151ce560ba1/17499691187-500.jpg" data-tags="pop punk" role="button">
 Sugarcult - Start Static (2001-03-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c552a41-0787-4fac-9a47-c57189f4cb3e/3045265515-500.jpg" data-tags="punk rock" role="button">
+Alkaline Trio - From Here to Infirmary (2001-04-03)
 </li>
 <li data-cover="https://img.discogs.com/mtkGbv_VMPU89YRc3gDEewalxks=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472533-1241059996.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">
 Weezer - Weezer (2001-04-24)
@@ -264,17 +267,14 @@ Fall Out Boy - Folie à deux (2008-12-10)
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/89dd0390-5a5d-457f-900e-90fd1c43f077/10226970067-500.jpg" data-tags="pop punk" role="button">
-All Time Low - Nothing Personal (2009-01-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg" data-tags="post-hardcore, metalcore, pop punk" role="button">
 A Day to Remember - Homesick (2009-02-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/b9b36ee2-1f4f-4d01-ab6d-9ed975189ac9/21455987147-500.jpg" data-tags="alternative rock, pop rock, pop punk, russian roulette, j adore, ripped, posted to half, no cure1, red city pt2, from dreams to life, no cure, definition of fantabulous, you cant illustrate while you suffocate, for everything youve done, enjoy your stay isaac, no cure band" role="button">
+Anarbor - Free Your Mind (2009-03-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/b266af07-7453-4e02-aa7a-c9d00369ec5d/10385344125-500.jpg" data-tags="punk rock" role="button">
 Green Day - 21st Century Breakdown (2009-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
-Mayday Parade - Anywhere But Here (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa345686-b9cf-47d4-9862-e37e9199c4e5/8250454850-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Believers Never Die - Greatest Hits (2009-11-17)

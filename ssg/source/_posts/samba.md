@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T01:27:06.980Z
+date: 2021-04-13T02:05:07.099Z
 title: "samba: 100 albums you must listen to before you die"
 ---
 ![Banda do Mar - Banda do Mar (2014-08-05)](http://coverartarchive.org/release/77fd947a-cbda-4d09-93b4-6753ab5e7a3c/8201873863-500.jpg "Banda do Mar - Banda do Mar (2014-08-05)")
@@ -105,6 +105,9 @@ Demônios Da Garoa - O Samba Continua (1981)
 <li data-cover="http://coverartarchive.org/release/3b01bf12-201b-45f8-9167-91344bd12b87/26771751187-500.jpg" data-tags="soundtrack, bossa nova, samba, trilha sonora, bresil, gil, vocalistas masculinos, brasileirinhos, bom sambinha, gilberto gil-quilombo" role="button">
 Gilberto Gil - Quilombo (1984)
 </li>
+<li data-cover="https://img.discogs.com/e4uuSfiGy2FOSQ3M6R9ENApqNw4=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5911690-1454938317-9914.jpeg.jpg" data-tags="bossa nova" role="button">
+Stan Getz - Getz Au Go Go (1984-08-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/2d59d89a-3b90-471f-a85e-5ecbcaec4268/8293805928-500.jpg" data-tags="bossa nova, samba, astrud gilberto" role="button">
 Astrud Gilberto - This Is Astrud Gilberto (1985)
 </li>
@@ -198,9 +201,6 @@ Ana Carolina - Ana Rita Joana Iracema e Carolina (2001)
 <li data-cover="https://img.discogs.com/QogEqz9bVEKfP_9J4_RUjlpklCM=/fit-in/485x473/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4058189-1353845449-4377.jpeg.jpg" data-tags="bossa nova, mpb, samba, melodico, vocalistas femeninas, zizi, brasileirinhos, zizi possi, bom sambinha, z possi" role="button">
 Zizi Possi - Bossa (2001)
 </li>
-<li data-cover="http://coverartarchive.org/release/05e24f94-9ee0-4f35-a215-3fe976381096/17206730812-500.jpg" data-tags="funk, disco, dance" role="button">
-Chic - Chic (2001)
-</li>
 <li data-cover="https://img.discogs.com/mD6ZJc7UuBBvVMzl2VPvVrCEaEQ=/fit-in/395x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-70812-1343243207-2823.jpeg.jpg" data-tags="samba" role="button">
 Trio Mocotó - Samba Rock (2001)
 </li>
@@ -246,9 +246,6 @@ Curumin - Achados e Perdidos (2005)
 <li data-cover="http://coverartarchive.org/release/d6ac4465-894d-42e3-b076-35ad24aa17ad/16069267749-500.jpg" data-tags="pop, samba, axe" role="button">
 Daniela Mercury - Balé Mulato (2005)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie pop, swedish" role="button">
-Sambassadeur - Sambassadeur (2005)
-</li>
 <li data-cover="https://img.discogs.com/pWu73GW15rF5JZO_O5pfkQJsYe0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8779132-1468596555-9559.jpeg.jpg" data-tags="samba, pagode, pagode romantico" role="button">
 Alexandre Pires - Meu Samba (2005-07-20)
 </li>
@@ -261,9 +258,6 @@ Baden Powell - Canta Vinicius De Moraes e Paolo Cesar Pinheiro (2006)
 <li data-cover="https://img.discogs.com/V_pCiTlNbS2E-8nhbUxn7P9eA98=/fit-in/597x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-894540-1377984817-4955.jpeg.jpg" data-tags="bossa nova, mpb, samba" role="button">
 Chico Buarque - Chico Buarque Na Itália (2006)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mpb, brazilian, samba, bossa nova" role="button">
-Jorge Ben Jor - Football & Samba Groove Association (2006)
-</li>
 <li data-cover="https://img.discogs.com/JAQK1ZOQh9hVjEh-Ei5erFmZoNM=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3635360-1521784378-3749.jpeg.jpg" data-tags="mpb, maria bethania" role="button">
 Maria Bethânia - Mar De Sophia (2006)
 </li>
@@ -272,6 +266,9 @@ Marcelo D2 - Meu Samba é Assim (2006)
 </li>
 <li data-cover="https://img.discogs.com/bEF10aksLc7TpjHqL-wgXig96Lk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9559523-1482763955-6754.jpeg.jpg" data-tags="cartola, mpb, ney matogrosso" role="button">
 Ney Matogrosso - Ney Matogrosso Interpreta Cartola (2006-04-05)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
+The Ipanemas - Samba Is Our Gift (2006-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9da36c8-3d17-45ff-9e7c-ff700a4117fc/9581602505-500.jpg" data-tags="samba, merengue, frevo, carimbo" role="button">
 Banda Calypso - Pelo Brasil (2006-09)
@@ -284,6 +281,9 @@ Elza Soares - Beba-Me Ao Vivo (2007)
 </li>
 <li data-cover="https://img.discogs.com/YKtZJ_ZQIi9leWdEL3-3oILQoqk=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15762325-1597326405-6914.jpeg.jpg" data-tags="samba, melhores, pandeiro, casuarina, mpb - 2000, mtv apresenta, samba do brasil" role="button">
 Casuarina - Certidão (2007)
+</li>
+<li data-cover="https://img.discogs.com/XNZKET8PTzSTulyASQ_HhtC9f6c=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12571046-1537820471-2120.jpeg.jpg" data-tags="smooth jazz" role="button">
+Maysa - Feel The Fire (2007)
 </li>
 <li data-cover="https://img.discogs.com/9EHByXhzEYsoESiP4of5y5vrj_Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15215883-1588231622-3769.jpeg.jpg" data-tags="samba" role="button">
 Fabiana Cozza - Quando O Céu Clarear (2007)

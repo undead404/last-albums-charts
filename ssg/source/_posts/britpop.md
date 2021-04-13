@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:49:01.457Z
+date: 2021-04-13T02:36:07.057Z
 title: "britpop: 100 albums you must listen to before you die"
 ---
 ![Coldplay - A Rush of Blood to the Head (2002-08-12)](http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg "Coldplay - A Rush of Blood to the Head (2002-08-12)")
@@ -165,9 +165,6 @@ Stereophonics - You Gotta Go There to Come Back (2003-05-28)
 <li data-cover="http://coverartarchive.org/release/054cda68-baca-455e-9fdb-8c9663be2280/21752177114-500.jpg" data-tags="indie, alternative, indie rock, rock" role="button">
 Snow Patrol - Final Straw (2003-08-04)
 </li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/47a1f944-e46f-4a7e-b882-1632c9397176/15016689641-500.jpg" data-tags="britpop, indie" role="button">
 Travis - 12 Memories (2003-10-08)
 </li>
@@ -305,6 +302,9 @@ Oasis - Dig Out Your Soul (2008-10-01)
 </li>
 <li data-cover="https://img.discogs.com/kJ4wLalFEADFJLPeMcKLqSchBdc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3541080-1576383388-7770.jpeg.jpg" data-tags="indie, britpop, rock" role="button">
 Kaiser Chiefs - Off with Their Heads (2008-10-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/80529b35-4d5b-4b6a-a101-124737b8d96c/15828000640-500.jpg" data-tags="indie, rock, alternative, 00s indie, indie rock, 00s" role="button">
+Razorlight - Slipway Fires (2008-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/9394804c-b1f7-4ff1-9539-8f996a7feb7b/15824307211-500.jpg" data-tags="rock, coldplay, britpop" role="button">
 Coldplay - Every Teardrop Is a Waterfall (2011-06-03)

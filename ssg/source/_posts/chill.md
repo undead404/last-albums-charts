@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:43:07.059Z
+date: 2021-04-13T01:49:01.472Z
 title: "chill: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -8,9 +8,9 @@ title: "chill: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a7b9e4e4-b21e-4c70-8aee-5fa555796225/16662903606-500.jpg" data-tags="jazz" role="button">Norah Jones - Come Away with Me (2002-02-26)</li>
 <li data-cover="http://coverartarchive.org/release/972a10fd-c0b7-47c4-9c72-267a8e6aec38/23562352835-500.jpg" data-tags="acoustic, jack johnson" role="button">Jack Johnson - On and On (2003-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">Aqualung - Still Life (2003-10-27)</li>
 <li data-cover="http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg" data-tags="acoustic" role="button">Jack Johnson - In Between Dreams (2005-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">The Whitest Boy Alive - Dreams (2006-04-27)</li>
+<li data-cover="http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg" data-tags="blues, john mayer" role="button">John Mayer - Continuum (2006-08-01)</li>
 <li data-cover="http://coverartarchive.org/release/402e7158-57a2-48c1-9ecc-83a78f3f6c8e/2859644033-500.jpg" data-tags="pop" role="button">Colbie Caillat - Coco (2007-01-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">Jack Johnson - Sleep Through The Static (2008-02-01)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">Melody Gardot - My One And Only Thrill (2008-12-16)</li>
@@ -48,9 +48,6 @@ Eels - Beautiful Freak (1996-08-05)
 <li data-cover="http://coverartarchive.org/release/fb8647ff-066b-4e9e-b9b0-791f39bcfa13/4530526778-500.jpg" data-tags="dub, chill" role="button">
 Tosca - Fuck Dub (1997-09-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
-Alpha - Come From Heaven (1997-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/70f5e652-0a10-37ca-8d1d-1610ca3cfa29/3711112834-500.jpg" data-tags="rock, 90s, female vocalists" role="button">
 The Cardigans - Gran Turismo (1998-10-19)
 </li>
@@ -83,9 +80,6 @@ Erykah Badu - Mama's Gun (2000-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c382e7a-1efa-46fb-9fcf-fca60599fe71/6110111109-500.jpg" data-tags="chillout" role="button">
 Citizen Cope - Citizen Cope (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/e02ccb17-e073-4439-a38c-a5008e1bcead/22576180833-500.jpg" data-tags="female vocalists, 00s" role="button">
-Azure Ray - Azure Ray (2001-01-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg" data-tags="chillout, downtempo" role="button">
 Zero 7 - Simple Things (2001-04-23)
@@ -120,6 +114,9 @@ Thievery Corporation - The Richest Man in Babylon (2002-09-17)
 <li data-cover="http://coverartarchive.org/release/5c2e6103-520e-4459-b2d3-d74e86b608ae/17932879162-500.jpg" data-tags="indie, folk" role="button">
 Alexi Murdoch - Four Songs (2002-11-06)
 </li>
+<li data-cover="https://img.discogs.com/D91ET61zdK826zhbK6xUol_LEvA=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2943959-1308469956.jpeg.jpg" data-tags="rock" role="button">
+The Beautiful Girls - Morning Sun (2002-12-02)
+</li>
 <li data-cover="https://img.discogs.com/lJfsIbR1eYiKn_7LBqccO0cXZ20=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-759412-1284497750.jpeg.jpg" data-tags="singer-songwriter, albums i played hell out of, two way monologue" role="button">
 Sondre Lerche - Two Way Monologue (2003)
 </li>
@@ -132,6 +129,9 @@ Eels - Shootenanny! (2003-05-28)
 <li data-cover="https://img.discogs.com/09rkHBJw5AXO7W3cw_95LR9xFm8=/fit-in/584x576/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-405219-1254081822.jpeg.jpg" data-tags="rock, indie, indie rock" role="button">
 Grandaddy - Sumday (2003-06-09)
 </li>
+<li data-cover="https://img.discogs.com/wJbOf-gWcNiqZ8DWYKZ905Qap1o=/fit-in/419x419/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4902343-1378929554-8162.jpeg.jpg" data-tags="chanson, chill, progressive rock" role="button">
+Pete Francis - Untold (2003-06-17)
+</li>
 <li data-cover="http://coverartarchive.org/release/8dc17780-6a26-4ccb-91c9-23d568de83d4/27879377982-500.jpg" data-tags="teitur" role="button">
 Teitur - Poetry & Aeroplanes (2003-06-22)
 </li>
@@ -140,9 +140,6 @@ John Mayer - Heavier Things (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)
-</li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
-Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/394546f4-2c4f-4f67-a8ad-137b6ca3edec/13313814649-500.jpg" data-tags="heavy metal, chill, rock, punk, reggae, dub, ska, boogie on down, love songs that rock" role="button">
 The Expendables - Gettin' Filthy (2004)
@@ -159,12 +156,6 @@ Feist - Let It Die (2004-05-18)
 <li data-cover="http://coverartarchive.org/release/ffb07277-c860-4ed0-957f-539096995573/17531246316-500.jpg" data-tags="chill, folk, singer-songwriter, folk rock, 00s" role="button">
 Griffin House - Lost & Found (2004-08-24)
 </li>
-<li data-cover="https://img.discogs.com/8FIA2sz1_BotHhDwNL31gjdQ-mU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13941067-1564536660-2325.jpeg.jpg" data-tags="indie, indie pop" role="button">
-Stars - Set Yourself on Fire (2004-09-14)
-</li>
-<li data-cover="https://img.discogs.com/vTpeM_ZRvSZHvU4-5ef5DJgAaII=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14170893-1569176715-5293.jpeg.jpg" data-tags="chill" role="button">
-Lars Winnerbäck - Vatten under broarna (2004-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/a2219b6c-5c32-31ef-a8db-20805aa86310/3526715644-500.jpg" data-tags="electronica, trip-hop, chill, chillout, reggae" role="button">
 Thievery Corporation - Babylon Rewound (2004-11-02)
 </li>
@@ -176,6 +167,9 @@ Jack Johnson - In Between Dreams (2005-02-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Slightly Stoopid - Closer To The Sun (2005-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a8be8fc-520f-4b09-bca2-97a6900a33b6/4226651594-500.jpg" data-tags="alternative rock, rock" role="button">
+Acceptance - Phantoms (2005-04-26)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
@@ -189,14 +183,17 @@ David Gray - Life In Slow Motion (2005-09-12)
 <li data-cover="https://img.discogs.com/C-GIJ37K5lw77l09qevF9Di2VP0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3625999-1439766596-5010.jpeg.jpg" data-tags="chill, reggae, surf, ska, summer, california, dancehall, beach, baixar depois, happy music for work" role="button">
 The Supervillains - Grow Yer Own (2006)
 </li>
+<li data-cover="http://coverartarchive.org/release/856b4dd4-5449-4f23-92b8-b6a94c2aa6b2/10640547102-500.jpg" data-tags="chill, folk, singer-songwriter, acoustic, purchased 09" role="button">
+Griffin House - Homecoming (2006)
+</li>
 <li data-cover="http://coverartarchive.org/release/ae6389a7-cd8c-3e62-8db1-1b9a9e6e27b9/4394479901-500.jpg" data-tags="downtempo, chillout" role="button">
 Nightmares on Wax - In A Space Outta Sound (2006-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/abc685a8-6339-4b71-bd30-1fb9b4b48ae1/2203270543-500.jpg" data-tags="chill, reggae, surf, summer, california, beach, reggae-rock, bally, happy music for work" role="button">
 Ballyhoo! - Do It For The Money! (2006-01-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/cc491072-7ed0-40c1-a36b-4499e86de2b5/10795881747-500.jpg" data-tags="hip-hop, hip hop, rap, the streets" role="button">
-The Streets - The Hardest Way To Make An Easy Living (2006-04-10)
+<li data-cover="http://coverartarchive.org/release/b8dd08ea-a934-4baa-9129-d4ec01f0b763/8871508950-500.jpg" data-tags="rap, hip-hop, hip hop, ti" role="button">
+T.I. - King (2006-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/991663bf-fc45-422f-bf7f-7e713c22b591/17925341829-500.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Dreams (2006-04-27)
@@ -231,9 +228,6 @@ Apparat - Walls (2007-05)
 <li data-cover="http://coverartarchive.org/release/3e23b9fc-89c4-48c4-b1d3-bd26122c628d/11720822356-500.jpg" data-tags="trip-hop, electronic" role="button">
 Stateless - Stateless (2007-06-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
-Newton Faulkner - Hand Built By Robots (2007-07-30)
-</li>
 <li data-cover="https://img.discogs.com/KR2icblwxBD7a9YMMOR8JUAkRNk=/fit-in/280x280/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3742890-1342555718-8961.jpeg.jpg" data-tags="flying upside down" role="button">
 Griffin House - Flying Upside Down (2007-10-17)
 </li>
@@ -246,14 +240,17 @@ Jack Johnson - Sleep Through The Static (2008-02-01)
 <li data-cover="http://coverartarchive.org/release/b5be52c1-9c7c-4e7e-a8c2-5e2de309a11d/21164902564-500.jpg" data-tags="electronic, 00s" role="button">
 Hercules and Love Affair - Hercules And Love Affair (2008-03-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
-Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/6f260569-6480-4bff-a9a9-e9b055624fe1/18464208583-500.jpg" data-tags="electronic" role="button">
 Ratatat - LP3 (2008-07-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Melody Gardot - My One And Only Thrill (2008-12-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/ff4c762d-ce33-423c-95d3-a09accd3b155/11432456532-500.jpg" data-tags="chill, progressive metal, prog, epic, boogie on down, not of this world, instrumental prog metal, god tier chill, legends of chill" role="button">
+CHON - Chon (2009)
+</li>
+<li data-cover="https://img.discogs.com/qgFVsxvqHJyZBwIv94OE-rQJ9Ws=/fit-in/556x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1913609-1270389166.jpeg.jpg" data-tags="singer-songwriter" role="button">
+Pete Yorn & Scarlett Johansson - Break Up (2009-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/4660ee18-b7e2-43e8-9712-f8eb1e23656c/4157979888-500.jpg" data-tags="electronic, electropop, chill" role="button">
 Washed Out - High Times (2009-08-31)
@@ -317,6 +314,9 @@ Metronomy - Love Letters (2013-12-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/340db447-f750-4149-8ec4-8bcd92a0f260/11254738554-500.jpg" data-tags="chill, music i should check out, dine alone music, good song-isaiah" role="button">
 Noah Gundersen - Ledges (2014-02-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/de97d73c-c3a3-492d-85bf-9f6cc48b6ed5/9653021050-500.jpg" data-tags="ambient" role="button">
+Coldplay - Midnight (2014-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bde1d21-eff2-4a6a-8e50-de9fd2051520/9200442958-500.jpg" data-tags="blues rock, rock, indie rock" role="button">
 The Black Keys - Turn Blue (2014-05-09)

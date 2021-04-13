@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:58:01.496Z
+date: 2021-04-13T02:38:23.848Z
 title: "pink floyd: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -126,9 +126,6 @@ Pink Floyd - Londonfields (1990)
 <li data-cover="https://img.discogs.com/sei3QGagP9Kz4-tu-L0temZK1p4=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-656415-1280148068.jpeg.jpg" data-tags="70s, pink floyd, guitar virtuoso" role="button">
 Pink Floyd - Obscured at the Rainbow (1990)
 </li>
-<li data-cover="http://coverartarchive.org/release/08245a23-9b49-4d72-bf41-919bae71ad92/2027886586-500.jpg" data-tags="pink floyd, progressive rock" role="button">
-Pink Floyd - Pink is the Pig (1990)
-</li>
 <li data-cover="http://coverartarchive.org/release/6fdb215f-55d9-4a72-ae27-ed2b828a5925/27224128554-500.jpg" data-tags="pink floyd" role="button">
 Pink Floyd - The Best of Tour 72 (1990)
 </li>
@@ -168,8 +165,8 @@ Pink Floyd - Shine On (1992-11-09)
 <li data-cover="http://coverartarchive.org/release/e9f89509-a8cb-44b1-8436-c071889e361f/21936264419-500.jpg" data-tags="trance" role="button">
 Pink Floyd - Wish You Were Here: Limited Edition Trance Remix (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/067a768e-9c7c-4581-a290-56ae6b0946ce/2841373384-500.jpg" data-tags="pink floyd" role="button">
-Pink Floyd - A Total Eclipse (1993-09)
+<li data-cover="http://coverartarchive.org/release/067a768e-9c7c-4581-a290-56ae6b0946ce/2841373384-500.jpg" data-tags="pink floyd, pink floyd 34 - disc 4" role="button">
+Pink Floyd - Total Eclipse (disc 4) (1993-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1a03c0a-ff86-31b0-ad3e-27bcf758a14a/7108619466-500.jpg" data-tags="progressive rock" role="button">
 Alan Parsons - Try Anything Once (1993-10-26)
@@ -275,6 +272,9 @@ Pink Floyd - BBC Archives 1967-1969 (2003-06-30)
 </li>
 <li data-cover="https://img.discogs.com/2db7W1kyzQ9ocVZ88XzDb4NfJ-w=/fit-in/591x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2905319-1362137952-5607.jpeg.jpg" data-tags="delta blues, vblues" role="button">
 Eric Sardinas - Black Pearls (2003-08-26)
+</li>
+<li data-cover="https://img.discogs.com/2H2b9od2zn27aNIuC_Pf2Ef7Upo=/fit-in/400x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-960285-1178117118.jpeg.jpg" data-tags="progressive rock, art rock, psychedelic rock, space rock, german, krautrock, classic rock, symphonic rock" role="button">
+Shamall - Who do they think they are (2003-12-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a53791c-fd72-4181-9f60-2d6360658e65/4145232980-500.jpg" data-tags="classic rock, rock, hard rock, progressive rock, pink floyd, bap, europe, yes, guns n roses, melodic rock, toto, led zeppelin, asia, cinderella, carole king, slash, roxy music, joan jett, survivor, journey, 80s rock, scorpions, saga, tony carey, udo lindenberg, alan parsons, peter maffay, suzi quatro, air supply, robin beck, 80s prog, julian thome, planetpcarey" role="button">
 Planet P Project - 1931: Go Out Dancing, Part 1 (2004)

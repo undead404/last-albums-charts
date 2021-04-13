@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:26:02.112Z
+date: 2021-04-13T02:33:01.455Z
 title: "danish: 100 albums you must listen to before you die"
 ---
 ![Mew - Frengers (2003-04-07)](https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg "Mew - Frengers (2003-04-07)")
@@ -78,9 +78,6 @@ Gnags - Gnags Greatest (1999)
 <li data-cover="https://via.placeholder.com/450" data-tags="black metal, suicidal black metal, danish black metal" role="button">
 Sortsind - Sår (1999)
 </li>
-<li data-cover="https://img.discogs.com/HhRcv7z_74n4mmYMYc_DUGK917Q=/fit-in/205x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1795274-1243843750.jpeg.jpg" data-tags="rock" role="button">
-Kashmir - The Good Life (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/e0f0399e-acb7-3e59-b19d-c46a2cd28f57/20441622807-500.jpg" data-tags="heavy metal" role="button">
 Mercyful Fate - 9 (1999-05-20)
 </li>
@@ -149,6 +146,9 @@ Mercenary - 11 Dreams (2004-08-23)
 </li>
 <li data-cover="https://img.discogs.com/c12TWiMs2tPrc2e3I5IJFettDX4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8570537-1474414152-5196.jpeg.jpg" data-tags="death metal" role="button">
 Illdisposed - 1-800 Vindication (2004-10-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/d47cc173-4e26-4bcf-a8bb-1a3a1974850d/22427392441-500.jpg" data-tags="danish, dansk" role="button">
+Juncker - Snork City (2004-10-04)
 </li>
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)

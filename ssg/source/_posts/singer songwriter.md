@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:52:29.463Z
+date: 2021-04-13T01:57:01.443Z
 title: "singer songwriter: 100 albums you must listen to before you die"
 ---
 ![Passenger - All the Little Lights (2012-02-24)](http://coverartarchive.org/release/00d751af-6c26-46e2-aa64-e48d9af4e0a1/2299991985-500.jpg "Passenger - All the Little Lights (2012-02-24)")
@@ -84,6 +84,9 @@ Warren Zevon - The Envoy (1982-07-16)
 <li data-cover="https://img.discogs.com/gao2P7PSrZJVfdZUZU___zE4fmQ=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6798799-1426865312-3788.jpeg.jpg" data-tags="spanish, singer songwriter, trova" role="button">
 Joan Manuel Serrat - Cada Loco Con Su Tema (1983)
 </li>
+<li data-cover="https://img.discogs.com/grdsVWVwMmVFobQppGfPCzN3QKQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5193399-1387086153-2505.jpeg.jpg" data-tags="experimental rock, rock, zappa" role="button">
+Frank Zappa - The Man From Utopia (1983)
+</li>
 <li data-cover="http://coverartarchive.org/release/50c648c4-1182-411d-be22-b25d59775b89/4214404214-500.jpg" data-tags="classic rock, progressive rock" role="button">
 Supertramp - Free As A Bird (1987)
 </li>
@@ -104,9 +107,6 @@ Francis Dunnery - Fearless (1994)
 </li>
 <li data-cover="http://coverartarchive.org/release/07133990-91fd-4352-bf3c-0ed20b3dfcca/5642257386-500.jpg" data-tags="folk, acoustic, lo-fi, folk rock" role="button">
 The Mountain Goats - Zopilote Machine (1994-07)
-</li>
-<li data-cover="https://img.discogs.com/0tRKUnIw0qMx7NpfOF1ojJJXw0A=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13167710-1549217617-2702.jpeg.jpg" data-tags="blues, swamp blues" role="button">
-Jimmy Reed - The Very Best of Jimmy Reed (1995)
 </li>
 <li data-cover="https://img.discogs.com/MLQnd8XMK--cptY4SsLN_4nch4o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15947338-1600715074-5097.jpeg.jpg" data-tags="country" role="button">
 Willie Nelson - The Essential Willie Nelson (1995-08-01)
@@ -135,9 +135,6 @@ Arab Strap - Mad For Sadness (1999-05-03)
 <li data-cover="https://img.discogs.com/qnYGbt-Ug-bAS9DSvM-m9ZrlYoY=/fit-in/540x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4093675-1355017665-8538.jpeg.jpg" data-tags="jpop, singer songwriter, nice cover art" role="button">
 BONNIE PINK - Daisy (1999-10-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/28e3311d-5abd-410e-ae5c-621ead5a909b/15296892269-500.jpg" data-tags="norwegian" role="button">
-Kari Bremnes - Norwegian Mood (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/dd7859da-63b8-46d0-b811-e05e11a2c1c2/24875604394-500.jpg" data-tags="rock, 2000s" role="button">
 Warren Zevon - Life'll Kill Ya (2000-01-25)
 </li>
@@ -162,6 +159,9 @@ Damh the Bard - Herne's Apprentice (2002-02-01)
 <li data-cover="https://via.placeholder.com/450" data-tags="soul" role="button">
 Marc Broussard - Momentary Setback (2002-09-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/34518d4a-32af-4088-990a-97f6675d4d5c/14436252949-500.jpg" data-tags="alternative rock, progressive rock, guitar, singer songwriter, song noir, awesome rock, madrugada, sivert hoyem" role="button">
+Madrugada - Majesty (2003)
+</li>
 <li data-cover="https://img.discogs.com/diGbGZYc8Jx8H8Mn74hewU1L3Wk=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14061549-1567093969-7229.jpeg.jpg" data-tags="disco, classic rock, pop, rock, 70s, soft rock, guitar, folk rock, male vocalist, singer songwriter, bilititas, objectum-sexualis, nichopoulooza, come and get your love, redbone - the essential redbone, album redbone, come and get your" role="button">
 Redbone - The Essential Redbone (2003-06-10)
 </li>
@@ -179,9 +179,6 @@ Michael Gira - I Am Singing to You From My Room (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/c95dd9c5-6a43-47ed-805f-8ad7bc49c07c/15491234420-500.jpg" data-tags="alt-country" role="button">
 Patterson Hood - Killers and Stars (2004-05-04)
-</li>
-<li data-cover="https://img.discogs.com/b3P58aPcy_SECaLP_nErxQWe9UY=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472485-1463656817-9711.jpeg.jpg" data-tags="folk" role="button">
-Devendra Banhart - Nino Rojo (2004-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/82bd8062-e6b9-44e5-b08b-516be671e08d/14470617898-500.jpg" data-tags="indie" role="button">
 Iron & Wine - Passing Afternoon (2004-10-19)
@@ -215,6 +212,9 @@ Hawksley Workman - Treeful Of Starling (2006-02-28)
 </li>
 <li data-cover="https://img.discogs.com/tQoiUgJp5KwaIh6fd5rkoAgCXWE=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2648126-1294863309.jpeg.jpg" data-tags="indie, vocal, alternative, folk, sad, singer-songwriter, americana, vocals, alt-country, roots, singer songwriter, will oldham, bob dylan, songs, talk talk, album, man, wistful, mournful, smog, timeless, mark hollis, altcountry, progresive, find out more, my own discovery mode, bonnie prince billy, nine horses, bonnie price billy, blue nile, i see adarkness, shelter from the storm" role="button">
 Steve Adey - All Things Real (2006-03-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/36ead3ca-55c3-4b7c-b59a-4e5790a437e1/11404306039-500.jpg" data-tags="soul, singer-songwriter, piano" role="button">
+Allison Crowe - This Little Bird (2006-10-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Damien Rice - 9 Crimes (2006-11-17)
@@ -260,6 +260,9 @@ The Tallest Man on Earth - The Wild Hunt (2010-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dddb06c-9763-488f-bb3d-c89a72bcedf8/6531947728-500.jpg" data-tags="folk, indie" role="button">
 Passenger - Flight of the Crow (2010-09-24)
+</li>
+<li data-cover="https://img.discogs.com/d2cl6KIhlQrVbIzrbWOmCw09Bz8=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2813791-1302202148.jpeg.jpg" data-tags="svenskt, singer songwriter, duo, 10s, skovreggae" role="button">
+Fastpoholmen - En Stund (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">
 Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)
@@ -314,9 +317,6 @@ Sharon Van Etten - Are We There (2014-05-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">
 Perfume Genius - Too Bright (2014-09-22)
-</li>
-<li data-cover="https://img.discogs.com/c6DhYpXmhHTJfK3snuz68GHowfo=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6787882-1426624069-4916.jpeg.jpg" data-tags="folk" role="button">
-Laura Marling - Short Movie (2014-12-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d72cb62-da0c-4706-a59f-7209ff571f6b/8989466671-500.jpg" data-tags="jazz, soul, piano" role="button">
 Benjamin Clementine - At Least For Now (2015-01-12)

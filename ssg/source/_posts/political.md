@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:00:01.533Z
+date: 2021-04-13T01:47:07.070Z
 title: "political: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -35,9 +35,6 @@ Gil Scott-Heron - Pieces of a Man (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d856598-9599-4ab2-959b-1ac7bad91ac0/14317207367-500.jpg" data-tags="blues, jazz" role="button">
 Nina Simone - Here Comes The Sun (1971-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/b5e464cb-e75c-4c01-9e92-93791d4fbe60/15141346927-500.jpg" data-tags="soul, spoken word" role="button">
-Gil Scott-Heron - Free Will (1972)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e15d8b8-bd80-3c0b-be2f-b66c68620435/19202703809-500.jpg" data-tags="soul" role="button">
 Gil Scott-Heron - The Revolution Will Not Be Televised (1974)
@@ -138,9 +135,6 @@ Gabriel O Pensador - Quebra - Cabeça (1997-07)
 <li data-cover="http://coverartarchive.org/release/e2da61ad-6406-349f-b096-e354858c0d00/23161775745-500.jpg" data-tags="pop, alternative, rock" role="button">
 Chumbawamba - Tubthumper (1997-08-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a5adcfc-aa96-42a4-93ab-70d3af740b56/12618649300-500.jpg" data-tags="polish rock, polish, rock" role="button">
-Kult - Ostateczny krach systemu korporacji (1998-05-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/ddcc0477-d4b6-4201-85d1-df5e10482c16/28801509453-500.jpg" data-tags="ska, ska punk" role="button">
 Ska-P - Eurosis (1998-07-17)
 </li>
@@ -162,9 +156,6 @@ Busta Rhymes - Anarchy (2000-06-20)
 <li data-cover="http://coverartarchive.org/release/9cb559ca-a021-432d-b3d0-1f1433dfd25f/7219495028-500.jpg" data-tags="hardcore, post-hardcore" role="button">
 BoySetsFire - After the Eulogy (2000-07-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/bddcc35b-0c2a-400e-85f5-5ae247470852/5112221388-500.jpg" data-tags="ani difranco" role="button">
-Ani DiFranco - Swing Set (2000-07-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
 </li>
@@ -177,20 +168,23 @@ Anti-Flag - Underground Network (2001-04-24)
 <li data-cover="http://coverartarchive.org/release/70125e94-7798-3392-b4b3-91444ee28f66/16217335540-500.jpg" data-tags="punk, punk rock" role="button">
 Good Riddance - Symptoms Of A Leveling Spirit (2001-07-10)
 </li>
+<li data-cover="https://img.discogs.com/g-QlhMhwQLrTnPhnruIE9XRhuow=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2564200-1290667188.jpeg.jpg" data-tags="street punk" role="button">
+The Casualties - Die Hards (2001-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7d2b68f-d527-498a-94cf-8a2683439fc0/22404891783-500.jpg" data-tags="hip-hop, political, political rap" role="button">
 The Coup - Party Music (2001-11-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/51ce4f62-5b11-41c5-847e-a2799bfb1153/15445563588-500.jpg" data-tags="acoustic, folk rock, ani difranco" role="button">
-Ani DiFranco - So Much Shouting, So Much Laughter (2002-09-10)
+<li data-cover="http://coverartarchive.org/release/6443fb9c-a739-4e6a-927d-5325f3130c20/12582665521-500.jpg" data-tags="liedermacher" role="button">
+Früchte des Zorns - Zwischen Leben und Überleben (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/56a0afb4-d2c1-4751-a598-16ab68b1d5c6/15473026837-500.jpg" data-tags="alt-country" role="button">
+Steve Earle - Sidetracks (2002-04-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/df14f3da-220a-4f50-8877-6d4bb61d73a7/20100874448-500.jpg" data-tags="hip hop, political" role="button">
 Sweatshop Union - Natural Progression (2003)
 </li>
 <li data-cover="https://img.discogs.com/54PHju_pBRbaDAAbP344C-jYO0Q=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383394-1108500259.jpg.jpg" data-tags="punk, punk rock, melodic hardcore" role="button">
 Rise Against - Revolutions Per Minute (2003-04-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/b9da66a0-56ed-482b-b1e2-e5bb4d80f77e/7635263541-500.jpg" data-tags="hip-hop" role="button">
-Timbuktu - The botten is nådd (2003-04-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6677b3e-757b-38eb-9961-07799bc22215/4801803195-500.jpg" data-tags="punk rock, punk" role="button">
 NOFX - The War on Errorism (2003-05-06)
@@ -219,6 +213,9 @@ KRS-One - Keep Right (2004-07-13)
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Siren Song of the Counter Culture (2004-08-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/74e4f161-c608-4a54-967d-b815c655e7d2/6236606531-500.jpg" data-tags="alt-country, 00s" role="button">
+Steve Earle - The Revolution Starts Now (2004-08-24)
+</li>
 <li data-cover="https://img.discogs.com/iJ1uU2VMCxYbEZpMj8xa2ne3sjI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4576544-1368882873-4855.jpeg.jpg" data-tags="rock, 00s, alternative, criminally underrated" role="button">
 Manic Street Preachers - Lifeblood (2004-10-20)
 </li>
@@ -233,6 +230,9 @@ Sage Francis - A Healthy Distrust (2005-02-08)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
+</li>
+<li data-cover="https://img.discogs.com/7GgSkS-kefa3tjaalvpL_ltclqY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3573831-1335818875.jpeg.jpg" data-tags="singer-songwriter, country, alt-country" role="button">
+James McMurtry - Childish Things (2005-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0de04796-e829-4e05-a09d-3ca62258ef61/6614281778-500.jpg" data-tags="alternative rock, political" role="button">
 Cire - Wholesale Buyout (2006)
@@ -251,9 +251,6 @@ Laibach - Volk (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/8067f190-dc3e-362a-8117-8a13df522b2c/3799987671-500.jpg" data-tags="industrial rock, industrial" role="button">
 Nine Inch Nails - Year Zero (2007-04-14)
-</li>
-<li data-cover="https://img.discogs.com/uP7OSNvHPtEOToQTXuZU0PGJyAM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-963312-1475914392-4721.jpeg.jpg" data-tags="folk rock" role="button">
-The Nightwatchman - One Man Revolution (2007-04-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="industrial metal" role="button">
 Ministry - Rio Grande Blood (2007-07-06)
@@ -314,6 +311,9 @@ Serj Tankian - Harakiri (2012-07-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bd679c7-bea0-4681-83c8-ea2bfecf3641/1865564816-500.jpg" data-tags="hip-hop, rock, alternative rock, rap, political, alternative hip-hop, rap rock" role="button">
 Flobots - The Circle In The Square (2012-08-28)
+</li>
+<li data-cover="https://img.discogs.com/mlK84jyTt7k68GSe74Wz5NcMcKg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4517100-1549433526-7500.jpeg.jpg" data-tags="hip-hop, rap, epic, political, 10s, political hip-hop, conscious rap, criminally underrated, rap conscient, rap fr, art martiens" role="button">
+IAM - Arts Martiens (2013-01-01)
 </li>
 <li data-cover="https://img.discogs.com/YT-k3cpEYapA2eGXlA82gZ1crCs=/fit-in/388x391/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3275343-1334965635.jpeg.jpg" data-tags="rock, british, singer-songwriter, acoustic, political, folk rock" role="button">
 Billy Bragg - Tooth & Nail (2013-03-18)

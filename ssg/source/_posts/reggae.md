@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:27:01.451Z
+date: 2021-04-13T02:17:01.457Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Rihanna - A Girl Like Me (2006-04-19)](http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg "Rihanna - A Girl Like Me (2006-04-19)")
@@ -108,6 +108,9 @@ Shaggy - Hot Shot (2000-08-08)
 <li data-cover="http://coverartarchive.org/release/86b1f03a-52fe-3846-b0e4-7109ec1bc9fd/7455522854-500.jpg" data-tags="reggae" role="button">
 UB40 - The Very Best of UB40 1980-2000 (2000-10-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/ee1deea2-e9cd-479d-b91a-402c25a0d0e4/23834440256-500.jpg" data-tags="ska" role="button">
+Desmond Dekker - Israelites (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/0fd5abdd-7a1a-4a09-933f-e620cc98cce2/4137110372-500.jpg" data-tags="ska, polish, rock" role="button">
 Akurat - Pomarańcza (2001)
 </li>
@@ -149,9 +152,6 @@ Ziggy Marley - Dragonfly (2003-04-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Seeed - Music Monks (2003-05-12)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/eymTlYKeJN9RD4q7cItjZ25ZmLw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3783312-1344246822-5251.jpeg.jpg" data-tags="hip-hop, reggae" role="button">
 Wyclef Jean - Greatest Hits (2003-10-07)

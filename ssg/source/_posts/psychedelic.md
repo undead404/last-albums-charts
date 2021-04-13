@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:47:01.482Z
+date: 2021-04-13T02:32:07.062Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -150,9 +150,6 @@ The Flaming Lips - The Soft Bulletin (1999-05-17)
 <li data-cover="http://coverartarchive.org/release/413e60c9-6de0-4a1c-a1fb-e37655bfc1d2/7022558425-500.jpg" data-tags="psychedelic" role="button">
 Boredoms - Vision Creation Newsun (1999-10-27)
 </li>
-<li data-cover="http://coverartarchive.org/release/24dacf69-5e1a-4b39-807c-99a31a79fbe5/7409904023-500.jpg" data-tags="psychedelic, stoner rock" role="button">
-Dead Meadow - Dead Meadow (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/a054c044-6da4-4822-a5a6-22549923d329/10078241639-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
 </li>
@@ -239,6 +236,9 @@ The Flaming Lips - Embryonic (2009-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/84878622-883d-4ca0-ab2f-3f8002d2f214/12086273623-500.jpg" data-tags="electronic" role="button">
 Neon Indian - Psychic Chasms (2009-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/3a876213-7833-40c1-ac4b-39cb9b767082/25696731134-500.jpg" data-tags="indie, alternative, folk, cosmic american music" role="button">
+Midlake - The Courage Of Others (2010-02-01)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
 MGMT - Congratulations (2010-04-07)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T03:10:07.696Z
+date: 2021-04-13T01:56:01.463Z
 title: "retro: 100 albums you must listen to before you die"
 ---
 ![Cut Copy - In Ghost Colours (2008-03-22)](http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg "Cut Copy - In Ghost Colours (2008-03-22)")
@@ -30,9 +30,6 @@ Blossom Toes - If Only for a Moment (1969)
 <li data-cover="https://img.discogs.com/KRrsQ1MI4dlSg4dSV_u-0VJiVYc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4081961-1354632822-5960.jpeg.jpg" data-tags="christmas" role="button">
 Bobby Helms - Jingle Bell Rock (1970)
 </li>
-<li data-cover="http://coverartarchive.org/release/643bfebc-1dbd-4180-a135-efc056ea00a8/9198835955-500.jpg" data-tags="french" role="button">
-Michel Polnareff - Polnareff's (1971)
-</li>
 <li data-cover="http://coverartarchive.org/release/152b3c45-a51f-37b5-a09f-b674e038b4e0/8982728529-500.jpg" data-tags="pop, rock, 70s, dance, retro, stereo, lps i own, smokie" role="button">
 Smokie - Bright Lights & Back Alleys (1977)
 </li>
@@ -42,14 +39,14 @@ The Rubinoos - Back To The Drawing Board (1979)
 <li data-cover="http://coverartarchive.org/release/7adaf58b-d265-461c-ab8c-6ddce5a8264e/24888327164-500.jpg" data-tags="disco, electronic, electropop, 80s, new wave, retro, synthpop, italo disco" role="button">
 Kano - Kano (1980)
 </li>
+<li data-cover="http://coverartarchive.org/release/acfb1c73-1a78-4787-b5b2-3f95d024ea36/12696852832-500.jpg" data-tags="new wave" role="button">
+Duran Duran - Girls on Film (1981)
+</li>
 <li data-cover="http://coverartarchive.org/release/1abc11f0-057d-3f6c-8733-efa3a5aa9d37/26961755748-500.jpg" data-tags="funk" role="button">
 The Time - What Time Is It? (1982)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="80s, new wave" role="button">
 Duran Duran - A View to a Kill (1985)
-</li>
-<li data-cover="https://img.discogs.com/nKvU-PeqCLF6Ny4VCySeMfLEsxg=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-972997-1185325725.jpeg.jpg" data-tags="comedy, soundtrack, blues" role="button">
-The Simpsons - The Simpsons Sing The Blues (1990-02-02)
 </li>
 <li data-cover="https://img.discogs.com/ftPuLaRjdYVKAHH38r1srCoqqIE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10652008-1501708931-2239.jpeg.jpg" data-tags="retro" role="button">
 Joe Dolan - The Best Of (1991)
@@ -69,9 +66,6 @@ Yaki-Da - Pride (1994)
 <li data-cover="http://coverartarchive.org/release/76bdde66-5176-4472-a07d-abd9327ea644/9853490164-500.jpg" data-tags="soul" role="button">
 Roachford - Permanent Shade Of Blue (1994-03-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/ef8d8003-66fc-4b55-bd5c-852361376354/12618750019-500.jpg" data-tags="rock, polish rock, kult" role="button">
-Kult - Muj wydafca (1994-10-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/59426b59-a04c-4d5a-907d-fb9fd58bf738/20987635298-500.jpg" data-tags="surf" role="button">
 Man or Astro-Man? - Project Infinity (1995-06)
 </li>
@@ -90,8 +84,20 @@ Sean Lennon - Into The Sun (1998-03-24)
 <li data-cover="http://coverartarchive.org/release/0ec451e4-e8cf-4fe6-9e23-d5a83e441553/9705296059-500.jpg" data-tags="pop, rock, japanese, retro, jpop, all time favorites, puffy" role="button">
 PUFFY - JET CD (1998-04-01)
 </li>
+<li data-cover="https://img.discogs.com/3A0AlCr4n0SEkF7pbABASgV4zAs=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10444513-1497563067-8053.jpeg.jpg" data-tags="swing, retro, neo swing, secret agent" role="button">
+Alien Fashion Show - Cool Thing (1998-07-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/ba1ab42d-e25e-44a6-875f-e79026f28d76/4834492106-500.jpg" data-tags="pop, j-pop" role="button">
 Pizzicato Five - Playboy & Playgirl (1998-10-01)
+</li>
+<li data-cover="https://img.discogs.com/WW3mq-vEX1VZGxzxJAjA2E7xAbk=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10859562-1505499870-2472.jpeg.jpg" data-tags="retro" role="button">
+Jamie Cullum Trio - Heard It All Before (1999)
+</li>
+<li data-cover="https://img.discogs.com/ETS9uQAvcPLuhpU577LASj5bHfQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7200582-1615793093-3361.jpeg.jpg" data-tags="classic, 90s, retro, drinking, gold, pop-folk, bulgarian, fish, drinking songs, golden, kamelia" role="button">
+Камелия - Златна рибка (1999)
+</li>
+<li data-cover="http://coverartarchive.org/release/36fa2a5a-8108-42f4-bb27-1374d6eaab19/9604314304-500.jpg" data-tags="jazz, funk" role="button">
+The Dirty Dozen Brass Band - Buck Jump (1999-05-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/074ab86e-11e2-40f0-a4a9-f1a757219f41/13038741956-500.jpg" data-tags="j-pop" role="button">
 Pizzicato Five - The Fifth Release From Matador (1999-11-20)
@@ -110,9 +116,6 @@ DJ Tomekk - Return of Hip Hop (2001-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a353a4f-b7a9-4300-ad12-1aa79b149bc7/9526357726-500.jpg" data-tags="rap, retro, 2000s, klasyka polskiego rapu" role="button">
 Fenomen - Efekt (2001-06-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/df05a613-0cde-4f9c-bf69-59bd3b76be3e/5817135757-500.jpg" data-tags="jazz, piano, anti-folk" role="button">
-Regina Spektor - 11:11 (2001-07-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/3818926b-9125-415c-802c-681945035cd6/18443745581-500.jpg" data-tags="electronic" role="button">
 Instant Remedy - Instant Remedy (2002)
@@ -135,9 +138,6 @@ Cato Salsa Experience - The Fruit Is Still Fresh (2003)
 <li data-cover="https://img.discogs.com/DgejJSw4fK856meWt_kDvKk582M=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5604137-1397931918-6610.jpeg.jpg" data-tags="indie, rock, alternative" role="button">
 Kings of Leon - What I Saw (2003-05-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/090daf89-bb6d-4072-9552-3e29bf854aca/27154297771-500.jpg" data-tags="retro, norwegian jazz, scandinavian jazz, atomic, gammarec, freepurp1e, jazz collective melodic energy individual virtuosity" role="button">
-Atomic - Boom Boom (2003-09-29)
-</li>
 <li data-cover="https://img.discogs.com/28415784b9210344a4a62ec6cd31adb2d01b3637/images/spacer.gif" data-tags="electronic, pop, 80s, new wave, synth pop, 90s, retro, seen in concert, duran duran, 12-inch" role="button">
 Duran Duran - (Reach Up For The) Sunrise (2004-10-04)
 </li>
@@ -146,6 +146,9 @@ The Pinker Tones - The Million Colour Revolution (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/4186b65f-c36d-4dac-82d3-221d3f8c7925/17754966442-500.jpg" data-tags="indie pop" role="button">
 Eisley - Room Noises (2005-02-08)
+</li>
+<li data-cover="https://img.discogs.com/d-7GIXMgoQsKWGsrR5tyFPfLt4M=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5584663-1459513238-5367.jpeg.jpg" data-tags="indie pop, happy, upbeat, groovy, northern soul, brit-pop, brit pop, fab, sixties pop, swinging london" role="button">
+Rinaldi Sings - What's It All About? (2005-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/e0ea10bb-7154-4d5c-b511-2cd9c908cd55/2036678832-500.jpg" data-tags="rock" role="button">
 Kings of Leon - King of the Rodeo (2005-04-01)
@@ -159,17 +162,20 @@ The Protomen - The Protomen (2005-09-03)
 <li data-cover="https://img.discogs.com/8pb_ECqSGqh9xdrVTS4wllVSLW8=/fit-in/600x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458424-1118248956.jpg.jpg" data-tags="soul" role="button">
 Jamie Lidell - Multiply (2005-10-17)
 </li>
+<li data-cover="https://img.discogs.com/aPvKydPOpsaafBQNMVGYh0FPkM0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1013173-1235516858.jpeg.jpg" data-tags="hard rock, blues-rock, retro" role="button">
+Pearls and Brass - The Indian Tower (2006-01-24)
+</li>
 <li data-cover="https://img.discogs.com/j9JOHDmT3GWw3HgMAwIep5qfyT8=/fit-in/500x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1518732-1225640843.jpeg.jpg" data-tags="pop, power ballad, oldie, retro, xenomania, sad song, uk scene, rnb-ish" role="button">
 Girls Aloud - Whole Lotta History (2006-03-13)
 </li>
 <li data-cover="https://img.discogs.com/sVYe48w9kU8I2UxaCP6LTgSAM44=/fit-in/600x584/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-877268-1292167875.jpeg.jpg" data-tags="pop, chill out, polish" role="button">
 Ania - Kilka historii na ten sam temat (2006-10-16)
 </li>
-<li data-cover="https://img.discogs.com/UvuEapQ35XJJs-OOa44ajvJJYcY=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1734647-1282241237.jpeg.jpg" data-tags="pop, rock, retro, relaxing, eclectic, 1940s, 1920s, coffee shop, british pop, lily allen, pop music, singles i own, cafe, black and white, bohemian, new faves, annymix, f singer-songwriter, audrey hepburn, joni radio, 1920's, bohemia, pop music tag, luda kokoshka, bohemic" role="button">
-Lily Allen - Littlest Things (2006-12-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/565af901-9ad6-481b-a83f-c8b2bda5f140/4008012948-500.jpg" data-tags="80s, electronic, new wave, 90s, duran duran" role="button">
 Duran Duran - The Essential Collection (2007-01-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/0a6e1029-5251-4733-bbd4-fe6e3300ab92/6432676510-500.jpg" data-tags="retro, exotica, tiki, fmera album, retro chic, newadds" role="button">
+Martini Kings - Dance of the Virgins (2007-08-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/40facafb-69cd-4fae-a1cf-685d484f19c7/8319457903-500.jpg" data-tags="female vocalists" role="button">
 Amy Winehouse - Love Is A Losing Game (2007-12-10)
@@ -186,6 +192,9 @@ Cut Copy - In Ghost Colours (2008-03-22)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 The Last Shadow Puppets - The Age of the Understatement (2008-04-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/dedcf1b6-0484-4af6-afc9-48cb4acbc16e/1043860247-500.jpg" data-tags="electronic, electropop, retro, 00s, 80s revival" role="button">
+Mari-Leen - 1987 (2008-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/4ec3a985-9d17-45a2-96ee-669750d524b5/2334973402-500.jpg" data-tags="polish" role="button">
 Ania - W spodniach, czy w sukience? (2008-06-16)
 </li>
@@ -197,12 +206,6 @@ Arnaud Rebotini - Music Components (2008-10-20)
 </li>
 <li data-cover="https://img.discogs.com/xoCrB0QbRxTmubVKTSGbVMwBzbs=/fit-in/404x357/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1843084-1259331781.jpeg.jpg" data-tags="pop" role="button">
 Girls Aloud - Out of Control (2008-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/cdd70853-d0b7-4154-b95e-ff1239bc0f92/28119146789-500.jpg" data-tags="80s, pop, new wave, duran duran" role="button">
-Duran Duran - Dance Into the Fire (disc 2) (2008-11-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/e2e66641-454e-445b-87aa-8e16eaf22f89/23408991286-500.jpg" data-tags="electronica, trip-hop" role="button">
-Mr. Meeble - Never Trust the Chinese (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/600899a8-b28c-42d0-8ee2-7d140cd401b9/13665735915-500.jpg" data-tags="indie, pop" role="button">
 The Bird and the Bee - Ray Guns Are Not Just the Future (2009-01-27)
@@ -218,12 +221,6 @@ Leela James - Let's Do It Again (2009-03-24)
 </li>
 <li data-cover="https://img.discogs.com/HrGQw8XZbJHTwaAT-LToRxH0A2s=/fit-in/500x492/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7524999-1443283459-8513.jpeg.jpg" data-tags="soul, british, funk, retro, r&b, independent, classic songs" role="button">
 Nate James - Revival (2009-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/8799099c-34d0-336d-84b6-896cae19c35f/22400961707-500.jpg" data-tags="indie, female vocalists" role="button">
-Noisettes - Wild Young Hearts (2009-04-19)
-</li>
-<li data-cover="https://img.discogs.com/NCj2X3WyJQvL5FMaQj64r0sjGqI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1844544-1379705564-7619.jpeg.jpg" data-tags="electronic, electropop, ambient, electro, retro, synthpop, uplifting" role="button">
-Marsheaux - Lumineux Noir (2009-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)
@@ -305,6 +302,9 @@ Steven Wilson - The Raven That Refused to Sing (and Other Stories) (2013-02-25)
 </li>
 <li data-cover="https://img.discogs.com/3ybdq9KcxwhzaklE5AnXvcMlc6M=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4622528-1507041760-6348.jpeg.jpg" data-tags="indie, indie pop" role="button">
 Camera Obscura - Desire Lines (2013-06-03)
+</li>
+<li data-cover="https://img.discogs.com/W4i9wQCxmZ3qTUrFwJelcwfP3LM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5385126-1392057558-9625.jpeg.jpg" data-tags="electronic, retro" role="button">
+Bestrack - Workout 2000 (2013-06-14)
 </li>
 <li data-cover="https://img.discogs.com/OtyXaiP218RcrUyzxtkfaSFCefU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4896670-1599509523-4252.jpeg.jpg" data-tags="soul, rnb" role="button">
 Janelle Monáe - The Electric Lady (2013-09-09)

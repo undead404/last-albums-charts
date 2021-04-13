@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:10:01.505Z
+date: 2021-04-13T01:55:01.459Z
 title: "swedish: 100 albums you must listen to before you die"
 ---
 ![Peter Bjorn and John - Writer&#39;s Block (2006-08-14)](https://img.discogs.com/Qnlq942-_5wnDpZceNH8dOqsLw4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748222-1155426394.jpeg.jpg "Peter Bjorn and John - Writer's Block (2006-08-14)")
@@ -30,6 +30,9 @@ ABBA - Super Trouper (1980-11-03)
 <li data-cover="https://img.discogs.com/0NOMf8Yk7O_Djhb8UPJDdvuWEOc=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12255979-1531540052-2119.jpeg.jpg" data-tags="roxette, 90s, pop" role="button">
 Roxette - Joyride (1991-03-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/f38d4719-5733-4545-8c02-22d7b820d6a9/4967179669-500.jpg" data-tags="abba" role="button">
+ABBA - Gold: Greatest Hits (1992-09-21)
+</li>
 <li data-cover="https://img.discogs.com/0pK7bVlK8Ulr_QBkvJEJaapMDvw=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3501961-1332952036.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Kent (1995-03-15)
 </li>
@@ -53,9 +56,6 @@ Garmarna - Vedergällningen (1999-04-06)
 </li>
 <li data-cover="https://img.discogs.com/Z_vWIgG81qgI8Bkwm5DseoHVZaw=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11242966-1512588659-6017.png.jpg" data-tags="indie rock, indie, swedish" role="button">
 The Kooks - Too Much Is Not Enough (1999-09-15)
-</li>
-<li data-cover="https://img.discogs.com/aB98AUrTDJyR3IiyDmnhBcinzws=/fit-in/447x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3722269-1381563297-2806.jpeg.jpg" data-tags="rock, swedish, singer-songwriter, svenskt, quiet, favorit, 1990s, my cds, blandband, singer-songeriter" role="button">
-Lars Winnerbäck - Kom (1999-09-24)
 </li>
 <li data-cover="https://img.discogs.com/TJPW6ra3O4_N4fCjOP_xUjyJHis=/fit-in/600x485/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8291557-1458755518-8037.jpeg.jpg" data-tags="swedish" role="button">
 Kent - Hagnesta Hill (1999-12-06)
@@ -83,6 +83,9 @@ Håkan Hellström - Luften bor i mina steg (2002-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/f69b764c-3df8-4a32-9195-6868eb08b47a/5243122074-500.jpg" data-tags="industrial metal" role="button">
 Pain - Nothing Remains The Same (2002-01-23)
+</li>
+<li data-cover="https://img.discogs.com/1-vKmbyVlW9TN7B4y9NS6WEd-zs=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8359429-1460066424-8916.jpeg.jpg" data-tags="power metal, heavy metal" role="button">
+HammerFall - Crimson Thunder (2002-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ec39128-ef00-415d-905e-e2764e337193/9196624679-500.jpg" data-tags="electronic, electronica" role="button">
 The Knife - Deep Cuts (2003-01-17)
@@ -117,9 +120,6 @@ Mando Diao - Hurricane Bar (2004-09-08)
 <li data-cover="https://img.discogs.com/Vp8Meaxcn9up2DL2PkgabVLsui0=/fit-in/600x512/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-338431-1158462737.jpeg.jpg" data-tags="dance" role="button">
 Eric Prydz - Call on Me (2004-09-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/39a4b8a9-6ff9-4dc5-b704-4a4f14491bde/944931811-500.jpg" data-tags="female vocalists, singer-songwriter" role="button">
-Anna Ternheim - Somebody Outside (2004-10-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
 </li>
@@ -132,14 +132,14 @@ The Tough Alliance - The New School (2005-04-27)
 <li data-cover="http://coverartarchive.org/release/de86fc39-c61d-3c1f-83fa-108827d12872/1991520366-500.jpg" data-tags="melodic death metal" role="button">
 Arch Enemy - Doomsday Machine (2005-07-21)
 </li>
-<li data-cover="https://img.discogs.com/u7zgoPTxxOUDTbNte68PHVGgU_k=/fit-in/590x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-837943-1163946375.jpeg.jpg" data-tags="singer-songwriter" role="button">
-Hello Saferide - Introducing... (2005-09-28)
-</li>
 <li data-cover="https://img.discogs.com/DdZYV2t-d38dktIOnAPGFjKada8=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-567459-1225886493.jpeg.jpg" data-tags="indie, swedish" role="button">
 Tiger Lou - The Loyal (2005-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e3caeac-76c0-4d20-b915-e149a6995fae/24459586924-500.jpg" data-tags="rock, swedish, bmg, oma, carpet crawler, svensk topp100, nancykitten all-time favourite albums, ablums i own, flen-paris" role="button">
 Kent - The Hjärta & Smärta EP (2005-11-02)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="swedish" role="button">
+Friska Viljor - Bravo! (2006)
 </li>
 <li data-cover="https://img.discogs.com/av4vKOyCWa60QXni1p8bqrEe6HM=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10227973-1493743125-3281.jpeg.jpg" data-tags="rock, classic rock, swedish, unsigned, pop" role="button">
 The Milestone Corporation - Big Night Out (2006-02-03)
@@ -180,9 +180,6 @@ Jens Lekman - Night Falls Over Kortedala (2007-09-05)
 <li data-cover="http://coverartarchive.org/release/008b9132-e69c-3da5-9325-614c0dc52a2b/5686336691-500.jpg" data-tags="acoustic" role="button">
 José González - In Our Nature (2007-09-21)
 </li>
-<li data-cover="https://img.discogs.com/Nv5zit3qAdqdGkB2hjabM9EolIE=/fit-in/226x223/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4146944-1356860110-4943.jpeg.jpg" data-tags="swedish" role="button">
-Lars Winnerbäck - Daugava (2007-09-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/65e879cd-d819-4675-ad98-28cc3c11bcfc/23841213869-500.jpg" data-tags="swedish, scandinavian, 90s, sweden, zweden, noord-europa, zweeds, geraldine" role="button">
 Ace of Base - Greatest Hits (2008)
 </li>
@@ -215,6 +212,9 @@ Hello Saferide - More Modern Short Stories From Hello Saferide (2008-09-24)
 </li>
 <li data-cover="https://img.discogs.com/w_4zatF6Cb_0XGsnoJ3a9o5mqIk=/fit-in/600x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1510121-1544085736-2459.jpeg.jpg" data-tags="indie, swedish, scandinavian, sweden, zweden, noord-europa, zweeds, d2008, f hyvonen, under the radar best of 2008, we own it" role="button">
 Frida Hyvönen - Silence Is Wild (2008-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/0af017d6-f48f-44d4-9b55-80efd03b58a6/17604249293-500.jpg" data-tags="hip-hop, jazz, swing" role="button">
+Movits! - Äppelknyckarjazz (2008-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ab39158-1e64-4576-af54-9df29e2c9668/25606670378-500.jpg" data-tags="rock, swedish" role="button">
 Mando Diao - Dance With Somebody (2009-01-01)

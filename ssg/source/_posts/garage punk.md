@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:44:29.358Z
+date: 2021-04-13T02:11:01.444Z
 title: "garage punk: 100 albums you must listen to before you die"
 ---
 ![The Hives - Veni Vidi Vicious (2000-04-10)](http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg "The Hives - Veni Vidi Vicious (2000-04-10)")
@@ -102,9 +102,6 @@ New Bomb Turks - At Rope's End (1998)
 <li data-cover="https://img.discogs.com/snd5zc8YRwRlZAO_HNk1j-6eViM=/fit-in/321x321/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1729448-1335724177.gif.jpg" data-tags="garage, garage punk, the spaceshits" role="button">
 The Spaceshits - Misbehavin' (1999-01-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/56ce34d5-da83-42e6-aa67-3dd6d11e165a/15999440432-500.jpg" data-tags="hard rock, blues rock" role="button">
-The Hellacopters - Grande Rock (1999-05-17)
-</li>
 <li data-cover="https://img.discogs.com/ufQW2esbVsNviEZ95wgE_kZaGhc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1361881-1531613780-6101.jpeg.jpg" data-tags="indie" role="button">
 Mates of State - My Solo Project (2000)
 </li>
@@ -120,8 +117,11 @@ The (International) Noise Conspiracy - Survival Sickness (2000-04-10)
 <li data-cover="http://coverartarchive.org/release/13e2716a-6eb4-3575-881e-bb9cf48aeda2/21761326628-500.jpg" data-tags="garage rock" role="button">
 The Hives - Veni Vidi Vicious (2000-04-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/ee70adc5-ad51-4974-b272-bf6282719875/25101692738-500.jpg" data-tags="punk rock, rock and roll, garage punk, desert island discs, where is my bong, headbangers ball, drunk tank singalong tune" role="button">
-The Murder City Devils - In Name And Blood (2000-06-06)
+<li data-cover="https://via.placeholder.com/450" data-tags="punk, punk rock, garage rock" role="button">
+New Bomb Turks - Nightmare Scenario (2000-04-25)
+</li>
+<li data-cover="https://img.discogs.com/uE4gTdvYmTFtGZPdq9hu5F-EKNE=/fit-in/300x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2825713-1302754086.jpeg.jpg" data-tags="rock, surf, post punk, hammond, garage punk, boogie" role="button">
+The Richmond Sluts - The Richmond Sluts (2001-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/25324581-4fb0-41a0-b241-d4507aff3235/13635902496-500.jpg" data-tags="indie, rock, alternative, garage rock revival, retro-rock, garage punk, punk revival" role="button">
 The Hives - Main Offender (2001-08-20)
@@ -171,14 +171,11 @@ The Hunches - Hobo Sunrise (2004)
 <li data-cover="https://img.discogs.com/cm8PDa8q9aWiCFc2EGXL7PNdPgs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2108425-1264454888.jpeg.jpg" data-tags="indie rock, psychedelic, garage rock, psychedelic rock, garage, garage punk, the magnetic fields, garage  rock, retro county fair minstrel shit" role="button">
 Black Lips - We Did Not Know The Forest Spirit Made The Flowers Grow (2004)
 </li>
-<li data-cover="https://img.discogs.com/900g2OX8ls0q0ZSGgVfocOvKcxA=/fit-in/299x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-451852-1227466831.jpeg.jpg" data-tags="rock, indie rock" role="button">
-The Von Bondies - Pawn Shoppe Heart (2004-02-09)
+<li data-cover="https://via.placeholder.com/450" data-tags="garage punk, punkrock" role="button">
+C.Aarmé - C.Aarmé (2004-02-23)
 </li>
 <li data-cover="https://img.discogs.com/3mbOIjGGDq61ImqUIBUwduKad7g=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-484054-1525693159-1114.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 The Vines - Winning Days (2004-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/ab1237a9-b491-47ad-84de-56c0d3f08306/8914772437-500.jpg" data-tags="punk, garage punk" role="button">
-The Marked Men - On the Outside (2004-05-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/6151fcb5-7a4b-4dbf-bedd-67b77d0eebbb/11712004378-500.jpg" data-tags="hard rock, garage rock revival, garage punk, benji owns" role="button">
 The Datsuns - Outta Sight/Outta Mind (2004-05-26)
@@ -221,6 +218,9 @@ Jay Reatard - Blood Visions (2006-10-10)
 </li>
 <li data-cover="https://img.discogs.com/Lx0S2N2jPtaDi4Q8mPa8pq90GLI=/fit-in/351x351/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1736771-1240087776.jpeg.jpg" data-tags="garage rock, album med hot covers" role="button">
 Gore Gore Girls - Get The Gore (2007-06-26)
+</li>
+<li data-cover="https://img.discogs.com/lx_BSDqkCyoLifPaFb4a1EScVzs=/fit-in/300x301/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2783994-1300876966.jpeg.jpg" data-tags="power pop, garage punk, southern punk" role="button">
+High Tension Wires - Midnight Cashier (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b6299d4-08c1-3a0f-8877-e64fd41b1c17/26142553847-500.jpg" data-tags="indie rock" role="button">
 Black Lips - Good Bad Not Evil (2007-09-11)
@@ -291,9 +291,6 @@ Ty Segall & White Fence - Hair (2012-04-23)
 <li data-cover="http://coverartarchive.org/release/b204ad72-f666-427d-82ee-de4add53c7ab/5331069642-500.jpg" data-tags="rock, garage rock" role="button">
 The Hives - Lex Hives (2012-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c8a881aa-a305-4041-beb5-b44036f94871/8293579218-500.jpg" data-tags="lo-fi indie" role="button">
-Teen Suicide - waste yrself (2012-06-21)
-</li>
 <li data-cover="https://img.discogs.com/8Vzdpi3x5aoRBLWEub9Spd82a74=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4050081-1353579789-4538.jpeg.jpg" data-tags="alternative, australian, garage rock, garage punk, boobs on cover" role="button">
 Drunk Mums - Drunk Mums (2012-09-14)
 </li>
@@ -320,5 +317,8 @@ Radioactivity - Radioactivity (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7d405e0-9fb9-4fd4-85f8-f5259ccc37df/8102247250-500.jpg" data-tags="garage rock, garage punk" role="button">
 together PANGEA - Badillac (2014-01-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/2c62277d-b461-4653-8c5b-84861f08ba2f/7003471991-500.jpg" data-tags="indie, punk, lo-fi, garage punk" role="button">
+Sonic Avenues - Mistakes (2014-04-14)
 </li>
 </ol>

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:44:01.516Z
+date: 2021-04-13T02:37:18.313Z
 title: "alternative: 100 albums you must listen to before you die"
 ---
 ![Radiohead - In Rainbows (2007-10-10)](http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg "Radiohead - In Rainbows (2007-10-10)")
@@ -147,9 +147,6 @@ Snow Patrol - Final Straw (2003-08-04)
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
 </li>
-<li data-cover="https://img.discogs.com/txXCBCvtaF_tayG6iJRYDdx68Do=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367875-1425009360-9153.jpeg.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Thirteenth Step (2003-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Room on Fire (2003-10-16)
 </li>
@@ -185,6 +182,9 @@ Fall Out Boy - From Under the Cork Tree (2005-05-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/b9388241-ca23-3184-a445-c953b8de20dc/4808228814-500.jpg" data-tags="alternative metal, metal" role="button">
+System of a Down - Mezmerize (2005-05-16)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
 Coldplay - X&Y (2005-06-01)

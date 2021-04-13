@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:58:23.862Z
+date: 2021-04-13T02:20:01.499Z
 title: "slowcore: 100 albums you must listen to before you die"
 ---
 ![Low - I Could Live in Hope (1994-02-18)](http://coverartarchive.org/release/2f4394d1-c5fa-493c-99dc-58d96b5864cf/13971905416-500.jpg "Low - I Could Live in Hope (1994-02-18)")
@@ -102,9 +102,6 @@ Movietone - Day and night (1997-09-22)
 <li data-cover="http://coverartarchive.org/release/5c421cdd-a264-42cc-9c2d-20ce641ce5f2/16544562812-500.jpg" data-tags="slowcore, ida, indie fava, dr small jukebox, arbeitsmusik, dormindo na praia" role="button">
 Ida - Ten Small Paces (1997-09-30)
 </li>
-<li data-cover="https://img.discogs.com/Qj2Bp4Sls87tqDQiXJQouKbpuGo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-433188-1476186558-6219.jpeg.jpg" data-tags="slowcore, drag city, essential" role="button">
-Aerial M - Aerial M (1997-10-14)
-</li>
 <li data-cover="https://img.discogs.com/fK0u99-kwPML4qw_UcawHLnISfM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-553727-1145370579.jpeg.jpg" data-tags="indie pop, twee pop, shoegaze, dream pop, slowcore" role="button">
 Trembling Blue Stars - Lips That Taste of Tears (1998-01-19)
 </li>
@@ -171,9 +168,6 @@ Grandaddy - Concrete Dunes (2002-02-19)
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
 </li>
-<li data-cover="https://img.discogs.com/HfSe9HKBIvRfYfGI2kOaX8lQKjw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-653374-1149680703.jpeg.jpg" data-tags="jazz" role="button">
-Karate - Some Boots (2002-10-08)
-</li>
 <li data-cover="https://img.discogs.com/i9584y28ConNp5D5Dh_AIYB996g=/fit-in/474x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030535-1207227733.jpeg.jpg" data-tags="slowcore, post-rock, ambient pop" role="button">
 The White Birch - Star Is Just A Sun (2002-11-04)
 </li>
@@ -192,11 +186,11 @@ Saves the Day - In Reverie (2003-09-16)
 <li data-cover="http://coverartarchive.org/release/d4c15b9a-7a22-4ac9-9800-393de8a794d7/22598735186-500.jpg" data-tags="folk" role="button">
 Sun Kil Moon - Ghosts of the Great Highway (2003-11-04)
 </li>
-<li data-cover="https://img.discogs.com/AnY7XB6_cCAa3oB3nZKEjswD-cQ=/fit-in/150x145/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3141743-1317686536.jpeg.jpg" data-tags="indie, indie rock" role="button">
-Galaxie 500 - Uncollected (2004-08-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/f8a1950a-fa13-40c0-8217-1513f0aadf45/17964168327-500.jpg" data-tags="slowcore" role="button">
 Coastal - Halfway To You (2004-08-09)
+</li>
+<li data-cover="https://img.discogs.com/xpSEYlXlCy9jAAvmz511el1P1Y8=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-617775-1297887338.jpeg.jpg" data-tags="folk, slowcore, wfmu heavily played records" role="button">
+Zelienople - Sleeper Coach (2004-09-14)
 </li>
 <li data-cover="https://img.discogs.com/Bmmzl0DXSlEHMkdIZxbyb1OFzBU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-630807-1152809288.jpeg.jpg" data-tags="acoustic, slowcore, timeless" role="button">
 Carissa's Wierd - I Before E (2004-11-09)
@@ -212,9 +206,6 @@ Early Day Miners - All Harm Ends Here (2005-01-18)
 </li>
 <li data-cover="https://img.discogs.com/rhuLhWEKj-SJ3s-jkPXHpIfRyA4=/fit-in/225x202/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-684939-1147697356.jpeg.jpg" data-tags="post-rock, slowcore" role="button">
 The White Birch - Come Up for Air (2005-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/4a83df15-12af-48d1-b0b4-9f7e6bd3e40b/27514730110-500.jpg" data-tags="peel sessions" role="button">
-Galaxie 500 - Peel Sessions (2005-11-15)
 </li>
 <li data-cover="https://img.discogs.com/HPCdbxJqpPcVjkR_WUklKAT8KDw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5340331-1390948623-9950.jpeg.jpg" data-tags="post-rock" role="button">
 Gregor Samsa - 55:12 (2006-03-07)
@@ -240,11 +231,14 @@ Slow Dancing Society - The Slow and Steady Winter (2007)
 <li data-cover="https://img.discogs.com/La_Z4B60AfMGp0s5dD3caXrTysI=/fit-in/600x541/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1036146-1539951563-8542.jpeg.jpg" data-tags="indie pop, slowcore" role="button">
 Dakota Suite - Waiting For The Dawn To Crawl Through And Take Away Your Life (2007-02-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/bf83ef73-470d-49ca-bf1b-2e2650b64770/2154776846-500.jpg" data-tags="indie rock, slowcore, 00s, depressive, merkliste, bad seeds merkliste" role="button">
-Devastations - Yes, U (2007-09-17)
-</li>
 <li data-cover="https://img.discogs.com/libNtdcj6hLceig8ZQ-xWWBeakc=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4545857-1367957996-8114.png.jpg" data-tags="slowcore, the antlers" role="button">
 The Antlers - Cold War (2007-10-28)
+</li>
+<li data-cover="https://img.discogs.com/xuICyUT61uYoY-No0-5CRY4QvhU=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1211749-1595142611-5320.jpeg.jpg" data-tags="experimental, post-rock, slowcore, kranky, staubgold" role="button">
+Autistic Daughters - Uneasy Flowers (2008-02)
+</li>
+<li data-cover="https://img.discogs.com/c6rPPJ7mQdUs2EasNlARQtLBleY=/fit-in/300x169/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4179949-1357853131-4394.jpeg.jpg" data-tags="black metal, swedish, post-rock, sweden, depressive black metal" role="button">
+Hypothermia - Kaffe & Blod (2008-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/ae954b72-41c8-4984-b9a9-63b53030d1d0/2471701414-500.jpg" data-tags="slowcore, neofolk, dark folk, 00s, neo folk, fancy album covers, monochrome album covers, vintage album covers, psychedelic album covers,  dark folk" role="button">
 Matt Elliott - Howling songs (2008-10-27)
@@ -254,6 +248,9 @@ The Tumbled Sea - Songs by The Tumbled Sea (2008-11-28)
 </li>
 <li data-cover="https://img.discogs.com/GxQjBeFyocuKNcGZ4c-UBv-dTTk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855864-1266676841.jpeg.jpg" data-tags="indie, haunting" role="button">
 The Antlers - Hospice (2009-03-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/be9ff2f8-2b22-4c0f-8463-148b802c7b42/18564904626-500.jpg" data-tags="rock, melancholic" role="button">
+Sophia - There Are No Goodbyes (2009-04-27)
 </li>
 <li data-cover="https://img.discogs.com/DQc1eHulSCjyIY1MzDJIaZiVbgw=/fit-in/458x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2284888-1274430718.jpeg.jpg" data-tags="post-rock, shoegaze" role="button">
 Planning for Burial - Leaving (2009-09-18)
@@ -314,6 +311,9 @@ Low - The Invisible Way (2013-03-19)
 </li>
 <li data-cover="https://img.discogs.com/XPGZkOo0dCbmKng_cY6_jsb1Cm0=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4963579-1396460313-3423.jpeg.jpg" data-tags="dream pop" role="button">
 Mazzy Star - Seasons of Your Day (2013-09-23)
+</li>
+<li data-cover="https://img.discogs.com/IFe20nDjQ9mKl9XaDKNt3xoOFEE=/fit-in/438x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4953340-1384389436-9164.jpeg.jpg" data-tags="singer-songwriter, slowcore" role="button">
+Dean Wareham - Emancipated Hearts (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">
 Sharon Van Etten - Are We There (2014-05-26)

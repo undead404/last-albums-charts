@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:19:01.535Z
+date: 2021-04-13T02:09:01.527Z
 title: "funk rock: 100 albums you must listen to before you die"
 ---
 ![Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)](http://coverartarchive.org/release/176eedfe-de5c-3a7c-bdeb-1c900d317524/7309790879-500.jpg "Red Hot Chili Peppers - Stadium Arcadium (2006-05-05)")
@@ -48,6 +48,9 @@ Can - Saw Delight (1977)
 <li data-cover="https://img.discogs.com/IH8q1jw4mqop3Lpn7sNDvyGGEhk=/fit-in/368x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1500781-1270158550.jpeg.jpg" data-tags="art rock, 70s, new wave, post-punk" role="button">
 Japan - Obscure Alternatives (1978-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/4c750b18-c53c-4fa7-9731-f231985fb804/9351230803-500.jpg" data-tags="funk rock" role="button">
+Mother's Finest - Live (1979)
+</li>
 <li data-cover="http://coverartarchive.org/release/10487455-2dc6-4cb1-a4f7-faca811c6b99/6348186004-500.jpg" data-tags="funk" role="button">
 Funkadelic - The Electric Spanking of War Babies (1981-08)
 </li>
@@ -81,17 +84,11 @@ Lenny Kravitz - Let Love Rule (1989-07-23)
 <li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - Mother's Milk (1989-08-22)
 </li>
-<li data-cover="https://img.discogs.com/YqqCs70buzegtoFW7myFLVnsQ8U=/fit-in/600x607/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3000806-1508266484-8892.jpeg.jpg" data-tags="funk metal" role="button">
-Primus - Frizzle Fry (1990-05-31)
-</li>
 <li data-cover="https://img.discogs.com/6Nkszn5tJFDJywElV8Q0g26itWc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3222714-1399314519-9565.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
 Living Colour - Time's Up (1990-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/35a28722-a9ed-3bcd-975d-2a3fede3907b/5891797788-500.jpg" data-tags="hard rock" role="button">
 Extreme - Extreme II: Pornograffitti (1990-08-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
-Primus - Sailing The Seas Of Cheese (1991-05-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a121eb69-7b53-4797-a08b-b00eecf15594/2079256944-500.jpg" data-tags="rock, 80s, alternative, alternative rock, hard rock, 90s, funk rock, neo-psychedelia, this album is exceptionally important" role="button">
 Living Colour - Biscuits (1991-09-01)
@@ -111,9 +108,6 @@ Can - Radio Waves (1993)
 <li data-cover="http://coverartarchive.org/release/84e9071c-cac7-42f6-9043-4ee04d215eea/5609681827-500.jpg" data-tags="rock" role="button">
 311 - Music (1993-02-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/8e0b296b-9ba7-4781-b151-c6eb0d17b85d/19621358532-500.jpg" data-tags="alternative metal" role="button">
-Primus - Pork Soda (1993-04-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/06c8f48c-caa0-4282-b7fe-264c4b673085/2192549116-500.jpg" data-tags="rapcore, nu metal, funk rock" role="button">
 Papa Roach - Potatoes For Christmas (1994)
 </li>
@@ -125,6 +119,9 @@ Blues Traveler - Four (1994-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/599d1dcd-bb96-4802-91c4-f7afcb0143e1/9742630617-500.jpg" data-tags="90s, rock" role="button">
 Red Hot Chili Peppers - Out in L.A. (1994-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/16a806ea-05af-45c5-be87-347ce340aec7/7759578678-500.jpg" data-tags="funk chileno" role="button">
+Chancho En Piedra - Peor es Mascar Lauchas (1995)
 </li>
 <li data-cover="https://img.discogs.com/kLwwdL7g-KtySuIYVlNHiBCNU-o=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6094760-1411874073-9376.jpeg.jpg" data-tags="chile, rock chileno, rock en castellano" role="button">
 Los Tres - La Espada & la Pared (1995-03-17)
@@ -147,9 +144,6 @@ Incubus - Fungus Amongus (1995-11-01)
 <li data-cover="https://img.discogs.com/g_H2gZHTS0TUDQiNvPkdUDo_n4Y=/fit-in/600x422/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2046045-1260619116.jpeg.jpg" data-tags="rapcore, funk rock" role="button">
 Blenders - Fankomat (1996)
 </li>
-<li data-cover="https://img.discogs.com/7hpzYqsH-Q1rEc7jcINYFY0Egao=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-480461-1321786903.jpeg.jpg" data-tags="rock" role="button">
-Les Claypool And The Holy Mackerel - Highball With The Devil (1996)
-</li>
 <li data-cover="http://coverartarchive.org/release/981dbbfc-0b08-372b-a0b9-a8e15232d484/15456224654-500.jpg" data-tags="rock, alternative, alternative rock, progressive rock, acoustic, funk metal, funk, latin, blues, progressive, blues rock, funk rock, progressive alternative metal, progressive alternative rock, progressive funk rock, alternative funk rock, progressive funk metal, good album" role="button">
 I Mother Earth - Scenery and Fish (1996-07-09)
 </li>
@@ -158,6 +152,9 @@ Freak Kitchen - Spanking Hour (1996-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/e9bdf2fc-fd7f-4ce1-aa04-10112f26c594/26844289820-500.jpg" data-tags="rock, skate punk" role="button">
 Charlie Brown JR. - Transpiração Contínua Prolongada (1997)
+</li>
+<li data-cover="https://img.discogs.com/TmVaB8XsHsUPso6JQtxzTapqdiY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7426046-1514559160-1999.jpeg.jpg" data-tags="hard rock, blues rock, funk rock, glam metal" role="button">
+Ratt - Collage (1997-07-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
@@ -177,9 +174,6 @@ Mattias IA Eklundh - Freak Guitar (1999)
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
 </li>
-<li data-cover="https://img.discogs.com/fzRgl1_qWan58EQ2sode-Shk5DQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11742573-1521612866-9802.jpeg.jpg" data-tags="funk metal" role="button">
-Primus - Antipop (1999-10-18)
-</li>
 <li data-cover="https://img.discogs.com/990QvNo7eWnAzNhZ9wsWa9gDlf0=/fit-in/532x528/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6846409-1427854450-6351.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, acoustic, motown, funk metal, funk, funky, groovy, funk rock, rap metal, jecks" role="button">
 O'Funk'illo - O'Funk'Illo (2000)
 </li>
@@ -191,6 +185,9 @@ Infectious Grooves - Mas Borracho (2000-08-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2ce7197-a25c-4679-86b7-0e938cf2aebd/27852527490-500.jpg" data-tags="rapcore" role="button">
 Thousand Foot Krutch - Set It Off (2000-11-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/65f51b2e-fb7d-43fc-9535-aba41b13477e/9495572033-500.jpg" data-tags="metalcore, metal, rock, alternative, alternative rock, hardcore, funk metal, funk, alternative metal, 00s, nu metal, funk rock, hardcore punk, maximum the hormone, nao, daisuke-han, maximum the ryo-kun, ue-chang" role="button">
+マキシマム ザ ホルモン - 鳳 (2001-02-14)
 </li>
 <li data-cover="https://img.discogs.com/SXFc2MlxPqDEkUfPPSHdgn70Enw=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-501070-1356643028-2297.jpeg.jpg" data-tags="alternative" role="button">
 Oysterhead - The Grand Pecking Order (2001-10)
@@ -231,14 +228,14 @@ Mattias IA Eklundh - Freak Guitar: The Road Less Traveled (2004-06-02)
 <li data-cover="http://coverartarchive.org/release/7c7f2328-df86-4d6b-a2ec-a96eeb28dfd3/5718688483-500.jpg" data-tags="rock, live" role="button">
 Red Hot Chili Peppers - Live in Hyde Park (2004-07-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/f7f5f5d7-5292-4fc9-a2b8-93e84e9c976f/8155821922-500.jpg" data-tags="blues" role="button">
+R.L. Burnside - A Bothered Mind (2004-08-17)
+</li>
+<li data-cover="https://img.discogs.com/P6xTEY-vNYwL8xg_NwWrG46tKdw=/fit-in/400x369/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1602681-1281105345.jpeg.jpg" data-tags="funk rock, classic albums, before lunch" role="button">
+Lewis Taylor - The Lost Album (2004-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/178d4ed8-ab44-456b-8c56-a8736e8e9ae9/2903015576-500.jpg" data-tags="depressive black metal" role="button">
 Mortifera - Vastiia Tenebrd Mortifera (2004-12)
-</li>
-<li data-cover="https://img.discogs.com/cW_1No87FdJZUbHMb_11wNPb5pk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6694333-1424781381-4411.jpeg.jpg" data-tags="jazz, pop, rock, soul, instrumental, reggae, acoustic, motown, funk metal, funk, funky, alternative metal, groovy, funk rock, jecks, alternativo, regge, my cds, opelmelange, flamenkeando con gracia" role="button">
-O'Funk'illo - No Te Cabe Na' (2005)
-</li>
-<li data-cover="https://img.discogs.com/-aDU8lzkB5120fOLOooUU4UUrcw=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-887474-1529505548-5527.jpeg.jpg" data-tags="funk rock, psych pop, ian svenonius, merkliste, prince like in places" role="button">
-Weird War - Illuminated by the Light (2005-04-19)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative metal" role="button">
 Papa Roach - Live and Murderous in Chicago (2005-11-22)
@@ -263,6 +260,9 @@ Sleepytime Gorilla Museum - In Glorious Times (2007-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5aa39bf0-3140-4141-be2c-8529c15e77a8/26667694769-500.jpg" data-tags="instrumental, experimental" role="button">
 Incubus - Look Alive (2007-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/5dd84594-e89b-4937-be8e-62b6444ab3c1/21497673449-500.jpg" data-tags="instrumental, soft rock, funk, funk rock, 80s revival, new eighties, instrumental soft rock" role="button">
+Freddie Fox - Feelin' It (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/b95d3a86-6640-4a02-850a-2b842ad601d3/2663904426-500.jpg" data-tags="rock" role="button">
 Red Hot Chili Peppers - Greatest Hits (2008)

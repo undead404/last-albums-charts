@@ -1,16 +1,16 @@
 ---
-date: 2021-04-12T15:03:01.603Z
+date: 2021-04-13T02:29:01.534Z
 title: "bossa nova: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/Mi6IqIn9PuiCrW7sqM4N4ejH3Ko=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2241296-1271795742.jpeg.jpg" data-tags="jazz, bossa nova" role="button">Stan Getz & Charlie Byrd - Jazz Samba (1962-04-20)</li>
 <li data-cover="http://coverartarchive.org/release/b2bc079e-57d6-434f-a7a4-af3e9f573fc0/8707620050-500.jpg" data-tags="bossa nova, jazz" role="button">STAN GETZ & JOAO GILBERTO - Getz/Gilberto (1964-03)</li>
+<li data-cover="https://img.discogs.com/abzcGXwWt27DTejtlFQqm_8pC0c=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4323124-1361726202-4141.jpeg.jpg" data-tags="bossa nova" role="button">Antônio Carlos Jobim - Stone Flower (1970)</li>
 <li data-cover="http://coverartarchive.org/release/a80dbd7d-3841-4d87-acda-58b53eb47028/5969394312-500.jpg" data-tags="chillout, trip-hop, downtempo" role="button">Smoke City - Flying Away (1997-06-24)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="bossa nova" role="button">Astrud Gilberto - Astrud Gilberto's Finest Hour (2001-05-15)</li>
 <li data-cover="https://img.discogs.com/I0SWT3S8uigi0AFlNC8acIVz4_U=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304407-1099749564.jpg.jpg" data-tags="bossa nova, brazilian" role="button">Bebel Gilberto - Bebel Gilberto (2004-06-07)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
-<li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">Diana Krall - Quiet Nights (2009-03-26)</li>
 <li data-cover="http://coverartarchive.org/release/d6a203cf-3f97-4e14-a32f-c2a11731de63/6882953124-500.jpg" data-tags="bossa nova" role="button">Thievery Corporation - Saudade (2014-04-01)</li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">Todd Terje - It's Album Time (2014-04-07)</li>
 <li data-cover="http://coverartarchive.org/release/77fd947a-cbda-4d09-93b4-6753ab5e7a3c/8201873863-500.jpg" data-tags="indie, folk, mallu magalhaes" role="button">Banda do Mar - Banda do Mar (2014-08-05)</li>
@@ -116,6 +116,9 @@ Joyce - Feminina (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b01bf12-201b-45f8-9167-91344bd12b87/26771751187-500.jpg" data-tags="soundtrack, bossa nova, samba, trilha sonora, bresil, gil, vocalistas masculinos, brasileirinhos, bom sambinha, gilberto gil-quilombo" role="button">
 Gilberto Gil - Quilombo (1984)
+</li>
+<li data-cover="http://coverartarchive.org/release/2d59d89a-3b90-471f-a85e-5ecbcaec4268/8293805928-500.jpg" data-tags="bossa nova, samba, astrud gilberto" role="button">
+Astrud Gilberto - This Is Astrud Gilberto (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/64607f8d-3cc8-4131-a748-528a1b9e28d1/23355709748-500.jpg" data-tags="female, jazz, jazz vocal, bossa nova, lovely, tag, marvelous, boobs, shady, sabrina, delightful, carl, grady, nipples, vaginal, jacked, i would like to spend an afternoon rubbing her breasts with warm mineral oil, shady grady, 1000 albums to hear before you die, beautiful land of tits, quiero su disco, sabrina-sabrina, vagina and breasts, feminine cavern of love, boneriffic, beneficial, carlos seramos, seramos, related tags, clsid not unique, 00c04fd7d062, 9e56be61-c50f-11cf-9a2c-00a0c90a90ce, 9e56be61, c50f, 11cf, 9a2c, 00a0c90a90ce, 888dca60-fc0a-11cf-8f0f-00c04fd7d062, 888dca60, fc0a, 8f0f" role="button">
 Sabrina Salerno - Sabrina (1987)
@@ -275,9 +278,6 @@ Maysa - Metamorphosis (2008-10-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/58e41d83-3ea3-4e01-822c-6066ec2dd688/8222565801-500.jpg" data-tags="bossa nova, jazz, female vocalists" role="button">
 Eliane Elias - Bossa Nova Stories (2009-01-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
-Diana Krall - Quiet Nights (2009-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/0336f197-29b9-44b0-879e-fa0a8dfada96/16560051599-500.jpg" data-tags="latin soul, bossa nova, latin jazz" role="button">
 Una Mas Trio - Ritmo Del Futura (2009-04-24)

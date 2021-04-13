@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:09:01.473Z
+date: 2021-04-13T02:02:01.462Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -69,9 +69,6 @@ Funkadelic - Standing on the Verge of Getting It On (1974-09)
 <li data-cover="http://coverartarchive.org/release/6f8468cf-f8a4-4c2b-bded-a66c5a83041c/22712479663-500.jpg" data-tags="funk" role="button">
 Parliament - Mothership Connection (1975)
 </li>
-<li data-cover="http://coverartarchive.org/release/62fe1216-38fc-455f-9be7-c343b95c274f/15851661383-500.jpg" data-tags="70s, funk" role="button">
-Earth, Wind & Fire - That's The Way Of The World (1975-03)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk" role="button">
 War - Why Can't We Be Friends? (1975-06)
 </li>
@@ -125,9 +122,6 @@ Sly & The Family Stone - Anthology (1989)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="funk rock" role="button">
 Red Hot Chili Peppers - Mother's Milk (1989-08-22)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3814cca-63d1-4cfa-9934-60957205b86b/26730700764-500.jpg" data-tags="alternative rock, funk metal, rock, funk, 90s, alternative metal" role="button">
-Primus - Sailing The Seas Of Cheese (1991-05-14)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, funk rock, funk" role="button">
 Red Hot Chili Peppers - Blood Sugar Sex Magik (1991-09-24)
@@ -225,6 +219,9 @@ Jamiroquai - High Times: Singles 1992-2006 (2006-11-03)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, funk, heart full of wine" role="button">
 Angus & Julia Stone - Heart Full of Wine (2007-02-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/7f6744e0-893a-300c-a091-89cd68a795f9/4191054363-500.jpg" data-tags="soul" role="button">
+Joss Stone - Introducing Joss Stone (2007-03-12)
+</li>
 <li data-cover="https://img.discogs.com/QKA36EQAeeFGip-FYG3Nugka_v0=/fit-in/461x465/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1156412-1196715153.jpeg.jpg" data-tags="electronic" role="button">
 Chromeo - Fancy Footwork (2007-04-12)
 </li>
@@ -293,6 +290,9 @@ The Heavy - The Glorious Dead (2012-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/3cd7117c-b98c-4b3b-80fd-ffb978ed64d3/11541481170-500.jpg" data-tags="pop, r&b" role="button">
 Bruno Mars - Unorthodox Jukebox (2012-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/b90eb4fe-cf96-4476-b64b-9269df7e3066/3702933634-500.jpg" data-tags="soul, funk" role="button">
+Charles Bradley - Victim of Love (2013-04-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
 Daft Punk - Random Access Memories (2013-05-17)

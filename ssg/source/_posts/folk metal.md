@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:12:01.442Z
+date: 2021-04-13T01:59:01.452Z
 title: "folk metal: 100 albums you must listen to before you die"
 ---
 ![Agalloch - Ashes Against the Grain (2006-08-08)](http://coverartarchive.org/release/b943e89a-2ae7-4cce-940a-c434c4f068cf/19071273840-500.jpg "Agalloch - Ashes Against the Grain (2006-08-08)")
@@ -90,9 +90,6 @@ Finntroll - Jaktens Tid (2001-09-18)
 <li data-cover="http://coverartarchive.org/release/eddc7436-b9bc-4cae-9b81-daebfab8b8a7/5429036495-500.jpg" data-tags="black metal, viking metal, folk metal, melodic black metal" role="button">
 Windir - 1184 (2001-11-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/cd9acad7-5f84-481e-9ffb-e6037d290855/7843646894-500.jpg" data-tags="power metal" role="button">
-Falconer - Chapters From a Vale Forlorn (2002-02-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/7ac99528-77a9-3624-84b7-3400f6f56e47/22056699402-500.jpg" data-tags="folk metal, doom metal" role="button">
 Agalloch - The Mantle (2002-08-13)
 </li>
@@ -167,6 +164,9 @@ Moonsorrow - Verisäkeet (2005-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/0286ca58-f2b8-46cd-882d-b8c50ce2f482/20276422127-500.jpg" data-tags="folk metal" role="button">
 Heidevolk - De Strijdlust Is Geboren (2005-03-11)
+</li>
+<li data-cover="https://img.discogs.com/KYHvJB5hgEFPDIqLkIcpZPDOVm8=/fit-in/490x653/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4113006-1355665811-1569.jpeg.jpg" data-tags="black metal, atmospheric black metal" role="button">
+Drudkh - Blood in Our Wells (2006-03-23)
 </li>
 <li data-cover="https://img.discogs.com/aE3345TwQXDkiZd3C3bdWSItwD8=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3308881-1325109190.jpeg.jpg" data-tags="folk metal" role="button">
 Korpiklaani - Tales Along This Road (2006-04-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:54:01.455Z
+date: 2021-04-13T01:54:01.452Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Comatose (2006-10-03)](http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg "Skillet - Comatose (2006-10-03)")
@@ -189,9 +189,6 @@ TobyMac - Portable Sounds (2007-02-20)
 <li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">
 Relient K - Five Score and Seven Years Ago (2007-03-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
-The Almost - Southern Weather (2007-03-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/cacd3e8f-1ac4-4328-9472-159693664f6d/24227116275-500.jpg" data-tags="christian rock" role="button">
 Building 429 - Iris To Iris (2007-05-01)
 </li>
@@ -233,9 +230,6 @@ Leeland - Opposite Way (2008-02-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/85c9715c-4df9-4f66-afa4-9295b9dbd4da/15035339489-500.jpg" data-tags="christian rock" role="button">
 Addison Road - Addison Road (2008-03-18)
-</li>
-<li data-cover="https://img.discogs.com/EJss2sKU2kksOAVOknHXXBGgYFA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3805315-1345118319-9539.jpeg.jpg" data-tags="alternative rock, emo, pop punk, christian rock, emo pop, pablo10" role="button">
-Run Kid Run - Love At The Core (2008-04-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/5deeaeca-3c3d-4a26-bfb6-3c35e46f239c/16397739294-500.jpg" data-tags="christian rock" role="button">
 Tenth Avenue North - Over And Underneath (2008-05-20)
@@ -294,8 +288,14 @@ The Afters - Light Up the Sky (2010-09-14)
 <li data-cover="http://coverartarchive.org/release/9026ff79-d23d-4585-95cf-d8e275790f8b/19390111211-500.jpg" data-tags="christian rock" role="button">
 Disciple - Horseshoes & Handgrenades (2010-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/09949a33-a961-4162-a632-94299f42bb11/25696386848-500.jpg" data-tags="christian, christian rock, worship, praise, praise & worship" role="button">
+Third Day - Move (2010-10-18)
+</li>
 <li data-cover="http://coverartarchive.org/release/a29abf7a-419d-4b2b-9216-06474b65b61b/9025244457-500.jpg" data-tags="alternative, singer-songwriter, christian, christian rock, christian worship, favorite bands and artists" role="button">
 Brandon Heath - Leaving Eden (2011-01-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/2408298e-471f-4f3b-bc1d-1601d471a2cd/24227066985-500.jpg" data-tags="christian, christian rock, contemporary christian, worship, ccm, alternative ccm" role="button">
+Building 429 - Listen To The Sound (2011-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b24c4533-f252-4824-9f7e-3a671323148b/25109611893-500.jpg" data-tags="electronic, rock, punk, punk rock, crunk, christian rock, crunk rock" role="button">
 Family Force 5 - III (2011-10-18)

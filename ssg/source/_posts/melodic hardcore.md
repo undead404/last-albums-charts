@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:54:01.465Z
+date: 2021-04-13T01:46:06.937Z
 title: "melodic hardcore: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Appeal to Reason (2008-10-02)](https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg "Rise Against - Appeal to Reason (2008-10-02)")
@@ -23,9 +23,6 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/H5dDAdQEnctSY10THsv2Ow0Xf78=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-648023-1143064260.jpeg.jpg" data-tags="melodic hardcore" role="button">
 Kid Dynamite - Kid Dynamite (1976)
-</li>
-<li data-cover="http://coverartarchive.org/release/df11248d-6a31-3a7d-a7a8-d384e6b3765c/17273598522-500.jpg" data-tags="hardcore, hardcore punk" role="button">
-Gorilla Biscuits - Start Today (1989-06-24)
 </li>
 <li data-cover="https://img.discogs.com/mCYOZDBEcuVVw32N09qfYfPxRMM=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1080141-1447207385-1518.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Bad Religion - No Control (1989-07-15)
@@ -68,6 +65,9 @@ Pennywise - Land of the Free? (2001-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/da1c0df9-9771-47e5-9b7c-38cfe876e077/20636697554-500.jpg" data-tags="melodic hardcore" role="button">
 CPM 22 - Chegou A Hora De Recomeçar (2002)
+</li>
+<li data-cover="https://img.discogs.com/yXqu2Oa8ZPJtoxM9QzB-3pZLh-g=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2512436-1289033350.jpeg.jpg" data-tags="punk rock, pop punk, ska punk" role="button">
+Goldfinger - Open Your Eyes (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/a523bcb6-4d68-3854-b159-82fd53f9655d/24573949978-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Strung Out - An American Paradox (2002-04-12)
@@ -134,9 +134,6 @@ Alexisonfire - Crisis (2005-08-22)
 </li>
 <li data-cover="https://img.discogs.com/EInZAV_W02n2rIqFuuO7DXrcWzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878619-1249674773.jpeg.jpg" data-tags="hardcore punk" role="button">
 Gallows - Orchestra of Wolves (2006)
-</li>
-<li data-cover="https://img.discogs.com/erk1ntVaChPyHzzVSC8bH32s2jY=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3444812-1330819299.jpeg.jpg" data-tags="hardcore, straight edge, melodic hardcore" role="button">
-Casey Jones - The Messenger (2006)
 </li>
 <li data-cover="https://img.discogs.com/T53Mx8G9FkKxmfiifHlIAGTAYc0=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973535-1179570684.jpeg.jpg" data-tags="hardcore, melodic hardcore" role="button">
 Crime In Stereo - The Troubled Stateside (2006-04-18)
@@ -216,6 +213,9 @@ For the Fallen Dreams - Relentless (2009-07-21)
 <li data-cover="http://coverartarchive.org/release/c36d023f-1604-4a57-a702-b574aa5f504c/3350514175-500.jpg" data-tags="punk rock, post-hardcore, melodic hardcore" role="button">
 Polar Bear Club - Chasing Hamburg (2009-09-08)
 </li>
+<li data-cover="https://img.discogs.com/1jF-eTqgQN0jUV9qC0NynDe2PYY=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2409015-1282417267.jpeg.jpg" data-tags="hardcore, metalcore, melodic hardcore" role="button">
+Evergreen Terrace - Almost Home (2009-09-29)
+</li>
 <li data-cover="https://img.discogs.com/Nw2anYZg5rOL-8YMkx4NwY8A2Rk=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2854108-1304080766.jpeg.jpg" data-tags="melodic hardcore" role="button">
 Such Gold - Pedestals (2010)
 </li>
@@ -282,9 +282,6 @@ Close Your Eyes - Empty Hands and Heavy Hearts (2011-10-24)
 <li data-cover="http://coverartarchive.org/release/0f3289b0-f144-427b-98d2-cd75e932469d/7682688831-500.jpg" data-tags="hardcore, melodic hardcore" role="button">
 Counterparts - The Current Will Carry Us (2011-10-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/e745ab9a-0ba8-48a1-84b9-f3d809b14bca/11691646996-500.jpg" data-tags="hardcore, pop punk, melodic hardcore" role="button">
-Your Demise - The Golden Age (2012-03-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/75a9013b-c9e0-4299-8fdb-8c609e326a2c/6521215009-500.jpg" data-tags="metalcore" role="button">
 While She Sleeps - This Is The Six (2012-08-13)
 </li>
@@ -296,6 +293,9 @@ Citizen - Young States (2012-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/b64e3ca3-ea88-4119-ac93-01b5c1657cbf/7391916512-500.jpg" data-tags="post-hardcore, melodic hardcore" role="button">
 Being As An Ocean - Dear G-d... (2012-10-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/395b02dc-2943-4104-bf7f-4b00035d02be/4705448295-500.jpg" data-tags="punk rock" role="button">
+Bad Religion - True North (2013-01-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8b86e9f3-33ed-45e4-95c3-f2e8f57ae793/26502832658-500.jpg" data-tags="emo" role="button">
 Citizen - Youth (2013-06-18)

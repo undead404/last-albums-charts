@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:15:29.616Z
+date: 2021-04-13T02:24:07.049Z
 title: "sludge metal: 100 albums you must listen to before you die"
 ---
 ![Mastodon - Leviathan (2004-08-31)](https://img.discogs.com/hy79CWZp3H0-QlcLeAcaKIvy6Z4=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-457807-1593736546-2626.jpeg.jpg "Mastodon - Leviathan (2004-08-31)")
@@ -111,9 +111,6 @@ Pelican - Australasia (2003-11-04)
 <li data-cover="http://coverartarchive.org/release/fbf10588-76f4-4948-b94c-f2db2f600da3/15332328536-500.jpg" data-tags="progressive metal, progressive rock, sludge metal" role="button">
 Baroness - First (2004-08-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/f0baba81-224e-4493-9e1d-6208669a1de0/9615154980-500.jpg" data-tags="progressive metal, post-metal" role="button">
-The Ocean - Fluxion (2004-08-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/e49980be-ea93-4d03-ab54-e64e3443a2ba/1049941326-500.jpg" data-tags="experimental rock, dark ambient, sludge metal" role="button">
 Melvins & Lustmord - Pigs of the Roman Empire (2004-08-23)
 </li>
@@ -122,9 +119,6 @@ Mastodon - Leviathan (2004-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/90088a59-b98d-4960-9abf-71a65ef16e71/14236443791-500.jpg" data-tags="post-metal" role="button">
 Isis - Panopticon (2004-10-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/111b9760-852f-4a55-9c1a-981d38f6bf70/28704207369-500.jpg" data-tags="sludge, sludge metal" role="button">
-Crowbar - Lifesblood for the Downtrodden (2005-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/7116fbc6-c1da-4bb7-8645-05234af1e720/15332337328-500.jpg" data-tags="progressive metal" role="button">
 Baroness - Second (2005-09-05)
@@ -161,9 +155,6 @@ Rwake - Voices of Omens (2007-02-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc9f370a-1774-4751-b9c4-ef9d05939770/24057716895-500.jpg" data-tags="sludge, doom metal, post-metal" role="button">
 Neurosis - Given to the Rising (2007-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f8b8b1d-4f89-4d92-9688-0f2b5177ef15/26171540721-500.jpg" data-tags="sludge" role="button">
-Bongripper - Hippie Killer (2007-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8051bb91-61b6-48b3-8a82-fb8762951829/19909510907-500.jpg" data-tags="stoner metal" role="button">
 Weedeater - God Luck and Good Speed (2007-07-31)
@@ -228,6 +219,9 @@ Baroness - Blue Record (2009-10-13)
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/83181b88-97a9-4bfc-9c79-c993924c8621/18218900491-500.jpg" data-tags="doom metal, stoner metal" role="button">
+Ufomammut - Eve (2010-01-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/ab6ed3dc-9e9c-49f6-b07f-5779e2b8833d/8770829070-500.jpg" data-tags="stoner metal" role="button">
 High on Fire - Snakes for the Divine (2010-02-23)
 </li>
@@ -236,6 +230,9 @@ Justin Bieber - My Worlds (2010-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/36fb516d-9eb0-4de7-b451-34ca640565b7/6237521719-500.jpg" data-tags="post-metal, sludge" role="button">
 Year of No Light - Ausserwelt (2010-04-26)
+</li>
+<li data-cover="https://img.discogs.com/Jz7fKeWHFduRjuQgbPYjo8Dh8W8=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2347119-1491088339-6743.jpeg.jpg" data-tags="sludge" role="button">
+Kingdom of Sorrow - Behind the Blackest Tears (2010-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/595b9588-f969-401b-b7ff-0d454e051616/3646610364-500.jpg" data-tags="black metal, black n roll" role="button">
 Kvelertak - Kvelertak (2010-06-21)
@@ -275,6 +272,9 @@ Baroness - Yellow & Green (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed6d8cd-70c3-45c4-94c5-eb983f59b985/3564355677-500.jpg" data-tags="sludge metal, post-metal" role="button">
 Amenra - Mass V (2012-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/17e80f0f-f096-4960-8802-541f34fe8717/6180536375-500.jpg" data-tags="metal, ambient, sludge, progressive, post rock, sludge metal, sydney, post-metal, post metal, astronauts, we lost the sea" role="button">
+We Lost the Sea - The Quietest Place On Earth (2012-12-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/a71d4711-a170-433e-8d0c-481a8ef8db96/11689794293-500.jpg" data-tags="sludge metal" role="button">
 Kowloon Walled City - Container Ships (2012-12-04)

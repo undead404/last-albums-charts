@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:40:01.660Z
+date: 2021-04-13T02:39:07.061Z
 title: "scottish: 100 albums you must listen to before you die"
 ---
 ![Biffy Clyro - Only Revolutions (2009-11-09)](http://coverartarchive.org/release/2c747c3f-877b-45cf-ab7e-89c15b0c98c0/3366550064-500.jpg "Biffy Clyro - Only Revolutions (2009-11-09)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/643eb27d-87af-49c2-a6c5-4192db8736df/19705565467-500.jpg" data-tags="60s, folk, singer-songwriter, scottish, british folk, debut album, on-demand, j martyn" role="button">
 John Martyn - London Conversation (1967-10)
+</li>
+<li data-cover="https://img.discogs.com/a2910r1kJfoAFJ2ayy2QtRUhTZ8=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8787350-1468765141-2627.jpeg.jpg" data-tags="folk, scottish, psychedelic, acid folk, produced by joe boyd, joe boyd, witchseason productions, the dc - 60s, good cd, the incredible string band" role="button">
+The Incredible String Band - The Big Huge (1968-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f92b531-f09a-4dec-b954-2d3af9d3e961/27167515064-500.jpg" data-tags="folk, scottish, celtic, scottish folk" role="button">
 Silly Wizard - Caledonia's Hardy Sons (1978)
@@ -92,9 +95,6 @@ Teenage Fanclub - Songs From Northern Britain (1997-07-21)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Travis - Good Feeling (1997-09-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/0c8f10cc-c39d-44bd-a6c7-3de06a4d8745/28068755551-500.jpg" data-tags="scottish, indie rock, 90s" role="button">
-Arab Strap - Philophobia (1998-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/362739f6-0103-445f-840f-a1186a9ffb82/21264323878-500.jpg" data-tags="indie pop, indie rock, scottish, glasgow" role="button">
 The Delgados - Peloton (1998-06-08)

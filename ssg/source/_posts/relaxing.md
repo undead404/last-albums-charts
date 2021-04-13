@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:16:12.712Z
+date: 2021-04-13T02:25:01.469Z
 title: "relaxing: 100 albums you must listen to before you die"
 ---
 ![Jack Johnson - In Between Dreams (2005-02-28)](http://coverartarchive.org/release/8803a42d-59ca-4eee-83ba-61fae63856f5/6148270094-500.jpg "Jack Johnson - In Between Dreams (2005-02-28)")
@@ -54,9 +54,6 @@ Vas - Sunyata (1997-04-08)
 <li data-cover="http://coverartarchive.org/release/bb8c0aca-2571-4cc0-b65b-59b063c4cde8/7588285721-500.jpg" data-tags="india, meditation, sitar" role="button">
 Ravi Shankar - Chants Of India (1997-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/a66fb9a6-a459-4e75-90a4-9eb7e33ad88c/14902634422-500.jpg" data-tags="electronic, downtempo" role="button">
-Alpha - Come From Heaven (1997-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/a948de2b-b7fb-4826-ad61-53b0dc20d708/15270866152-500.jpg" data-tags="celtic" role="button">
 David Arkenstone - The Celtic Book Of Days (1998-02-10)
 </li>
@@ -96,6 +93,9 @@ Anugama - Shamanic Dream II (2000)
 <li data-cover="http://coverartarchive.org/release/6d6ec1c9-3608-4349-a075-a3255af004b0/2591314075-500.jpg" data-tags="chillout, electronica, house" role="button">
 Groove Armada - The Remixes (2000-04-24)
 </li>
+<li data-cover="https://img.discogs.com/CFxnuJL6e6tYnUautoJ9-IiHPN8=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1938276-1263664672.jpeg.jpg" data-tags="hip-hop, rap, underground hip-hop, east coast rap" role="button">
+Dilated Peoples - The Platform (2000-05-20)
+</li>
 <li data-cover="https://img.discogs.com/W9YLJuU4_Y7niQq492J8nW3BUPc=/fit-in/600x538/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3277628-1544687511-9345.png.jpg" data-tags="electronic, trip-hop, downtempo, downbeat, relaxing, thievery corporation, ladytronica" role="button">
 Thievery Corporation - Shadows of Ourselves (2000-10-27)
 </li>
@@ -104,6 +104,9 @@ Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a4d245c-f596-4ea5-91ef-0c5761b0f826/2308134752-500.jpg" data-tags="new age, ambient" role="button">
 Amethystium - Odonata (2001-08-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="relaxing" role="button">
+Dean Evenson - Desert Moon Song (2001-11-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="meditation, relaxing, sanctuary, dean evenson, 2012andbeyond, tea house" role="button">
 Dean Evenson - Healing Sanctuary (2002-02-05)
@@ -165,6 +168,9 @@ David Gray - Life In Slow Motion (2005-09-12)
 <li data-cover="https://img.discogs.com/zrHhI4AAuvdXMs0udXX1cObnsyg=/fit-in/597x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2865155-1304634115.jpeg.jpg" data-tags="new age, meditation, relax" role="button">
 Deuter - East of the Full Moon (2005-10-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/26fb8ba3-cd5b-4ec7-bec9-f38c480b6816/19029451065-500.jpg" data-tags="trip-hop" role="button">
+Hooverphonic - No More Sweet Music (2005-11-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/b68a9abc-5e45-3fa6-8a6f-b0e9572ba1c9/8316179451-500.jpg" data-tags="new age, celtic" role="button">
 Enya - Amarantine (2005-11-18)
 </li>
@@ -180,9 +186,6 @@ Live - Songs from Black Mountain (2006-04-07)
 <li data-cover="https://img.discogs.com/YKBuZi5tKmnnPPk83hQMeRvvsis=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-654304-1170195233.jpeg.jpg" data-tags="trip-hop, downtempo" role="button">
 Saltillo - Ganglion (2006-06-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/c10d1d4e-b5fd-421f-b3d7-425bce705b49/11124033595-500.jpg" data-tags="ambient, easy listening, new age, mellow, psychill, relaxing, goa, u2, magic male voice, newage, progressive psytrance, magic female voice, new age and ambient, new age rythm, nice new age, rich new age and chill, torquemada, -new-age-and-ambient-, -favorites-, new age influences, new age aesthetics, new age favorites, collective sonance, new age collection, ethereal new age, chill new age, new age electronic, getmegetme, genre: new age, etheogenic, 15oooo, new age ambiant, 9p" role="button">
-Entheogenic - Golden Cap (2006-06-05)
-</li>
 <li data-cover="http://coverartarchive.org/release/b7ef7ad3-b581-4e7a-a550-3e9b966caa93/9609859246-500.jpg" data-tags="rnb" role="button">
 Cherish - Unappreciated (2006-08-15)
 </li>
@@ -192,9 +195,6 @@ Conya Doss - Love Rain Down (2006-08-28)
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
 </li>
-<li data-cover="https://img.discogs.com/UvuEapQ35XJJs-OOa44ajvJJYcY=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1734647-1282241237.jpeg.jpg" data-tags="pop, rock, retro, relaxing, eclectic, 1940s, 1920s, coffee shop, british pop, lily allen, pop music, singles i own, cafe, black and white, bohemian, new faves, annymix, f singer-songwriter, audrey hepburn, joni radio, 1920's, bohemia, pop music tag, luda kokoshka, bohemic" role="button">
-Lily Allen - Littlest Things (2006-12-11)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="piano solo, new age, relaxing" role="button">
 Jennifer Thomas - Key of Sea (2007-01)
 </li>
@@ -203,9 +203,6 @@ Katharine McPhee - Katharine McPhee (2007-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/9e0b9b07-1ac0-44d8-96a4-1b22f77b4941/15895781349-500.jpg" data-tags="ambient" role="button">
 Eluvium - Copia (2007-02-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/04ea5f92-d9c9-4565-985c-f76e9b501247/23087035503-500.jpg" data-tags="indie, indie pop, canadian" role="button">
-Stars - In Our Bedroom After the War (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/96afbb05-6402-467e-a966-849e9cba33a1/1385609869-500.jpg" data-tags="pop, newage, new age and ambient, new age aesthetics, new age favorites, ethereal new age, new age electronic" role="button">
 Fauxliage - Fauxliage (2007-08-14)
@@ -233,6 +230,9 @@ She & Him - Volume One (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/sq5FQNNQQ_APmhp59jSYDQ8x7ww=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2040608-1260275159.jpeg.jpg" data-tags="cherish, rnb" role="button">
 Cherish - The Truth (2008-05-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/df088972-7c3f-4326-9551-8794e712d682/2904753064-500.jpg" data-tags="electronic, electronica, relaxing, contemporary ambient" role="button">
+Slow Dancing Society - Priest Lake Circa '88 (2008-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:17:07.075Z
+date: 2021-04-13T02:00:01.578Z
 title: "guitar: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Heavier Things (2003-09-09)](http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg "John Mayer - Heavier Things (2003-09-09)")
@@ -90,6 +90,9 @@ Steve Vai - Passion and Warfare (1990-05)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, classic rock, dire straits" role="button">
 Dire Straits - On Every Street (1991-09-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/6e646673-39ba-41dc-abc4-7a1f74387d66/6639039977-500.jpg" data-tags="classic rock, southern rock" role="button">
+The Allman Brothers Band - A Decade Of Hits 1969-1979 (1991-10-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/353e496e-e738-3f42-b2a2-c35d01db53f8/9402630851-500.jpg" data-tags="avant-garde, experimental, guitar" role="button">
 Buckethead - Bucketheadland (1992)
 </li>
@@ -155,9 +158,6 @@ Saves the Day - Stay What You Are (2001-07-10)
 </li>
 <li data-cover="https://img.discogs.com/5h_ZrW3sDyRcs5RDs9QWzsN9gvc=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7872856-1450630821-7855.jpeg.jpg" data-tags="guitar virtuoso, instrumental rock" role="button">
 Joe Satriani - Strange Beautiful Music (2002-06-25)
-</li>
-<li data-cover="https://img.discogs.com/b7YbITe-6tjcIf0KTV4oObOiFXo=/fit-in/600x511/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1335362-1602036565-4961.jpeg.jpg" data-tags="rock, garage rock" role="button">
-The Hellacopters - By the Grace of God (2002-09-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/7ad421cb-26d8-47d9-ac97-ef0ba5230646/14928752516-500.jpg" data-tags="instrumental, guitar virtuoso, experimental" role="button">
 Buckethead - Electric Tears (2002-10-08)
@@ -246,9 +246,6 @@ Wilco - Sky Blue Sky (2007-05-14)
 <li data-cover="http://coverartarchive.org/release/81e0d103-5fbe-4765-8c75-8ba33c30b36b/14074836252-500.jpg" data-tags="folk, guitar, inspirational, fingerpicking, avant-folk, american primitivism, guitar only, rewind 2007, big in 2007, raga-folk" role="button">
 James Blackshaw - The Cloud of Unknowing (2007-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/eb09be91-a6c4-44f0-80a9-196c6a3372d8/21084805447-500.jpg" data-tags="british, somgwriters" role="button">
-Newton Faulkner - Hand Built By Robots (2007-07-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/29e89c60-faff-4d58-8340-6e5d10b6b421/11894480075-500.jpg" data-tags="rock" role="button">
 Matt Nathanson - Some Mad Hope (2007-08-14)
 </li>
@@ -302,6 +299,9 @@ Jeff Beck - Emotion & Commotion (2010-03-24)
 </li>
 <li data-cover="https://img.discogs.com/ceWgO-S6nVLv2YPPuJyAPV3MsLk=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2227009-1590451172-4376.jpeg.jpg" data-tags="hard rock" role="button">
 Slash - Slash (2010-03-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/516c430f-5468-4964-b321-eac33a062926/17310650736-500.jpg" data-tags="blues, guitar, blues rock" role="button">
+Little Hurricane - Homewrecker (2011-03-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/6f2e6a44-7824-4b2f-8118-eed8c69a8127/12213760088-500.jpg" data-tags="singer-songwriter, acoustic, guitar, mellow" role="button">
 Joshua Radin - Underwater (2012-07-29)

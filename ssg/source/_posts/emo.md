@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:13:01.472Z
+date: 2021-04-13T02:22:01.468Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -95,6 +95,9 @@ My Chemical Romance - I Brought You My Bullets, You Brought Me Your Love (2002-0
 </li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/1910e9f9-29c9-43b2-a050-7f40d0d1332c/21895360787-500.jpg" data-tags="post-hardcore, screamo" role="button">
+Alexisonfire - Alexisonfire (2002-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
 The Ataris - So Long, Astoria (2003-02-03)
@@ -251,9 +254,6 @@ Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dd4f60c8-d4b5-4c41-b200-a78dfe9e1aaf/25342698261-500.jpg" data-tags="post-hardcore, emo" role="button">
 Saosin - Saosin (2006-09-26)
-</li>
-<li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
-Senses Fail - Still Searching (2006-10-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/53fcfff0-d654-4807-bbf6-1b6411d4e0d6/7900674334-500.jpg" data-tags="indie" role="button">
 Manchester Orchestra - I'm Like A Virgin Losing A Child (2006-10-14)

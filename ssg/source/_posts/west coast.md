@@ -1,10 +1,9 @@
 ---
-date: 2021-04-12T13:17:07.238Z
+date: 2021-04-13T02:26:01.459Z
 title: "west coast: 100 albums you must listen to before you die"
 ---
 ![2Pac - All Eyez on Me (1996-02-13)](http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg "2Pac - All Eyez on Me (1996-02-13)")
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">Ice Cube - The Predator (1992-11-17)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/4262747c-0c06-44d3-87f8-31dbecdbe13d/8253975733-500.jpg" data-tags="hip-hop, dance, 90s, r&b, west coast, disco rap, cds i own and have yet to hear" role="button">Montell Jordan - This Is How We Do It (1995-04-04)</li>
@@ -12,6 +11,7 @@ title: "west coast: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="http://coverartarchive.org/release/68323203-8cfa-4d43-91ef-930eeef99cf5/5730125548-500.jpg" data-tags="hip-hop, gangsta rap" role="button">Xzibit - Restless (2000-12-12)</li>
+<li data-cover="http://coverartarchive.org/release/105029c7-f9c6-4009-99ef-3649ee2f9657/6771386158-500.jpg" data-tags="rap, 2pac" role="button">2Pac - Better Dayz (2002-11-26)</li>
 <li data-cover="http://coverartarchive.org/release/2c875bbe-0aaa-4e71-93e2-4b1ff824f0f5/10533983748-500.jpg" data-tags="rap, west coast rap" role="button">Ice Cube - Laugh Now, Cry Later (2006-06-06)</li>
 <li data-cover="https://img.discogs.com/65gAr-CNEBu4g_XP0S9k4F2n4nU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2164995-1519571424-2576.jpeg.jpg" data-tags="west coast, cali love, tyga" role="button">Tyga - Cali Love (2009-06-16)</li>
 </ol>
@@ -57,6 +57,9 @@ Karla Bonoff - Restless Nights (1979-09)
 <li data-cover="https://img.discogs.com/uTWfPWRUP9V5KnGRf_Bl7ZnBPrA=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2719038-1411053708-4303.jpeg.jpg" data-tags="aor, west coast, yacht rock, westcoast, high tech, high tech aor" role="button">
 Maxus - Maxus (1981)
 </li>
+<li data-cover="https://img.discogs.com/XRArvOryzyJy23dDdYY7ImAjHlY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2355762-1426430027-5313.jpeg.jpg" data-tags="soft rock, west coast, yacht rock, westcoast, flashback alternatives, high tech, high tech aor" role="button">
+Eye to Eye - Eye to Eye (1982)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c0fe911-4609-472b-a80c-4ff17bd87af1/28309296904-500.jpg" data-tags="soft rock, west coast" role="button">
 Alessi Brothers - Long Time Friends (1982)
 </li>
@@ -75,6 +78,9 @@ Christopher Cross - Every Turn Of The World (1985-11-28)
 <li data-cover="http://coverartarchive.org/release/ddca2d68-47e2-4235-9ecc-45f7348b20a3/13758489426-500.jpg" data-tags="80s, adult contemporary, songwriter, aor, composer, west coast, david foster, back in the day fav albums" role="button">
 David Foster - David Foster (1986)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="80s, female vocalists" role="button">
+Rosie Vela - Zazu (1986)
+</li>
 <li data-cover="http://coverartarchive.org/release/a4f4d2cc-d6ed-4a83-a0e4-f971d89a2fcd/2550651190-500.jpg" data-tags="80s, rap, g-funk" role="button">
 N.W.A - N.W.A. and the Posse (1987)
 </li>
@@ -89,9 +95,6 @@ King Tee - At Your Own Risk (1990)
 </li>
 <li data-cover="http://coverartarchive.org/release/3f722f4f-94d3-4db1-9149-fdc787db10f1/14245327553-500.jpg" data-tags="gangsta rap" role="button">
 N.W.A - Niggaz4Life (1991-05-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/c79b4651-0f84-4930-b95b-e41fb24274d5/13517018832-500.jpg" data-tags="gangsta rap, rap" role="button">
-Ice Cube - The Predator (1992-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
@@ -260,9 +263,6 @@ Ice Cube - Laugh Now, Cry Later (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/53dafcec-e54c-4024-9cbf-22fd51370b33/4708352796-500.jpg" data-tags="chill, instrumental, downtempo, vocals, west coast, bay area, festival, rainbow, various artists are a pita on lastfm, labels - interchill records, spa music, neerav, pachamama, hamsa, shakatura" role="button">
 Various Artists - Gathering The Tribe (2006-06-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/755cf4a4-fc6d-4a48-a90a-726778829fc2/3779477841-500.jpg" data-tags="electronic" role="button">
-DJ Shadow - The Outsider (2006-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
 Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
