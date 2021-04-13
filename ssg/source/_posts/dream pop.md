@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:22:01.490Z
+date: 2021-04-13T03:04:01.482Z
 title: "dream pop: 100 albums you must listen to before you die"
 ---
 ![The xx - xx (2009-08-14)](http://coverartarchive.org/release/2d9f9aac-1884-3939-a3b7-01437151e495/7167631451-500.jpg "The xx - xx (2009-08-14)")
@@ -312,11 +312,11 @@ Sharon Van Etten - Are We There (2014-05-26)
 <li data-cover="http://coverartarchive.org/release/e461c1b4-4eb5-46c2-8eb1-1b29e1befdf4/25780951101-500.jpg" data-tags="indie pop" role="button">
 TV Girl - French Exit (2014-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
-Lana Del Rey - Ultraviolence (2014-06-13)
-</li>
 <li data-cover="http://coverartarchive.org/release/0d1c75bc-5953-40da-99b3-9491d03cf424/9366881296-500.jpg" data-tags="dream pop, indie rock" role="button">
 The Antlers - Familiars (2014-06-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/a219269b-2b2b-4130-a750-97fae2e7d054/7622781787-500.jpg" data-tags="shoegaze, dream pop" role="button">
+A Sunny Day In Glasgow - Sea When Absent (2014-06-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/df3efb53-bbbd-4795-a484-2b4639965a27/26362266805-500.jpg" data-tags="indie pop" role="button">
 BROODS - Evergreen (2014-08-22)

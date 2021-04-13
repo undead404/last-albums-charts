@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:57:01.494Z
+date: 2021-04-13T03:10:01.520Z
 title: "power pop: 100 albums you must listen to before you die"
 ---
 ![Weezer - Pinkerton (1996-08-24)](http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg "Weezer - Pinkerton (1996-08-24)")
@@ -9,9 +9,9 @@ title: "power pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/ef968db8-874e-4d79-adb7-2ea0fe0b2b76/5857755598-500.jpg" data-tags="alternative rock, 90s" role="button">Weezer - Pinkerton (1996-08-24)</li>
 <li data-cover="http://coverartarchive.org/release/699e38f0-fb3b-306c-95d7-3e5f68e543aa/23334775352-500.jpg" data-tags="90s, grunge, rock" role="button">Hole - Celebrity Skin (1998-09-02)</li>
 <li data-cover="https://img.discogs.com/mtkGbv_VMPU89YRc3gDEewalxks=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-472533-1241059996.jpeg.jpg" data-tags="rock, alternative rock, weezer, alternative, 90s" role="button">Weezer - Weezer (2001-04-24)</li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">Aqualung - Still Life (2003-10-27)</li>
 <li data-cover="https://img.discogs.com/SHetkSfGHW-U4A2apVnf3wIXPFM=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8055634-1493610768-2742.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">Weezer - Make Believe (2005-05-09)</li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">The All-American Rejects - Move Along (2006)</li>
+<li data-cover="http://coverartarchive.org/release/8786d6f0-2b86-4c8b-b755-91ae537d2095/25368596465-500.jpg" data-tags="christian rock" role="button">Relient K - Five Score and Seven Years Ago (2007-03-06)</li>
 <li data-cover="http://coverartarchive.org/release/cb73ced8-874f-4da7-b357-7eb7277f8aac/6316496454-500.jpg" data-tags="rock" role="button">Snow Patrol - A Hundred Million Suns (2008-10-24)</li>
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">The All-American Rejects - When the World Comes Down (2008-12-16)</li>
 </ol>
@@ -93,6 +93,9 @@ Weezer - Maladroit (2002-05-11)
 <li data-cover="https://img.discogs.com/X7T-ui_y2CK5O-ZFcC6IuvmkFaw=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3124239-1566918810-4860.jpeg.jpg" data-tags="indie rock" role="button">
 Hot Hot Heat - Make Up the Breakdown (2002-10-08)
 </li>
+<li data-cover="https://img.discogs.com/obmEFpQ7o0OgCJpBicpqTaYEFKM=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509512-1421510491-3176.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+American Hi-Fi - The Art Of Losing (2003)
+</li>
 <li data-cover="http://coverartarchive.org/release/d3cf2f17-2dd6-4dcc-92bc-00d1fd4ec509/4809733267-500.jpg" data-tags="rock, punk rock, pop punk, alternative" role="button">
 The Ataris - So Long, Astoria (2003-02-03)
 </li>
@@ -107,9 +110,6 @@ Saves the Day - In Reverie (2003-09-16)
 </li>
 <li data-cover="https://img.discogs.com/Mlt3D6e3Es5CE3vEy3kbDrqfjbg=/fit-in/352x352/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-481974-1145250523.jpeg.jpg" data-tags="indie rock" role="button">
 Broder Daniel - Cruel Town (2003-10-15)
-</li>
-<li data-cover="https://img.discogs.com/3Sm3W8uRKa4ng_mHSjtC02riH8A=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2208233-1323194011.jpeg.jpg" data-tags="soundtrack, jazz, chill, alternative, power pop, singer-songwriter, britpop, pop-rock, amaranth, purchase, hard to find, maarts, still life, happy at work, favorite cds, thoughtfully, wanted album, granka, go get it" role="button">
-Aqualung - Still Life (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/aaee9217-d2a4-4402-b60c-55ad3552ac29/19044708662-500.jpg" data-tags="power pop" role="button">
 Cheap Trick - The Essential Cheap Trick (2004)

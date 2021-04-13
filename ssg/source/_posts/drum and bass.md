@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:56:01.449Z
+date: 2021-04-13T03:35:01.447Z
 title: "drum and bass: 100 albums you must listen to before you die"
 ---
 ![Pendulum - Immersion (2010-05-21)](http://coverartarchive.org/release/c87c4638-53b0-4bd4-9600-120a819b652f/23249753032-500.jpg "Pendulum - Immersion (2010-05-21)")
@@ -81,6 +81,9 @@ Dieselboy - System_Upgrade (2000-03-28)
 <li data-cover="http://coverartarchive.org/release/46944fe9-7b41-4f8a-a056-26d89c0235d3/9216671118-500.jpg" data-tags="drum and bass" role="button">
 Ram Trilogy - Titan EP (2000-05-29)
 </li>
+<li data-cover="http://coverartarchive.org/release/ff71cf8a-dadb-42d0-9f92-cc79e0fe1fe4/8615829013-500.jpg" data-tags="drum and bass" role="button">
+Shapeshifter - Real Time (2001)
+</li>
 <li data-cover="https://img.discogs.com/I4kCuqg5wj4j4KatoUL-zbDdeZA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-907702-1471724506-6929.jpeg.jpg" data-tags="drum and bass" role="button">
 Electric Rudeboyz - Kolejny Krok (2001-05-12)
 </li>
@@ -101,9 +104,6 @@ N.O.H.A. - Next Plateau (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef4485c0-a652-4fd5-903f-b5ba6e299361/6596488540-500.jpg" data-tags="industrial, industrial metal" role="button">
 Celldweller - Celldweller (2003-01-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ac17266-d341-4ea8-a17b-e3846dafa4a6/22951670337-500.jpg" data-tags="atmospheric, drum and bass, atmospheric drum and bass" role="button">
-Seba - Producer 06 (2003-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ffe92b3-68cf-4264-9efc-fa7ee4f5f249/4714801277-500.jpg" data-tags="drum and bass" role="button">
 London Elektricity - Billion Dollar Gravy (2003-05-26)

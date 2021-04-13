@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:23:01.453Z
+date: 2021-04-13T03:07:01.454Z
 title: "breakbeat: 100 albums you must listen to before you die"
 ---
 ![Prodigy - The Fat Of The Land (1997-06-30)](http://coverartarchive.org/release/288f8c49-5cb9-45cd-9b1e-062e565224fb/16552695792-500.jpg "Prodigy - The Fat Of The Land (1997-06-30)")
@@ -8,12 +8,12 @@ title: "breakbeat: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">BT - ESCM (1997-09-08)</li>
 <li data-cover="https://img.discogs.com/hALqARRNhy9I9mxdtUCKXurMkjc=/fit-in/130x130/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748-1083265077.jpg.jpg" data-tags="breakbeat" role="button">Bomfunk MC's - In Stereo (1999)</li>
 <li data-cover="http://coverartarchive.org/release/0db9c833-3f51-423c-8130-41ee094beb64/9977555739-500.jpg" data-tags="breakbeat" role="button">Bomfunk MC's - Burnin' Sneakers (2002-04-25)</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">Starsailor - Silence Is Easy (2003-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/b5096063-cc22-4105-aed7-edf5a6a5a2c9/5922257933-500.jpg" data-tags="breakbeat, lovely super ils love fun" role="button">Ils - Bohemia (2005-02-25)</li>
 <li data-cover="https://img.discogs.com/VwjS0kvWBE33o6_5UsVbu3So8t8=/fit-in/517x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748371-1154802754.jpeg.jpg" data-tags="breakbeat" role="button">Hyper - We Control (2006-05-08)</li>
 <li data-cover="http://coverartarchive.org/release/87adb95f-bfcc-49f5-b7a0-c73ff9512589/26666196769-500.jpg" data-tags="breakbeat, rave, jungle" role="button">Zomby - Where Were U in '92? (2008-11-10)</li>
 <li data-cover="https://img.discogs.com/y4XBgnPfRyJUXneW93sfjJwJt44=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3354632-1336033311.jpeg.jpg" data-tags="electronic, dubstep, drum and bass, breakbeat, tetris" role="button">Doctor P - Tetris (2011-06-13)</li>
 <li data-cover="http://coverartarchive.org/release/8befc8d5-2418-459a-9001-85afb05a0aad/1913101833-500.jpg" data-tags="electro" role="button">C2C - Tetra (2012-08-03)</li>
+<li data-cover="https://img.discogs.com/pr4P-Lu0VVSTmWZVoBfCXU3P7Uk=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4651028-1371094078-3852.jpeg.jpg" data-tags="indie, psychedelic pop" role="button">Jagwar Ma - Howlin (2013-06-10)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -63,9 +63,6 @@ Cirrus - Drop The Break (1997-04-22)
 <li data-cover="http://coverartarchive.org/release/288f8c49-5cb9-45cd-9b1e-062e565224fb/16552695792-500.jpg" data-tags="electronic, 90s, breakbeat, the prodigy" role="button">
 Prodigy - The Fat Of The Land (1997-06-30)
 </li>
-<li data-cover="https://img.discogs.com/wXuPzfcDOeCoc_FwkVXtk8IRICU=/fit-in/600x516/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-57485-1582129634-5314.jpeg.jpg" data-tags="trance, classic, breakbeat, uplifting, sunny" role="button">
-Lost Tribe - The Distant Voices EP (1997-08-25)
-</li>
 <li data-cover="http://coverartarchive.org/release/f8b4438b-425c-4698-a5d4-b5d939165e2c/6952657222-500.jpg" data-tags="trance" role="button">
 BT - ESCM (1997-09-08)
 </li>
@@ -77,9 +74,6 @@ Coldcut - Let Us Replay (1998-10-21)
 </li>
 <li data-cover="https://img.discogs.com/hALqARRNhy9I9mxdtUCKXurMkjc=/fit-in/130x130/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748-1083265077.jpg.jpg" data-tags="breakbeat" role="button">
 Bomfunk MC's - In Stereo (1999)
-</li>
-<li data-cover="https://img.discogs.com/4I04dEaJ9AxOMvTe0cn4okyFfyY=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-83664-001.jpg.jpg" data-tags="breakbeat, goa, goa trance, sought" role="button">
-Juno Reactor - Pistolero (1999-06-01)
 </li>
 <li data-cover="https://img.discogs.com/J6Y3mlnQ_3fwk5IEv-aZA6wS4QI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9207-1274183015.jpeg.jpg" data-tags="trance" role="button">
 BT - Movement in Still Life (1999-10-18)
@@ -111,6 +105,9 @@ Limp Bizkit - New Old Songs (2001-11-30)
 <li data-cover="http://coverartarchive.org/release/0db9c833-3f51-423c-8130-41ee094beb64/9977555739-500.jpg" data-tags="breakbeat" role="button">
 Bomfunk MC's - Burnin' Sneakers (2002-04-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/02d2e957-ba69-4ef8-a13c-596c457956a1/27535118658-500.jpg" data-tags="electronic" role="button">
+Cirrus - Counterfeit (2002-06-25)
+</li>
 <li data-cover="https://img.discogs.com/rvIzjZEdAS-7QFVf1W_02knsCh8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-75095-1437081190-4592.jpeg.jpg" data-tags="breakbeat" role="button">
 Ils - Soul Trader (2002-07-01)
 </li>
@@ -141,17 +138,11 @@ Fear Factory - Hatefiles (2003-03-31)
 <li data-cover="https://img.discogs.com/rljSxHVp0LZmGZipFDbInnAi9AM=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-164861-1111663316.jpg.jpg" data-tags="electronica" role="button">
 Plump DJs - Eargasm (2003-07-07)
 </li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
-</li>
 <li data-cover="https://img.discogs.com/irM80zCsyIW9xaNpZPJm9FER1-k=/fit-in/600x608/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6103458-1411148887-5281.jpeg.jpg" data-tags="soundtrack, trance, dance, techno, breakbeat" role="button">
 Paul Oakenfold - Hypnotised (2003-09-30)
 </li>
 <li data-cover="https://img.discogs.com/yNnUYNR4J9RPSnZsi4dSe9m_a7Q=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-237564-1443382667-6136.jpeg.jpg" data-tags="breakbeat" role="button">
 The Crystal Method - Born Too Slow (2003-12-09)
-</li>
-<li data-cover="https://img.discogs.com/U8U1zDzZaIR5Nu_WelwYO346S40=/fit-in/500x444/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1241499-1212666556.jpeg.jpg" data-tags="electronic" role="button">
-Infected Mushroom - Deeply Disturbed (2004)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dd9d35e-294e-4e22-9423-d95edcab15ac/4400833302-500.jpg" data-tags="electronic" role="button">
 C-Mon & Kypski - Static Traveller (2004-04-27)
@@ -203,6 +194,9 @@ General Midi - MIDI Style (2005-10-15)
 </li>
 <li data-cover="https://img.discogs.com/pUI_te1NTDMwYQ1i8k6G7NgSSjI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-557280-1348161919-8961.jpeg.jpg" data-tags="grime, hip hop" role="button">
 Lady Sovereign - Vertically Challenged (2005-11-15)
+</li>
+<li data-cover="http://coverartarchive.org/release/0dee21a9-17ac-4e61-91ab-7a0ed7a318a2/25919627495-500.jpg" data-tags="breakbeat" role="button">
+Lee Coombs - The Land of the Monkey Snake (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/a292d675-5e37-491c-8e76-15f8c1f0570b/9853899226-500.jpg" data-tags="british, drum and bass, breakbeat" role="button">
 Future Funk Squad - Audio Damage (2006-05-08)
@@ -264,8 +258,14 @@ Zomby - Where Were U in '92? (2008-11-10)
 <li data-cover="http://coverartarchive.org/release/f20719f3-0c5f-426d-b3d8-d02e4fd4917f/3498321233-500.jpg" data-tags="drum and bass" role="button">
 The Qemists - Join The Q (2008-12)
 </li>
+<li data-cover="https://img.discogs.com/ByNQwgIS49RaRAlQB6n27ns7PTg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1801275-1246733153.jpeg.jpg" data-tags="breaks, breakbeat, progressive breaks" role="button">
+General Midi - Operation Overdrive (2009-06-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/1f741d84-1362-44fd-9886-4781286d33e4/19096380097-500.jpg" data-tags="hip-hop, electronic, hip hop, dubstep, club, breakbeat" role="button">
 Sporty-O - Let Me Hit It (2009-12-01)
+</li>
+<li data-cover="https://img.discogs.com/6lfntveo34SQkNvhpW-kt4F-vZc=/fit-in/500x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2273050-1273703119.jpeg.jpg" data-tags="mashup, breaks, breakbeat, re-edits, nuskool breaks, re-edit, hijack, propellerheads, stanton warriors, blaze, elite force, 6blocc, bar9, calvertron, daniele papini, datsik, excision, hatiras, plump djs, redlight, roland clarke, tim green, toob, bassbin twins, dylan rhymes, harnessnoise, jelo, lee coombs, meat katie, popof, revamps, rogue element, wolfgang gartner" role="button">
+Elite Force - Revamped (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e82d5c86-9c18-4842-9cc9-8e348ad3df6c/1214392676-500.jpg" data-tags="drum and bass, dubstep" role="button">
 Noisia - Split the Atom (2010-05-30)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:15:01.714Z
+date: 2021-04-13T02:50:01.479Z
 title: "jazz: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -96,6 +96,9 @@ Chick Corea - Now He Sings, Now He Sobs (1968)
 <li data-cover="http://coverartarchive.org/release/47873c43-4337-4d3b-9bf2-959f85a7cec1/23109799066-500.jpg" data-tags="jazz" role="button">
 Miles Davis - In A Silent Way (1969-07-30)
 </li>
+<li data-cover="http://coverartarchive.org/release/bd527306-0dd8-4d99-93c4-4267ff649776/4430294983-500.jpg" data-tags="progressive rock" role="button">
+Frank Zappa - Hot Rats (1969-10-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7cf6ab3-1fab-45cd-97a2-8e684ffcada1/1895278823-500.jpg" data-tags="jazz, jazz fusion" role="button">
 Miles Davis - Bitches Brew (1970)
 </li>
@@ -125,9 +128,6 @@ George Benson - Breezin' (1976-05)
 </li>
 <li data-cover="https://img.discogs.com/P08vvN0k9cAp_205aggHldYpfl8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2622005-1536349971-1230.jpeg.jpg" data-tags="jazz fusion, jazz, fusion" role="button">
 Al Di Meola - Elegant Gypsy (1977)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b5c22c6-f712-489e-9a1d-6cb235cb7c50/21859761852-500.jpg" data-tags="jazz, fusion, jazz fusion" role="button">
-Weather Report - Heavy Weather (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfc0a733-c158-4eb7-9e4b-2a98492857af/8671054041-500.jpg" data-tags="jazz, piano" role="button">
 Bill Evans - You Must Believe in Spring (1981)
@@ -174,6 +174,9 @@ The Cinematic Orchestra - Motion (1999-09-01)
 <li data-cover="http://coverartarchive.org/release/7d515895-4004-49e6-aa61-8d31ee9e68a2/16371747112-500.jpg" data-tags="jazz, jazz piano" role="button">
 Keith Jarrett - The Melody At Night, With You (1999-10-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/e9796589-5a7b-4ffb-8210-83f1bbb4dcb2/6144898009-500.jpg" data-tags="jazz, louis armstrong" role="button">
+Louis Armstrong - The Ultimate Collection (2000)
+</li>
 <li data-cover="http://coverartarchive.org/release/08263e20-f4dc-464a-99d4-ea0a3380694a/8619198393-500.jpg" data-tags="jazz" role="button">
 Joni Mitchell - Both Sides Now (2000-02-08)
 </li>
@@ -194,9 +197,6 @@ Michael Bublé - Michael Bublé (2003-02-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Jamie Cullum - Twentysomething (2003-10-20)

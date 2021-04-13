@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:21:01.474Z
+date: 2021-04-13T02:55:01.438Z
 title: "alternative metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -84,6 +84,9 @@ Incubus - Make Yourself (1999-10-26)
 <li data-cover="https://img.discogs.com/LWvn6SvyvvcqFOHSDgXxiW3vK6k=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1256710-1270904362.jpeg.jpg" data-tags="nu metal" role="button">
 Korn - Issues (1999-11-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/9380e43c-2dc8-4f4b-b179-7edbb7d63895/23564032209-500.jpg" data-tags="rock, alternative rock" role="button">
+3 Doors Down - The Better Life (2000-02-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3148be2-5622-4ba9-80a7-33ed1f6b9347/7626739846-500.jpg" data-tags="metal, nu metal" role="button">
 Disturbed - The Sickness (2000-03-07)
 </li>
@@ -95,9 +98,6 @@ Linkin Park - Hybrid Theory (2000-05-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7e82aec-f36b-45ef-9eb6-0721825b210b/1295812381-500.jpg" data-tags="alternative metal, nu metal" role="button">
 Deftones - White Pony (2000-05-16)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
 <li data-cover="https://img.discogs.com/E3YSzX0vzEizblkK7Q4_1gvpF3E=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11118070-1510172521-2641.jpeg.jpg" data-tags="nu metal, alternative metal, metal" role="button">
 Mudvayne - L.D. 50 (2000-08-29)
@@ -183,9 +183,6 @@ Metallica - St. Anger (2003-06-23)
 <li data-cover="http://coverartarchive.org/release/b5a159ae-5db1-42fb-8a3e-4387406ef00c/4338138973-500.jpg" data-tags="alternative rock, rock" role="button">
 Three Days Grace - Three Days Grace (2003-07-22)
 </li>
-<li data-cover="https://img.discogs.com/txXCBCvtaF_tayG6iJRYDdx68Do=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367875-1425009360-9153.jpeg.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Thirteenth Step (2003-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/b3fad414-9b92-4d04-b703-9605d5d33bac/11826715727-500.jpg" data-tags="rock" role="button">
 Nickelback - The Long Road (2003-09-22)
 </li>
@@ -218,9 +215,6 @@ Sum 41 - Chuck (2004-10-04)
 </li>
 <li data-cover="https://img.discogs.com/siliP9KWt0ywP1IntEzYd8rCZ84=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-789078-1403779298-7728.jpeg.jpg" data-tags="alternative rock, rock, female vocalists" role="button">
 Flyleaf - Flyleaf (2004-10-26)
-</li>
-<li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e45b3f-3669-3e9a-a53b-d7a104ac83e4/8707741692-500.jpg" data-tags="alternative metal, metal" role="button">
 Deftones - Saturday Night Wrist (2005)
@@ -314,6 +308,12 @@ In Flames - Sounds of a Playground Fading (2011-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/addcfdab-9c0d-44db-9292-41e918d20e16/2616543949-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Koi No Yokan (2012-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/218fb005-d401-43e7-860a-c2841c2aaac0/4341431910-500.jpg" data-tags="heavy metal, grunge, doom metal, alternative metal, sludge metal" role="button">
+Alice in Chains - The Devil Put Dinosaurs Here (2013-05-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/75f44d76-a304-46c2-8dab-9d5912ab7dc4/7454084925-500.jpg" data-tags="alternative metal" role="button">
+Alter Bridge - Fortress (2013-09-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf1c9b8d-544d-4741-99b6-d3e06f001417/11796648242-500.jpg" data-tags="rock, alternative rock, alternative metal" role="button">
 Linkin Park - The Hunting Party (2014-06-13)

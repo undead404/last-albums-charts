@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T16:10:07.112Z
+date: 2021-04-13T03:37:01.459Z
 title: "energetic: 100 albums you must listen to before you die"
 ---
 ![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/3gyn_G2Fg90uiyUBr5Pn24r1t88=/fit-in/220x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5946864-1467839335-1144.jpeg.jpg" data-tags="jazz" role="button">
+Dizzy Gillespie - Have Trumpet, Will Excite! (1959)
+</li>
 <li data-cover="http://coverartarchive.org/release/c3091591-a9b8-4be6-885f-76e15d630d73/8017634615-500.jpg" data-tags="energetic, cheerful, playful, rollicking, rambunctious" role="button">
 Chuck Berry - New Juke Box Hits (1961)
 </li>
@@ -36,14 +39,14 @@ Hugh Masekela - Home Is Where The Music Is (1972-01)
 <li data-cover="https://img.discogs.com/KvznAeiMRkq-tihesKqtEcS2cAQ=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566260-1290780860.jpeg.jpg" data-tags="blues, energetic, searching, reflective, organic, confident, earnest, bittersweet, yearning, playful, partying, memphis blues, celebratory, modern electric blues, refined, theatrical, tgif, boisterous, soul-blues, self-conscious, regional blues, bbk, brc blues band, brc blues band karlsruhe, blues rock club radio karlsruhe, walter buddy freter, lautfm bluesclub, wwwlautfmbluesclub, walter mojo freter, allbout guitar lessons - blues workshops karlsruhe, blues rock radio germany deutschland" role="button">
 B.B. King - To Know You Is To Love You (1973)
 </li>
+<li data-cover="https://img.discogs.com/ckjawXdTH8sriGQUgedEEkWjvJk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1541009-1276768254.jpeg.jpg" data-tags="jazz, jazz-funk, energetic, summer, earthy, playful, celebratory, stylish, tgif, street-smart, at the beach" role="button">
+Ronnie Foster - On The Avenue (1974)
+</li>
 <li data-cover="http://coverartarchive.org/release/38ed61bb-9d92-441c-a683-eb129abeef78/24023912663-500.jpg" data-tags="funk" role="button">
 Ohio Players - Honey (1975)
 </li>
 <li data-cover="https://img.discogs.com/oKmmY4RjN0e6uUSAZ39M4cQlEVM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8650284-1498760079-3363.jpeg.jpg" data-tags="punk" role="button">
 Sham 69 - Tell Us the Truth (1978-02-18)
-</li>
-<li data-cover="https://img.discogs.com/CHsfHD4w-l5RudRnVxBjnOZ_ips=/fit-in/573x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-380654-1314912314.jpeg.jpg" data-tags="post-punk" role="button">
-The Raincoats - The Raincoats (1979)
 </li>
 <li data-cover="http://coverartarchive.org/release/4b4b26f7-7e2f-4029-94bd-8a94ebf79eff/13465941802-500.jpg" data-tags="70s, disco" role="button">
 Sister Sledge - We Are Family (1979)
@@ -153,9 +156,6 @@ Mudvayne - The Beginning of All Things to End (2001-11-20)
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Music - The Music (2002-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/a9c0c9a7-d89d-451a-9d18-24991b6bda34/15307887362-500.jpg" data-tags="black music" role="button">
-LL Cool J - 10 (2002-10-15)
-</li>
 <li data-cover="https://img.discogs.com/xNhbq7wdrCp41Cli9eWorBoOBUY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15694999-1596054295-8929.jpeg.jpg" data-tags="rock" role="button">
 The Stone Roses - The Very Best of The Stone Roses (2002-11-04)
 </li>
@@ -183,11 +183,11 @@ Mor ve Ötesi - Dünya Yalan Söylüyor (2004)
 <li data-cover="http://coverartarchive.org/release/60f0b2d1-91e8-44a7-af2c-aa31390fbcb8/2142598614-500.jpg" data-tags="indie, indiepop, french" role="button">
 Phoenix - Alphabetical (2004-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/e5fe454e-6a3c-3b82-b3af-99f638fb4e3c/11150293974-500.jpg" data-tags="trance, psytrance, electronic" role="button">
-Infected Mushroom - IM the Supervisor (2004-09-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/6a601b1a-8e91-47b4-8a26-fe3aa08fb824/2036785255-500.jpg" data-tags="rap" role="button">
 Fabolous - Real Talk (2004-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/6e973c9a-c893-425d-845d-4c2ef55970c0/6562325645-500.jpg" data-tags="rock, dance, nordic, energetic, male vocalists, latvian, latvija" role="button">
+Detlef - Tu izliecies par sevi (2004-11-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb9e20a0-882d-4971-8a89-e3bf431e8fe2/7969568316-500.jpg" data-tags="glam rock" role="button">
 The Ark - State of The Ark (2004-12-27)
@@ -209,6 +209,9 @@ The Number Twelve Looks Like You - Nuclear. Sad. Nuclear (2005-06-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/35c06536-c17d-4adb-a061-8078c84a0c13/6596490722-500.jpg" data-tags="christian rock, alternative rock" role="button">
 Switchfoot - Nothing Is Sound (2005-09-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/1524e156-c1b4-41b3-998b-8e88f555bf88/21194231965-500.jpg" data-tags="pop, rock, alternative, new wave, energetic, dark night of the soul, brain orgasms" role="button">
+New London Fire - A Wave Form EP (2005-10-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/f3a7a8de-ff69-4af3-83e6-a457ea03f1a3/24875564928-500.jpg" data-tags="energetic, homesick, the mint chicks, troublegum pop, 2006 releases" role="button">
 The Mint Chicks - Crazy? Yes! Dumb? No! (2006)
@@ -305,9 +308,6 @@ Tegan and Sara - Heartthrob (2013-01-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/024abf44-0f50-4369-bcd6-ea7017d40474/14533802813-500.jpg" data-tags="country" role="button">
 Kacey Musgraves - Same Trailer Different Park (2013-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/16381ac7-19f4-457f-a07c-248faa655a6c/13452106974-500.jpg" data-tags="rap" role="button">
-LL Cool J - Authentic (2013-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a47e508-55f6-4d33-b18e-44e8f78785a3/6237120485-500.jpg" data-tags="pop, r&b" role="button">
 Ciara - Ciara (2013-07-05)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:42:07.072Z
+date: 2021-04-13T02:56:07.065Z
 title: "dancehall: 100 albums you must listen to before you die"
 ---
 ![Rihanna - Music of the Sun (2005-08-29)](http://coverartarchive.org/release/305cbd20-78ee-4e61-bfea-a99657790648/8884293748-500.jpg "Rihanna - Music of the Sun (2005-08-29)")
@@ -75,9 +75,6 @@ Bogdan Raczynski - Boku Mo Wakaran (1998-04-01)
 <li data-cover="https://img.discogs.com/itgyilkjqU5Q6QkSV0F8lmiVLeE=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1348851-1298395938.jpeg.jpg" data-tags="reggae, drum and bass, breakbeat, dancehall, ragga jungle" role="button">
 General Levy - New Breed (1999)
 </li>
-<li data-cover="http://coverartarchive.org/release/6cfa81a9-b642-414e-a846-495d111db4f1/9733980416-500.jpg" data-tags="big dada, hip-hop" role="button">
-Roots Manuva - Brand New Second Hand (1999-03-01)
-</li>
 <li data-cover="https://img.discogs.com/2VMAFhLtT6HqWfsJSve5X4R35So=/fit-in/421x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8858391-1470238455-2940.jpeg.jpg" data-tags="dancehall" role="button">
 Spragga Benz - Fully Loaded (2000)
 </li>
@@ -86,6 +83,9 @@ Shaggy - Hot Shot (2000-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1eb09f5-090f-4a15-8fa2-a8cf7c16d87d/11878814902-500.jpg" data-tags="eurodance" role="button">
 Baha Men - Who Let the Dogs Out (2000-10-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/37dfdc8c-8d90-4253-8f5c-71860dd92da1/25319504867-500.jpg" data-tags="dancehall reggae, reggae" role="button">
+Beenie Man - Best of Beenie Man (2000-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/ecd06f8a-1ed9-47c2-8e30-22641b714dbe/7455590705-500.jpg" data-tags="reggae, dancehall" role="button">
 Shabba Ranks - Greatest Hits (2001)
@@ -164,9 +164,6 @@ Natural Dread Killaz - Naturalnie (2005)
 </li>
 <li data-cover="https://img.discogs.com/QLDGU51B-x2T0p_K5g0-_tc9yY4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13688376-1560686761-7812.jpeg.jpg" data-tags="dancehall, 2000s" role="button">
 Firma - Nielegalne rytmy (2005)
-</li>
-<li data-cover="http://coverartarchive.org/release/b4b30ab2-d4e7-45dd-9b38-c56d12719f9b/13627764433-500.jpg" data-tags="reggae" role="button">
-Kiprich - Outta Road (2005)
 </li>
 <li data-cover="http://coverartarchive.org/release/d198dcb2-76e0-45eb-8727-3d3ac02ad0d4/25090164630-500.jpg" data-tags="reggae, dancehall" role="button">
 Beenie Man - Kingston to King of the Dancehall (2005-02-01)
@@ -251,6 +248,9 @@ Big Ali - Louder (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/b70cabc4-2b99-427b-8a0f-bfcd99f3f71c/8093642744-500.jpg" data-tags="reggae, dancehall" role="button">
 Damian Marley - Rare Joints - the Album (2008)
+</li>
+<li data-cover="https://img.discogs.com/UWHYsT_lR5DTo64rFL2WU8p6Jro=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8115546-1455454990-7526.jpeg.jpg" data-tags="nigeria, dancehall, r n b, ouest africa, naijasoundz, d banj" role="button">
+D'Banj - The Entertainer (2008)
 </li>
 <li data-cover="https://img.discogs.com/XyHNviLVGiKuHBzf52nMm9GS888=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1591423-1616085617-5417.jpeg.jpg" data-tags="drum and bass" role="button">
 The Qemists - Dem Na Like Me (2008-01-19)

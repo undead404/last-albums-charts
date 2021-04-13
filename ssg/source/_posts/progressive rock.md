@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:23:01.479Z
+date: 2021-04-13T03:23:01.487Z
 title: "progressive rock: 100 albums you must listen to before you die"
 ---
 ![Pink Floyd - Wish You Were Here (1975-09-12)](http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg "Pink Floyd - Wish You Were Here (1975-09-12)")
@@ -86,6 +86,12 @@ Rush - Fly by Night (1975-02-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2f73eb8-eee6-3588-8909-9046058a468e/18848883141-500.jpg" data-tags="progressive rock" role="button">
 Pink Floyd - Wish You Were Here (1975-09-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/a8fd628c-9cb7-37ef-a3e8-7c02d81bac73/1203761440-500.jpg" data-tags="progressive rock" role="button">
+Rush - Caress of Steel (1975-09-15)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="classic rock, rock, 70s" role="button">
+Queen - A Night at the Opera (1975-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/9eaa7ef4-c4db-4bd0-adf1-05e2d0ce729f/20550685815-500.jpg" data-tags="progressive rock" role="button">
 Camel - Moonmadness (1976-03-26)
@@ -174,14 +180,14 @@ Pink Floyd - The Dark Side Of The Moon (1995-05-29)
 <li data-cover="https://img.discogs.com/PWYUxRjIe0Wjm3Oynz-zXjL4G1E=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1033016-1457806980-6940.jpeg.jpg" data-tags="progressive metal" role="button">
 Tool - Ænima (1996-09-17)
 </li>
+<li data-cover="http://coverartarchive.org/release/19f28e19-238c-48ee-8c65-e8182019e1fc/5396844481-500.jpg" data-tags="progressive rock" role="button">
+Porcupine Tree - Stupid Dream (1999-04-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/c71ece7f-abc4-460d-8ab3-efb25bc64b94/15909498814-500.jpg" data-tags="trip-hop" role="button">
 Archive - Take My Head (1999-04-20)
 </li>
 <li data-cover="https://img.discogs.com/gd992Sopc5CcVgIQtYheN6t7QBQ=/fit-in/600x586/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14219636-1570113574-4520.jpeg.jpg" data-tags="progressive rock" role="button">
 Porcupine Tree - Lightbulb Sun (2000-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/e5c49bf1-925b-32e2-9ac3-c4084f875376/10015661298-500.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Mer De Noms (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/a2e824b6-7b14-32ef-b990-482b53291f93/11473182115-500.jpg" data-tags="progressive metal" role="button">
 Tool - Lateralus (2001-05-14)
@@ -210,9 +216,6 @@ Opeth - Damnation (2003-04-07)
 <li data-cover="https://img.discogs.com/K7DdG_T4hEsYmNiYNCoNTy6ptcs=/fit-in/552x495/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3616919-1337529741-2652.jpeg.jpg" data-tags="alternative rock" role="button">
 Muse - Absolution (2003-09-08)
 </li>
-<li data-cover="https://img.discogs.com/txXCBCvtaF_tayG6iJRYDdx68Do=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367875-1425009360-9153.jpeg.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - Thirteenth Step (2003-09-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/e178e284-cbf6-30b2-8658-cb0111c78229/1118918783-500.jpg" data-tags="progressive metal" role="button">
 Dream Theater - Train of Thought (2003-11-08)
 </li>
@@ -221,9 +224,6 @@ Riverside - Out Of Myself (2003-12-22)
 </li>
 <li data-cover="https://img.discogs.com/YtYOqYAq5qrCcZYCl7Jzex09Js8=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-937391-1566141203-9309.jpeg.jpg" data-tags="progressive rock" role="button">
 Blackfield - Blackfield (2004-08-23)
-</li>
-<li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg" data-tags="progressive rock" role="button">
 The Mars Volta - Frances the Mute (2005-03-01)

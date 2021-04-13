@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:27:07.072Z
+date: 2021-04-13T03:38:01.459Z
 title: "hair metal: 100 albums you must listen to before you die"
 ---
 ![The Red Jumpsuit Apparatus - Don&#39;t You Fake It (2006-07-18)](http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg "The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)")
@@ -180,6 +180,9 @@ Tesla - Psychotic Supper (1991-08-30)
 <li data-cover="https://via.placeholder.com/450" data-tags="hard rock" role="button">
 Hardline - Double Eclipse (1992)
 </li>
+<li data-cover="http://coverartarchive.org/release/998ec18c-debb-42b1-9be2-717b47fe4ca1/2921760985-500.jpg" data-tags="hard rock" role="button">
+Def Leppard - Adrenalize (1992-03-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/40cf3757-eeac-4667-85c2-a5402cc07654/11408947389-500.jpg" data-tags="hard rock" role="button">
 Lita Ford - The Best of Lita Ford (1992-07-28)
 </li>
@@ -200,9 +203,6 @@ Vince Neil - Exposed (1993-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/0463c25c-3e43-49ea-809a-2405c3122f9f/1477034985-500.jpg" data-tags="hair metal" role="button">
 Winger - Pull (1993-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/b68e8f3e-0e36-43c5-a6cd-ebd2d2a5462b/3671096470-500.jpg" data-tags="hard rock" role="button">
-Mr. Big - Bump Ahead (1993-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/48fa9a40-45e2-41a7-959d-33fb98cda709/6894169311-500.jpg" data-tags="hard rock" role="button">
 Whitesnake - Greatest Hits (1994-07-19)

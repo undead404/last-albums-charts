@@ -1,11 +1,12 @@
 ---
-date: 2021-04-12T20:39:01.464Z
+date: 2021-04-13T03:36:01.458Z
 title: "noise pop: 100 albums you must listen to before you die"
 ---
 ![Sleigh Bells - Treats (2010-05-11)](https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg "Sleigh Bells - Treats (2010-05-11)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/phNcdxvN8GiTl6CaR3Vv5K0dxl0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2721984-1298083553.jpeg.jpg" data-tags="post-punk, shoegaze, noise pop" role="button">The Jesus and Mary Chain - Psychocandy (1985-02)</li>
 <li data-cover="http://coverartarchive.org/release/4c2c07b9-792e-430a-902b-c4d8784d0bce/2487345870-500.jpg" data-tags="shoegaze" role="button">My Bloody Valentine - Loveless (1991-11-04)</li>
+<li data-cover="http://coverartarchive.org/release/14a9f2fd-8287-4f6a-8a44-b144ad7de8c6/7779506103-500.jpg" data-tags="indie rock, garage rock, canadian" role="button">Japandroids - Post-Nothing (2009-04-28)</li>
 <li data-cover="https://img.discogs.com/IojcRR9nb1EVW2RKFKFG8JX0n8k=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2270609-1273633096.jpeg.jpg" data-tags="noise pop" role="button">Sleigh Bells - Treats (2010-05-11)</li>
 <li data-cover="https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg" data-tags="lo-fi, garage rock" role="button">Best Coast - Crazy for You (2010-07-26)</li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">The Joy Formidable - The Big Roar (2011-01-24)</li>
@@ -13,7 +14,6 @@ title: "noise pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">Sleigh Bells - Reign of Terror (2012-02-20)</li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">Sky Ferreira - Night Time, My Time (2013-10-29)</li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">St. Vincent - St. Vincent (2014-02-24)</li>
-<li data-cover="http://coverartarchive.org/release/283133d8-a904-4b45-992e-3d286e93de06/8951746002-500.jpg" data-tags="indie rock" role="button">Mitski - Bury Me at Makeout Creek (2014-11-11)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -30,6 +30,9 @@ My Bloody Valentine - Sunny Sundae Smile (1987-02)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
 Sonic Youth - Sister (1987-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/6755ef75-9453-46b7-8199-c74aac032a62/9681559349-500.jpg" data-tags="indie, 80s, indie pop, jangle pop, sunshine pop, shoegaze, noise pop, dream pop, psychedelia, tremolo radio" role="button">
+My Bloody Valentine - Strawberry Wine (1987-08)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="post-punk, 80s" role="button">
 The Jesus and Mary Chain - Darklands (1987-10)
 </li>
@@ -44,9 +47,6 @@ The Jesus and Mary Chain - Automatic (1989-10-09)
 </li>
 <li data-cover="https://img.discogs.com/Ru1Wx6pVagAy8UHzXg-ktbcYyRg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-84680-1523164126-2096.jpeg.jpg" data-tags="shoegaze" role="button">
 My Bloody Valentine - Glider (1990-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
-Mercury Rev - Yerself Is Steam (1991)
 </li>
 <li data-cover="https://img.discogs.com/Pisgxym1i0Bo6Iq2fEvmxFrCdk8=/fit-in/593x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13082802-1547744709-5084.jpeg.jpg" data-tags="alternative rock, grunge, 90s" role="button">
 The Smashing Pumpkins - Gish (1991-05-28)
@@ -63,11 +63,14 @@ The Jesus and Mary Chain - Honey's Dead (1992)
 <li data-cover="http://coverartarchive.org/release/d16fceb3-9852-41d3-b9be-8d50fd110ae7/15842770700-500.jpg" data-tags="twee, scotland is for lovers" role="button">
 The Vaselines - The Way of the Vaselines: A Complete History (1992-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
-The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
-</li>
 <li data-cover="https://img.discogs.com/yNwBqDbzNJxy7hFtZXJtzK9dttA=/fit-in/338x338/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4196103-1358225553-8655.jpeg.jpg" data-tags="noise rock, lo-fi, noise pop, drone pop" role="button">
 Guided by Voices - Vampire on Titus (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/69b75328-d791-4f2b-a38f-faaab61847d3/26920666302-500.jpg" data-tags="shoegaze" role="button">
+Adorable - Against Perfection (1993-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/bcb2c6b8-6f7b-3657-a7de-95cf73738126/21730140974-500.jpg" data-tags="lo-fi" role="button">
+Pavement - Westing (By Musket and Sextant) (1993-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/57437410-f847-43c5-bf04-64f02973ec0e/13561508094-500.jpg" data-tags="90s, alternative rock" role="button">
 The Flaming Lips - Transmissions From the Satellite Heart (1993-06-22)
@@ -92,6 +95,9 @@ Luna - Penthouse (1995-08-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/5135b3ff-905e-371c-b468-ce8c57358cd0/21028984300-500.jpg" data-tags="90s, alternative rock" role="button">
 The Flaming Lips - Clouds Taste Metallic (1995-09-19)
+</li>
+<li data-cover="https://img.discogs.com/UdTcKILbJpfq9oVVlbTF86KyJZQ=/fit-in/600x569/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13305862-1551753830-2637.jpeg.jpg" data-tags="lo-fi, alternative, 90s" role="button">
+Guided by Voices - Under the Bushes Under the Stars (1996-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cddfbb16-95ba-4eef-8468-29d0128bdc93/21562810344-500.jpg" data-tags="indie rock" role="button">
 Modest Mouse - This Is a Long Drive for Someone with Nothing to Think About (1996-04-16)
@@ -149,6 +155,9 @@ Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/f2b5856f-bb4c-486a-a708-b66457ee305a/3221056368-500.jpg" data-tags="indie rock, female vocalists, lo-fi, noise pop, indie-folk, shoegazing" role="button">
+Dum Dum Girls - Dum Dum Girls (2008)
 </li>
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="indie rock" role="button">
 Be Your Own Pet - Get Awkward (2008-03-17)
@@ -219,9 +228,6 @@ Crocodiles - Sleep Forever (2010-09-13)
 <li data-cover="http://coverartarchive.org/release/aa29b9f3-4525-3982-9d4b-76c87f37a43b/2868845098-500.jpg" data-tags="noise rock" role="button">
 No Age - Everything in Between (2010-09-15)
 </li>
-<li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
-Anika - Anika (2010-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/f9a91f6c-e2d8-3fbe-9501-64471c4d5493/14602955764-500.jpg" data-tags="shoegaze" role="button">
 No Joy - Ghost Blonde (2010-11-16)
 </li>
@@ -279,14 +285,14 @@ Japandroids - Celebration Rock (2012-06-05)
 <li data-cover="http://coverartarchive.org/release/b0debf4d-53f7-4570-b3c0-e26c125f0acd/2978014009-500.jpg" data-tags="noise pop" role="button">
 Teen Suicide - Goblin Problems (2012-06-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2b5e073-922e-4a8c-9cd1-794c9addeeb3/2993793372-500.jpg" data-tags="noise pop, synthpop" role="button">
-Car Seat Headrest - Monomania (2012-08-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/2559fbc2-0b36-48aa-a2fd-1b36eb71e966/8293463939-500.jpg" data-tags="lo-fi" role="button">
 Teen Suicide - i will be my own hell because there is a devil inside my body (2012-09-15)
 </li>
 <li data-cover="https://img.discogs.com/S26wNV1io5Yx19HkUbg1YwRa9ug=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6999033-1431357387-8924.jpeg.jpg" data-tags="experimental, neo-psychedelia" role="button">
 The Flaming Lips - The Terror (2013-04-01)
+</li>
+<li data-cover="https://img.discogs.com/rjaVDQXkwp2tdzUzVzryw7kQ9os=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4479695-1366083814-8735.png.jpg" data-tags="math rock" role="button">
+Tera Melos - X'ed Out (2013-04-16)
 </li>
 <li data-cover="https://img.discogs.com/zwZWNjsLirMCcYaAqdVOeA3fyoo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7384933-1440352188-3317.jpeg.jpg" data-tags="shoegaze" role="button">
 No Joy - Wait To Pleasure (2013-04-23)
@@ -296,9 +302,6 @@ Candy Claws - Ceres & Calypso in the Deep Time (2013-06-25)
 </li>
 <li data-cover="https://img.discogs.com/g_5r7oDFs8JaxW6_ODn7U3ASafo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4781559-1375326286-5445.jpeg.jpg" data-tags="electronic, noise pop, owsla" role="button">
 Heartsrevolution - Ride or Die (2013-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cad37ba-8afc-4ea4-b2c2-61ab183fbac1/8773585380-500.jpg" data-tags="indie rock" role="button">
-Car Seat Headrest - Nervous Young Man (2013-08-23)
 </li>
 <li data-cover="https://img.discogs.com/JMhgDP9ZhYAjZ9gGJLtJ2fbSNMw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4882092-1378361278-2192.jpeg.jpg" data-tags="indie, indie pop" role="button">
 Joanna Gruesome - Weird Sister (2013-09-09)
@@ -317,8 +320,5 @@ St. Vincent - St. Vincent (2014-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/9324ae76-d5f2-4220-bd2f-7f7cad86d532/8816004106-500.jpg" data-tags="noise pop, julian casablancas, tyranny, cult records, the voidz" role="button">
 Julian Casablancas + The Voidz - Tyranny (2014-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/283133d8-a904-4b45-992e-3d286e93de06/8951746002-500.jpg" data-tags="indie rock" role="button">
-Mitski - Bury Me at Makeout Creek (2014-11-11)
 </li>
 </ol>

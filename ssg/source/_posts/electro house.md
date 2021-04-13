@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:45:01.789Z
+date: 2021-04-13T03:34:01.441Z
 title: "electro house: 100 albums you must listen to before you die"
 ---
 ![Swedish House Mafia - Don&#39;t You Worry Child (2012)](https://img.discogs.com/9MzErOAnYWDzSs2D2gxyQBTU_yU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3927587-1349528161-4086.jpeg.jpg "Swedish House Mafia - Don't You Worry Child (2012)")
@@ -72,6 +72,9 @@ Digitalism - Idealism (2007-05-09)
 <li data-cover="http://coverartarchive.org/release/e123a2d2-6f59-3937-a090-248109380220/10083795099-500.jpg" data-tags="french, electro, france" role="button">
 Justice - ✝ (2007-06-06)
 </li>
+<li data-cover="https://img.discogs.com/_nOa_wRk36-mNbseAz09PqT7JUI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1529635-1227043505.jpeg.jpg" data-tags="electro, house, electro house" role="button">
+Phynn - Metamorphosis (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/adf50f02-ea39-471d-bb2f-303fe9b68dfe/8139327870-500.jpg" data-tags="electronic" role="button">
 Steve Aoki - Pillowface And His Airplane Chronicles (2008-01-23)
 </li>
@@ -95,9 +98,6 @@ AutoKratz - Down & Out in Paris & London (2008-08-19)
 </li>
 <li data-cover="https://img.discogs.com/cs7Hqxr0w9X3bMwr5brhF9AbhW4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1491257-1408880711-9009.jpeg.jpg" data-tags="electro house" role="button">
 Proxy - Raven (2008-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
-Justice - A Cross The Universe (2008-11-24)
 </li>
 <li data-cover="https://img.discogs.com/ZP1Td2EdYkTd9yTbLelrAodx4nc=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8800657-1469037194-9536.jpeg.jpg" data-tags="electro house" role="button">
 MSTRKRFT - Heartbreaker (2009)
@@ -171,9 +171,6 @@ OVERWERK - The Nth º (2011-11-30)
 <li data-cover="http://coverartarchive.org/release/4e8cbbc8-2956-455c-b645-ebc076287aa1/1262026260-500.jpg" data-tags="electro house" role="button">
 Knife Party - 100% No Modern Talking (2011-12-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/da7c5f97-6379-42a2-bd07-ad09e55eaad0/852901578-500.jpg" data-tags="dance, electro house, dj" role="button">
-Swedish House Mafia vs. Knife Party - Antidote (2011-12-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/13b61bbf-67ad-4a0b-9f68-85b425061968/1984353512-500.jpg" data-tags="dubstep" role="button">
 Skrillex - Bangarang (2011-12-23)
 </li>
@@ -218,6 +215,9 @@ Wolfgang Gartner - Flexx (2012-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6bab60f-cbda-45f4-82eb-a183b0c66ff1/26903112583-500.jpg" data-tags="electronic rock, dubstep" role="button">
 Celldweller - Wish Upon A Blackstar (2012-06-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/039ca62b-a37b-427f-b238-d3ad73379abf/3782380553-500.jpg" data-tags="trance" role="button">
+Andain - Turn Up the Sound (2012-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9c58e373-5667-4117-96e2-130cb203dc73/4316642070-500.jpg" data-tags="electro house" role="button">
 Strip Steve - Micro Mega (2012-07-16)

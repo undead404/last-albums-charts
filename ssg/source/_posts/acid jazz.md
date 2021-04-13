@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:51:01.477Z
+date: 2021-04-13T03:40:01.541Z
 title: "acid jazz: 100 albums you must listen to before you die"
 ---
 ![Jamiroquai - The Return Of The Space Cowboy (1994-10-17)](http://coverartarchive.org/release/cac293d3-9ee1-495b-819f-524318f49432/26667277904-500.jpg "Jamiroquai - The Return Of The Space Cowboy (1994-10-17)")
@@ -171,11 +171,14 @@ Jamiroquai - Synkronized (1999-06-07)
 <li data-cover="http://coverartarchive.org/release/a93421ab-50ba-3511-b0c4-1c2f1888cbd6/23414863063-500.jpg" data-tags="jazz, ninja tune, downtempo" role="button">
 The Cinematic Orchestra - Motion (1999-09-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/df6946ed-fbc5-4315-b8fd-39ce18cc9d58/24162946160-500.jpg" data-tags="acid jazz" role="button">
-The Brand New Heavies - Trunk Funk: The Best of the Brand New Heavies (1999-09-13)
+<li data-cover="http://coverartarchive.org/release/b92ca5de-c74c-36c1-9a0c-e5db91fdce8d/24147114073-500.jpg" data-tags="90s, electronic" role="button">
+Pet Shop Boys - Nightlife (1999-10-09)
 </li>
 <li data-cover="https://img.discogs.com/XaUUA9nA17Q-jHkAsvjsnmKTH4Y=/fit-in/568x564/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-40480-1236066826.jpeg.jpg" data-tags="cafe del mar, acid jazz, germany, 00s, explore, favouritestreamablealbums, 3l3ktr0 ch1x, relaxing cafe, k-2000radio, haciendasi" role="button">
 Hacienda - 3rd Door Left (2000)
+</li>
+<li data-cover="https://img.discogs.com/5BwbM0TORcgfMb_3uH3EOfme-zs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-134198-1452665938-8139.jpeg.jpg" data-tags="trip-hop, chillout, ambient" role="button">
+Mandalay - Solace (2000)
 </li>
 <li data-cover="http://coverartarchive.org/release/ca8615f2-a0df-38a3-904e-6eaacb5166ff/28701723383-500.jpg" data-tags="trip-hop, downtempo" role="button">
 Kinobe - Soundphiles (2000-07-17)
@@ -236,9 +239,6 @@ Massive Attack - Special Cases (2003-02-24)
 </li>
 <li data-cover="https://img.discogs.com/hr5sUaRDxR8QdrFIOTF51iWYCd4=/fit-in/600x542/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-168765-1587282765-8727.jpeg.jpg" data-tags="experimental, jazz fusion" role="button">
 Tied & Tickled Trio - Observing Systems (2003-09-08)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e1d0431-64dd-4e59-85c9-bdc0e311dcb7/4506037751-500.jpg" data-tags="electronica, post-rock" role="button">
 Mice Parade - Obrigado Saudade (2004-01-26)

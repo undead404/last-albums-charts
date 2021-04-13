@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:47:07.065Z
+date: 2021-04-13T03:12:01.556Z
 title: "world: 100 albums you must listen to before you die"
 ---
 ![Beirut - Elephant Gun (2007-06-25)](http://coverartarchive.org/release/c3085de3-262f-360f-84bd-e007c682f043/9700126803-500.jpg "Beirut - Elephant Gun (2007-06-25)")
@@ -39,8 +39,8 @@ Sezen Aksu - Gülümse (1991-07-16)
 <li data-cover="http://coverartarchive.org/release/2fbbe6b7-5679-33cf-a084-ee4bd5429807/16797026280-500.jpg" data-tags="celtic, new age" role="button">
 Enya - Shepherd Moons (1991-11-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/d5428e48-d058-4e78-8a23-a6253c6d27a4/1425087866-500.jpg" data-tags="ambient, world, spoken word" role="button">
-Hector Zazou - Sahara Blue (1992)
+<li data-cover="https://img.discogs.com/ii0yLhLFU9omHdjgxNfVsJ16Zno=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10794649-1504442043-2589.jpeg.jpg" data-tags="pop, rock, world, 90s, italy, italia, italiano, musica latina, nek, yay yay" role="button">
+Nek - Nek (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/554f927e-e45b-4ae0-9b5f-37301f05a5ce/1270310275-500.jpg" data-tags="electronic, world, ambient" role="button">
 Deep Forest - Sweet Lullaby (1992)
@@ -62,9 +62,6 @@ Geoffrey Oryema - Beat the Border (1993-11-05)
 </li>
 <li data-cover="https://img.discogs.com/O1muWhnZKfzIgMNNroXNC1PnqYQ=/fit-in/301x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-551112-1130442758.jpeg.jpg" data-tags="world, 90s, reggea, toi dub" role="button">
 Dawn Penn - No, No, No (1994)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cb91932-1464-4c12-8d7b-b411e8230d3c/6951145597-500.jpg" data-tags="world, new age, symphonic, celtic, sun and moon and stars and outer space, another star in the sky- david arkenstone, leo perez" role="button">
-David Arkenstone - Another Star In The Sky (1994-03-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7b9bda4-8a40-45cd-b624-1a689c6cd01e/10900710681-500.jpg" data-tags="africa, world" role="button">
 Habib Koité & Bamada - Muso Ko (1995)
@@ -93,6 +90,9 @@ Cirque Du Soleil - Quidam (1996)
 <li data-cover="https://via.placeholder.com/450" data-tags="arabic" role="button">
 Khaled - Sahra (1996-11-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/992f9492-5a5d-4c68-8be2-3d72573e7c2f/24547966474-500.jpg" data-tags="world fusion" role="button">
+Stellamara - Star of the Sea (1997)
+</li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="world, throat singing" role="button">
 Yat-Kha - dalai beldiri (1997)
 </li>
@@ -108,9 +108,6 @@ Vas - Sunyata (1997-04-08)
 <li data-cover="http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg" data-tags="latin, cuban" role="button">
 Buena Vista Social Club - Buena Vista Social Club (1997-06-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/01e97e43-dc06-4e7e-8541-976064584683/9301874559-500.jpg" data-tags="soundtrack, disney" role="button">
-Various Artists - The Lion King (1997-11-14)
-</li>
 <li data-cover="http://coverartarchive.org/release/5a623c8d-7878-3d2a-8d87-60b5a31340e8/12921336614-500.jpg" data-tags="world, new age" role="button">
 Deep Forest - Comparsa (1998-01-14)
 </li>
@@ -122,6 +119,9 @@ Cesária Évora - Best Of (1998-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dba2993e-4530-483c-a173-1d6704264472/2720958236-500.jpg" data-tags="latin, cuba" role="button">
 Compay Segundo - Cien Años de Son (1999-02-25)
+</li>
+<li data-cover="https://img.discogs.com/_WctRBQaCnGidtwxZX_wDcnw6Ts=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-48267-1452879044-2360.jpeg.jpg" data-tags="world" role="button">
+Issa Bagayogo - Sya (1999-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/478daf63-c8cd-47a0-b319-e69f78f7b40c/15535648338-500.jpg" data-tags="african, world" role="button">
 Oliver Mtukudzi - Tuku Music (1999-07-13)
@@ -140,6 +140,9 @@ Axiom Of Choice - Niya Yesh (2000)
 </li>
 <li data-cover="https://img.discogs.com/4A7pxX5IPWZyBTGjz_ivrmyVXi8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-28802-1300556819.jpeg.jpg" data-tags="ambient, glitch, electronica, post-rock" role="button">
 múm - Yesterday Was Dramatic - Today Is OK (2000-03-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/aa837dd1-89df-3d1f-9e74-762880629ed0/16026624261-500.jpg" data-tags="chillout, electronica" role="button">
+Nitin Sawhney - Prophesy (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e044665-039f-4821-9f8f-d0b2eecd7fc1/4269686549-500.jpg" data-tags="world" role="button">
 Afro Celt Sound System - Volume 3: Further In Time (2001-06-18)
@@ -209,9 +212,6 @@ Rasa - Temple of Love (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/298b2b1e-d3cf-4dec-be0b-1803064a093f/8915966727-500.jpg" data-tags="irish, celtic rock" role="button">
 Gaelic Storm - Bring Yer Wellies (2006-07-25)
-</li>
-<li data-cover="https://img.discogs.com/U58zUfHQR-hwVyCndesWQVtilIo=/fit-in/300x271/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4215651-1421433469-3950.jpeg.jpg" data-tags="reggae, roots reggae" role="button">
-Groundation - Upon the Bridge (2006-10-16)
 </li>
 <li data-cover="https://img.discogs.com/hDPyAXslSo8VoCOlPJLDfm3K5K4=/fit-in/571x568/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-924934-1173714736.jpeg.jpg" data-tags="reggae" role="button">
 Matisyahu - No Place To Be (2006-12-26)

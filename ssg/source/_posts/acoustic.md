@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:00:07.180Z
+date: 2021-04-13T03:14:01.492Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -47,6 +47,9 @@ Nirvana - MTV Unplugged in New York (1994-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc74c8f9-b13c-40b1-a07d-fb3eb32966db/4229236342-500.jpg" data-tags="rock, alternative rock, acoustic, vertical horizon" role="button">
 Vertical Horizon - Running on Ice (1995-04-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ae37385-e7cd-46cc-a53b-79cf364d2f60/9535453834-500.jpg" data-tags="singer-songwriter" role="button">
+Elliott Smith - Elliott Smith (1995-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e3ef21b-12b7-4fa2-b430-f3579391e41e/1623290216-500.jpg" data-tags="grunge, acoustic" role="button">
 Alice in Chains - MTV Unplugged (1996-04-10)
@@ -110,9 +113,6 @@ Dashboard Confessional - A Mark, A Mission, A Brand, A Scar (2003-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d9065e5-de47-43ff-865f-42c110e7b6f6/6247631110-500.jpg" data-tags="singer-songwriter, acoustic" role="button">
 Howie Day - Stop All The World Now (2003-10-07)

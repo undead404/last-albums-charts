@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:04:12.685Z
+date: 2021-04-13T03:17:07.073Z
 title: "soundtrack: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - TRON: Legacy (2010-12-06)](http://coverartarchive.org/release/fa023617-1585-4ae6-81b6-1a07c47ecb2a/6215572515-500.jpg "Daft Punk - TRON: Legacy (2010-12-06)")
@@ -45,8 +45,8 @@ Various Artists - The Harder They Come (1972-07-07)
 <li data-cover="https://img.discogs.com/qJq-j_vLsSPn81CJE6s7dJid1rg=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2114910-1286191109.jpeg.jpg" data-tags="soundtrack, folk" role="button">
 Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f691532-5308-3416-9796-9935c7952557/4372324970-500.jpg" data-tags="musical, soundtrack" role="button">
-Richard O'Brien - The Rocky Horror Picture Show (1975)
+<li data-cover="http://coverartarchive.org/release/57d1b87e-bb15-392b-9940-1be4de6a5cce/4862235536-500.jpg" data-tags="soundtrack" role="button">
+Bernard Herrmann - Taxi Driver (1976)
 </li>
 <li data-cover="http://coverartarchive.org/release/b74306eb-15ac-4d9c-9780-a86ad6a87a10/21650782271-500.jpg" data-tags="soundtrack, pop, 70s, uk, easy listening, bee gees, 00s, disco pop" role="button">
 Bee Gees - Greatest (1979-10)
@@ -65,9 +65,6 @@ Ry Cooder - Paris, Texas (1985)
 </li>
 <li data-cover="https://img.discogs.com/F654PH-V0T2HKRiFwpsL4eyYF2w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-182988-1162275487.jpeg.jpg" data-tags="soundtrack, miami vice" role="button">
 Jan Hammer - Escape From Television (1987)
-</li>
-<li data-cover="http://coverartarchive.org/release/8b2b725f-c3dd-41c2-b98d-e42f027fbe1c/3768060682-500.jpg" data-tags="musical, soundtrack" role="button">
-Andrew Lloyd Webber - The Phantom of the Opera (1987-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f0e6c69-cd39-4a23-96b6-86bb77a003e1/4456245095-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Dirty Dancing (1987-08-04)
@@ -90,6 +87,9 @@ Madonna - I'm Breathless (1990-05-12)
 <li data-cover="https://img.discogs.com/nuKaRqtEek4RrITM1-7V7-Y6gtE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15764513-1597359569-7785.jpeg.jpg" data-tags="soundtrack" role="button">
 Angelo Badalamenti - Twin Peaks (1990-08-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/7550197e-2b87-370b-86c1-c6ef0d29ac85/11507691329-500.jpg" data-tags="soundtrack" role="button">
+Vangelis - 1492: Conquest of Paradise (1992-09-28)
+</li>
 <li data-cover="https://img.discogs.com/tBpF-ixSSgM5xE1TqA0XgJcJ-Uc=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13411347-1555094420-6828.mpo.jpg" data-tags="soundtrack" role="button">
 John Williams - Jurassic Park (1993-05-25)
 </li>
@@ -110,9 +110,6 @@ James Horner - Braveheart (1995-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/711946e6-0c3e-3b60-92dd-20e3ced9d0e5/6087710143-500.jpg" data-tags="electronic, ambient" role="button">
 Passengers - Original Soundtracks 1 (1995-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/01e97e43-dc06-4e7e-8541-976064584683/9301874559-500.jpg" data-tags="soundtrack, disney" role="button">
-Various Artists - The Lion King (1997-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/a01a83c6-82e8-4307-874e-a5139cab31d8/7903691398-500.jpg" data-tags="soundtrack" role="button">
 Various Artists - Good Will Hunting (1997-12-02)
@@ -222,6 +219,9 @@ Jack Johnson - Sing-A-Longs and Lullabies For The Film Curious George (2006-02-0
 <li data-cover="http://coverartarchive.org/release/f142c220-050f-4c8a-be9d-2cdc818376be/21236770976-500.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer - The Da Vinci Code (2006-05-09)
 </li>
+<li data-cover="http://coverartarchive.org/release/2b135f00-c4b7-43f1-a1d1-15346f671c7f/16374057731-500.jpg" data-tags="soundtrack" role="button">
+James Newton Howard - Lady in the Water (2006-07-18)
+</li>
 <li data-cover="https://img.discogs.com/wlpdR9G9uNwA73eCGfS9NIErWh8=/fit-in/560x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-719826-1158229502.jpeg.jpg" data-tags="football" role="button">
 Mogwai - Zidane: A 21st Century Portrait (2006-10-23)
 </li>
@@ -258,14 +258,14 @@ Jonny Greenwood - There Will Be Blood (2007-12-17)
 <li data-cover="http://coverartarchive.org/release/24fef968-ef90-4f90-ac89-e1e0cbb5ee0f/19080096762-500.jpg" data-tags="rock, australian" role="button">
 The Temper Trap - Sweet Disposition (2008)
 </li>
+<li data-cover="http://coverartarchive.org/release/c76df01a-608b-4c4e-bc83-72c9adce1cf6/7275760181-500.jpg" data-tags="soundtrack" role="button">
+James Newton Howard - I Am Legend (2008-01-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b49fef96-5b9c-4656-9b99-82cd80472706/8265525094-500.jpg" data-tags="soundtrack" role="button">
 Two Steps from Hell - Legend (2008-07-01)
 </li>
 <li data-cover="https://img.discogs.com/EO4tmF4L3bRSVSeSkTD5aNzF3Ak=/fit-in/506x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1486045-1309206695.jpeg.jpg" data-tags="soundtrack" role="button">
 Hans Zimmer & James Newton Howard - The Dark Knight (2008-07-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
-Various Artists - Nightmare Revisited (2008-09-30)
 </li>
 <li data-cover="https://img.discogs.com/EvzWlQmx35ulZwcexVdSEObUGSs=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15721185-1596559946-2217.jpeg.jpg" data-tags="soundtrack" role="button">
 Clint Mansell - Moon (2009-07-13)
@@ -274,10 +274,10 @@ Clint Mansell - Moon (2009-07-13)
 Karen O and the Kids - Where The Wild Things Are (2009-09-28)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
-Glee Cast - Glee: The Music, Volume 1 (2009-11-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="glee" role="button">
 Glee Cast - Glee: The Music, Volume 2 (2009-12-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/0c036feb-0a13-3cc9-9897-e4e125c63922/7360744850-500.jpg" data-tags="soundtrack" role="button">
+John Powell - How to Train Your Dragon (2010-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1da05321-a8ba-436e-a1a6-98822ea28e94/23564387481-500.jpg" data-tags="soundtrack, hard rock" role="button">
 AC/DC - Iron Man 2 (2010-04-16)

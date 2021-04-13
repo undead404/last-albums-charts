@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:36:01.398Z
+date: 2021-04-13T02:49:07.044Z
 title: "independent: 100 albums you must listen to before you die"
 ---
 ![Horse Feathers - House With No Home (2008-09-09)](http://coverartarchive.org/release/4c13817e-a16c-47d6-85ab-aa6f6d826705/24225147925-500.jpg "Horse Feathers - House With No Home (2008-09-09)")
@@ -23,6 +23,9 @@ _________________
 <ol class="albums">
 <li data-cover="https://img.discogs.com/TBZSuUYWDNpML5L2t_cuPsuxrgo=/fit-in/292x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3626386-1337897744-2747.jpeg.jpg" data-tags="indie, alternative, experimental, avant garde, independent, faves" role="button">
 Witch - Around the World on a Broom (1980)
+</li>
+<li data-cover="https://img.discogs.com/g8EazpOmP6XmunZ-Z-PtITKcxWk=/fit-in/118x117/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-266623-1113307978.jpg.jpg" data-tags="eighties, independent" role="button">
+Hermann Kopp - Aquaplaning in Venedig (1981)
 </li>
 <li data-cover="https://img.discogs.com/TBZSuUYWDNpML5L2t_cuPsuxrgo=/fit-in/292x292/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3626386-1337897744-2747.jpeg.jpg" data-tags="indie, alternative, experimental, independent, faves, unsigned bands, jeppf" role="button">
 Witch - Rock 'n' Roll with a Dead Man (1985)
@@ -74,9 +77,6 @@ Kim Kuzma - Contradictions (1999-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5a1c3ac-48a8-43bc-9351-8a8e2f165ce7/15176633516-500.jpg" data-tags="punk rock" role="button">
 Nina Hagen - Return of the Mother (2000-02-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/bddcc35b-0c2a-400e-85f5-5ae247470852/5112221388-500.jpg" data-tags="ani difranco" role="button">
-Ani DiFranco - Swing Set (2000-07-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/f63fb048-025e-4e6d-a84c-5ba1b3d2ce9c/17554691886-500.jpg" data-tags="indie, rock, alternative, independent, pennsylvania" role="button">
 Sinch - Project: Bluebird (2000-11)
@@ -258,9 +258,6 @@ Pea Sized - In My Mind (2008-09-23)
 <li data-cover="https://img.discogs.com/gvmcYRRbCZyrXZ8Wn5eBawhZuJ0=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3795077-1446816038-3682.jpeg.jpg" data-tags="thrash metal" role="button">
 Lich King - Toxic Zombie Onslaught (2008-12-01)
 </li>
-<li data-cover="https://img.discogs.com/hNM097o0PvJLvLxtOAt2N6FDENY=/fit-in/599x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1886740-1265741641.jpeg.jpg" data-tags="progressive rock" role="button">
-Indukti - Mutum (2008-12-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/8b81cf65-d31a-404c-baad-29ef4db618c9/18948962644-500.jpg" data-tags="indie, rock, punk, alternative, indie rock, singer-songwriter, german, 00s, independent" role="button">
 Phillip Boa & The VoodooClub - Diamonds Fall (2009)
 </li>
@@ -305,6 +302,9 @@ Dawn Richard - Armor On (2012-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/f7b8fff0-445f-48ad-9b66-4e48c4060b4f/5507996174-500.jpg" data-tags="rap" role="button">
 Hoodie Allen - All American (2012-04-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/528295c3-2f7d-4073-8703-dc5dbb00dd64/1967362334-500.jpg" data-tags="alternative, folk, acoustic, americana, folk rock, independent, swedish indie, swedish music" role="button">
+Jonas Carping - All the Time in the World (2012-09-24)
 </li>
 <li data-cover="https://img.discogs.com/KVpsP9-6zOBwMJPQZtSdoPVMUkQ=/fit-in/550x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4646666-1370964984-9011.jpeg.jpg" data-tags="pop, soul, ethereal, rnb, independent, sublime, stunning, grammy worthy, goldenheart" role="button">
 Dawn Richard - Goldenheart (2013-01-15)

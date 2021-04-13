@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:04:01.467Z
+date: 2021-04-13T03:43:12.667Z
 title: "southern rock: 100 albums you must listen to before you die"
 ---
 ![Kings of Leon - Only by the Night (2008-09-19)](http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg "Kings of Leon - Only by the Night (2008-09-19)")
@@ -147,6 +147,9 @@ Zakk Wylde - Book of Shadows (1996-06-19)
 <li data-cover="http://coverartarchive.org/release/1acabc7f-466f-4098-a44b-b48ea5973adc/3730776424-500.jpg" data-tags="blues rock, hard rock" role="button">
 ZZ Top - Rhythmeen (1996-09-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/ba2f3dec-5791-477d-a461-aea5253e2746/1012734437-500.jpg" data-tags="southern rock" role="button">
+Lynyrd Skynyrd - Twenty (1997-04-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a2c4afd-d30a-428c-968d-de082494d9a8/28967153015-500.jpg" data-tags="blues rock" role="button">
 Gov't Mule - Dose (1998-02-24)
 </li>
@@ -278,9 +281,6 @@ Lynyrd Skynyrd - God & Guns (2009-09-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/98a951cc-22e1-47cd-913b-9245c2092c5d/15403955407-500.jpg" data-tags="americana, alt-country, punk rock, southern rock, alternative country, allmusicl" role="button">
 Lucero - 1372 Overton Park (2009-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/43ae8b7c-4ab6-4d47-9da8-a6ceb41f52a4/6774655436-500.jpg" data-tags="pop punk" role="button">
-Mayday Parade - Anywhere But Here (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/02c4e4be-f3ac-49a8-8157-f0b1106b80a4/7913085249-500.jpg" data-tags="southern rock" role="button">
 Brother Dege - Folk Songs of the American Longhair (2010-03-09)

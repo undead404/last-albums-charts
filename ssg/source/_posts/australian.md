@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:43:01.452Z
+date: 2021-04-13T03:19:07.051Z
 title: "australian: 100 albums you must listen to before you die"
 ---
 ![Wolfmother - Wolfmother (2005-10-31)](http://coverartarchive.org/release/9bd9d999-77e0-48ce-bce9-6096123ffb72/4819622540-500.jpg "Wolfmother - Wolfmother (2005-10-31)")
@@ -69,9 +69,6 @@ Jebediah - Slightly Odway (1997-09-08)
 <li data-cover="http://coverartarchive.org/release/87383a10-7042-44d5-8457-9026f2365f8e/6657328580-500.jpg" data-tags="australian" role="button">
 Regurgitator - Unit (1997-11-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/a4b233d0-183a-482d-a7a7-7a1bb6d9ba38/6257852608-500.jpg" data-tags="australian, electronic" role="button">
-Pnau - Sambanova (1999)
-</li>
 <li data-cover="http://coverartarchive.org/release/b0051e8d-d63b-3dbb-b801-737c54d73933/1745470355-500.jpg" data-tags="rock, grunge" role="button">
 Silverchair - Neon Ballroom (1999-03-05)
 </li>
@@ -98,6 +95,9 @@ Silverchair - Diorama (2002-03-31)
 </li>
 <li data-cover="https://img.discogs.com/wWdr6ZlhZM3V4pdKeuTX0Ti9Ci4=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-628771-1603077592-1541.jpeg.jpg" data-tags="australian" role="button">
 Grinspoon - New Detention (2002-06-03)
+</li>
+<li data-cover="https://img.discogs.com/qod28ZiCDABT-laIIsMdl91Q6Dk=/fit-in/513x374/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-138339-1106688055.jpg.jpg" data-tags="electronica, pop, experimental, australian, itunes" role="button">
+Puretone - Stuck In A Groove (2002-10-22)
 </li>
 <li data-cover="https://img.discogs.com/CNWQ-65tOtu0wHnoQxU8t7lmjCM=/fit-in/600x852/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7970862-1452672610-7453.jpeg.jpg" data-tags="classic rock, pop, rock, 80s, australian, new wave, soft rock" role="button">
 Men at Work - The Essential Men at Work (2003-04-01)

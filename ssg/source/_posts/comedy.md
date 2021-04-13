@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:19:01.480Z
+date: 2021-04-13T02:58:01.450Z
 title: "comedy: 100 albums you must listen to before you die"
 ---
 ![Tenacious D - Tenacious D (2001-09-25)](http://coverartarchive.org/release/d1cc351e-add4-34ec-b411-4c52cb432727/13560319379-500.jpg "Tenacious D - Tenacious D (2001-09-25)")
@@ -11,8 +11,8 @@ title: "comedy: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/79f3d75d-40d6-3aea-8167-06f5459fc2bb/14985678964-500.jpg" data-tags="comedy" role="button">"Weird Al" Yankovic - Poodle Hat (2003-05-20)</li>
 <li data-cover="https://img.discogs.com/p8_cLCOZTh4qyzbyLYxSmBIJSRs=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2351207-1278866751.jpeg.jpg" data-tags="alternative, rock, comedy" role="button">Bloodhound Gang - Hefty Fine (2005-01-01)</li>
 <li data-cover="http://coverartarchive.org/release/838aecec-8a2c-43fd-8036-9016f8d78aa0/5121395588-500.jpg" data-tags="comedy" role="button">"Weird Al" Yankovic - Straight Outta Lynwood (2006-09-26)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy, funny, stand-up" role="button">Demetri Martin - These Are Jokes (2006-09-26)</li>
 <li data-cover="http://coverartarchive.org/release/e74d81e5-7e35-4566-9722-aeb9a796beae/9813552225-500.jpg" data-tags="comedy" role="button">The Lonely Island - Incredibad (2009-02-10)</li>
-<li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">Flight of the Conchords - I Told You I Was Freaky (2009-10-20)</li>
 <li data-cover="http://coverartarchive.org/release/ca702568-c353-44f4-86e8-9fc3b5b1f104/10964780293-500.jpg" data-tags="comedy" role="button">The Lonely Island - Turtleneck & Chain (2011-05-09)</li>
 </ol>
 List of 100 - under the cut.
@@ -171,6 +171,9 @@ Bloodhound Gang - Hefty Fine (2005-01-01)
 <li data-cover="http://coverartarchive.org/release/d33added-3e30-4910-b9e9-cf5f622cd48f/15055543395-500.jpg" data-tags="comedy, stand-up" role="button">
 Lewis Black - Luther Burbank Performing Arts Center Blues (2005-01-25)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="comedy, funny, stand-up, standup, stand up, stand-up comedy, standup comedy, stand up comedy, comedy central" role="button">
+Hard 'n Phirm - Horses and Grasses (2005-02-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/955b3795-9ece-4519-9652-ea879620b27f/13009776511-500.jpg" data-tags="comedy" role="button">
 Bloodhound Gang - Foxtrot Uniform Charlie Kilo (2005-08)
 </li>
@@ -278,9 +281,6 @@ Psychostick - Sandwich (2009-05-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="comedy" role="button">
 Nick Swardson - Seriously, Who Farted? (2009-10-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/8eaad0e2-0905-469c-8b81-2f207e9137a0/4676356474-500.jpg" data-tags="comedy" role="button">
-Flight of the Conchords - I Told You I Was Freaky (2009-10-20)
 </li>
 <li data-cover="https://img.discogs.com/ZI-8BAtBcmQSx9oBtQtKsyw2kP4=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2073916-1262500251.jpeg.jpg" data-tags="comedy, standup comedy" role="button">
 Doug Stanhope - From Across the Street (2009-11-24)

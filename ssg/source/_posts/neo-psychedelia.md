@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:35:01.489Z
+date: 2021-04-13T03:05:01.488Z
 title: "neo-psychedelia: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -21,17 +21,11 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/ac145397-4d4e-4f9b-ae94-ebbf2a7cc5a6/23440279381-500.jpg" data-tags="post-punk" role="button">
-Echo & the Bunnymen - Porcupine (1983-02-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74307be-1085-4026-97ab-60b676e367c5/1923128273-500.jpg" data-tags="female vocalists, 90s, dream pop" role="button">
 Mazzy Star - She Hangs Brightly (1990-05-21)
 </li>
 <li data-cover="https://img.discogs.com/6Nkszn5tJFDJywElV8Q0g26itWc=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3222714-1399314519-9565.jpeg.jpg" data-tags="hard rock, 90s, funk rock" role="button">
 Living Colour - Time's Up (1990-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
-Mercury Rev - Yerself Is Steam (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/5834ce7b-007f-4e47-84bb-b4b66a6bdabf/4454840771-500.jpg" data-tags="britpop, alternative rock, 90s" role="button">
 Blur - Leisure (1991-08-26)
@@ -90,6 +84,9 @@ The Coral - The Coral (2002-07-29)
 <li data-cover="https://img.discogs.com/yegoHtYjwT1kM1KOsxZwsN1u-kI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-421989-1559901904-4868.jpeg.jpg" data-tags="alternative rock" role="button">
 Zwan - Mary Star of the Sea (2003-01-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/4ef8d874-a2ed-4dc2-9262-cc66b0120818/15485269083-500.jpg" data-tags="psychedelia, space rock, neo-psychedelia, dream, tremolo radio" role="button">
+Spiritualized - The Complete Works Vol. 1 (2003-04-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/3bec09fb-e6fd-47d9-8ddd-3da4ed2d343b/6596301976-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Welcome to the Monkey House (2003-05-19)
 </li>
@@ -101,6 +98,9 @@ of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
 <li data-cover="https://img.discogs.com/LxqTF7K3WEFBZ473ePXhsZJMETU=/fit-in/600x376/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4949202-1591655609-3083.jpeg.jpg" data-tags="experimental, freak folk" role="button">
 Animal Collective - Sung Tongs (2004-05-03)
+</li>
+<li data-cover="https://img.discogs.com/FxuzRhsiquO25l0juxkLmQooUH0=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1458809-1221286371.jpeg.jpg" data-tags="indie pop, indie" role="button">
+of Montreal - The Sunlandic Twins (2005-02-23)
 </li>
 <li data-cover="https://img.discogs.com/HMwX-vG8imndd3_mYsdVGDNwv_o=/fit-in/500x497/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2463207-1318871638.jpeg.jpg" data-tags="indie, indie rock" role="button">
 My Morning Jacket - Z (2005-10-04)

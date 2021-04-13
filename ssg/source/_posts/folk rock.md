@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:40:01.457Z
+date: 2021-04-13T03:15:01.627Z
 title: "folk rock: 100 albums you must listen to before you die"
 ---
 ![Mumford &amp; Sons - Babel (2012-09-13)](http://coverartarchive.org/release/5e41ce0d-ce16-4a00-83bb-8e0e41d67cbb/2484391424-500.jpg "Mumford & Sons - Babel (2012-09-13)")
@@ -225,9 +225,6 @@ Villagers - Becoming a Jackal (2010-05-24)
 <li data-cover="http://coverartarchive.org/release/686e0436-f911-3fe7-a685-3a3e155c9b78/25329344693-500.jpg" data-tags="folk, folk rock" role="button">
 Bombay Bicycle Club - Flaws (2010-07-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8f73bc2-4aa8-4465-8fb1-1fdc2173f072/2098679790-500.jpg" data-tags="folk, under the radar best of 2010" role="button">
-Sharon Van Etten - Epic (2010-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/1152057c-e6e9-4a3e-b4b7-8dcfc281f8af/26937850260-500.jpg" data-tags="folk rock" role="button">
 Neil Young - Le Noise (2010-09-24)
 </li>
@@ -308,6 +305,9 @@ The War on Drugs - Lost in the Dream (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/5b9d7ba9-8dab-486d-8894-f521e9ddd916/7305167978-500.jpg" data-tags="folk, folk rock" role="button">
 Nick Mulvey - First Mind (2014-05-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
+Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg" data-tags="blues, folk rock, alternative pop, vicky, in my vinyl collection" role="button">
 George Ezra - Wanted on Voyage (2014-05-19)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:36:01.438Z
+date: 2021-04-13T03:30:01.597Z
 title: "neo-classical: 100 albums you must listen to before you die"
 ---
 ![Escala - Escala (2009-05-25)](http://coverartarchive.org/release/52de60ea-a259-47a8-ba19-e275355473a7/3403828224-500.jpg "Escala - Escala (2009-05-25)")
@@ -44,6 +44,9 @@ Collection d'Arnell~Andréa - Les marronniers (1992)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e61c401-242e-4033-8651-a6acd1c76e13/18348318993-500.jpg" data-tags="ambient" role="button">
 Steve Roach & Robert Rich - Soma (1992)
+</li>
+<li data-cover="https://img.discogs.com/BfwYu5yOuwqKS22guNzG5A2ZkRU=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-153945-1392315390-2240.jpeg.jpg" data-tags="experimental, industrial, ebm, neo-classical" role="button">
+Blok 57 - Animals On Speed (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/03dfc4fc-01e6-4c77-8288-c73c3380c1d0/5499094764-500.jpg" data-tags="ambient" role="button">
 Harold Budd & Hector Zazou - Glyph (1995)
@@ -110,9 +113,6 @@ Max Corbacho - Nocturnal Emanations (2003)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="classical guitar" role="button">
 miscellaneum - Profile (2003-01-01)
-</li>
-<li data-cover="https://img.discogs.com/J5VR68l3z-evI55p7t2wfbccEmE=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-897908-1462194540-5770.jpeg.jpg" data-tags="electronic, industrial, dark ambient" role="button">
-In the Nursery - Praxis (2003-06)
 </li>
 <li data-cover="https://img.discogs.com/rX0rFXm9Ngs9mJov-Nuk-MBTcjE=/fit-in/599x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4846896-1377355013-5168.jpeg.jpg" data-tags="classical, josh groban" role="button">
 Josh Groban - Closer (2003-08-11)
@@ -198,9 +198,6 @@ Chaostar - Underworld (2007-11-21)
 <li data-cover="https://via.placeholder.com/450" data-tags="original motion picture soundtrack" role="button">
 Philip Glass - Les Animaux Amoureux (2007-12-10)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="j-pop" role="button">
-ALI PROJECT - Grand Finale (2007-12-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/cbaeff89-3791-409f-8ec1-6123c8247aef/7758231733-500.jpg" data-tags="neoclassical, ambient, dark ambient" role="button">
 Scythelence - Post-Romantic Syndrome (2008)
 </li>
@@ -245,6 +242,9 @@ Dark Sanctuary - Dark Sanctuary (2009-12-04)
 </li>
 <li data-cover="https://img.discogs.com/eq-5RGTLXbjzoyM4PCYIrOte4Vs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2191696-1268952463.jpeg.jpg" data-tags="ambient" role="button">
 Stray Ghost - Nothing, But Death (2010-03-04)
+</li>
+<li data-cover="https://img.discogs.com/Pzry4bM3JhYFsw5GIF5WSKJTFf0=/fit-in/260x238/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2341501-1278225253.jpeg.jpg" data-tags="experimental" role="button">
+Vieo Abiungo - Blood Memory (2010-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/deea78d5-e7ac-400f-be37-84f95395d61c/8905817312-500.jpg" data-tags="soundtrack, orchestral, neo-classical" role="button">
 Celestial Aeon Project - Fable (2010-05-24)

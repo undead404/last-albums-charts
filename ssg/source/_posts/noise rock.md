@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:35:01.476Z
+date: 2021-04-13T03:20:12.706Z
 title: "noise rock: 100 albums you must listen to before you die"
 ---
 ![Health - GET COLOR (2009-09-08)](http://coverartarchive.org/release/7255d1b7-2707-3a9a-a58f-fa0dc1bb7c5a/11171174905-500.jpg "Health - GET COLOR (2009-09-08)")
@@ -57,29 +57,26 @@ Sonic Youth - Sister (1987-06)
 <li data-cover="http://coverartarchive.org/release/661fe0c5-e8e4-47f5-9b51-9558b1e79c8a/14360892612-500.jpg" data-tags="punk, noise rock, post-punk, russian rock" role="button">
 Гражданская оборона - Здорово и вечно (1989-09)
 </li>
-<li data-cover="https://img.discogs.com/riHWUJIlq98Y8rU07tHw_JKTtZk=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-401088-1308981356.jpeg.jpg" data-tags="post-hardcore, noise rock" role="button">
-Helmet - Strap It On (1990)
-</li>
 <li data-cover="http://coverartarchive.org/release/1123137a-295d-4c19-9dad-76ea01bc656a/28314714742-500.jpg" data-tags="90s" role="button">
 Sonic Youth - Goo (1990-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/7dd1e959-bb27-4a6d-8454-41ec80c3d0d9/15474284185-500.jpg" data-tags="psychedelic, neo-psychedelia" role="button">
-Mercury Rev - Yerself Is Steam (1991)
 </li>
 <li data-cover="http://coverartarchive.org/release/39768213-ed10-4cdb-a516-d8194f3ac3aa/22607601704-500.jpg" data-tags="noise rock, post-hardcore" role="button">
 The Jesus Lizard - Goat (1991-02-21)
 </li>
+<li data-cover="https://img.discogs.com/yC7cMBlJDQqE28yvR-4e8loOk-s=/fit-in/598x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-554596-1259364363.jpeg.jpg" data-tags="shoegaze" role="button">
+Swirlies - Blonder Tongue Audio Baton (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/c8c59a0a-5464-4eac-8251-5cfa102de5ac/15872226838-500.jpg" data-tags="alternative, 90s, alternative rock" role="button">
 Sonic Youth - Dirty (1992-07-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/171ffbe3-d2df-4377-8853-ffdc1d19bc4c/18230348494-500.jpg" data-tags="90s, noise rock, noise pop" role="button">
-The Flaming Lips - Hit to Death in the Future Head (1992-08-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/a83e740b-8e53-4391-b50a-1bd08b7d06ee/27044971526-500.jpg" data-tags="post-hardcore" role="button">
 Unwound - Fake Train (1993)
 </li>
 <li data-cover="https://img.discogs.com/iezrfbZ-TrJVDTiYnEcYA-c06Ss=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-622506-1518621666-8890.jpeg.jpg" data-tags="math rock" role="button">
 Polvo - Today's Active Lifestyles (1993-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/57437410-f847-43c5-bf04-64f02973ec0e/13561508094-500.jpg" data-tags="90s, alternative rock" role="button">
+The Flaming Lips - Transmissions From the Satellite Heart (1993-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/35704cbf-172f-30b9-b182-824eb9da6342/7439086253-500.jpg" data-tags="post-hardcore" role="button">
 Fugazi - In On the Kill Taker (1993-06-30)
@@ -108,14 +105,14 @@ Butthole Surfers - Electriclarryland (1996-05-06)
 <li data-cover="https://img.discogs.com/CrVGPOWgVZP1AG_bJuFEqYqETBA=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-743332-1259365192.jpeg.jpg" data-tags="indie rock, noise rock, shoegaze, noise pop" role="button">
 Swirlies - They Spent Their Wild Youthful Days in the Glittering World of the Salons (1996-10-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/0730eb5d-b0e1-4458-bc21-498783e5eb4e/20987949311-500.jpg" data-tags="math rock, post-punk" role="button">
-Shellac - Terraform (1998-02-10)
-</li>
 <li data-cover="https://img.discogs.com/qeSNS31G6vJ758RVSQm4W6ho6nI=/fit-in/439x380/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4879756-1378290331-3017.jpeg.jpg" data-tags="experimental, alternative" role="button">
 Sonic Youth - A Thousand Leaves (1998-05-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/c03f057d-88a8-476a-a0da-71143dc1bd61/8090051412-500.jpg" data-tags="noise rock" role="button">
+Lightning Bolt - Lightning Bolt (1999)
 </li>
 <li data-cover="http://coverartarchive.org/release/e874cafd-1266-4627-962b-3011feb70f0f/7678581820-500.jpg" data-tags="experimental, experimental rock, 00s" role="button">
 Sonic Youth - NYC Ghosts & Flowers (2000-05-16)
@@ -161,6 +158,9 @@ Sonic Youth - Rather Ripped (2006-06-05)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="noise rock" role="button">
 The Mae Shi - HLLLYH (2007)
+</li>
+<li data-cover="http://coverartarchive.org/release/7b39c855-2bd2-40ff-8b48-af4332646454/15831598727-500.jpg" data-tags="noise rock" role="button">
+Pissed Jeans - Shallow (2007-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/c8e850b0-f816-41cf-8fd7-625e2e03ea6f/21355592306-500.jpg" data-tags="indie rock, noise rock, shoegaze, god tier, 2007 fave albums, bobjebus16 owns this, jaarlijstje 2007, worn-out from overplay, no waste album, stand out albums of 2007" role="button">
 The Twilight Sad - Fourteen Autumns & Fifteen Winters (2007-04-03)
@@ -252,11 +252,11 @@ The Psychic Paramount - II (2011-02-22)
 <li data-cover="https://img.discogs.com/tFUUHU1HSp59vZwf1e1hgGAeV1c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2888359-1306884250.jpeg.jpg" data-tags="acoustic, indie, post-punk" role="button">
 Thurston Moore - Demolished Thoughts (2011-05-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/04ce3358-ce6f-4bd2-b00e-d0c8c5276064/2098747140-500.jpg" data-tags="noise rock, post punk, punk rock, sacred bones, real post-hardcore, sacred bones records" role="button">
-The Men - Leave Home (2011-05-24)
-</li>
 <li data-cover="https://img.discogs.com/OxM5G5Qljj1PiIZK9cW-N7cNKUU=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3370640-1444723756-2718.jpeg.jpg" data-tags="indie rock, post-hardcore" role="button">
 Cloud Nothings - Attack on Memory (2012-01-24)
+</li>
+<li data-cover="http://coverartarchive.org/release/0ca01c9d-5f30-4d4a-bb44-e89b7ebf6fd2/1940792510-500.jpg" data-tags="noise rock, experimental rock, 10s" role="button">
+Swans - We Rose From Your Bed With The Sun In Our Head (2012-02-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/afc47229-be68-49be-9306-6563a2acbad8/3180799317-500.jpg" data-tags="noise pop, indie rock" role="button">
 Sleigh Bells - Reign of Terror (2012-02-20)
@@ -279,9 +279,6 @@ Swans - The Seer (2012-08-12)
 <li data-cover="http://coverartarchive.org/release/07d46df6-ee00-4f79-ad1b-549620812d99/2251994757-500.jpg" data-tags="noise rock" role="button">
 METZ - Metz (2012-10-08)
 </li>
-<li data-cover="https://img.discogs.com/2aoU6QDNwBw4Rw0m_ZiGFl61Saw=/fit-in/319x319/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4283330-1360628478-4183.jpeg.jpg" data-tags="noise rock" role="button">
-Pissed Jeans - Honeys (2013-02-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/735c3c9f-8317-44ab-ab71-826f51d10acc/3198810863-500.jpg" data-tags="post-punk" role="button">
 Iceage - You're Nothing (2013-02-18)
 </li>
@@ -293,6 +290,9 @@ Wavves - Afraid Of Heights (2013-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/185d0b3a-3a56-4db8-8e80-2e47861d078b/12033804091-500.jpg" data-tags="indie pop, noise pop, indie rock, pop, rock, synthpop, alternative" role="button">
 Sky Ferreira - Night Time, My Time (2013-10-29)
+</li>
+<li data-cover="https://img.discogs.com/Ba--ExSJm6tHjLBIzFA-p7-ediI=/fit-in/600x609/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5505855-1586727134-6254.jpeg.jpg" data-tags="indie rock" role="button">
+Perfect Pussy - Say Yes to Love (2014-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/4dcaa0f1-5b3e-40ae-b707-346ab0840b50/6341394734-500.jpg" data-tags="indie rock" role="button">
 Cloud Nothings - Here and Nowhere Else (2014-03-28)
