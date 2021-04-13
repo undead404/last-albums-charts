@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:03:07.063Z
+date: 2021-04-13T05:02:01.531Z
 title: "live: 100 albums you must listen to before you die"
 ---
 ![Nirvana - MTV Unplugged in New York (1994-11-01)](http://coverartarchive.org/release/b527f0f7-7735-3c77-add1-09a9e4a20abb/12060379405-500.jpg "Nirvana - MTV Unplugged in New York (1994-11-01)")
@@ -11,8 +11,8 @@ title: "live: 100 albums you must listen to before you die"
 <li data-cover="https://via.placeholder.com/450" data-tags="live" role="button">Radiohead - I Might Be Wrong: Live Recordings (2001-11-07)</li>
 <li data-cover="http://coverartarchive.org/release/42607845-fe6a-45cc-af48-95f39c4f9ccb/27933622102-500.jpg" data-tags="live, rock" role="button">Rage Against the Machine - Live at the Grand Olympic Auditorium (2003-11-21)</li>
 <li data-cover="http://coverartarchive.org/release/41310cf5-55c1-4571-86fb-4f80de835ca3/16200657682-500.jpg" data-tags="live" role="button">Stereophonics - Live From Dakota (2006-04-03)</li>
+<li data-cover="https://img.discogs.com/U4lHrq7JhjUM0oy1BCS0YiHCijU=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1814175-1289070438.jpeg.jpg" data-tags="live, progressive metal, progressive death metal" role="button">Opeth - The Roundhouse Tapes (2007-10-29)</li>
 <li data-cover="http://coverartarchive.org/release/72f14d5a-d2d6-4d01-a8bf-db0a3ba4770d/3718315144-500.jpg" data-tags="live" role="button">John Mayer - Where The Light Is: John Mayer Live In Los Angeles (2008-06-28)</li>
-<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">Justice - A Cross The Universe (2008-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/b6d56ec3-4bb6-3c07-babf-654276b0e30c/913607156-500.jpg" data-tags="live" role="button">Coldplay - LeftRightLeftRightLeft (2009-05-15)</li>
 </ol>
 List of 100 - under the cut.
@@ -42,9 +42,6 @@ Eric Clapton - Eric Clapton's Rainbow Concert (1973)
 <li data-cover="http://coverartarchive.org/release/d83c92b5-7022-3e12-870d-84ed59ad2da9/11749802149-500.jpg" data-tags="live, classic rock, hard rock" role="button">
 Led Zeppelin - The Song Remains The Same (1976-09-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/320eac27-b66f-4dc1-8b47-c993333dd58e/11869654458-500.jpg" data-tags="funk" role="button">
-Kool & The Gang - Something Special (1981)
-</li>
 <li data-cover="https://img.discogs.com/CJUhQdKx8cnKYRTRFL7YEsrO8mo=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7540898-1466772398-1897.jpeg.jpg" data-tags="live, folk, classic rock" role="button">
 Simon & Garfunkel - The Concert in Central Park (1982)
 </li>
@@ -71,6 +68,9 @@ Dire Straits - On The Night (1993-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
 Neil Young - Unplugged (1993-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/91c5ca56-c2a1-46b1-a419-e632969ab3f4/6606933829-500.jpg" data-tags="90s, live, 1993 albums" role="button">
+Nick Cave & The Bad Seeds - Live Seeds (1993-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/7c94535f-a010-332f-bfe7-bafe559a5aa8/15723258334-500.jpg" data-tags="thrash metal, live" role="button">
 Metallica - Live Shit: Binge & Purge (1993-11-09)
@@ -114,9 +114,6 @@ Alanis Morissette - MTV Unplugged (1998-11-23)
 <li data-cover="http://coverartarchive.org/release/c7b08583-50e9-4652-b821-453e7b65d545/5163916923-500.jpg" data-tags="hard rock, rock" role="button">
 Aerosmith - A Little South Of Sanity (1998-11-24)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
-Sarah McLachlan - Mirrorball (1999-06-15)
-</li>
 <li data-cover="https://img.discogs.com/BY-XJu7phA_MewyemqyuGNdDpec=/fit-in/600x940/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9225995-1476990220-6207.jpeg.jpg" data-tags="industrial metal" role="button">
 Rammstein - Live aus Berlin (1999-08-30)
 </li>
@@ -144,6 +141,9 @@ Alice in Chains - Live (2000-12-04)
 <li data-cover="http://coverartarchive.org/release/a252cb14-9f22-4464-bc93-75d8a71c11af/17150769741-500.jpg" data-tags="progressive metal" role="button">
 Tool - Salival (2000-12-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/92b1959a-e162-4633-8f73-09ae18470f99/25644903661-500.jpg" data-tags="alternative, live, spoolme, muse songs, viralbraindeath" role="button">
+Muse - Bliss (2001)
+</li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
 </li>
@@ -162,14 +162,14 @@ Coldplay - Without Parachutes (2002)
 <li data-cover="http://coverartarchive.org/release/3d039a02-231c-3c6c-a9ac-f89e60bf0329/1154225975-500.jpg" data-tags="industrial" role="button">
 Nine Inch Nails - And All That Could Have Been (2002-01-22)
 </li>
+<li data-cover="https://img.discogs.com/XveI-uaTsww4dPeCZ_HfQSDHipY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5877932-1480698502-1645.jpeg.jpg" data-tags="live" role="button">
+Simon & Garfunkel - Live From New York City, 1967 (2002-07-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/3e56d2ad-b3e8-3fe3-87c8-5ae3a2c71c09/10844781822-500.jpg" data-tags="live, post hardcore" role="button">
 Thursday - Five Stories Falling (2002-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd5e5015-c000-408a-9d74-d9c39fb67e9d/20479650176-500.jpg" data-tags="indie" role="button">
 Dashboard Confessional - MTV Unplugged v2.0 (2002-12-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/2c4ec6a6-6e09-43b8-9ee2-26e190e1df92/7594164957-500.jpg" data-tags="soft rock, acoustic, live, john mayer" role="button">
-John Mayer - Any Given Thursday (2003-02-11)
 </li>
 <li data-cover="https://img.discogs.com/V6AYvgjzBGbHxkxdiNi5qQVyuhg=/fit-in/600x522/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3421516-1515275738-5492.jpeg.jpg" data-tags="live, indie" role="button">
 The Frames - Set List (2003-05-16)
@@ -204,6 +204,9 @@ Red Hot Chili Peppers - Live in Hyde Park (2004-07-26)
 <li data-cover="http://coverartarchive.org/release/c8449379-f663-40da-8c7b-70fa63712dc9/7479661976-500.jpg" data-tags="live, mraz" role="button">
 Jason Mraz - Tonight, Not Again: Jason Mraz Live At The Eagles Ballroom (2004-08-24)
 </li>
+<li data-cover="https://img.discogs.com/u4Td1dlD8p0xahUrkOnz24nw54w=/fit-in/543x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-399110-1157265439.jpeg.jpg" data-tags="live" role="button">
+Interpol - Slow Hands (2004-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/415d1dea-4107-49e0-8fbe-cba8cf607d86/9469978707-500.jpg" data-tags="rock, evanescence, live" role="button">
 Evanescence - Anywhere but Home (2004-11-22)
 </li>
@@ -234,6 +237,9 @@ Killswitch Engage - (Set This) World Ablaze (2005-11-22)
 <li data-cover="http://coverartarchive.org/release/68f5fb52-d329-4ed0-a5f1-09c11bb52095/10159973120-500.jpg" data-tags="punk, punk rock, pop punk, live, punk metal, pseud shit" role="button">
 Sum 41 - Go Chuck Yourself (2005-12-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/42bce02c-f483-390c-8466-9975473e0797/24689908570-500.jpg" data-tags="electronica, house" role="button">
+Röyksopp - Röyksopp's Night Out (2006-01-30)
+</li>
 <li data-cover="http://coverartarchive.org/release/8beeaf1d-dc8f-4a93-8f7e-2eb8e15bb671/27919718997-500.jpg" data-tags="live" role="button">
 My Chemical Romance - Life on the Murder Scene (2006-03-21)
 </li>
@@ -245,6 +251,9 @@ Stereophonics - Live From Dakota (2006-04-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1f237d6-edf1-46f8-971c-a7280b53bdc6/1068689504-500.jpg" data-tags="acoustic" role="button">
 Seether - One Cold Night (2006-06-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/280bb838-ee2b-4ae7-9bc0-b83e54fefb7c/12725964170-500.jpg" data-tags="rock, punk, indie rock, american, live, emusic, fat wreck chords, was there, ila" role="button">
+Against Me! - Americans Abroad!!! Against Me!!! Live In London!!! (2006-08-22)
 </li>
 <li data-cover="https://img.discogs.com/WPtPkzWo1FvD-h4pRfAsib2hhMQ=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9026155-1473502406-4041.jpeg.jpg" data-tags="live, industrial metal, industrial, neue deutsche haerte" role="button">
 Rammstein - Völkerball (2006-11-17)
@@ -263,9 +272,6 @@ City and Colour - Live (2007-03-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/618e7701-b391-34ae-b204-df37466e3271/26153425273-500.jpg" data-tags="classic rock" role="button">
 Neil Young - Live At Massey Hall 1971 (2007-03-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/183922a5-a5fc-4b7e-b909-82231d3bd9e5/7751021680-500.jpg" data-tags="rock, live" role="button">
-Queen - Rock Montreal (2007-10-26)
 </li>
 <li data-cover="https://img.discogs.com/U4lHrq7JhjUM0oy1BCS0YiHCijU=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1814175-1289070438.jpeg.jpg" data-tags="live, progressive metal, progressive death metal" role="button">
 Opeth - The Roundhouse Tapes (2007-10-29)
@@ -288,9 +294,6 @@ Dungen - 4 (2008-09-29)
 <li data-cover="http://coverartarchive.org/release/9c7b6839-ce71-3741-a107-2f5dc678f4b4/6758955815-500.jpg" data-tags="live" role="button">
 Linkin Park - Road To Revolution: Live at Milton Keynes (2008-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/15e3739f-e713-4a5f-884a-d95596c3fa1f/18417383878-500.jpg" data-tags="electronic, dance" role="button">
-Justice - A Cross The Universe (2008-11-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/044a26ca-91ad-4db2-96b1-17356bcb2b0d/10805655860-500.jpg" data-tags="live, chicago, panic at the disco, pretty odd" role="button">
 Panic! at the Disco - Live In Chicago (2008-12-02)
 </li>
@@ -311,9 +314,6 @@ Taylor Swift - Speak Now World Tour Live (2011-11-21)
 </li>
 <li data-cover="https://img.discogs.com/anJe-lAVR0g26n2W3CgCWM27KmU=/fit-in/469x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4483568-1366169526-5803.jpeg.jpg" data-tags="live 2012, live" role="button">
 Coldplay - Live 2012 (2012-11-19)
-</li>
-<li data-cover="https://img.discogs.com/wSzQsaXZ_pogrh5UbHj3i0G3jrE=/fit-in/440x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4468467-1365719786-8402.jpeg.jpg" data-tags="indie, electronic" role="button">
-The Postal Service - 2003-04-25: Minneapolis, MN, USA (2013)
 </li>
 <li data-cover="https://img.discogs.com/4kVuAt__MwM_SkTymSf2DP-gKyM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5828215-1403816473-3637.jpeg.jpg" data-tags="neo-psychedelia" role="button">
 Tame Impala - Live Versions (2014-04-19)

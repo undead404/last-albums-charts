@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:40:01.471Z
+date: 2021-04-13T04:49:01.476Z
 title: "country: 100 albums you must listen to before you die"
 ---
 ![Taylor Swift - Fearless (2008-11-11)](https://img.discogs.com/LEhfQKESFmMZavnZUioB59n4kkc=/fit-in/540x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3439733-1330445174.jpeg.jpg "Taylor Swift - Fearless (2008-11-11)")
@@ -71,6 +71,9 @@ Lee Ann Womack - I Hope You Dance (2000-05-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/816a606d-2f9f-41bf-ba9f-5dd6078b5d98/14960259719-500.jpg" data-tags="country" role="button">
 Kenny Chesney - Greatest Hits (2000-07-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/4ae8ea6f-bbcc-4656-a2d7-db0890b3672b/9375703469-500.jpg" data-tags="very good country, country" role="button">
+Travis Tritt - Down The Road I Go (2000-10-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e40496a-7ed6-396b-ad9f-cf356f0f728e/22192705953-500.jpg" data-tags="country" role="button">
 Johnny Cash - American III: Solitary Man (2000-10-17)
@@ -293,9 +296,6 @@ Chris Young - Neon (2011-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1647ae7-993c-4b98-83bd-36b1003342b1/3499102791-500.jpg" data-tags="country" role="button">
 Luke Bryan - Tailgates & Tanlines (2011-08-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/86361ce7-5796-45fa-bfc8-12466eca97f9/14557626300-500.jpg" data-tags="country" role="button">
-Jake Owen - Barefoot Blue Jean Night (2011-08-30)
 </li>
 <li data-cover="https://img.discogs.com/-AaM238cQ-tI0TXoRWXfVNZhdHw=/fit-in/300x265/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9519370-1484442560-7043.jpeg.jpg" data-tags="country" role="button">
 Lady Antebellum - Own the Night (2011-09-13)

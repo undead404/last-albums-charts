@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T03:14:01.492Z
+date: 2021-04-13T05:32:01.480Z
 title: "acoustic: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/4fd118e2-1298-3a33-b870-839e336472f3/20585904865-500.jpg" data-tags="folk, singer-songwriter" role="button">
+Leonard Cohen - Songs of Leonard Cohen (1967-12-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/7c52126e-200a-4b3b-af1c-3c38d70b57b1/9272110752-500.jpg" data-tags="classic rock, singer-songwriter, 60s, folk" role="button">
 Simon & Garfunkel - Bridge Over Troubled Water (1970-01-26)
 </li>
@@ -35,6 +38,9 @@ Tracy Chapman - Crossroads (1989-09-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/44c68dd1-0918-4483-808a-0b3f2d1b0f0c/28416204609-500.jpg" data-tags="acoustic, classic rock" role="button">
+Neil Young - Unplugged (1993-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9fa44a6-c79b-4b70-806b-af5eb748e8f8/5320516788-500.jpg" data-tags="dream pop, female vocalists, alternative, 90s" role="button">
 Mazzy Star - So Tonight That I Might See (1993-09-27)
@@ -80,9 +86,6 @@ Colin Hay - Going Somewhere (2000-06-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/124490a2-3b9a-4177-9f0e-5645a59e0092/20616806771-500.jpg" data-tags="rock, 90s" role="button">
 Vertical Horizon - Everything You Want (2000-08-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/69cae4c7-34f1-4dbe-8f61-2ac156a93d90/26608639903-500.jpg" data-tags="acoustic" role="button">
-Howie Day - Australia (2000-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Dashboard Confessional - The Swiss Army Romance (2000-11-14)
@@ -164,9 +167,6 @@ Corinne Bailey Rae - Corinne Bailey Rae (2006-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6899a2a-4874-4be3-b411-b579596e992d/1386227079-500.jpg" data-tags="folk" role="button">
 The Weepies - Say I Am You (2006-03-07)
-</li>
-<li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">
-Mat Kearney - Nothing Left To Lose (2006-04-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/c7f170ef-5b55-4711-8820-48dac859f5e2/5105968554-500.jpg" data-tags="indie, folk, singer-songwriter" role="button">
 Alexi Murdoch - Time Without Consequence (2006-06-06)

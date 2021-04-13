@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:38:07.254Z
+date: 2021-04-13T05:41:07.060Z
 title: "lounge: 100 albums you must listen to before you die"
 ---
 ![Thievery Corporation - The Richest Man in Babylon (2002-09-17)](http://coverartarchive.org/release/1770ef1b-d12b-4b23-b594-a3d471c3d600/8933157864-500.jpg "Thievery Corporation - The Richest Man in Babylon (2002-09-17)")
@@ -38,6 +38,9 @@ Massive Attack - Protection (1994-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4986347-5abc-48d5-a556-7011c2f109bb/3215852035-500.jpg" data-tags="jazz, soul, lounge, 90s" role="button">
 Incognito - 100° and Rising (1995-06-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/2202896d-35df-41c2-9dfe-957973a3669e/1674613187-500.jpg" data-tags="hip-hop, hiphop classic albums" role="button">
+KRS-One - KRS-One (1995-10-10)
 </li>
 <li data-cover="https://img.discogs.com/ZxOyV_5ITeXdUQrDn0IWjAIKljA=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-54444-1494833577-4517.jpeg.jpg" data-tags="dub" role="button">
 Rockers Hi-Fi - Mish Mash (1996)
@@ -164,9 +167,6 @@ I Monster - Neveroddoreven (2003-07-21)
 </li>
 <li data-cover="https://img.discogs.com/DHKjXQJK-nZMGl86x90BioJ-KJU=/fit-in/314x313/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-169504-1127089792.jpeg.jpg" data-tags="trance" role="button">
 Motorcycle - As The Rush Comes (2003-07-30)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/9stA8RDVNKgB7V7H7fokGCisbSU=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-444219-1417107720-4484.jpeg.jpg" data-tags="chillout" role="button">
 Vargo - Beauty (2004)

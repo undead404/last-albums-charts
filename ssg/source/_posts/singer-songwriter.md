@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:51:01.534Z
+date: 2021-04-13T04:53:01.483Z
 title: "singer-songwriter: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -60,6 +60,9 @@ Bob Dylan - Desire (1976-01-05)
 <li data-cover="https://img.discogs.com/EF33at0YkNaBQoD5k7xrrp1grSI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-795910-1319668468.jpeg.jpg" data-tags="rock, new wave, 70s, singer-songwriter" role="button">
 Elvis Costello - My Aim Is True (1977-07-22)
 </li>
+<li data-cover="https://img.discogs.com/AJIgeT4rcSeuV5m8XaYIrfGibsQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3676511-1339948631-3230.jpeg.jpg" data-tags="80s, female vocalists, singer-songwriter" role="button">
+Suzanne Vega - Solitude Standing (1988)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc2e9369-ea9b-34a8-8a3e-65e3fc7a51bf/24917923237-500.jpg" data-tags="cat stevens, singer-songwriter, folk" role="button">
 Cat Stevens - The Very Best Of Cat Stevens (1989)
 </li>
@@ -98,6 +101,9 @@ Melanie C - Northern Star (1999-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/34c07ea9-63ff-4d69-bfb2-279d52dda6da/27925708299-500.jpg" data-tags="acoustic" role="button">
 Jack Johnson - Brushfire Fairytales (2000)
+</li>
+<li data-cover="http://coverartarchive.org/release/b365e7fb-3da0-4da5-b30c-384b7c8c3db9/12206702287-500.jpg" data-tags="alt-country, americana" role="button">
+Ryan Adams - Heartbreaker (2000-09-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/4443cc48-a9e7-47d6-b355-48fc85d8118a/21913904132-500.jpg" data-tags="live, singer-songwriter" role="button">
 Bright Eyes - Motion Sickness (2001-01-26)
@@ -147,14 +153,8 @@ Joanna Newsom - The Milk-Eyed Mender (2004-03-23)
 <li data-cover="http://coverartarchive.org/release/f4cde382-f2c4-40e2-944a-8a01a97990be/5656611590-500.jpg" data-tags="james blunt, pop" role="button">
 James Blunt - Back to Bedlam (2004-04-15)
 </li>
-<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
-Alanis Morissette - So-Called Chaos (2004-04-21)
-</li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/afa6abfc-c25c-46ad-bf82-dfb1e0befc5d/11779004677-500.jpg" data-tags="female vocalists, indie" role="button">
-Rachael Yamagata - Happenstance (2004-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/f01097d5-8a73-3585-8c62-3831a3bd0db6/16096949332-500.jpg" data-tags="singer-songwriter, indie" role="button">
 Elliott Smith - From a Basement on the Hill (2004-10-18)

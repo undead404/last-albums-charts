@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:08:01.459Z
+date: 2021-04-13T05:17:01.448Z
 title: "pop punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -132,9 +132,6 @@ Good Charlotte - The Chronicles of Life and Death (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/931a0ad7-8770-47ba-8e41-028310c91921/1091413978-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Chuck (2004-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
-Simple Plan - Still Not Getting Any (2004-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">
 Anberlin - Never Take Friendship Personal (2005-01-17)
 </li>
@@ -152,9 +149,6 @@ The Starting Line - Based on a True Story (2005-05-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Commit This to Memory (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
-Cartel - Chroma (2005-09-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, catchy, pop punk, victory, theaudition, albums i might like to own, take in emule" role="button">
 The Audition - Controversy Loves Company (2005-09-20)
@@ -176,6 +170,9 @@ Zebrahead - Broadcast To The World (2006-02-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/7f230cc1-f251-4a4a-8470-f75f6ad525f8/10997062395-500.jpg" data-tags="pop punk" role="button">
+Quietdrive - When All That's Left Is You (2006-05-30)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="pop punk" role="button">
 Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
@@ -290,6 +287,9 @@ Motion City Soundtrack - My Dinosaur Life (2010-01-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a4634ab-9466-4348-a17f-8337d555fc45/1185181441-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - What Separates Me from You (2010-11-16)
+</li>
+<li data-cover="https://img.discogs.com/P8SfexVYbGsL-WDbxlNXIzNwO_s=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9550410-1533641315-9468.jpeg.jpg" data-tags="pop punk" role="button">
+Yellowcard - When You're Through Thinking, Say Yes (2011-03-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/c171039b-592b-4c0f-97df-00ddbaac2a1a/2453598306-500.jpg" data-tags="pop punk, all time low" role="button">
 All Time Low - Dirty Work (2011-06-06)

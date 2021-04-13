@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:51:01.441Z
+date: 2021-04-13T05:22:01.472Z
 title: "baroque pop: 100 albums you must listen to before you die"
 ---
 ![Lana Del Rey - Born to Die (2012-01-27)](http://coverartarchive.org/release/c98842dc-f272-4716-b59e-0b706e844836/28024609400-500.jpg "Lana Del Rey - Born to Die (2012-01-27)")
@@ -192,6 +192,9 @@ Grizzly Bear - Yellow House (2006-09-04)
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
 </li>
+<li data-cover="https://img.discogs.com/oxbftdAjRWfa2QXnUetfcaLU8qI=/fit-in/600x399/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5732803-1401173171-7229.jpeg.jpg" data-tags="chamber pop" role="button">
+The High Llamas - Can Cladders (2007-02-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">
 Arcade Fire - Neon Bible (2007-03-02)
 </li>
@@ -209,9 +212,6 @@ St. Vincent - Marry Me (2007-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/4bae6b93-7d34-4abe-984f-61487858e8fa/4890223091-500.jpg" data-tags="indie pop, indie" role="button">
 Jens Lekman - Night Falls Over Kortedala (2007-09-05)
-</li>
-<li data-cover="https://img.discogs.com/Rr_fitRzKOg_5XRZqDOmQ-WJR94=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3104421-1315942802.jpeg.jpg" data-tags="indie, usa, solo, chamber pop, baroque pop, american, christian rock, 00s, american underground, creative commons, free music, solo artist, america, netaudio, experimental indie, one-man-band, free albums, free album, solo project, webaudio, usa underground" role="button">
-Canon Blue - Halcyon EP (2007-12-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ee79e860-68e7-46ad-bebb-8a003a1dc7a4/4804280407-500.jpg" data-tags="indie" role="button">
 She & Him - Volume One (2008-03-18)

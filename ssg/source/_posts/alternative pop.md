@@ -1,15 +1,15 @@
 ---
-date: 2021-04-12T20:51:01.465Z
+date: 2021-04-13T05:36:01.459Z
 title: "alternative pop: 100 albums you must listen to before you die"
 ---
 ![George Ezra - Wanted on Voyage (2014-05-19)](http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg "George Ezra - Wanted on Voyage (2014-05-19)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/2jyn23qRwU6ZsjD4vDvjOMC6-OE=/fit-in/574x668/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4773448-1541353611-8676.jpeg.jpg" data-tags="alternative, rock" role="button">The Used - Lies For The Liars (2007-05-18)</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/f962ee2d-41cd-4a47-8f8c-dc402eacfaf3/10077631133-500.jpg" data-tags="hip-hop, indie, alternative, emo, rap, alternative pop, alternative hip-hop, pop rap, twenty one pilots,  alternative,  indie pop,  pop,  male vocalists,  alternative pop,  emo,  emo pop" role="button">Twenty One Pilots - Twenty One Pilots (2009-12-29)</li>
 <li data-cover="http://coverartarchive.org/release/300135a3-b971-4943-8d5e-6fb40c2d0253/4812805415-500.jpg" data-tags="indie rock, noise pop, alternative pop" role="button">The Joy Formidable - The Big Roar (2011-01-24)</li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">Lykke Li - Wounded Rhymes (2011-02-11)</li>
 <li data-cover="http://coverartarchive.org/release/d2ee5e04-e4f2-4c1e-92f1-89723aa51370/28023085962-500.jpg" data-tags="baroque pop, trip hop, dream pop, trip-hop, indie pop, female vocalists" role="button">Lana Del Rey - Born to Die - The Paradise Edition (2012-01-27)</li>
+<li data-cover="http://coverartarchive.org/release/e7bf831c-fff2-4758-a026-4432fd957bd3/6796107819-500.jpg" data-tags="indie rock, alternative, alternative rock" role="button">Imagine Dragons - Night Visions (2012-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg" data-tags="indie pop" role="button">Lorde - Pure Heroine (2013-09-27)</li>
 <li data-cover="http://coverartarchive.org/release/f86081b0-a7bb-4b9d-b68a-5aad0478e968/6373370107-500.jpg" data-tags="synthpop, indie pop" role="button">Broken Bells - After the Disco (2014-01-30)</li>
 <li data-cover="http://coverartarchive.org/release/a48d4d8c-0b2d-4196-91e6-0ffca6915981/7704769040-500.jpg" data-tags="blues, folk rock, alternative pop, vicky, in my vinyl collection" role="button">George Ezra - Wanted on Voyage (2014-05-19)</li>
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/GF44z6i8j3IZuoDJhSnLnRTkJpw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-596904-1357856604-4283.jpeg.jpg" data-tags="90s" role="button">
+Kate Bush - The Red Shoes (1994-04-05)
+</li>
 <li data-cover="http://coverartarchive.org/release/31c452b7-6fc4-39eb-9a0c-1f349328c745/11388472171-500.jpg" data-tags="alternative, rock, alternative rock, indie rock, 90s" role="button">
 Eels - Beautiful Freak (1996-08-05)
 </li>
@@ -29,6 +32,9 @@ The Cardigans - First Band On The Moon (1996-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e13940f-65ba-30f5-834d-f3692d21688a/22395044342-500.jpg" data-tags="nautical, alternative" role="button">
 Ween - The Mollusk (1997-06-24)
+</li>
+<li data-cover="https://img.discogs.com/b8Kqlk8FR2eSuCjDu42f-D16Q1M=/fit-in/599x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-364627-1351323955-3579.jpeg.jpg" data-tags="alternative, rock" role="button">
+Ween - White Pepper (2000-05-02)
 </li>
 <li data-cover="https://img.discogs.com/Y6VjojcPpRxfPinimmhjpcKu4Ck=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1683953-1236714574.jpeg.jpg" data-tags="rock, shoegaze, my vitriol" role="button">
 My Vitriol - Finelines (2001-03-05)
@@ -51,11 +57,11 @@ Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 <li data-cover="http://coverartarchive.org/release/9ad1ac2a-1a93-4058-864d-57c991caafe8/14081611856-500.jpg" data-tags="indie, pop, soft rock, alternative pop" role="button">
 Janove Ottesen - Francis' Lonely Nights (2004-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/94ae9488-0d9b-311c-ac26-f8262c25d5d5/24181857688-500.jpg" data-tags="alternative" role="button">
+Sarah Blasko - The Overture & The Underscore (2004-10-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/b385a012-e088-426d-980b-acdf114ef775/10187762153-500.jpg" data-tags="pop punk" role="button">
 Motion City Soundtrack - Commit This to Memory (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/3ce5441e-ea49-4ba3-879b-faff3b547d2b/11183169551-500.jpg" data-tags="pop, pop rock" role="button">
-Ashlee Simpson - I Am Me (2005-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/5414773b-22f5-46eb-8678-901dbf50c52f/14731452775-500.jpg" data-tags="rock, indie rock" role="button">
 Tally Hall - Marvin's Marvelous Mechanical Museum (2005-10-24)
@@ -66,8 +72,8 @@ The Lawrence Arms - Oh! Calcutta! (2006-03-07)
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
 </li>
-<li data-cover="https://img.discogs.com/dpXzji7Zh-rz9BH-vGHTCyTo1qE=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-667563-1145481541.jpeg.jpg" data-tags="indie, indie pop, canadian" role="button">
-Islands - Return to the Sea (2006-04-03)
+<li data-cover="http://coverartarchive.org/release/9e4871f6-a3eb-363d-b268-5ab6553e6722/10141618573-500.jpg" data-tags="rock" role="button">
+Live - Songs from Black Mountain (2006-04-07)
 </li>
 <li data-cover="https://img.discogs.com/Nlm-8o46bRtO842au5fPUnnslgA=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1949856-1254491658.jpeg.jpg" data-tags="indie, alternative, singer-songwriter" role="button">
 Glen Hansard & Markéta Irglová - The Swell Season (2006-04-21)
@@ -96,9 +102,6 @@ Little Boots - Hands (2008-06-08)
 <li data-cover="http://coverartarchive.org/release/7e03de41-4397-4757-9e8b-9703d19c8440/5877736768-500.jpg" data-tags="gothic rock, pop" role="button">
 Kerli - Love Is Dead (2008-07-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
-Jem - Down to Earth (2008-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/80529b35-4d5b-4b6a-a101-124737b8d96c/15828000640-500.jpg" data-tags="indie, rock, alternative, 00s indie, indie rock, 00s" role="button">
 Razorlight - Slipway Fires (2008-11-03)
 </li>
@@ -113,9 +116,6 @@ Antony and the Johnsons - The Crying Light (2009-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/1589c9ec-b9d8-30e6-8f0c-57dd7c52ec35/8202001315-500.jpg" data-tags="alternative, atmospheric" role="button">
 Bat for Lashes - Two Suns (2009-04-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/a8d172ac-fabe-4198-b071-2274d60b72b0/2083169546-500.jpg" data-tags="alternative" role="button">
 Sarah Blasko - As Day Follows Night (2009-07-10)
@@ -143,6 +143,9 @@ The Joy Formidable - The Big Roar (2011-01-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/36850a03-c671-4690-9eb9-b6aa96d52405/7463293341-500.jpg" data-tags="indie pop" role="button">
 Lykke Li - Wounded Rhymes (2011-02-11)
+</li>
+<li data-cover="https://img.discogs.com/kpn_CSgbQIk3FxAxnhHlmfj5lPc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14083491-1567527829-4795.jpeg.jpg" data-tags="electronic, indie, pop, alternative, female vocalists, alternative pop, art pop, bat for lashes, natasha khan" role="button">
+Bat for Lashes - Strangelove (2011-02-20)
 </li>
 <li data-cover="https://img.discogs.com/kZPd2fmvmZ_9jSpe7sW6nI6Wzu8=/fit-in/555x323/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2375517-1280377713.jpeg.jpg" data-tags="indie" role="button">
 Kaiser Chiefs - The Future Is Medieval (2011-06-03)
@@ -207,11 +210,11 @@ James Blake - Overgrown (2013-04-05)
 <li data-cover="http://coverartarchive.org/release/1ddc6293-6ce5-42ad-8936-976133784f5a/4051676455-500.jpg" data-tags="indie pop" role="button">
 La Femme - Psycho Tropical Berlin (2013-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/691523f5-40e2-41af-815c-6acdfbf13c29/4160451322-500.jpg" data-tags="rock, alternative, indie rock" role="button">
-New Politics - A Bad Girl In Harlem (2013-05-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/c5002493-f832-4bc1-b9ce-269c00619ba7/6243979451-500.jpg" data-tags="alternative rock, indie rock" role="button">
 Bosnian Rainbows - Bosnian Rainbows (2013-06-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/2517232a-703d-4d78-922a-495339215403/18724663884-500.jpg" data-tags="pop" role="button">
+Skylar Grey - Don't Look Down (2013-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3392a7d-a6c1-49aa-8571-9f74d84c60a0/17037267715-500.jpg" data-tags="indie rock" role="button">
 White Lies - Big TV (2013-08-12)
@@ -287,9 +290,6 @@ Glass Animals - ZABA (2014-06-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/36b69931-add2-4409-8d7a-939f277223f2/7183720847-500.jpg" data-tags="folk" role="button">
 First Aid Kit - Stay Gold (2014-06-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
-Lana Del Rey - Ultraviolence (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/d20cd5ed-5db4-4318-8230-cfdf65d9526a/7162176118-500.jpg" data-tags="alternative rnb" role="button">
 How to Dress Well - "What Is This Heart?" (2014-06-23)

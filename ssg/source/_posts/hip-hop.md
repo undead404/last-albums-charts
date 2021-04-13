@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T03:01:07.006Z
+date: 2021-04-13T05:30:01.541Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -93,9 +93,6 @@ The Notorious B.I.G. - Born Again (1999-12-07)
 <li data-cover="http://coverartarchive.org/release/0eaf3a43-f00e-4416-8ea3-759d1841e3c9/4402657853-500.jpg" data-tags="hip-hop" role="button">
 Common - Like Water for Chocolate (2000-03-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/24a64ce9-3aa5-4be9-a98f-deaf501a0690/6677248625-500.jpg" data-tags="hip-hop, luda" role="button">
-Ludacris - Incognegro (2000-05-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
 </li>
@@ -104,9 +101,6 @@ Nelly - Country Grammar (2000-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
 Big L - The Big Picture (2000-07-11)
-</li>
-<li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
-OutKast - Stankonia (2000-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b017fef-0077-4248-a0dc-c5cfe342b5f8/5084173193-500.jpg" data-tags="hip-hop" role="button">
 Paktofonika - Kinematografia (2000-12-18)
@@ -122,6 +116,9 @@ Ludacris - Word of Mouf (2001-11-06)
 </li>
 <li data-cover="https://img.discogs.com/ce2bXe_XnmZeSoI9PbdPzpDjdm8=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5788920-1402698639-1454.jpeg.jpg" data-tags="hip-hop, rap" role="button">
 Nas - Stillmatic (2001-12-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/904e0d41-d49c-429e-8568-235bedbec612/1585589963-500.jpg" data-tags="hip-hop, hip hop, jay-z" role="button">
+Jay-Z - UnPlugged (2001-12-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/003b0f09-cdd1-333d-9262-92d66237a4c0/10252077277-500.jpg" data-tags="hip-hop" role="button">
 Blackalicious - Blazing Arrow (2002-04-30)
@@ -263,6 +260,9 @@ Lupe Fiasco - Lasers (2011-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1d2f621-c5c1-4bc6-acf9-440192654421/1630959999-500.jpg" data-tags="rap" role="button">
 Wiz Khalifa - Rolling Papers (2011-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/26c448bc-cb58-4708-8002-c8d2cc79d192/11248342825-500.jpg" data-tags="hip-hop, big sean" role="button">
+Big Sean - Finally Famous (2011-06-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg" data-tags="hip-hop, hip hop, west coast rap, conscious hip hop" role="button">
 Kendrick Lamar - Section.80 (2011-07-02)

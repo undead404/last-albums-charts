@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:58:23.821Z
+date: 2021-04-13T05:18:01.474Z
 title: "alt-country: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -119,9 +119,6 @@ The National - The National (2001-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba845ec4-835a-4c0c-8ff1-178c0a96c173/3020029421-500.jpg" data-tags="alt-country, jay munly" role="button">
 Jay Munly - Jimmy Carter Syndrome (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c5745b0-6f1d-3598-a1db-8d6aa1ae9bc4/17377781071-500.jpg" data-tags="alt-country, 00s" role="button">
-Lambchop - Is A Woman (2002-02-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
 Wilco - Yankee Hotel Foxtrot (2002-04-22)
@@ -255,9 +252,6 @@ Frontier Ruckus - The Orion Songbook (2008-11-06)
 <li data-cover="http://coverartarchive.org/release/b535058a-8f04-4815-b2a2-0749d21bb7e1/12715197370-500.jpg" data-tags="canadian" role="button">
 The Rural Alberta Advantage - Hometowns (2008-11-11)
 </li>
-<li data-cover="https://img.discogs.com/10Lt6TJCOruU1oMj7B6IH4RfjEA=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1820953-1245589712.jpeg.jpg" data-tags="folk" role="button">
-Vetiver - Tight Knit (2009-02-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/fa7717be-600c-4473-b743-ea86acd9bb6a/16653916812-500.jpg" data-tags="americana, alt-country, these are deserted island possibilities" role="button">
 Justin Townes Earle - Midnight at the Movies (2009-03-03)
 </li>
@@ -291,6 +285,9 @@ Blake Mills - Break Mirrors (2010-07-06)
 <li data-cover="http://coverartarchive.org/release/b34b531d-34e8-32c2-a8ae-d1082a337fc9/3033907801-500.jpg" data-tags="americana, alt-country, 2010s, 2010 albums" role="button">
 Justin Townes Earle - Harlem River Blues (2010-09-13)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="americana, alt-country, vintage album covers, colorful album covers, nice lettering" role="button">
+Megafaun - Heretofore (2010-09-14)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="folk, alt-country, boughtlist2010" role="button">
 Mt. Desolation - Mt. Desolation (2010-10-18)
 </li>
@@ -314,6 +311,9 @@ Phosphorescent - Muchacho (2013-03-15)
 </li>
 <li data-cover="https://img.discogs.com/LBHew7ocBw-8ugF7GKPnY1eqpK0=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4757364-1374548829-9967.jpeg.jpg" data-tags="folk, acoustic" role="button">
 City and Colour - The Hurry And The Harm (2013-06-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/5e0225fb-43db-4a0b-a3d8-612d2e61db1c/6859162938-500.jpg" data-tags="americana, alt-country" role="button">
+Mandolin Orange - This Side Of Jordan (2013-08-19)
 </li>
 <li data-cover="https://img.discogs.com/0ZxmEWYfvMahYDyVlfsf2zFRhbw=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5008713-1382263827-7200.jpeg.jpg" data-tags="pop, folk, contemporary folk, americana, alt-country, 2010s, contemporary bluegrass" role="button">
 Sarah Jarosz - Build Me Up From Bones (2013-09-24)

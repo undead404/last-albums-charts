@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:13:01.478Z
+date: 2021-04-13T05:40:01.494Z
 title: "punk: 100 albums you must listen to before you die"
 ---
 ![Green Day - American Idiot (2004-09-20)](http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg "Green Day - American Idiot (2004-09-20)")
@@ -108,6 +108,9 @@ Misfits - Static Age (1997-07-15)
 <li data-cover="http://coverartarchive.org/release/1d4b8abd-275d-3146-8c18-6497fd001389/1707906580-500.jpg" data-tags="punk rock" role="button">
 Green Day - Nimrod (1997-10-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/ba91b80e-7008-44c1-8f46-62d4bb813e44/4552623068-500.jpg" data-tags="punk, punk rock" role="button">
+Alkaline Trio - Goddamnit (1998-10-02)
+</li>
 <li data-cover="https://img.discogs.com/PLsYwNCDdj9M_L3gnbau_vIS9xo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16244403-1605891605-5962.jpeg.jpg" data-tags="hardcore, post-hardcore" role="button">
 Refused - The Shape of Punk to Come (1998-10-27)
 </li>
@@ -143,6 +146,9 @@ Sum 41 - All Killer No Filler (2001-05-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b20f6b7-3e89-3b18-b52e-98558a3b6539/9460754680-500.jpg" data-tags="punk rock, rock, punk" role="button">
 Green Day - International Superhits! (2001-11-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/9a634f32-6ed3-45cb-890f-3b60306d7bd7/3222655661-500.jpg" data-tags="punk rock" role="button">
+Bad Religion - The Process of Belief (2002-01-21)
 </li>
 <li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Tell All Your Friends (2002-03-26)
@@ -231,9 +237,6 @@ Good Charlotte - The Chronicles of Life and Death (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/931a0ad7-8770-47ba-8e41-028310c91921/1091413978-500.jpg" data-tags="punk rock" role="button">
 Sum 41 - Chuck (2004-10-04)
 </li>
-<li data-cover="http://coverartarchive.org/release/90f246f8-cb51-4350-9d65-591f93f7cb02/9429584610-500.jpg" data-tags="simple plan" role="button">
-Simple Plan - Still Not Getting Any (2004-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/093e6d8b-bfc0-4ea3-bcd1-9a3f30d5cdc1/3331685844-500.jpg" data-tags="punk" role="button">
 NOFX - The Greatest Songs Ever Written (By Us) (2004-11-08)
 </li>
@@ -266,9 +269,6 @@ Billy Talent - Billy Talent II (2006-06-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/51dcb278-fd58-4cfe-84ef-981a5739224f/7005657836-500.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - The Sufferer & the Witness (2006-07-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
-The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/bb3f60de-b134-42f8-a298-a4b57913da12/15998652821-500.jpg" data-tags="pop punk" role="button">
 New Found Glory - Coming Home (2006-09-18)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:10:01.553Z
+date: 2021-04-13T05:28:01.473Z
 title: "epic: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -11,7 +11,7 @@ title: "epic: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/cMSILn-O_QjEyYQ4HoieDtBeU3U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2566810-1415847143-3769.jpeg.jpg" data-tags="electronic, pop, electropop, dance-pop" role="button">Robyn - Body Talk (2010-11-22)</li>
 <li data-cover="https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg" data-tags="pop" role="button">Lady Gaga - Born This Way (2011-05-20)</li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">Florence + the Machine - Ceremonials (2011-10-28)</li>
-<li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">Lana Del Rey - Ultraviolence (2014-06-13)</li>
+<li data-cover="http://coverartarchive.org/release/ac04d3f9-567e-4804-99b5-aaab5d1052d6/7273707025-500.jpg" data-tags="indie, pop" role="button">A Great Big World - Is There Anybody Out There? (2014-01-14)</li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">Sia - 1000 Forms of Fear (2014-07-04)</li>
 <li data-cover="http://coverartarchive.org/release/e5f65789-2b01-4a8c-adde-eae7602bd38c/8376081336-500.jpg" data-tags="pop, pop rock, epic, bad albums" role="button">The Script - No Sound Without Silence (2014-09-12)</li>
 </ol>
@@ -26,6 +26,9 @@ Shuggie Otis - Freedom Flight (1971-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/36db29e4-0464-47c4-a2c3-e6759b467340/22048183283-500.jpg" data-tags="progressive rock" role="button">
+Eloy - Ocean (1977)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4f7256c-bab4-4c4e-a536-6bf05af3b24e/3701983982-500.jpg" data-tags="progressive rock" role="button">
 The Alan Parsons Project - I Robot (1977-06-01)
@@ -66,14 +69,17 @@ Gouryella - Walhalla (1999-06-06)
 <li data-cover="http://coverartarchive.org/release/2e5d0c29-9460-46e1-a775-ba37db84e48c/12950845683-500.jpg" data-tags="punk rock" role="button">
 NOFX - The Decline (1999-11-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/25854b63-25fd-4375-b18a-1007176c676d/14932745161-500.jpg" data-tags="lo-fi, indietronica" role="button">
-The Microphones - It Was Hot, We Stayed In The Water (2000-09-26)
-</li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/c958fc3b-1a1a-4728-ae0b-a149eb5abfa9/8791017488-500.jpg" data-tags="new age" role="button">
 E.S. Posthumus - Unearthed (2001-01-01)
+</li>
+<li data-cover="https://img.discogs.com/JmOWVNoTQof7RFsqS82lCjDQ180=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2579489-1291457949.jpeg.jpg" data-tags="epic, cover, new prog, steven wilson" role="button">
+Steven Wilson - Cover Version (2003)
+</li>
+<li data-cover="https://img.discogs.com/U5sm7YggCaPqpMS7NC1KfQ_siP8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6178112-1445890756-2366.jpeg.jpg" data-tags="viking metal, folk metal" role="button">
+Moonsorrow - Kivenkantaja (2003-03-10)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="progressive rock" role="button">
 Coheed and Cambria - In Keeping Secrets of Silent Earth: 3 (2003-03-30)
@@ -240,9 +246,6 @@ Marina & the Diamonds - Electra Heart (2012-03)
 <li data-cover="http://coverartarchive.org/release/214afb5a-7d79-424f-af8b-a0652df73ebd/23564566756-500.jpg" data-tags="soundtrack, score, marvel, mcu" role="button">
 Alan Silvestri - The Avengers (2012-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/1f76db1d-4c84-48b1-b189-0d065ae3d79e/11644026853-500.jpg" data-tags="electronic, indie" role="button">
-Woodkid - Run Boy Run (2012-05-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/cefbfa99-d262-4f3e-a98d-23fff5c0b316/25315519841-500.jpg" data-tags="epic, j-rock, oneokrock" role="button">
 ONE OK ROCK - The Beginning (2012-08-22)
 </li>
@@ -305,9 +308,6 @@ CHON - Woohoo! (2014-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/82ec3d0f-3aeb-4a50-8496-56df51909455/14904578516-500.jpg" data-tags="pop, epic, hell" role="button">
 Little Mix - Word Up! (2014-03-14)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
-Lana Del Rey - Ultraviolence (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:01:06.969Z
+date: 2021-04-13T05:34:01.456Z
 title: "rapcore: 100 albums you must listen to before you die"
 ---
 ![Rage Against the Machine - The Battle of Los Angeles (1999-09)](http://coverartarchive.org/release/962df9d5-0ab5-4f90-97d9-99cb0ab52360/2939556829-500.jpg "Rage Against the Machine - The Battle of Los Angeles (1999-09)")
@@ -13,7 +13,7 @@ title: "rapcore: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/db6705c1-7e7c-4497-ae08-12b7d22ab4e2/4710678617-500.jpg" data-tags="nu metal" role="button">Limp Bizkit - Chocolate Starfish and the Hot Dog Flavored Water (2000-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">Rage Against the Machine - Renegades (2000-11-28)</li>
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">Linkin Park - Meteora (2003-03-24)</li>
-<li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">Limp Bizkit - Results May Vary (2003-05-28)</li>
+<li data-cover="http://coverartarchive.org/release/79784f58-98d1-4a7b-b5b1-74a27b880d26/6374695874-500.jpg" data-tags="nu metal, rapcore" role="button">Limp Bizkit - Greatest Hitz (2005-11-04)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -171,9 +171,6 @@ Tribal Ink - Surrounded By Freaks (2003-03-26)
 <li data-cover="https://img.discogs.com/CYKJnsbVVtQNYwcHFhHz5I709YQ=/fit-in/395x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5365546-1391591004-5448.jpeg.jpg" data-tags="metal, crossover" role="button">
 Clawfinger - Zeros & Heroes (2003-05-26)
 </li>
-<li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
-Limp Bizkit - Results May Vary (2003-05-28)
-</li>
 <li data-cover="http://coverartarchive.org/release/08902a42-9afa-3337-8267-b333a89dd5da/24702019693-500.jpg" data-tags="alternative rock" role="button">
 Thousand Foot Krutch - Phenomenon (2003-09-09)
 </li>
@@ -239,6 +236,9 @@ H-Blockx - Open Letter To A Friend (2007-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/04dde72c-8a02-4359-84db-ef6f221f759e/15129440307-500.jpg" data-tags="metal, alternative, reggae, alternative metal, rapcore, nu metal, reggae metal, ragga metal, raggae, raggae metal" role="button">
 Skindred - Ratrace (2007-10-29)
+</li>
+<li data-cover="https://img.discogs.com/bH8FjpNSiQ8z68Exh_qw33Gz17o=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2964350-1399285931-8605.jpeg.jpg" data-tags="nu-metal, russian alternative" role="button">
+Слот - Тринити (2007-11-18)
 </li>
 <li data-cover="https://img.discogs.com/_C_mdbsSG1ja8F81cZJ3qMXDQlU=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3316480-1325961296.jpeg.jpg" data-tags="punk rock" role="button">
 Zebrahead - Phoenix (2008-07-09)

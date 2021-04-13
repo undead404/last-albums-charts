@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:49:07.049Z
+date: 2021-04-13T05:16:06.940Z
 title: "girls: 100 albums you must listen to before you die"
 ---
 ![HAIM - Days Are Gone (2013-08-05)](http://coverartarchive.org/release/bd851d19-d7dc-469a-9726-febb251a50f1/5165325162-500.jpg "HAIM - Days Are Gone (2013-08-05)")
@@ -33,11 +33,11 @@ Nancy Sinatra & Lee Hazlewood - Nancy & Lee (1968)
 <li data-cover="https://img.discogs.com/mz9IY9c_ltO0nzIKVHf9NJoTOfo=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-562809-1522427566-2670.jpeg.jpg" data-tags="soul, female vocalists, girls, girl band, girl group, girl groups, girlband" role="button">
 The Supremes - Touch (1971-06)
 </li>
-<li data-cover="https://img.discogs.com/L36s7FfcUjt4z9sprCNg4wtkERI=/fit-in/500x491/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6994424-1431254085-4903.jpeg.jpg" data-tags="soundtrack" role="button">
-Judy Garland - The London Sessions (1992)
-</li>
 <li data-cover="https://img.discogs.com/zqZ8BhUujZOlIEWkDtETCKbuutU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1610172-1231981386.jpeg.jpg" data-tags="oldies" role="button">
 The Crystals - The Best Of The Crystals (1992-09-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/2b65d77d-603e-4636-a074-131847acb983/13248831364-500.jpg" data-tags="soul, singer-songwriter, girls, oldies, melanie, 60er" role="button">
+Melanie - Old Bitch Warrior (1995)
 </li>
 <li data-cover="https://img.discogs.com/CN29qqfrdrkHcvMqJwV_kasxwfE=/fit-in/290x288/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-673973-1146696284.jpeg.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, asian pop" role="button">
 Bright - Bright (1996-08-15)
@@ -48,15 +48,6 @@ Bright - Bright (1996-08-15)
 <li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="60s, female vocalists, oldies, sandie shaw - all the hits: the ultimate collection" role="button">
 Sandie Shaw - All The Hits: The Ultimate Collection (1998)
 </li>
-<li data-cover="http://coverartarchive.org/release/a5229267-6d95-4491-9274-2f887c9acaa0/979270452-500.jpg" data-tags="live" role="button">
-Sarah McLachlan - Mirrorball (1999-06-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/b74bf88a-9128-4385-b77a-2d1d1cf123b7/7232123346-500.jpg" data-tags="cute, viking metal, girls, girl pop, industrial black metal, troll metal, girlies, girlbands, 80s plastipop" role="button">
-Troll - The Last Predators (2000-03-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/05476d4f-fb3f-40c8-897b-48a55c3258b7/19581159677-500.jpg" data-tags="pop, dance, female vocalists" role="button">
-Christina Aguilera - Just Be Free (2000-05-08)
-</li>
 <li data-cover="https://img.discogs.com/wU2W5xzm5Gc3jcY1Mv_D3F9ZWNE=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13065895-1547437219-9044.jpeg.jpg" data-tags="female vocalists" role="button">
 Indigo Girls - Retrospective (2000-10-03)
 </li>
@@ -65,9 +56,6 @@ Shirley Bassey - Greatest Hits (2001-02-13)
 </li>
 <li data-cover="https://img.discogs.com/fakx7hy62k2oCXAvbGBcw1gKIOg=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1809442-1305946804.jpeg.jpg" data-tags="girls" role="button">
 Sugababes - Run for Cover (2001-04-09)
-</li>
-<li data-cover="https://img.discogs.com/qz-JaAwCxGcoUfnOgVn2SDWkYCY=/fit-in/550x546/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-403533-1385733730-6848.jpeg.jpg" data-tags="cute, girls, death metal, symphonic black metal, girl pop, girlies, girlbands, 80s plastipop" role="button">
-Troll - Universal (2001-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/d29024bf-1bfc-4dc5-aac7-5fb647e6a0cb/4258469734-500.jpg" data-tags="pop" role="button">
 Mandy Moore - Mandy Moore (2001-06-19)
@@ -108,6 +96,9 @@ HALCALI - Look (2006-12-13)
 <li data-cover="https://via.placeholder.com/450" data-tags="j-pop, girl group, girl groups" role="button">
 Berryz工房 - Very Beauty (2007-03-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/b4c27a3a-e0ba-41ad-aee3-808b83c0c2e1/9364335409-500.jpg" data-tags="japanese, koda kumi" role="button">
+倖田來未 - FREAKY (2007-06-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/415b68c0-e326-4c26-829d-bdd620e5f722/1330751900-500.jpg" data-tags="french, girls, rx, 60er, bilititas, objectum-sexualis, nichopoulooza, os group, mes chansons, tag auditions, vartan" role="button">
 Sylvie Vartan - Nouvelle Vague (2007-07-09)
 </li>
@@ -141,11 +132,11 @@ The Pipettes - Boo Shuffle (2011)
 <li data-cover="http://coverartarchive.org/release/69d3ef58-b7a6-4d18-8963-836da3cb74f8/3644147034-500.jpg" data-tags="pop music, ivete sangalo" role="button">
 Beyoncé - Run The World (Girls) (2011-04-21)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="japanese, female vocalists, cute, girls, jpop, seiyuu, girl band, girl group, girl groups, girlband, idol, kawaii, moe, asian pop, kawaiicore, voice actress" role="button">
-ゆいかおり - Puppy (2011-09-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/15d15051-3d6d-4dec-accf-c7cc165a67cd/7731916864-500.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, group, girlband, asian music, asian pop" role="button">
 Bis - primal. (2011-12-21)
+</li>
+<li data-cover="https://img.discogs.com/hZMrid1P2KZFO9GYL5PpCPhVIZ8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9006897-1473158923-2839.jpeg.jpg" data-tags="japanese, female vocalists, girls, jpop, j-pop, girl band, girl group, girl groups, hello project, girlband, idol, c-ute, hello! project, berryz koubou, h!p, helloproject, asian pop, berryz, hello!project, buono" role="button">
+Buono! - 初恋サイダー / DEEP MIND (2012-01-18)
 </li>
 <li data-cover="https://img.discogs.com/25iJC9lD3qsYLgAs6B-8nDImA78=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3381904-1328199085.jpeg.jpg" data-tags="idol" role="button">
 SKE48 - 片想いFinally (2012-01-25)
@@ -237,6 +228,12 @@ JKT48 - RIVER (2013-05-11)
 <li data-cover="https://img.discogs.com/f0PdXslQ65u1DmP2mH1z6e_6Cw0=/fit-in/390x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8360740-1460107355-6842.jpeg.jpg" data-tags="japanese, girls, jpop, j-rock, j-pop, jrock, girl band, girl group, girl groups, girlband, asian rock, asian pop" role="button">
 Aldious - District Zero (2013-05-15)
 </li>
+<li data-cover="https://img.discogs.com/7-caShz48Xv5wUV6M1gN-yBSvzw=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9604404-1483525410-6630.jpeg.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+Scandal - 会わないつもりの、元気でね (2013-05-22)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="j-pop, idol" role="button">
+でんぱ組.inc - でんでんぱっしょん (2013-05-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/fedb5f7a-926f-4b8d-92c3-f54cb284cfcc/6184436709-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 ももいろクローバー - 入口のない出口 (2013-06-05)
 </li>
@@ -263,6 +260,9 @@ HAIM - Days Are Gone (2013-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/cf44d0e0-bd9f-4bef-809d-c6d80c9c5aaf/8160695395-500.jpg" data-tags="female vocalists, girls, girl band, girl group, girl groups, indonesia, girlband, indonesian, asian pop" role="button">
 JKT48 - Fortune Cookie in Love (2013-08-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/efd5841e-d144-4df7-8b8c-942e6dd40b31/19577055384-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+Scandal - OVER DRIVE (2013-09-18)
 </li>
 <li data-cover="https://img.discogs.com/5epCUXsJ2Xl8nxSbXtsrwWhvO5o=/fit-in/600x960/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1917506-1469731860-9485.jpeg.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
 Scandal - STANDARD (2013-10-02)
@@ -300,8 +300,8 @@ petit milady - プチミレディア (2014-05-07)
 <li data-cover="http://coverartarchive.org/release/ace5a62e-ae10-4bcb-ad48-fa7bf852e309/8837101951-500.jpg" data-tags="japanese, epic, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop, the best of 2014" role="button">
 especia - GUSTO (2014-05-28)
 </li>
-<li data-cover="http://coverartarchive.org/release/91ca4a2c-46ea-40df-b5fd-68d6b7d9c825/17546809913-500.jpg" data-tags="electropop, japanese, female vocalists, jpop" role="button">
-ClariS - PARTY TIME (2014-06-04)
+<li data-cover="http://coverartarchive.org/release/75d77b5e-0f89-4ec9-8d7d-74f5a5fdefe5/7313554542-500.jpg" data-tags="japanese, girls, jpop, j-pop, girl band, girl group, girl groups, girlband, idol, asian pop" role="button">
+9nine - MAGI9 PLAYLAND (2014-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/e4655be1-b492-472b-938c-d5d66e172370/8075073770-500.jpg" data-tags="japanese, girls, jpop, j-pop, single, seiyuu, girl band, girl group, girl groups, girlband, asian pop, voice actress, petit milady" role="button">
 petit milady - 恋はみるくてぃ (2014-08-13)

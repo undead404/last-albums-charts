@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:05:01.513Z
+date: 2021-04-13T05:35:01.454Z
 title: "art pop: 100 albums you must listen to before you die"
 ---
 ![Lorde - Pure Heroine (2013-09-27)](http://coverartarchive.org/release/5f62ee6d-c5a7-4455-bfff-60e085d98f8a/10040947831-500.jpg "Lorde - Pure Heroine (2013-09-27)")
@@ -279,6 +279,9 @@ Metronomy - Love Letters (2013-12-06)
 <li data-cover="http://coverartarchive.org/release/5ef96551-de57-4cb6-9fce-4721882cef6b/12614617442-500.jpg" data-tags="downtempo, electronic" role="button">
 Banks - Goddess (2014-01-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/84aa7ca1-94c2-4deb-841a-e48b4e910afe/22832217519-500.jpg" data-tags="ambient" role="button">
+East India Youth - Total Strife Forever (2014-01-13)
+</li>
 <li data-cover="https://img.discogs.com/7ZBnbaSnSc4ci1gadSRb1lcTFEg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5433906-1393256089-7792.jpeg.jpg" data-tags="art pop" role="button">
 St. Vincent - Digital Witness (2014-02-24)
 </li>
@@ -296,9 +299,6 @@ tUnE-yArDs - Nikki Nack (2014-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/56ce8556-c0f9-4d8d-85a6-d873e9d4cec1/13225929306-500.jpg" data-tags="electronic, glitch" role="button">
 Baths - Ocean Death (2014-05-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/9815a22f-d7ca-447f-a144-dfa658207998/7044912523-500.jpg" data-tags="electronic, synthpop, testament, exodus" role="button">
-Little Dragon - Nabuma Rubberband (2014-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/c15ae8e9-1369-41c7-b57a-ef34ca61c22b/7143771102-500.jpg" data-tags="indie pop, baroque pop" role="button">
 Kishi Bashi - Lighght (2014-05-13)

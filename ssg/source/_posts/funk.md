@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:02:01.462Z
+date: 2021-04-13T04:50:01.479Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -29,6 +29,9 @@ Isaac Hayes - Hot Buttered Soul (1969)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e517042-0af2-45b0-bdbb-aae20ae1bec8/15170398619-500.jpg" data-tags="funk" role="button">
 Sly & The Family Stone - Stand! (1969-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b2fe784-af5e-4801-9c5e-91135804c989/7110803821-500.jpg" data-tags="funk" role="button">
+Funkadelic - Funkadelic (1970-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/14d7a033-cf03-43bc-adb4-b4bcf2b62762/24777915286-500.jpg" data-tags="soul, funk" role="button">
 Curtis Mayfield - Curtis (1970-09)
@@ -153,6 +156,9 @@ Curtis Mayfield - The Very Best of Curtis Mayfield (1996-04-22)
 <li data-cover="http://coverartarchive.org/release/e357d59f-7440-47bd-97c5-88c38c1080f8/7479486477-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="jazz, bass, fusion" role="button">
+Jaco Pastorius - Jaco Pastorius (1997)
+</li>
 <li data-cover="http://coverartarchive.org/release/18622368-24e9-45ce-93d5-be2e4f45b3b3/8631104442-500.jpg" data-tags="alternative rock, funk metal, rock" role="button">
 Incubus - S.C.I.E.N.C.E. (1997-09-09)
 </li>
@@ -171,9 +177,6 @@ Red Hot Chili Peppers - Californication (1999-06-07)
 <li data-cover="http://coverartarchive.org/release/68f52c38-702e-3ebd-9b08-9a2d651de602/2981543235-500.jpg" data-tags="funk" role="button">
 Jamiroquai - Synkronized (1999-06-07)
 </li>
-<li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
-OutKast - Stankonia (2000-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/1c293abc-3993-3d1d-bb8d-e8fe18621488/9245164218-500.jpg" data-tags="rock, alternative rock" role="button">
 Rage Against the Machine - Renegades (2000-11-28)
 </li>
@@ -191,9 +194,6 @@ Maroon 5 - Songs About Jane (2002-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/5d5ee308-2a69-4f81-8f59-8036bce6a595/6853145556-500.jpg" data-tags="black eyed peas, hip-hop" role="button">
 Black Eyed Peas - Elephunk (2003-06-24)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/YodYziNyBczF-4pUNYqYjECqyfg=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478545-1601334302-9071.jpeg.jpg" data-tags="funk" role="button">
 Jamiroquai - Dynamite (2005-05-20)
@@ -215,9 +215,6 @@ OutKast - Idlewild (2006-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a3f2ed19-cefe-4c58-9988-4104155c8141/16440581507-500.jpg" data-tags="funk" role="button">
 Jamiroquai - High Times: Singles 1992-2006 (2006-11-03)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="indie, funk, heart full of wine" role="button">
-Angus & Julia Stone - Heart Full of Wine (2007-02-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/7f6744e0-893a-300c-a091-89cd68a795f9/4191054363-500.jpg" data-tags="soul" role="button">
 Joss Stone - Introducing Joss Stone (2007-03-12)
@@ -254,6 +251,9 @@ Gnarls Barkley - The Odd Couple (2008-03-18)
 </li>
 <li data-cover="https://img.discogs.com/D5zif8STedOBGvMsAzk9SQhzunQ=/fit-in/600x510/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495698-1227800340.jpeg.jpg" data-tags="funk" role="button">
 Menahan Street Band - Make the Road by Walking (2008-10-14)
+</li>
+<li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
+The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)

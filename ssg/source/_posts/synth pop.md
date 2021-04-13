@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:18:07.072Z
+date: 2021-04-13T05:03:01.487Z
 title: "synth pop: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -165,9 +165,6 @@ Dangerous Muse - The Rejection Remixes (2006-07-04)
 <li data-cover="https://img.discogs.com/heAqMwwly4wiEe6ISakUV454MrY=/fit-in/600x524/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-40958-1475396080-4040.jpeg.jpg" data-tags="electronic, pop, new wave, synth pop" role="button">
 Depeche Mode - The Best Of (DVD) (2006-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/77f8ef00-9fc1-40bc-8458-dc2ac1e615a0/881779220-500.jpg" data-tags="indie" role="button">
 Two Door Cinema Club - Four Words to Stand On (2008-03-26)
 </li>
@@ -215,6 +212,9 @@ Dënver - Música, Gramática, Gimnasia (2010-10-27)
 </li>
 <li data-cover="https://img.discogs.com/Sc6WL1ndDUeyWpxiTLHkonx78mA=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13802579-1561460893-1517.jpeg.jpg" data-tags="electronic, electropop, synth pop, 03-01" role="button">
 The Temper Trap - Conditions Remixed (2010-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/ec6b20dc-8165-44b3-8fb4-fc3c8e54c6dd/2589776232-500.jpg" data-tags="electronic" role="button">
+I Blame Coco - The Constant (2010-11-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ec909364-b428-422c-85bc-fd562bb3a194/22034568945-500.jpg" data-tags="electronic" role="button">
 Gypsy & The Cat - Gilgamesh (2010-11-12)

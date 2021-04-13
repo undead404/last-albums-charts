@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T03:09:01.501Z
+date: 2021-04-13T04:47:23.917Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -156,6 +156,9 @@ Muse - Absolution (2003-09-08)
 <li data-cover="http://coverartarchive.org/release/0f3cb2a7-8f63-4fd5-a331-39844400b9e4/9154355399-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Room on Fire (2003-10-16)
 </li>
+<li data-cover="https://img.discogs.com/Moc0yEcaE2TzFDWvJhAj62mELPQ=/fit-in/600x531/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1885282-1353635920-8040.jpeg.jpg" data-tags="rock, alternative rock" role="button">
+Lostprophets - Start Something (2004-01-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
@@ -221,9 +224,6 @@ Three Days Grace - One-X (2006-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/aefcf53b-5980-463b-b03d-a6c8da6a9432/2432254769-500.jpg" data-tags="alternative rock, rock" role="button">
 Muse - Black Holes and Revelations (2006-06-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
-The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/326936d7-feec-48d5-bb9f-286552c1f804/4704068675-500.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - Phobia (2006-08-08)

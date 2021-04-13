@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:32:01.488Z
+date: 2021-04-13T04:59:01.607Z
 title: "blues: 100 albums you must listen to before you die"
 ---
 ![John Mayer - Continuum (2006-08-01)](http://coverartarchive.org/release/8aa81e40-71f1-4a39-a631-cb06703348d4/3717995933-500.jpg "John Mayer - Continuum (2006-08-01)")
@@ -129,6 +129,9 @@ Gary Moore - Still Got the Blues (1990-04-04)
 <li data-cover="http://coverartarchive.org/release/a2eab3ac-8fb4-4aa5-b0f7-a9872dbde81e/9504529111-500.jpg" data-tags="blues" role="button">
 Buddy Guy - Damn Right, I've Got The Blues (1991)
 </li>
+<li data-cover="https://img.discogs.com/oyVc1U0j6oBcE2Rr-3QVdN0zPz8=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-440899-1401195894-6027.jpeg.jpg" data-tags="blues" role="button">
+Muddy Waters - Baby Please Don't Go (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/fa84b81a-6d02-4d89-a515-9a6ef6df11a3/6733543940-500.jpg" data-tags="blues, acoustic" role="button">
 Eric Clapton - Unplugged (1992-08-21)
 </li>
@@ -188,9 +191,6 @@ Joe Bonamassa - Blues Deluxe (2003-08-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
 Joss Stone - The Soul Sessions (2003-09-16)

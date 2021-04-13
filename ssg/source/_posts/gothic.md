@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:11:07.086Z
+date: 2021-04-13T05:25:01.479Z
 title: "gothic: 100 albums you must listen to before you die"
 ---
 ![Evanescence - Fallen (2003-03-04)](http://coverartarchive.org/release/0d36931b-831a-3663-90a1-57b2210e19f3/2107137774-500.jpg "Evanescence - Fallen (2003-03-04)")
@@ -140,6 +140,9 @@ New Order - Get Ready (2001-06-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/2d0b6eb0-8d92-3ec1-a6ae-f939a7980426/7587631086-500.jpg" data-tags="indie, electronic" role="button">
 The Faint - Danse MacAbre (2001-08-21)
+</li>
+<li data-cover="https://img.discogs.com/gxYJ-nk2pFua4c3lXTLABrMM690=/fit-in/300x299/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4342740-1362301560-1297.jpeg.jpg" data-tags="gothic metal" role="button">
+Moonspell - Darkness And Hope (2001-08-27)
 </li>
 <li data-cover="https://img.discogs.com/wdd4p_tJ4rIY5k3ahZROER-oDZA=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9256865-1477485793-3525.jpeg.jpg" data-tags="gothic metal, gothic" role="button">
 Lacrimosa - Fassade (2001-10-01)
@@ -293,9 +296,6 @@ Kerli - Love Is Dead (2008-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/67fd1cdd-1024-41e1-b103-fab82330a0b4/5674381799-500.jpg" data-tags="industrial metal" role="button">
 Deathstars - Night Electric Night (2009-01-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/ad2162b9-c8b8-43dc-89ba-dd3e73243a6e/7151854920-500.jpg" data-tags="metalcore, screamo, hardcore, post-hardcore" role="button">
-Motionless in White - When Love Met Destruction (2009-02-17)
 </li>
 <li data-cover="https://img.discogs.com/LfBjYCCBm98bfW3TdVXhdeigAd0=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334744-1599234149-9074.jpeg.jpg" data-tags="gothic, german, eisblume" role="button">
 Eisblume - Unter dem Eis (2009-03-06)

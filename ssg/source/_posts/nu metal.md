@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:16:06.938Z
+date: 2021-04-13T05:06:01.461Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -177,9 +177,6 @@ Adema - Insomniac's Dream (2002-11-05)
 <li data-cover="http://coverartarchive.org/release/e0381376-5583-4aa6-88fa-2984d25ef3a5/7915054343-500.jpg" data-tags="hard rock, rock" role="button">
 Trapt - Trapt (2002-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
-Saliva - Back Into Your System (2002-11-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/95587fcc-2007-3672-9769-1da1ccc5569e/15620888210-500.jpg" data-tags="alternative metal, nu metal, metal" role="button">
 Mudvayne - The End of All Things to Come (2002-11-12)
 </li>
@@ -197,9 +194,6 @@ Godsmack - Faceless (2003-04-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/ab6d3199-90d7-34de-8008-c6f072a5d43a/4766302340-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Deftones (2003-05-19)
-</li>
-<li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
-Limp Bizkit - Results May Vary (2003-05-28)
 </li>
 <li data-cover="https://img.discogs.com/Or2_qLd29JC7Tk2mfFQ6lxxTIjE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2046370-1398872842-3751.jpeg.jpg" data-tags="nu metal" role="button">
 Adema - Unstable (2003-06-11)
@@ -267,6 +261,9 @@ Ill Niño - One Nation Underground (2005-09-21)
 <li data-cover="http://coverartarchive.org/release/79784f58-98d1-4a7b-b5b1-74a27b880d26/6374695874-500.jpg" data-tags="nu metal, rapcore" role="button">
 Limp Bizkit - Greatest Hitz (2005-11-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/1a3cd4f6-d206-40ad-9a40-d29c7538107d/5501535154-500.jpg" data-tags="nu metal" role="button">
+Element Eighty - The Bear (2005-11-05)
+</li>
 <li data-cover="https://img.discogs.com/tNvWW37Z6Qd1xkwFI8Yb0AYvHYc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1788570-1532399384-1590.png.jpg" data-tags="alternative metal" role="button">
 System of a Down - Hypnotize (2005-11-18)
 </li>
@@ -290,6 +287,9 @@ Slipknot - All Hope Is Gone (2008-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d1683e78-37ec-478c-bc22-8c8c09a94244/7125564638-500.jpg" data-tags="alternative rock, transformers, nu metal, nu-metal" role="button">
 Linkin Park - New Divide (2009-05-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/18f1e8e4-9dc9-48c2-a90a-a66dc02afb8d/10610269786-500.jpg" data-tags="nu metal, metal, alternative metal" role="button">
+Mudvayne - Mudvayne (2009-12-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/7da1c848-8b3a-4143-a889-5d293c502150/5036652486-500.jpg" data-tags="nu metal" role="button">
 Awolnation - Back From Earth (2010-05-18)

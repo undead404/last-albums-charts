@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:28:01.539Z
+date: 2021-04-13T04:56:01.463Z
 title: "psychedelic pop: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Merriweather Post Pavilion (2009-01-09)](http://coverartarchive.org/release/1e21a9c3-d787-3348-accf-3af583ef43f6/5762515522-500.jpg "Animal Collective - Merriweather Post Pavilion (2009-01-09)")
@@ -26,6 +26,9 @@ Love - Da Capo (1966-11)
 </li>
 <li data-cover="https://img.discogs.com/H5H7_yprMFKbNMGpBDCGlwXrqgw=/fit-in/600x368/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16096274-1603610708-4609.png.jpg" data-tags="psychedelic pop, rca records, albums i listened to" role="button">
 Harry Nilsson - Pandemonium Shadow Show (1967)
+</li>
+<li data-cover="http://coverartarchive.org/release/7bab58a3-1769-467e-9d30-4a2b2761019d/27584215433-500.jpg" data-tags="sunshine pop, psychedelic" role="button">
+Sagittarius - Present Tense (1967)
 </li>
 <li data-cover="https://img.discogs.com/ZhOvnu0MNRWHf67lXZe6HFTJj8A=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1751544-1325813967.jpeg.jpg" data-tags="60s, oldies" role="button">
 Scott McKenzie - San Francisco (1967-05-04)
@@ -116,9 +119,6 @@ Broadcast - Extended Play (2000-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/b1676b3b-6430-4aeb-b818-f5c971dc5d3d/1782561221-500.jpg" data-tags="french, chanson française, serge gainsbourg" role="button">
 Serge Gainsbourg - Initials SG (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/7df9285c-a82d-4583-a7d9-98d83e22e09f/23645615845-500.jpg" data-tags="british i like, gdchills00s" role="button">
-The Bees - Sunshine Hit Me (2002-03-25)
 </li>
 <li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">
 of Montreal - Satanic Panic in the Attic (2004-03-24)

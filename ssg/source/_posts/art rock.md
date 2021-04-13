@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:30:12.652Z
+date: 2021-04-13T05:26:01.476Z
 title: "art rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - Kid A (2000-08-03)](http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg "Radiohead - Kid A (2000-08-03)")
@@ -51,6 +51,9 @@ Wishbone Ash - Argus (1972-04-28)
 <li data-cover="http://coverartarchive.org/release/2b9b5b13-5639-4645-b89b-e5ea555f9a65/7295017114-500.jpg" data-tags="progressive rock" role="button">
 Yes - Close to the Edge (1972-09-13)
 </li>
+<li data-cover="https://img.discogs.com/40seZoe7982TiFPmA7C__89JEZE=/fit-in/227x222/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2220546-1311101202.jpeg.jpg" data-tags="krautrock" role="button">
+Can - Ege Bamyasi (1972-11)
+</li>
 <li data-cover="http://coverartarchive.org/release/6d4932d4-c81a-3438-97f1-fac6e8902712/6802461026-500.jpg" data-tags="glam rock, 70s, art rock" role="button">
 Roxy Music - For Your Pleasure (1973)
 </li>
@@ -77,6 +80,9 @@ Brian Eno - Another Green World (1975-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="70s, rock" role="button">
 David Bowie - Station to Station (1976-01-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/06ab427b-06b4-482a-90c3-4981c294eadd/11939995493-500.jpg" data-tags="proto-punk, 70s" role="button">
+The Modern Lovers - The Modern Lovers (1976-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b884c85-3108-4454-b61b-71d04584908d/15369667898-500.jpg" data-tags="progressive rock" role="button">
 Manfred Mann's Earth Band - The Roaring Silence (1976-08-30)
@@ -122,12 +128,6 @@ The Velvet Underground - VU (1984)
 </li>
 <li data-cover="https://img.discogs.com/3y1hHqQsggU7DxoBd6OVU2hGALE=/fit-in/200x196/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1993054-1257289377.jpeg.jpg" data-tags="80s, ambient" role="button">
 David Sylvian - Secrets Of The Beehive (1987)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="alternative rock" role="button">
-Sonic Youth - Sister (1987-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/7cf2a8c6-f2fb-4f99-a316-d9fbb8044667/9283951283-500.jpg" data-tags="psychedelic" role="button">
-Аукцыон - Птица (1993)
 </li>
 <li data-cover="https://img.discogs.com/P0DzPhdfZ95KP8ESoJ0PJt99yXc=/fit-in/498x794/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11854047-1523523939-1617.jpeg.jpg" data-tags="progressive rock, instrumental" role="button">
 Mike Oldfield - Tubular Bells (1995)
@@ -186,9 +186,6 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 <li data-cover="http://coverartarchive.org/release/2ed4fd06-90a9-3441-83be-737236425347/11854737364-500.jpg" data-tags="progressive rock" role="button">
 dredg - El Cielo (2002-10-08)
 </li>
-<li data-cover="https://img.discogs.com/Du6mdD8ZENFRakf7hXldlhIcY20=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1855988-1505502680-9490.jpeg.jpg" data-tags="indie, alternative, post rock, 00s, chicago, thrill jockey" role="button">
-The Sea and Cake - One Bedroom (2003-01-21)
-</li>
 <li data-cover="https://img.discogs.com/AnM9UOh8nyaKFJgg_VwWz7wRbJw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1467098-1576333416-9295.jpeg.jpg" data-tags="indie, danish, rock" role="button">
 Mew - Frengers (2003-04-07)
 </li>
@@ -227,6 +224,9 @@ The Mars Volta - The Bedlam in Goliath (2008-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d1e2666-2609-414f-9a88-cd0ab15186bd/11408773160-500.jpg" data-tags="indie, experimental, indie pop, indie rock, baroque pop, art rock, tea" role="button">
 Cloud Cult - Feel Good Ghosts (Tea-Partying Through Tornadoes) (2008-04-08)
+</li>
+<li data-cover="https://img.discogs.com/IBmiYwiDaKRlah6HX1SvQD2HhqA=/fit-in/480x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1466864-1282221333.jpeg.jpg" data-tags="noise rock, crazy, noise pop, art rock, wind and rain and ice and snow" role="button">
+Ponytail - Ice Cream Spiritual (2008-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/746067ad-88f0-4426-b5a5-7313b186488c/22393792907-500.jpg" data-tags="indie, indie rock, alternative, experimental" role="button">
 TV on the Radio - Dear Science (2008-09-22)

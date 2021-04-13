@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:42:01.461Z
+date: 2021-04-13T05:08:01.465Z
 title: "metalcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -174,6 +174,9 @@ Norma Jean - Redeemer (2006-09-12)
 <li data-cover="http://coverartarchive.org/release/d21c95c8-40bb-467c-b11f-218886cd0b22/8973658859-500.jpg" data-tags="post-hardcore" role="button">
 Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 </li>
+<li data-cover="https://img.discogs.com/_olbivJ6ixFBsCa42vOBYRVKPuE=/fit-in/439x438/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1928888-1253102663.jpeg.jpg" data-tags="metalcore" role="button">
+It Dies Today - Sirens (2006-10-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/04db6701-f59b-36bc-b729-0c125f1dc263/2471715861-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - No Heroes (2006-10-23)
 </li>
@@ -191,9 +194,6 @@ Emmure - Goodbye To The Gallows (2007-03-06)
 </li>
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
-blessthefall - His Last Walk (2007-04-10)
 </li>
 <li data-cover="https://img.discogs.com/uYeOKQjJxNJW-8cbGTjaqk4CKr0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1189055-1199463190.jpeg.jpg" data-tags="melodic death metal" role="button">
 Sonic Syndicate - Only Inhuman (2007-04-25)
@@ -249,6 +249,9 @@ Trivium - Shogun (2008-09-24)
 <li data-cover="http://coverartarchive.org/release/328619a0-b3fd-4fd3-8404-1c23228df4ad/26118015764-500.jpg" data-tags="deathcore, metalcore" role="button">
 Bring Me the Horizon - Suicide Season (2008-09-29)
 </li>
+<li data-cover="https://img.discogs.com/GgIzWs3lmxQnYspgjoikZgaaYIs=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2360753-1279477665.jpeg.jpg" data-tags="metalcore" role="button">
+Unearth - The March (2008-10-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/baf11f84-1b4f-41ab-a67c-cbfe17f882d9/1481675719-500.jpg" data-tags="metalcore" role="button">
 Killswitch Engage - Killswitch Engage (2009-01-01)
 </li>
@@ -266,9 +269,6 @@ Asking Alexandria - Stand Up And Scream (2009-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/613f418b-dea5-4cb5-b5dd-12df16c7d825/7275083560-500.jpg" data-tags="groove metal, alternative metal" role="button">
 Five Finger Death Punch - War Is the Answer (2009-09-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/6fa37e34-e402-4620-9786-0d0da6ead881/11173683563-500.jpg" data-tags="post-hardcore" role="button">
-blessthefall - Witness (2009-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/84f8ae0e-8d40-409a-adc4-45147c427a3d/26277466151-500.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - Axe to Fall (2009-10-20)
@@ -297,6 +297,9 @@ A Day to Remember - What Separates Me from You (2010-11-16)
 <li data-cover="http://coverartarchive.org/release/27f2d3c5-50b6-4a97-a2d1-2da283881fe3/20002674834-500.jpg" data-tags="metalcore" role="button">
 Architects - The Here And Now (2011-01-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/d5a7b21a-2ebc-4480-953c-88cab7f7e062/15294264800-500.jpg" data-tags="metalcore" role="button">
+Emmure - Speaker of the Dead (2011-02-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/9646d5f9-08c9-43a2-bebf-c80a3b86368f/7273863258-500.jpg" data-tags="post-hardcore" role="button">
 Asking Alexandria - Reckless & Relentless (2011-04-05)
 </li>
@@ -311,9 +314,6 @@ Architects - Daybreaker (2012-05-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/83e6ecc2-662d-45fd-bdea-585d94303cce/2421759627-500.jpg" data-tags="metalcore" role="button">
 Parkway Drive - Atlas (2012-10-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">
-Bring Me the Horizon - Sempiternal (2013-03-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/db412f0a-c58b-47f5-ac5f-d163e9ffa715/6303246041-500.jpg" data-tags="metalcore" role="button">
 Architects - Lost Forever // Lost Together (2014-03-07)

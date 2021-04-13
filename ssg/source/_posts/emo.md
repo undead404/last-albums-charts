@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:22:01.468Z
+date: 2021-04-13T04:55:01.481Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -7,12 +7,12 @@ title: "emo: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">American Football - American Football (1999-09-14)</li>
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">Jimmy Eat World - Bleed American (2001-07-18)</li>
 <li data-cover="https://img.discogs.com/r55GUTKgafFvtXlW7cLIFBGOkCA=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3835343-1346270454-3867.jpeg.jpg" data-tags="emo" role="button">Taking Back Sunday - Tell All Your Friends (2002-03-26)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="emo" role="button">The Used - The Used (2002-06-25)</li>
 <li data-cover="https://img.discogs.com/9gVexhNM1SO7bKgyYKyar_K47xs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3662330-1405403128-4438.jpeg.jpg" data-tags="emo" role="button">Brand New - Deja Entendu (2003-06-17)</li>
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)</li>
 <li data-cover="http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg" data-tags="alternative rock, emo" role="button">Jimmy Eat World - Futures (2004-10-11)</li>
 <li data-cover="http://coverartarchive.org/release/876e5c90-4dfa-3b2c-aa9e-37c8c94a23b8/1236750855-500.jpg" data-tags="rock, pop punk" role="button">Fall Out Boy - From Under the Cork Tree (2005-05-03)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)</li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)</li>
 <li data-cover="http://coverartarchive.org/release/10b70cf6-7880-4699-a936-a288e5ceedf9/6988662741-500.jpg" data-tags="pop punk, rock" role="button">Fall Out Boy - Infinity on High (2007-02-05)</li>
 </ol>
 List of 100 - under the cut.
@@ -35,6 +35,9 @@ Weezer - Pinkerton (1996-08-24)
 </li>
 <li data-cover="https://img.discogs.com/OzJqQd_Z2UC4hcePk7B5Pa3Rg58=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747340-1369185112-9391.jpeg.jpg" data-tags="emo, indie rock" role="button">
 Mineral - The Power of Failing (1997-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/77c9dc8c-dcc4-4db9-ad50-b5def37d58b5/12234617164-500.jpg" data-tags="indie, indie rock" role="button">
+Death Cab for Cutie - Something About Airplanes (1998-08-18)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">
 Bright Eyes - Letting Off the Happiness (1998-09-02)
@@ -147,6 +150,9 @@ The Used - In Love and Death (2004-01-24)
 <li data-cover="http://coverartarchive.org/release/9108adbb-b065-408b-9f59-c1af1f4a241a/11144521161-500.jpg" data-tags="rock, emo, alternative" role="button">
 My Chemical Romance - Three Cheers for Sweet Revenge (2004-06-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/12655151-895d-44e2-b0ee-c3a5e27a7d23/4202987952-500.jpg" data-tags="post-hardcore, screamo" role="button">
+Underoath - They're Only Chasing Safety (2004-06-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/17f88c72-99db-495c-8fbd-37610350c785/14511746339-500.jpg" data-tags="emo" role="button">
 Taking Back Sunday - Where You Want to Be (2004-07-27)
 </li>
@@ -189,9 +195,6 @@ Silverstein - Discovering the Waterfront (2005-08-16)
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">
 Death Cab for Cutie - Plans (2005-08-29)
 </li>
-<li data-cover="http://coverartarchive.org/release/760bd43c-0bf3-43a4-8d1f-5995cb340481/11042148072-500.jpg" data-tags="pop punk, cartel" role="button">
-Cartel - Chroma (2005-09-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, catchy, pop punk, victory, theaudition, albums i might like to own, take in emule" role="button">
 The Audition - Controversy Loves Company (2005-09-20)
 </li>
@@ -225,17 +228,11 @@ Plain White T's - Hey There Delilah (2006-05-09)
 <li data-cover="http://coverartarchive.org/release/89eaa471-57ea-44e5-8c51-5267f56c795e/27285761349-500.jpg" data-tags="alternative rock, rock" role="button">
 AFI - Decemberunderground (2006-05-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/57eafc78-cefd-4048-baf0-073739ee918e/3014173374-500.jpg" data-tags="screamo, emocore, post-hardcore" role="button">
-Alesana - On Frail Wings of Vanity And Wax (2006-06-20)
-</li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="pop punk" role="button">
 Cute Is What We Aim For - The Same Old Blood Rush With A New Touch (2006-06-20)
 </li>
 <li data-cover="https://img.discogs.com/QPMnXIE11R-Bfg_UmDD19W68Udc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1288391-1206675152.jpeg.jpg" data-tags="emo" role="button">
 Dashboard Confessional - Dusk And Summer (2006-06-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/76360728-22dd-4c57-86d2-481b4a2e88fc/12966416160-500.jpg" data-tags="rock, alternative rock, emo, screamo" role="button">
-The Red Jumpsuit Apparatus - Don't You Fake It (2006-07-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/d75d73f2-b776-40a0-8379-8d5d2ac84920/10226803952-500.jpg" data-tags="pop punk" role="button">
 All Time Low - Put Up or Shut Up (2006-07-25)
@@ -281,6 +278,9 @@ The Starting Line - Direction (2007-07-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/7b0ee432-c50a-4e60-a9b0-88113c6879e1/22589899323-500.jpg" data-tags="rock, alternative, alternative rock, emo" role="button">
 Jimmy Eat World - Chase This Light (2007-10-06)
+</li>
+<li data-cover="https://img.discogs.com/1PvyKtZ-ooTwaD0TkN-cxj5VoGE=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3650727-1533415894-4992.jpeg.jpg" data-tags="post-hardcore, screamo" role="button">
+Eyes Set to Kill - Reach (2008-02-19)
 </li>
 <li data-cover="https://img.discogs.com/U50rcjtqpvGQt7Rt0QofMtJq7c4=/fit-in/600x614/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2961116-1595884207-6915.jpeg.jpg" data-tags="emo, pop punk, indie rock" role="button">
 Tigers Jaw - Tigers Jaw (2008-09-10)

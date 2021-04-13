@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:14:01.484Z
+date: 2021-04-13T05:05:01.521Z
 title: "surf rock: 100 albums you must listen to before you die"
 ---
 ![Beach Fossils - Beach Fossils (2010-05-25)](http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg "Beach Fossils - Beach Fossils (2010-05-25)")
@@ -75,6 +75,9 @@ Billy Idol - Vital Idol (1985)
 <li data-cover="https://img.discogs.com/FcQ3tiJxGQJ1JPol-vbrcFeTj4s=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-458109-1417713390-4253.jpeg.jpg" data-tags="surf rock" role="button">
 Shadowy Men On A Shadowy Planet - Savvy Show Stoppers (1988)
 </li>
+<li data-cover="https://img.discogs.com/Dtocqgbx9asVZyYdv3cWmPjgdEk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1665722-1394943231-1048.jpeg.jpg" data-tags="surf rock" role="button">
+Daddy Cool - Eagle Rock (1989-10-00)
+</li>
 <li data-cover="http://coverartarchive.org/release/54d4e470-8954-3bf1-99ea-da5f34171031/2390343039-500.jpg" data-tags="jazz, avant-garde" role="button">
 John Zorn - Naked City (1990-02-16)
 </li>
@@ -96,14 +99,14 @@ Satan's Pilgrims - Satan's Pilgrims (1994)
 <li data-cover="https://img.discogs.com/QTlSnmyBt5DarOZE1Es0Tn_JJZw=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2557639-1290345389.jpeg.jpg" data-tags="japanese" role="button">
 The 5.6.7.8's - The 5.6.7.8's (1994)
 </li>
-<li data-cover="https://img.discogs.com/0lt0VPynj-LOuYonLu-nUk0mr3Y=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1190936-1342893999-8971.jpeg.jpg" data-tags="surf, surf rock, merkliste" role="button">
-Man or Astro-Man? - Your Weight On The Moon (1994-08-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/b60147b4-f182-44cc-a359-58db5985d78a/28638241946-500.jpg" data-tags="surf" role="button">
 The Trashmen - Comic Book Collector (1995)
 </li>
 <li data-cover="https://img.discogs.com/sIuKXb4v-yPsufIxB7An52OKjns=/fit-in/150x144/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1077680-1295568508.jpeg.jpg" data-tags="instrumental, surf, live, surf rock, surf punk, bl00d7 m4r7, tr4sh13" role="button">
 Man or Astro-Man? - Live Transmissions From Uranus (1995)
+</li>
+<li data-cover="http://coverartarchive.org/release/6bc30b3d-5f40-40ba-81d0-100c4a8f0e88/24564428637-500.jpg" data-tags="surf" role="button">
+The Lively Ones - Surf Drums (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/52ef4bda-ca71-39d6-82f8-305cbbb56b62/22943777801-500.jpg" data-tags="surf rock, instrumental surf" role="button">
 Laika & The Cosmonauts - The Amazing Colossal Band (1995-02-07)
@@ -114,20 +117,17 @@ Guided by Voices - Alien Lanes (1995-04-04)
 <li data-cover="https://img.discogs.com/ET7Yy8_knfXR_aToSfd-_4mULc8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1750670-1333630000.jpeg.jpg" data-tags="alternative rock, 90s, rock" role="button">
 Everclear - Sparkle And Fade (1995-05-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/586a8a7b-58bb-4dbe-84db-888db26b874f/19807962683-500.jpg" data-tags="stoner rock" role="button">
-Fatso Jetson - Stinky Little Gods (1995-08-22)
-</li>
 <li data-cover="https://img.discogs.com/RcjewPXbgl6Dp7p7xmODjHS8RiQ=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11052324-1508954921-5731.jpeg.jpg" data-tags="80s, post-punk, gothic, darkwave, surf rock, gothic rock, music i tried but didnt like" role="button">
 And Also The Trees - Angelfish (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/b4875569-4a90-4e84-92a4-fe588c2e7af4/10047599054-500.jpg" data-tags="instrumental rock, surf rock, jazz-pop" role="button">
 The Marketts - Out of Limits! (1996)
 </li>
+<li data-cover="https://img.discogs.com/SxLq_Qr_-T_DaKXrsQo4WXNmyBQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2380185-1557434637-9565.jpeg.jpg" data-tags="rock, instrumental, surf, usa, american, surf rock, american rock" role="button">
+The Mermen - Songs Of The Cows (1996-02-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/9402093b-a9f9-4869-aaac-35f31ad7b717/28891888498-500.jpg" data-tags="surf rock, russian surf, plan, bl00d7 m4r7" role="button">
 Laika & The Cosmonauts - Zero Gravity (1996-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/20532932-c1f1-4c78-9127-4d8cdc5ad7b4/10425417412-500.jpg" data-tags="instrumental, surf, surf rock" role="button">
-Man or Astro-Man? - Experiment Zero (1996-04-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/588c155e-5905-49b7-934a-c0bdfaa5b6b9/15586507441-500.jpg" data-tags="surf, bl00d7 m4r7" role="button">
 The Volcanos - Surf Quake (1996-09-24)
@@ -174,14 +174,14 @@ The Space Cossacks - Tsar Wars (2000)
 <li data-cover="http://coverartarchive.org/release/22d3fdaf-dcaf-4b6c-a824-da6fd0d4edbe/19827808418-500.jpg" data-tags="instrumental, psychedelic, atmospheric, progressive, alt-country, surf rock, morricone ambient, big surf rock, big surf" role="button">
 The Mermen - The Amazing California Health and Happiness Road Show (2000-06-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/867b6dac-9b48-412f-b844-b1e199672ec0/25444207459-500.jpg" data-tags="gotanygoodmusic" role="button">
-The Beach Boys - Sunflower / Surf's Up (2000-07-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/74c846aa-01da-46a8-a873-3abe02986a18/8795071097-500.jpg" data-tags="surf rock" role="button">
 The Bambi Molesters - Sonic Bullets: 13 From the Hip (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/231dab45-51bb-4c6e-88fc-2a517ab40814/3651501815-500.jpg" data-tags="rock, garage rock, surf rock, surf music" role="button">
 Los Straitjackets - Damas y Caballeros! (2001-02-27)
+</li>
+<li data-cover="https://img.discogs.com/grATovIQyXm-N1MQnGTN1EHHZEk=/fit-in/595x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1047506-1284799865.jpeg.jpg" data-tags="surf rock" role="button">
+Robert Johnson And Punchdrunks - Cinemascope-A-Dope (2001-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d7d161-d216-3f04-9dd3-349bf6191148/23354822195-500.jpg" data-tags="surf, surf rock" role="button">
 Dick Dale - Spacial Disorientation (2001-11-13)
@@ -191,6 +191,9 @@ GO!GO!7188 - 魚磔 (2001-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/1032ded2-d9db-3f48-b25a-d2c065c2ee9e/24967222389-500.jpg" data-tags="japanese, rock, surf, garage rock" role="button">
 The 5.6.7.8's - Teenage Mojo Workout (2002)
+</li>
+<li data-cover="https://img.discogs.com/x5Rqk1rhqvLCN-0sZ4BgmCzcroE=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1581523-1417104066-8336.jpeg.jpg" data-tags="surf rock, snowboarding, discoverockult, amped 2, eleventeen, gtjk" role="button">
+Eleventeen - In The Air (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e015447-fcb7-4120-af78-93c214369507/15563346773-500.jpg" data-tags="japanese, punk rock, japan, surf rock, j-rock, goat, b1tchs, tategami" role="button">
 GO!GO!7188 - 鬣 (2003-02-06)
@@ -213,6 +216,9 @@ The Vines - Winning Days (2004-03-17)
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, pop rock, male vocalists" role="button">
 McFly - Room on the 3rd Floor (2004-07-05)
 </li>
+<li data-cover="https://img.discogs.com/ENFIo3wzbA8RHHUgJ9WdPxeSyqo=/fit-in/528x462/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-505520-1443883595-3314.jpeg.jpg" data-tags="punk rock, garage rock, psychedelic rock, surf rock" role="button">
+Afrirampo - URUSA IN JAPAN (2005-04-27)
+</li>
 <li data-cover="https://img.discogs.com/SOwiG1fbycNz_GIFEwPEN_HSeQ4=/fit-in/350x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-459924-1116599390.jpg.jpg" data-tags="rock" role="button">
 The Raveonettes - Pretty in Black (2005-05-03)
 </li>
@@ -231,17 +237,11 @@ Donavon Frankenreiter - The Abbey Road Sessions (2006-06-06)
 <li data-cover="https://img.discogs.com/5vS-ovT4MtsZtK0XsLSFYykA-aM=/fit-in/597x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-817925-1161891332.jpeg.jpg" data-tags="surf, surf rock, rock, instrumental, instrumental rock, instrumental surf" role="button">
 The Phantom Four - Madhur (2006-08-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/0d8ba774-340f-482e-ad13-0029f3bf2b56/19765630473-500.jpg" data-tags="desert rock" role="button">
-Ten East - Extraterrestrial Highway (2006-10-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/400b626c-7d7c-4ea0-a7c0-fe391b9464a7/19799047371-500.jpg" data-tags="stoner rock, psychedelic rock, surf rock, 00s" role="button">
 Yawning Man - Vista Point (2007-10-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/4ca312d1-a150-4aca-968f-c2ba04de2123/17336663430-500.jpg" data-tags="surf rock" role="button">
 L.Stadt - EL.P (2010)
-</li>
-<li data-cover="http://coverartarchive.org/release/66651ac8-dbf7-4977-8d3f-61d9bb9bc5c2/2087696044-500.jpg" data-tags="psychedelic rock" role="button">
-Yawning Man - Nomadic Pursuits (2010-04-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/de97e6e3-ed07-4bf6-b82a-398582b0e7c5/2896608641-500.jpg" data-tags="indie rock, surf rock" role="button">
 Beach Fossils - Beach Fossils (2010-05-25)
@@ -267,6 +267,9 @@ The Ventures - Walk Don't Run (2011-04-11)
 <li data-cover="http://coverartarchive.org/release/9a7c1804-ea49-3151-a3e9-9bfca4db9198/7037791415-500.jpg" data-tags="dream pop, surf rock, tough love records" role="button">
 Girls Names - Dead To Me (2011-04-25)
 </li>
+<li data-cover="https://img.discogs.com/xIbrXuJVJFlhTKBiEbWws29c9Ys=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3022852-1312158124.jpeg.jpg" data-tags="alternative, noise rock, punk rock, garage rock, surf rock" role="button">
+The Blind Shake - Seriousness (2011-07-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/b6b21d16-021f-48fe-a575-c46320cf3107/28325780282-500.jpg" data-tags="indie pop, new wave" role="button">
 The Drums - Portamento (2011-09-02)
 </li>
@@ -290,9 +293,6 @@ Allah-Las - Allah-Las (2012-09-18)
 </li>
 <li data-cover="https://img.discogs.com/OZM06ZVleqphXIjFPn49kOnUwb4=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4018199-1466511789-1576.jpeg.jpg" data-tags="indie rock" role="button">
 The Babies - Our House on the Hill (2012-11-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/2637eead-2d02-4608-8991-642dda755394/3800015679-500.jpg" data-tags="beach goth" role="button">
-The Growlers - Hung At Heart (2013-01-22)
 </li>
 <li data-cover="https://img.discogs.com/ho0WYhDrYbe9ztyquejGyWB9-0w=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4303534-1361208475-1865.jpeg.jpg" data-tags="indie rock" role="button">
 Beach Fossils - Clash The Truth (2013-02-19)

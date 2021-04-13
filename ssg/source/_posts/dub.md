@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:23:01.686Z
+date: 2021-04-13T05:43:07.075Z
 title: "dub: 100 albums you must listen to before you die"
 ---
 ![Fat Freddy&#39;s Drop - Based on a True Story (2005-05)](http://coverartarchive.org/release/0b3d401e-aa43-3e84-9b9b-51e0b67bce8a/5921779355-500.jpg "Fat Freddy's Drop - Based on a True Story (2005-05)")
@@ -177,6 +177,9 @@ Roots Manuva - Awfully Deep (2005-01-31)
 <li data-cover="http://coverartarchive.org/release/91af6753-4ef5-46b3-9fed-f51f1af23302/3974894022-500.jpg" data-tags="downtempo" role="button">
 Thievery Corporation - The Cosmic Game (2005-02-22)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
+Kanka - Don't Stop Dub (2005-04-11)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Slightly Stoopid - Closer To The Sun (2005-04-19)
 </li>
@@ -272,9 +275,6 @@ Rusko - O.M.G.! (2010-05-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/852a8638-6fc2-4be6-be9b-b7509d23ba2a/12148653044-500.jpg" data-tags="dub, dubstep, dance" role="button">
 Flux Pavilion - Got 2 Know / Normalize (2010-05-20)
-</li>
-<li data-cover="https://img.discogs.com/ASYC1WJYsNXjZ288Z1_x5gqAwMk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2555960-1296238358.jpeg.jpg" data-tags="indie pop, krautrock, psychedelic rock" role="button">
-Anika - Anika (2010-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 SOJA - Strength To Survive (2011)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:04:01.444Z
+date: 2021-04-13T05:07:07.074Z
 title: "dubstep: 100 albums you must listen to before you die"
 ---
 ![Nero - Welcome Reality (2011-08-12)](http://coverartarchive.org/release/7f49326e-aceb-4fc6-a1ec-671a0ef14eac/6441724282-500.jpg "Nero - Welcome Reality (2011-08-12)")
@@ -135,6 +135,9 @@ Beats Antique - Blind Threshold (2010-09-14)
 <li data-cover="http://coverartarchive.org/release/0ff3c020-7240-463b-875e-9565e15980bd/1291725158-500.jpg" data-tags="dubstep" role="button">
 Magnetic Man - Magnetic Man (2010-10-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/ac3c2a18-306b-3d59-b7ce-e1905c1df23a/16114741587-500.jpg" data-tags="dubstep" role="button">
+Bassnectar - Wildstyle (2010-10-19)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="dubstep, glitch hop" role="button">
 Gramatik - No Shortcuts (2010-10-29)
 </li>
@@ -269,9 +272,6 @@ Purity Ring - Shrines (2012-07-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c727f868-131c-4420-a752-3a44ee426ef2/16657845874-500.jpg" data-tags="electronic, dubstep, bass" role="button">
 Doctor P - Animal Vegetable Mineral - Part 1 (2012-08-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">
-Odesza - Summer's Gone (2012-09-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/e3c0e7c7-df7c-4b51-9894-e45d1480e7b5/11088776135-500.jpg" data-tags="alternative rock" role="button">
 Muse - The 2nd Law (2012-09-26)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:32:07.062Z
+date: 2021-04-13T05:24:01.495Z
 title: "psychedelic: 100 albums you must listen to before you die"
 ---
 ![MGMT - Congratulations (2010-04-07)](https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif "MGMT - Congratulations (2010-04-07)")
@@ -147,9 +147,6 @@ The Verve - Urban Hymns (1997-09-29)
 <li data-cover="http://coverartarchive.org/release/58e26176-9898-4a7e-837f-fcb221f1dfc1/21047497043-500.jpg" data-tags="indie, 90s, alternative, rock" role="button">
 The Flaming Lips - The Soft Bulletin (1999-05-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/413e60c9-6de0-4a1c-a1fb-e37655bfc1d2/7022558425-500.jpg" data-tags="psychedelic" role="button">
-Boredoms - Vision Creation Newsun (1999-10-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/a054c044-6da4-4822-a5a6-22549923d329/10078241639-500.jpg" data-tags="indie, rock" role="button">
 The Dandy Warhols - Thirteen Tales from Urban Bohemia (2000-06-12)
 </li>
@@ -278,6 +275,9 @@ Django Django - Django Django (2012-01-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/e2541a4f-c91e-412e-837b-ce63cc8ea960/5391811873-500.jpg" data-tags="dream pop" role="button">
 Grimes - Visions (2012-02-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/24187665-87de-40eb-82db-ad38b6ca1566/1078624918-500.jpg" data-tags="electronic, dubstep, electro" role="button">
+Infected Mushroom - Army of Mushrooms (2012-05-08)
 </li>
 <li data-cover="https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg" data-tags="soul, rnb" role="button">
 Frank Ocean - channel ORANGE (2012-07-10)

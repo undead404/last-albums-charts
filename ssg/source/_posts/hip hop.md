@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:40:07.102Z
+date: 2021-04-13T04:51:01.465Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -102,9 +102,6 @@ Common - Like Water for Chocolate (2000-03-28)
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
 </li>
-<li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
-OutKast - Stankonia (2000-10-23)
-</li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
 </li>
@@ -195,9 +192,6 @@ N*E*R*D - Seeing Sounds (2008-06-09)
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/62147d7a-6270-42a8-b92e-3580ff18685f/24502383678-500.jpg" data-tags="rap" role="button">
-T.I. - Paper Trail (2008-09-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
 </li>
@@ -230,6 +224,9 @@ Timbaland - Shock Value II (2009-12-04)
 </li>
 <li data-cover="https://img.discogs.com/_bfAsiamI9sXPc3OLRjsEL6dxmk=/fit-in/275x275/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2272641-1565112045-2308.jpeg.jpg" data-tags="chris brown, hip hop" role="button">
 Chris Brown - Graffiti (2009-12-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/672775d4-cc8b-4af8-8f5f-134e5676d608/2367827712-500.jpg" data-tags="hip-hop" role="button">
+Macklemore - The Unplanned Mixtape (2009-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/cc91709d-4a15-3d62-91e8-25a1464950fd/9935228575-500.jpg" data-tags="alternative" role="button">
 Gorillaz - Plastic Beach (2010-03-03)
@@ -302,6 +299,9 @@ The Weeknd - Kiss Land (2013-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
 Childish Gambino - Because the Internet (2013-12-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/20aa9b51-08b4-4f09-b88c-7017eaaea971/6528805292-500.jpg" data-tags="isaiah rashad" role="button">
+Isaiah Rashad - Cilvia Demo (2014-01-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/28bc6997-cbd6-4cfb-ac31-ed40acfa9c93/8163003772-500.jpg" data-tags="hip hop" role="button">
 Jason Derülo - Talk Dirty (2014-04-15)

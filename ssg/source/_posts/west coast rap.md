@@ -1,11 +1,11 @@
 ---
-date: 2021-04-12T20:58:01.463Z
+date: 2021-04-13T05:12:01.482Z
 title: "west coast rap: 100 albums you must listen to before you die"
 ---
 ![Kendrick Lamar - Section.80 (2011-07-02)](http://coverartarchive.org/release/d0b24c41-8562-47fb-bfe7-5f03397c41c7/24260710820-500.jpg "Kendrick Lamar - Section.80 (2011-07-02)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
-<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
+<li data-cover="https://img.discogs.com/2GgQjIjcDb1eAQyuyx6IXw0Sf78=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16516737-1608227995-7003.jpeg.jpg" data-tags="hip-hop, rap" role="button">Cypress Hill - Black Sunday (1993-07-20)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="http://coverartarchive.org/release/062680e6-450a-3431-bfb6-1f65fa8b849d/25678343558-500.jpg" data-tags="hip hop, rap, west coast rap" role="button">Xzibit - At The Speed Of Life (1996-10-01)</li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
@@ -93,9 +93,6 @@ Sicx - Dead 4 Life (1995)
 <li data-cover="http://coverartarchive.org/release/1d839287-fc18-4515-b9e6-5a1694d3869d/15197555065-500.jpg" data-tags="gangsta rap, west coast rap, yay area" role="button">
 Celly Cel - Killa Kali (1995)
 </li>
-<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
-2Pac - Me Against the World (1995)
-</li>
 <li data-cover="http://coverartarchive.org/release/854240fb-881f-416e-add7-06f632abc77d/9375489329-500.jpg" data-tags="west coast rap, oakland, 50 cent, 90s rap, rich finck, 90s bay rap, real life rhymes, lyrics to learn from, too short cocktails, to short cocktals" role="button">
 Too $hort - Cocktails (1995-01-24)
 </li>
@@ -159,14 +156,14 @@ Coolio - My Soul (1997-08-26)
 <li data-cover="http://coverartarchive.org/release/4cb7e36a-21ca-41c5-a67f-b5ab8697f3b2/6670711958-500.jpg" data-tags="hip-hop" role="button">
 The Psycho Realm - The Psycho Realm (1997-10-28)
 </li>
+<li data-cover="http://coverartarchive.org/release/7a623283-1ca0-4282-880b-74e2b7846272/15163783841-500.jpg" data-tags="hip-hop, west coast rap, rap-a-lot, my collection great 150 albumz of rap, real life rhymes, lydia lunch merkliste" role="button">
+Scarface - My Homies (1998-03-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/4adb7634-b3d9-4687-820a-052e2c32f8ab/14279529712-500.jpg" data-tags="west coast rap, g-funk, g-rap, west coas baby" role="button">
 WC - The Shadiest One (1998-04-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/b34d3b22-9b21-44a1-bbef-6ebc05bed361/5131421085-500.jpg" data-tags="hip-hop" role="button">
 Cypress Hill - IV (1998-10-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/01a98e51-cc5b-4244-9aec-6c3552d1e774/14285343454-500.jpg" data-tags="gangsta rap" role="button">
-Kurupt - Kuruption! (1998-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9486f1f-2205-4601-81dd-17dcb879e589/17095332282-500.jpg" data-tags="west coast rap" role="button">
 DJ Quik - rhythm-al-ism (1998-11-10)
@@ -176,6 +173,9 @@ DJ Quik - rhythm-al-ism (1998-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bdfbf57-5e2b-44f8-938c-c30c76de4bad/10735639975-500.jpg" data-tags="gangsta rap, g-funk, rap, west coast rap" role="button">
 Snoop Dogg - No Limit Top Dogg (1999-05-11)
+</li>
+<li data-cover="https://img.discogs.com/lrL8WIh1A8qmWeSrQ-b5OpowPFo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1197863-1327429370.jpeg.jpg" data-tags="west coast rap, g-funk" role="button">
+2nd II None - Classic 220 (1999-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:32:01.475Z
+date: 2021-04-13T04:54:01.484Z
 title: "rap: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -44,9 +44,6 @@ Method Man - Tical (1994-11-15)
 </li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
-</li>
-<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
-2Pac - Me Against the World (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">
 Mobb Deep - The Infamous (1995-04-18)
@@ -105,6 +102,9 @@ The Notorious B.I.G. - Born Again (1999-12-07)
 <li data-cover="http://coverartarchive.org/release/6e0de6ea-bf19-4d90-b97d-7ba8684de1b0/9239764655-500.jpg" data-tags="rap, hip hop, dmx" role="button">
 DMX - ...And Then There Was X (1999-12-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/0eaf3a43-f00e-4416-8ea3-759d1841e3c9/4402657853-500.jpg" data-tags="hip-hop" role="button">
+Common - Like Water for Chocolate (2000-03-28)
+</li>
 <li data-cover="http://coverartarchive.org/release/51544aed-52a1-42b9-aff0-9237ac3dd564/6693458596-500.jpg" data-tags="rap" role="button">
 Eminem - The Marshall Mathers LP (2000-05-22)
 </li>
@@ -113,9 +113,6 @@ Nelly - Country Grammar (2000-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b67af32-666a-43e9-90ff-1d5dcc3d7fdd/15889538896-500.jpg" data-tags="hip-hop" role="button">
 Big L - The Big Picture (2000-07-11)
-</li>
-<li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
-OutKast - Stankonia (2000-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/910cdb82-4237-4a10-a6f3-7795d6f297e6/3778768750-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Gorillaz (2001-03-24)
@@ -198,6 +195,9 @@ OutKast - Idlewild (2006-08-19)
 <li data-cover="http://coverartarchive.org/release/a44df8e4-87b9-48a7-9a18-795a5abf44c6/16180855087-500.jpg" data-tags="akon" role="button">
 Akon - Konvicted (2006-11-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/8ee2781d-9c6a-4e62-929e-9d74730a5095/10330710732-500.jpg" data-tags="rap, gangsta rap" role="button">
+Snoop Dogg - Tha Blue Carpet Treatment (2006-11-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/2709b271-05f3-43d1-b0bb-bd6f757cd7ea/9397869389-500.jpg" data-tags="rap, east coast rap, big" role="button">
 The Notorious B.I.G. - Greatest Hits (2007-03-05)
 </li>
@@ -215,9 +215,6 @@ Lupe Fiasco - The Cool (2007-12-18)
 </li>
 <li data-cover="https://img.discogs.com/jh4t6fyePwK2DmFIMS79etQ-LdE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289687-1442838570-1540.jpeg.jpg" data-tags="rap, hip-hop" role="button">
 Flo Rida - Mail On Sunday (2008-03-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/62147d7a-6270-42a8-b92e-3580ff18685f/24502383678-500.jpg" data-tags="rap" role="button">
-T.I. - Paper Trail (2008-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
@@ -305,6 +302,9 @@ Chance the Rapper - Acid Rap (2013-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/d32d031a-0a3a-44b5-9d7e-2a6a21790e04/4402882720-500.jpg" data-tags="hip hop, j cole, born sinner" role="button">
 J. Cole - Born Sinner (2013-06-14)
+</li>
+<li data-cover="http://coverartarchive.org/release/cce11ff7-7a5b-4a0b-b415-fa55e2cfca00/5976610444-500.jpg" data-tags="hip-hop" role="button">
+Earl Sweatshirt - Doris (2013-08-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/af54650b-5020-4b8b-a121-3f32f31d86eb/5905091136-500.jpg" data-tags="hip-hop" role="button">
 Childish Gambino - Because the Internet (2013-12-06)
