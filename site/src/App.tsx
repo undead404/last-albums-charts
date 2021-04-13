@@ -4,8 +4,6 @@ import React, { Suspense } from 'react';
 import { Root, Routes, addPrefetchExcludes, Head } from 'react-static';
 
 import './app.css';
-import FancyDiv from './components/FancyDiv';
-import Dynamic from './containers/Dynamic';
 
 // Any routes that start with 'dynamic' will be treated as non-static routes
 addPrefetchExcludes(['dynamic']);
@@ -67,14 +65,11 @@ function App(): JSX.Element {
         <Link to="/tag">Tags</Link>
       </nav>
       <div className="content">
-        <FancyDiv>
-          <Suspense fallback={<Skeleton />}>
-            <Router>
-              <Dynamic path="dynamic" />
-              <Routes path="*" />
-            </Router>
-          </Suspense>
-        </FancyDiv>
+        <Suspense fallback={<Skeleton />}>
+          <Router>
+            <Routes path="*" />
+          </Router>
+        </Suspense>
       </div>
     </Root>
   );

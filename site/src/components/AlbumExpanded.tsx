@@ -14,7 +14,6 @@ import AlbumTag from './AlbumTag';
 
 export interface AlbumExpandedProperties {
   album: Album;
-  availableTags: string[];
   tagName: string;
 }
 
@@ -41,13 +40,15 @@ const COLUMN: DescriptionsProps['column'] = {
 
 export default function AlbumExpanded({
   album,
-  availableTags,
   tagName,
 }: AlbumExpandedProperties): JSX.Element {
   const tagsPairs = useMemo(
     () =>
       sortBy(
-        filter(toPairs(album.tags), ([, tagCount]) => tagCount > MIN_TAG_COUNT),
+        filter(
+          toPairs(album.tags || undefined),
+          ([, tagCount]) => tagCount > MIN_TAG_COUNT,
+        ),
         ([, tagCount]) => -tagCount,
       ),
     [album.tags],
@@ -69,7 +70,6 @@ export default function AlbumExpanded({
         <Row gutter={TAGS_GUTTER} style={TAGS_ROW_STYLE}>
           {map(tagsPairs, ([tagNameItem, tagCount]) => (
             <AlbumTag
-              availableTags={availableTags}
               key={tagNameItem}
               tagCount={tagCount}
               tagName={tagNameItem}

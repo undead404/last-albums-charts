@@ -6,6 +6,7 @@ export default function useLogChanges<T>(
   value: T,
 ): void {
   useEffect(() => {
+    // eslint-disable-next-line no-console
     console.debug(where, what, value);
   }, [value, what, where]);
 }

@@ -17,7 +17,8 @@
     "noEmit": true,
     "baseUrl": ".",
     "resolveJsonModule": true,
-    "lib": ["dom", "es2015", "es2016"]
+    "lib": ["dom", "es2015", "es2016"],
+    "strictNullChecks": true
   },
   "exclude": ["artifacts/**/*", "dist/**/*", "public/**/*", "node_modules"]
 }

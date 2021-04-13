@@ -9,17 +9,23 @@ import mongoDatabase from '../common/mongo-database';
 
 import generateSearchIndex from './generate-search-index';
 import saveTags from './save-tags';
+import generateTopList from './generate-top-list';
 
 const ROOT_FOLDER = path.resolve(path.join(__dirname, '..', '..', '..'));
+const SITE_FOLDER = path.resolve(path.join(ROOT_FOLDER, 'site'));
 
-function execute(command: string): Promise<number> {
-  return new Promise<number>((resolve, reject) => {
+async function execute(command: string): Promise<void> {
+  logger.debug(command);
+  const statusCode = await new Promise<number>((resolve, reject) => {
     const process = childProcess.exec(command);
     process.on('error', reject);
     process.on('close', resolve);
     process.stdout?.on?.('data', (data) => logger.debug(data));
     process.stderr?.on?.('data', (data) => logger.warn(data));
   });
+  if (statusCode) {
+    throw new Error('Failure');
+  }
 }
 
 async function run() {
@@ -30,8 +36,9 @@ async function run() {
     }
     await saveTags();
     await generateSearchIndex();
+    await generateTopList();
     await execute(`cd ${ROOT_FOLDER} && npx eslint site --fix`);
-    await execute(`cd site && yarn deploy`);
+    await execute(`cd ${SITE_FOLDER} && yarn deploy`);
     logger.info('Deploy successful');
     await publish('perf', {
       end: new Date().toISOString(),

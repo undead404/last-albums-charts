@@ -35,3 +35,5 @@ client/scripts/*.js
 **/*.min.js
 site/node_modules
 site/artifacts
+site/dist
+site/tmp

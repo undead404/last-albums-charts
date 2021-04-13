@@ -17,8 +17,8 @@ const AVERAGE_ALBUM_DURATION = AVERAGE_SONG_DURATION * AVERAGE_NUMBER_OF_TRACKS;
 const DELAY = 5000;
 const LIST_LENGTH = 100;
 
-export default async function generateList(): Promise<void> {
-  logger.debug('generateList: start');
+export default async function updateList(): Promise<void> {
+  logger.debug('updateList: start');
   const start = new Date();
   let tagRecord: TagRecord | undefined;
   try {
@@ -32,7 +32,7 @@ export default async function generateList(): Promise<void> {
     }
     if (isTagBlacklisted(tagRecord.name)) {
       await mongodb.tags.deleteOne({ name: tagRecord.name });
-      await generateList();
+      await updateList();
       return;
     }
     let albums:
@@ -103,16 +103,16 @@ export default async function generateList(): Promise<void> {
     await saveList(tagRecord, albums);
     if (!albums) {
       await sleep(DELAY);
-      await generateList();
+      await updateList();
     } else {
-      logger.debug('generateList: success');
+      logger.debug('updateList: success');
 
       await publish('perf', {
         end: new Date().toISOString(),
         start: start.toISOString(),
         success: true,
         targetName: tagRecord?.name,
-        title: 'generateList',
+        title: 'updateList',
       });
     }
   } catch (error) {
@@ -121,7 +121,7 @@ export default async function generateList(): Promise<void> {
       start: start.toISOString(),
       success: false,
       targetName: tagRecord?.name,
-      title: 'generateList',
+      title: 'updateList',
     });
     throw error;
   }

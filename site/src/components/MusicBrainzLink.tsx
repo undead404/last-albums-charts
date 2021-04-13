@@ -11,7 +11,7 @@ export interface MusicBrainzLinkProperties {
 
 export default function MusicBrainzLink({
   album,
-}: MusicBrainzLinkProperties): JSX.Element {
+}: MusicBrainzLinkProperties): JSX.Element | null {
   if (!album.mbid) {
     return null;
   }

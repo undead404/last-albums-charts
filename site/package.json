@@ -46,7 +46,7 @@
     "build": "react-static build",
     "bundle": "react-static bundle",
     "clean": "rimraf ./dist",
-    "deploy": "yarn clean && yarn build && surge ./dist --domain you-must-hear.surge.sh",
+    "deploy": "yarn build && surge ./dist --domain you-must-hear.surge.sh",
     "export": "react-static export",
     "serve": "serve dist -p 3000 -s",
     "snap": "react-snap",

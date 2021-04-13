@@ -10,6 +10,7 @@ import toUpper from 'lodash/toUpper';
 import React, { CSSProperties, Fragment, useMemo } from 'react';
 import { useRouteData } from 'react-static';
 
+import useLogChanges from '../hooks/use-log-changes';
 import goBack from '../utils/go-back';
 
 const LINK_STYLE: CSSProperties = {
@@ -17,16 +18,25 @@ const LINK_STYLE: CSSProperties = {
   padding: '0.5rem',
 };
 
+export interface TagsListRouteData {
+  availableTags?: {
+    data: string[];
+  };
+}
+
 export default function TagsList(): JSX.Element {
-  const { availableTags }: { availableTags: string[] } = useRouteData();
+  const availableTags = useRouteData<TagsListRouteData>().availableTags?.data;
   const groupedTags = useMemo<[string, string[]][]>(
     () =>
-      sortBy(
-        toPairs<string[]>(groupBy<string>(sortBy(availableTags), head)),
-        0,
-      ),
+      availableTags
+        ? sortBy(
+            toPairs<string[]>(groupBy<string>(sortBy(availableTags), head)),
+            0,
+          )
+        : [],
     [availableTags],
   );
+  useLogChanges('TagsList', 'groupedTags', groupedTags);
   return (
     <Layout>
       <Layout.Header>

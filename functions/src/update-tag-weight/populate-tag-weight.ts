@@ -7,7 +7,7 @@ import pickTag from './pick-tag';
 const HUNDRED_MILLIONS = 100_000_000;
 const NORMALIZATION = 1 / HUNDRED_MILLIONS;
 
-export default async function populateTagWeight(): Promise<void> {
+export default async function updateTagWeight(): Promise<void> {
   const start = new Date();
   const tag = await pickTag();
   if (!tag) {
@@ -15,7 +15,7 @@ export default async function populateTagWeight(): Promise<void> {
     return;
   }
   try {
-    logger.info(`populateTagWeight: ${tag.name}`);
+    logger.info(`updateTagWeight: ${tag.name}`);
     const [{ power } = { power: 0 }] = await mongoDatabase.albums
       .aggregate<{ power: number }>([
         { $match: { [`tags.${tag.name}`]: { $gt: 0 } } },
@@ -44,7 +44,7 @@ export default async function populateTagWeight(): Promise<void> {
       start: start.toISOString(),
       success: true,
       targetName: tag.name,
-      title: 'populateTagWeight',
+      title: 'updateTagWeight',
     });
   } catch (error) {
     await publish('perf', {
@@ -52,7 +52,7 @@ export default async function populateTagWeight(): Promise<void> {
       start: start.toISOString(),
       success: false,
       targetName: tag.name,
-      title: 'populateTagWeight',
+      title: 'updateTagWeight',
     });
     throw error;
   }

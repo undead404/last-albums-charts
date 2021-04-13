@@ -20,7 +20,7 @@ export default function TagImage({ tag }: TagImageProperties): JSX.Element {
     ? albumWithCover.thumbnail
     : 'https://via.placeholder.com/150';
   return (
-    <Tooltip title={getAlbumTitle(albumWithCover)}>
+    <Tooltip title={albumWithCover ? getAlbumTitle(albumWithCover) : undefined}>
       <Avatar src={imageUrl} />
     </Tooltip>
   );

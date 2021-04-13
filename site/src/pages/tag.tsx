@@ -26,7 +26,7 @@ function getAlbumKey(album: Album): string {
   return getAlbumTitle(album, false);
 }
 
-function stopPropagation(event: MouseEvent): void {
+function stopPropagation(event: MouseEvent<HTMLDivElement>): void {
   event.stopPropagation();
 }
 
@@ -62,7 +62,7 @@ const COLUMNS: TableProps<Weighted<Album>>['columns'] = [
     dataIndex: 'date',
     defaultSortOrder: 'ascend',
     sorter(album1, album2) {
-      return compareStrings(album1.date, album2.date);
+      return compareStrings(album1.date || '', album2.date || '');
     },
     title: 'Released at',
   },
@@ -89,23 +89,16 @@ const COLUMNS: TableProps<Weighted<Album>>['columns'] = [
 
 export default function TagPage(): JSX.Element {
   const {
-    availableTags,
     tag,
   }: { availableTags: string[]; tag: SerializedTag } = useRouteData();
   const expandable = useMemo<TableProps<Album>['expandable']>(
     () => ({
       expandedRowRender(album: Album) {
-        return (
-          <AlbumExpanded
-            album={album}
-            availableTags={availableTags}
-            tagName={tag.name}
-          />
-        );
+        return <AlbumExpanded album={album} tagName={tag.name} />;
       },
       expandRowByClick: true,
     }),
-    [availableTags, tag.name],
+    [tag.name],
   );
   return (
     <Layout>
@@ -136,7 +129,7 @@ export default function TagPage(): JSX.Element {
       <Layout.Content>
         <Table
           columns={COLUMNS}
-          dataSource={tag.topAlbums}
+          dataSource={tag.topAlbums || undefined}
           expandable={expandable}
           pagination={false}
           rowKey={getAlbumKey}

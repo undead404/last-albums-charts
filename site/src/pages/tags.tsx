@@ -38,7 +38,7 @@ const COLUMNS: TableProps<Tag>['columns'] = [
   {
     key: 'listCreatedAt',
     render(_value, tag) {
-      return formatISO(tag.listCreatedAt);
+      return tag.listCreatedAt ? formatISO(tag.listCreatedAt) : 'Never';
     },
     responsive: ['md', 'lg', 'xl', 'xxl'],
     sorter(tag1, tag2) {
@@ -49,7 +49,7 @@ const COLUMNS: TableProps<Tag>['columns'] = [
   {
     key: 'lastProcessedAt',
     render(_value, tag) {
-      return formatISO(tag.lastProcessedAt);
+      return tag.lastProcessedAt ? formatISO(tag.lastProcessedAt) : 'Never';
     },
     responsive: ['lg', 'xl', 'xxl'],
     sorter(tag1, tag2) {

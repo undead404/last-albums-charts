@@ -7,7 +7,7 @@ module.exports = {
   apps: [
     {
       autorestart: false,
-      cron_restart: '45 */3 * * *',
+      cron_restart: '45 6 * * *',
       env: {
         APP_NAME: 'deploy',
       },

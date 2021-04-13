@@ -17,10 +17,6 @@ export default async function main(): Promise<void> {
       const album: AlbumAmqpPayload = content;
       const start = new Date();
       try {
-        if (!album.mbid) {
-          logger.warn('This album got no MusicBrainz ID');
-          return;
-        }
         await populateAlbumDate(album);
         await publish('perf', {
           end: new Date().toISOString(),
