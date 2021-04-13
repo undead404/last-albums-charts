@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:06:01.467Z
+date: 2021-04-13T07:45:03.929Z
 title: "french: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -102,9 +102,6 @@ M83 - Dead Cities, Red Seas & Lost Ghosts (2003-04)
 <li data-cover="http://coverartarchive.org/release/d53910d5-cbde-4b1d-aaba-d965be707409/1633034381-500.jpg" data-tags="french" role="button">
 Julie Delpy - Julie Delpy (2003-05-19)
 </li>
-<li data-cover="https://img.discogs.com/krZc4oV8ormEt0DY_XKT1-w2-ls=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1132866-1194713551.jpeg.jpg" data-tags="french" role="button">
-Keren Ann - Not Going Anywhere (2003-11-25)
-</li>
 <li data-cover="https://img.discogs.com/yLYJzusfSAoVituOKpcjTjuv3-c=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-233890-1366479138-3160.jpeg.jpg" data-tags="house, electronic" role="button">
 Daft Punk - Daft Club (2003-11-27)
 </li>
@@ -155,6 +152,9 @@ Syd Matters - Someday We Will Foresee Obstacles (2005-04-05)
 </li>
 <li data-cover="https://img.discogs.com/SlNaFUDSF6C3MKfyddNjzgmu81Q=/fit-in/480x640/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4934202-1379869377-5126.jpeg.jpg" data-tags="electronic" role="button">
 Justice - Justice (2005-08-02)
+</li>
+<li data-cover="https://img.discogs.com/n6RxQIreY_P_N3D2pi38CmQNLmU=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15454907-1591804356-3077.jpeg.jpg" data-tags="warp, idm, glitch" role="button">
+Jackson and His Computer Band - Smash (2005-09-19)
 </li>
 <li data-cover="https://img.discogs.com/ASeroQUfD0aGP6R7jv7nqw7MNRo=/fit-in/578x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-973999-1255248828.jpeg.jpg" data-tags="french, electro" role="button">
 Revolte - Fucking On Music (2006)

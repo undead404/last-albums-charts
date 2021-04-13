@@ -1,17 +1,17 @@
 ---
-date: 2021-04-13T00:09:01.532Z
+date: 2021-04-13T07:24:07.102Z
 title: "female vocal: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
-<li data-cover="https://img.discogs.com/GF44z6i8j3IZuoDJhSnLnRTkJpw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-596904-1357856604-4283.jpeg.jpg" data-tags="90s" role="button">Kate Bush - The Red Shoes (1994-04-05)</li>
 <li data-cover="https://img.discogs.com/GtoMOXBxTsOqrQvOQ4_degxBtlA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-31372-1258068612.jpeg.jpg" data-tags="electronica, everything but the girl, electronic, lounge" role="button">Everything But the Girl - Temperamental (2000-02-18)</li>
-<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">Alanis Morissette - So-Called Chaos (2004-04-21)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">Gwen Stefani - Wind It Up (2006-10-31)</li>
 <li data-cover="http://coverartarchive.org/release/556432f0-5442-485a-99c2-a53ec51b9be5/4394678336-500.jpg" data-tags="alternative, polish, female vocalist" role="button">Maria Peszek - Maria Awaria (2008)</li>
 <li data-cover="http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg" data-tags="pop" role="button">Jessie J - Who You Are (2011-02-28)</li>
 <li data-cover="http://coverartarchive.org/release/912b8823-b2f1-4a29-a5f2-d731d1da5363/6729189011-500.jpg" data-tags="indie pop, female vocal" role="button">Meg & Dia - Cocoon (2011-03-15)</li>
+<li data-cover="http://coverartarchive.org/release/42eefdb0-1825-4bec-ae44-17e545944905/2114440214-500.jpg" data-tags="alternative rock, female vocal, the nearly deads" role="button">The Nearly Deads - The Nearly Deads (2011-03-21)</li>
+<li data-cover="http://coverartarchive.org/release/775619a2-3ac1-49bd-8ac8-582c1212d5f3/2103730934-500.jpg" data-tags="british, indie rock, female vocal, she sings so sweetly" role="button">The Joy Formidable - The Big More (2011-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/fd1faa20-3446-49ac-b157-9b7db785ee2f/23101941298-500.jpg" data-tags="electronic, trip-hop, drum and bass, female vocal, need to listen, favorite albums 2012" role="button">Kosheen - Independence (2012-09-21)</li>
 <li data-cover="https://img.discogs.com/rMymncmEsiAUFl8myydAfMSqtC0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-576774-1144503180.jpeg.jpg" data-tags="electronic, dance, female vocal" role="button">Karen Overton - Your Loving Arms (2013-11-01)</li>
 </ol>
@@ -39,17 +39,11 @@ Beth Nielsen Chapman - Beth Nielsen Chapman (1990-09-25)
 <li data-cover="https://img.discogs.com/IwkFDFzwN8Fi4tQ2PRIt0e53ZYY=/fit-in/600x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1059626-1366147248-3602.jpeg.jpg" data-tags="female vocal" role="button">
 Sophie B. Hawkins - Right Beside You (1994)
 </li>
-<li data-cover="https://img.discogs.com/GF44z6i8j3IZuoDJhSnLnRTkJpw=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-596904-1357856604-4283.jpeg.jpg" data-tags="90s" role="button">
-Kate Bush - The Red Shoes (1994-04-05)
-</li>
 <li data-cover="https://img.discogs.com/q26FD6FSOUvi6Nmjh-rL3W9-9_0=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8737833-1467692248-4547.jpeg.jpg" data-tags="house, female vocal" role="button">
 Grace - Skin On Skin (1995)
 </li>
 <li data-cover="http://coverartarchive.org/release/91231e74-2674-411e-968f-b188bb67b711/10340680649-500.jpg" data-tags="pop" role="button">
 Everything But the Girl - The Best of Everything But The Girl (1996-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/9af39462-c1a0-4c45-b1c9-300ba2490f6a/4155878252-500.jpg" data-tags="vocal, female vocalists, female" role="button">
-Sarah Brightman - Timeless (1997-05-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8c204ba-878e-4b15-9120-919844065766/8930596783-500.jpg" data-tags="finnish" role="button">
 Värttinä - Vihma (1998-07-23)
@@ -135,9 +129,6 @@ Ten2Five - I Will Fly (2004)
 <li data-cover="https://img.discogs.com/n4fJj223Tn1cwWOBMkF7aIG7qrw=/fit-in/185x185/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-774167-1157392652.jpeg.jpg" data-tags="dream pop, slowcore" role="button">
 Tacoma Radar - No One Waved Goodbye (2004-04-12)
 </li>
-<li data-cover="https://img.discogs.com/CCxUwRm81jM_0CM802lS8k56_Q0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7779793-1448665081-4807.jpeg.jpg" data-tags="rock, female vocalists" role="button">
-Alanis Morissette - So-Called Chaos (2004-04-21)
-</li>
 <li data-cover="https://img.discogs.com/SkOVTB9JQ5WftF5ZUyafUxWyeXc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-904823-1171286109.jpeg.jpg" data-tags="female fronted metal, metalcore, hardcore, female vocal, female growling, female growl, female metal vocalist, luckes" role="button">
 Bloodlined Calligraphy - The Beginning Of The End (2004-07-24)
 </li>
@@ -146,6 +137,9 @@ Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
 <li data-cover="https://img.discogs.com/hCUjfBdfZiUgJvofzEgsK0THyRw=/fit-in/600x969/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10992708-1507824744-8278.jpeg.jpg" data-tags="japanese, pop, utada" role="button">
 Utada - Exodus (2004-09-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/3cc0ba30-f9d0-4419-8289-d74eadb4f124/14313150732-500.jpg" data-tags="jazz, female jazz vocalists" role="button">
+Nancy Wilson - Guess Who I Saw Today: Nancy Wilson Sings Of Lost Love (2005)
 </li>
 <li data-cover="https://img.discogs.com/yq1jA9WkBRLihLbrF4bQkkmRnwg=/fit-in/353x348/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-740286-1153913153.jpeg.jpg" data-tags="jazz, vocal jazz" role="button">
 Torun Eriksen - Prayers & Observations (2005)
@@ -192,6 +186,9 @@ Sonique - On Kosmo (2006-08-26)
 <li data-cover="https://img.discogs.com/FRchm-ua0ulSBfFiF9xPb-ssIHY=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-866191-1491226575-8701.jpeg.jpg" data-tags="pop, female vocal, gwen stefani" role="button">
 Gwen Stefani - Wind It Up (2006-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/00a87f6e-d142-4551-851b-8d16a28d665d/5576245338-500.jpg" data-tags="power metal" role="button">
+Triosphere - Onwards (2006-11-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/ee118ec3-7b10-4190-a736-d93a828d17f1/13213458985-500.jpg" data-tags="female vocal" role="button">
 Lisa Bund - Born Again (2007)
 </li>
@@ -224,6 +221,9 @@ Meredith Andrews - The Invitation (2008-04-29)
 </li>
 <li data-cover="https://img.discogs.com/IYtjXhsYs3s7bc9okP4akm9Wt8g=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4580751-1368998838-5583.jpeg.jpg" data-tags="metalcore" role="button">
 Straight Line Stitch - When Skies Wash Ashore (2008-08-19)
+</li>
+<li data-cover="https://img.discogs.com/qIY8xDzm6ORDeYM5ywcaypGjqUc=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3059343-1532277012-1018.jpeg.jpg" data-tags="female, female vocalists, singer-songwriter, fusion, christian, christian rock, female vocals, female vocalist, female artists, female vocal, soft-rock, kenan, wonderful women, godly girls" role="button">
+Ayiesha Woods - Love Like This (2008-09-09)
 </li>
 <li data-cover="https://img.discogs.com/Q9zdkKnGSe3jWvoKVspZmCdLpMM=/fit-in/496x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5161884-1386178440-3303.jpeg.jpg" data-tags="female, canadian, rnb, female vocal, idol, katharine, mcphee" role="button">
 Eva Avila - Give Me The Music (2008-10-28)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:51:01.450Z
+date: 2021-04-13T07:38:01.575Z
 title: "hardcore punk: 100 albums you must listen to before you die"
 ---
 ![Rise Against - Siren Song of the Counter Culture (2004-08-10)](https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg "Rise Against - Siren Song of the Counter Culture (2004-08-10)")
@@ -72,17 +72,11 @@ Dead Kennedys - Give Me Convenience or Give Me Death (1987-05)
 <li data-cover="http://coverartarchive.org/release/439148c3-0e6a-3f3d-81f3-fea3d09e5280/27077757196-500.jpg" data-tags="punk, crossover, hardcore punk, crossover thrash, hardcore, thrash metal" role="button">
 Suicidal Tendencies - Join The Army (1987-06-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/65d5b49f-cf1b-3651-9fdd-ed54ce1a9a85/3837064934-500.jpg" data-tags="hardcore punk, punk" role="button">
-Minor Threat - Complete Discography (1989)
-</li>
 <li data-cover="http://coverartarchive.org/release/3b7b3ed6-1d46-4d49-ad8d-014f3d4086bd/1482836258-500.jpg" data-tags="punk, ska, ska punk, punk rock" role="button">
 Operation Ivy - Energy (1989-03-15)
 </li>
 <li data-cover="https://img.discogs.com/m8gMkP7Mn1jSXfEwT_KIW6ZwFqI=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1230764-1432802058-7063.jpeg.jpg" data-tags="punk rock, hardcore punk" role="button">
 NOFX - S&M Airlines (1989-06-13)
-</li>
-<li data-cover="http://coverartarchive.org/release/df11248d-6a31-3a7d-a7a8-d384e6b3765c/17273598522-500.jpg" data-tags="hardcore, hardcore punk" role="button">
-Gorilla Biscuits - Start Today (1989-06-24)
 </li>
 <li data-cover="https://img.discogs.com/mCYOZDBEcuVVw32N09qfYfPxRMM=/fit-in/600x580/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1080141-1447207385-1518.jpeg.jpg" data-tags="punk rock, punk" role="button">
 Bad Religion - No Control (1989-07-15)
@@ -180,6 +174,9 @@ Rise Against - The Unraveling (2001-04-24)
 <li data-cover="http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg" data-tags="metalcore, mathcore, hardcore" role="button">
 Converge - Jane Doe (2001-09-04)
 </li>
+<li data-cover="https://img.discogs.com/MtYHTCia4rw6pYFRUbieOpemDEc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1025561-1478036737-2429.jpeg.jpg" data-tags="hardcore, hardcore punk, bridge nine, you need to own this" role="button">
+Carry On - A Life Less Plagued (2001-10-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/484a2a59-4b01-444a-b0f6-15d902c4d4fb/9105772933-500.jpg" data-tags="skate punk" role="button">
 Charlie Brown JR. - Bocas Ordinárias (2002)
 </li>
@@ -216,9 +213,6 @@ The Casualties - On the Front Line (2004-02-17)
 <li data-cover="https://img.discogs.com/UfLrxOhXZkg5XKtw_vA7ZjqEGm8=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-383403-1450846625-6064.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Siren Song of the Counter Culture (2004-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/04c35470-b7b9-42a0-97b8-a112bb868b2d/8348093159-500.jpg" data-tags="straight edge, hardcore" role="button">
-Champion - Promises Kept (2004-09-07)
-</li>
 <li data-cover="http://coverartarchive.org/release/e3f3dd24-798c-4d2e-8f34-7e97d3ced433/7264557525-500.jpg" data-tags="hardcore, metalcore, mathcore" role="button">
 Converge - You Fail Me (2004-09-15)
 </li>
@@ -230,6 +224,9 @@ Comeback Kid - Wake The Dead (2005-02-28)
 </li>
 <li data-cover="https://img.discogs.com/slJpt5xpPcn6XgD-TLcUhWieYZg=/fit-in/495x494/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2768340-1300979914.jpeg.jpg" data-tags="punk, street punk, hardcore punk" role="button">
 The Unseen - State of Discontent (2005-05-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/432ed334-5a0d-44fc-932a-b2a9e00d8cfa/13497602175-500.jpg" data-tags="punk rock, pop punk, melodic hardcore, hardcore punk, melodycore, easycore" role="button">
+Daggermouth - Stallone (2005-08-22)
 </li>
 <li data-cover="https://img.discogs.com/EInZAV_W02n2rIqFuuO7DXrcWzs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1878619-1249674773.jpeg.jpg" data-tags="hardcore punk" role="button">
 Gallows - Orchestra of Wolves (2006)
@@ -260,6 +257,9 @@ Charlie Brown JR. - Ritmo, Ritual e Responsa (2007-11-07)
 </li>
 <li data-cover="https://img.discogs.com/rs5B6eqcs87nHqA9WBkpn8qo5u0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10608268-1500857602-6600.jpeg.jpg" data-tags="hardcore, nyhc" role="button">
 Agnostic Front - Warriors (2007-11-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/c5c4433a-3121-4b60-807e-2522453fce39/3323293272-500.jpg" data-tags="punk, hardcore, punk rock, hardcore punk" role="button">
+Paint It Black - New Lexicon (2008-02-19)
 </li>
 <li data-cover="https://img.discogs.com/zwNtYfERtsVm4UQdHh_Rbk850Io=/fit-in/385x379/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690774-1337043295-1654.jpeg.jpg" data-tags="punk rock, melodic hardcore" role="button">
 Rise Against - Appeal to Reason (2008-10-02)

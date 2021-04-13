@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:54:01.453Z
+date: 2021-04-13T07:02:01.524Z
 title: "classic: 100 albums you must listen to before you die"
 ---
 ![Nas - Illmatic (1994-04-15)](https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg "Nas - Illmatic (1994-04-15)")
@@ -21,11 +21,17 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/bMvJmpLTFAYXWeYBGPfDNvFUNQ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3420885-1330120174.jpeg.jpg" data-tags="jazz, sinatra" role="button">
+Frank Sinatra - Classic Sinatra (1964)
+</li>
 <li data-cover="https://img.discogs.com/VfUPo4sEAT33NgmIB200N-9g2V8=/fit-in/555x553/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4601243-1369602202-5646.jpeg.jpg" data-tags="rock" role="button">
 The Kinks - You Really Got Me (1964-10-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/6da93804-cb6f-46da-9a76-ab0acf87953e/9498242118-500.jpg" data-tags="classic, mod" role="button">
 Small Faces - From the Beginning (1967-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/9246bec3-3805-417e-9fdc-7f5c3f074821/8749824583-500.jpg" data-tags="classic rock, blues rock, swamp rock" role="button">
+Creedence Clearwater Revival - Creedence Clearwater Revival (1968-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/c29d7552-b5df-42b8-aae7-03d1e250cb3a/2987858774-500.jpg" data-tags="psychedelic rock, 60s" role="button">
 The Doors - The Soft Parade (1969-07)
@@ -105,9 +111,6 @@ Gang Starr - Step In The Arena (1990)
 <li data-cover="https://via.placeholder.com/450" data-tags="classical, johann strauss ii" role="button">
 Johann Strauss II - Vienna of My Dreams (1990)
 </li>
-<li data-cover="http://coverartarchive.org/release/aae239f9-aadc-4fbc-97a1-8ee7d6ab3068/15785109020-500.jpg" data-tags="chillout, hip hop, classic, dreamy, cinematic, crossover, eclectic, faves, favs, primary, geniaal, wonderschoon, jazzy hip hop, tutka, beats for days, excellent lyricism, verschiedenes, 4nas, nadh, vemu, better than 2pac" role="button">
-MC 900 Ft Jesus - Welcome to My Dream (1991)
-</li>
 <li data-cover="https://img.discogs.com/cIE0Udf_oninwXbOGogS9bpQhC4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-895896-1170340668.jpeg.jpg" data-tags="golden age hip hop" role="button">
 Main Source - Breaking Atoms (1991-07-23)
 </li>
@@ -119,6 +122,9 @@ Dr. Dre - The Chronic (1992-12-15)
 </li>
 <li data-cover="https://img.discogs.com/xZwC2Jkr_FDnLqb4L--AHlRNpQw=/fit-in/450x471/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4595417-1436162339-8307.jpeg.jpg" data-tags="60s, donovan" role="button">
 Donovan - Catch the Wind (1993)
+</li>
+<li data-cover="http://coverartarchive.org/release/309015a1-22da-4903-b4e0-d6d166534bc4/20531816478-500.jpg" data-tags="90s, rnb, pop" role="button">
+Janet Jackson - Janet (1993-05-17)
 </li>
 <li data-cover="https://img.discogs.com/BPm1tRc82RVJSwNtAU_IcS_WfM0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129541-1611603191-2116.jpeg.jpg" data-tags="hip-hop" role="button">
 Nas - Illmatic (1994-04-15)
@@ -198,8 +204,8 @@ Simon & Garfunkel - The Best Of Simon & Garfunkel (1999-11-16)
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">
 Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 </li>
-<li data-cover="https://img.discogs.com/JCxzS2VxXpGs-JtZtLmtmeYg4-I=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13545257-1556249200-1771.png.jpg" data-tags="hip-hop" role="button">
-OutKast - Stankonia (2000-10-23)
+<li data-cover="http://coverartarchive.org/release/3e1b3d08-3af2-43ac-8010-64a801b45d25/10003126515-500.jpg" data-tags="spanish, pop" role="button">
+La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
 </li>
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="classic rock, 60s, rock" role="button">
 The Beatles - 1 (2000-11-13)
@@ -222,9 +228,6 @@ Cam'ron - Come Home With Me (2002-05-14)
 <li data-cover="http://coverartarchive.org/release/6d217fbd-28fc-4f4b-86c2-cdb9e45563f9/11145293722-500.jpg" data-tags="country" role="button">
 Johnny Cash - The Man Comes Around (2002-11-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/07041b80-aa46-4f9f-bd7e-d4400d627180/2801140623-500.jpg" data-tags="hip-hop" role="button">
-Talib Kweli - Quality (2002-11-18)
-</li>
 <li data-cover="https://img.discogs.com/eMQQeWN88L92aQyCEfAU2kIQNJk=/fit-in/528x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-376779-1128950534.jpeg.jpg" data-tags="rock, indie, disco rock" role="button">
 Electric Six - Fire (2003-05-20)
 </li>
@@ -236,12 +239,6 @@ Dizzee Rascal - Boy in da Corner (2003-07-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/dda524f5-fb0c-4b3d-b9c8-cf5a9091f4c4/24387260473-500.jpg" data-tags="rap" role="button">
 Canibus - Rip The Jacker (2003-08-22)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
-</li>
-<li data-cover="http://coverartarchive.org/release/0db476e3-af43-4bef-8c7f-07eb55ecb6e0/6939130778-500.jpg" data-tags="emo, post-hardcore, boys night out" role="button">
-Boys Night Out - Make Yourself Sick (2003-09-23)
 </li>
 <li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">
 Maurice Ravel - Piano Concerto (2004)
@@ -314,6 +311,9 @@ Beady Eye - BE (2013-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/7232a37e-9f53-4551-9a8e-3f11f53c831f/6506883340-500.jpg" data-tags="hello" role="button">
 MKTO - Classic (2013-06-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/7cdac008-aaa2-4741-98ad-e4089dff00b2/6644098737-500.jpg" data-tags="britpop" role="button">
+Suede - Dog Man Star (2013-10-21)
 </li>
 <li data-cover="https://img.discogs.com/eUnbFSYm7rkRLOB_2a_3W100P0o=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5573663-1396929814-5726.jpeg.jpg" data-tags="classic, pop punk, inspirational, indie punk, vinyls, less than 40 minutes" role="button">
 Fireworks - Oh, Common Life (2014)

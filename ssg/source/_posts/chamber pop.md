@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:53:01.468Z
+date: 2021-04-13T07:40:01.489Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -153,6 +153,9 @@ Antony and the Johnsons - The Crying Light (2009-01-06)
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">
 Soap&Skin - Lovetune for Vacuum (2009-03-13)
 </li>
+<li data-cover="http://coverartarchive.org/release/394bda06-b2e6-4c9d-97fb-cbfe25fa8d9c/21433342876-500.jpg" data-tags="classical, chamber pop, cover, green day, modern classical, modern string quartet" role="button">
+Vitamin String Quartet - Vitamin String Quartet Performs Green Day's American Idiot (2009-04-07)
+</li>
 <li data-cover="https://img.discogs.com/o8_V-hTUs1ECCKn6hzsWwStkPAs=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7314256-1438690931-2167.jpeg.jpg" data-tags="indie pop" role="button">
 Camera Obscura - My Maudlin Career (2009-04-20)
 </li>
@@ -213,9 +216,6 @@ Goldfrapp - Melancholy Sky (2012-01-08)
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)
 </li>
-<li data-cover="https://img.discogs.com/iTQNjUDuPe58SxPlS1_zv65LYmg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3414448-1405202646-7635.jpeg.jpg" data-tags="indie, pop, alternative, indie pop, piano, chamber pop, mellow, synthpop, adult alternative, folktronica, swedish pop, alternative pop, 2012 albums" role="button">
-Amanda Mair - Amanda Mair (2012-02-15)
-</li>
 <li data-cover="https://img.discogs.com/9A1u-YB8JBJws-qW94NDEiN9vC0=/fit-in/225x224/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3457279-1344583999-5359.jpeg.jpg" data-tags="singer-songwriter" role="button">
 Perfume Genius - Put Your Back N 2 It (2012-02-17)
 </li>
@@ -227,6 +227,9 @@ Revolver - Let Go (2012-03-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/80d6bd71-6b59-42c5-b8cd-c1c02c763558/2788223281-500.jpg" data-tags="indie, experimental" role="button">
 Kishi Bashi - 151a (2012-04-10)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="chamber pop, album que tengo" role="button">
+Lawrence Arabia - The Sparrow (2012-07-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
@@ -305,9 +308,6 @@ Kishi Bashi - Lighght (2014-05-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8098367d-6f56-4157-9a31-5be90eb18473/7434193975-500.jpg" data-tags="chamber pop, art pop" role="button">
 Owen Pallett - In Conflict (2014-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/9e6ab6f8-9792-430c-9672-0b238885a379/10729414308-500.jpg" data-tags="psychedelic rock, desert rock" role="button">
-Lana Del Rey - Ultraviolence (2014-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/0d1c75bc-5953-40da-99b3-9491d03cf424/9366881296-500.jpg" data-tags="dream pop, indie rock" role="button">
 The Antlers - Familiars (2014-06-16)

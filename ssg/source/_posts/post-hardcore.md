@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:22:01.461Z
+date: 2021-04-13T06:56:01.542Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -101,6 +101,9 @@ Story of the Year - Page Avenue (2003-09-16)
 </li>
 <li data-cover="https://img.discogs.com/f_Z5jf9GxipomA3X7zmUykQpHOk=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3122839-1316854929.jpeg.jpg" data-tags="post-hardcore" role="button">
 Funeral for a Friend - Casually Dressed & Deep in Conversation (2003-10-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/a660c2ae-4ad9-4682-b06a-a95ffa3ab4a7/26500850268-500.jpg" data-tags="post-hardcore" role="button">
+The Fall of Troy - The Fall Of Troy (2003-11-04)
 </li>
 <li data-cover="https://img.discogs.com/XclehEHfi-WpinTa-lTr7cojq8o=/fit-in/550x558/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-525442-1127571446.jpeg.jpg" data-tags="emo, alternative, alternative rock" role="button">
 The Used - In Love and Death (2004-01-24)
@@ -291,6 +294,9 @@ Memphis May Fire - The Hollow (2011-04-25)
 <li data-cover="http://coverartarchive.org/release/143fbcad-b633-4b98-a553-3a54b78d989c/6997936845-500.jpg" data-tags="post-hardcore" role="button">
 Sleeping with Sirens - Let's Cheers to This (2011-05-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/74ec5fbe-308e-4b60-b556-7884fb74e1e2/6132217026-500.jpg" data-tags="post-hardcore" role="button">
+Balance and Composure - Separation (2011-05-10)
+</li>
 <li data-cover="http://coverartarchive.org/release/244a59a9-9b52-48cf-923c-91fa4f37a875/6472045000-500.jpg" data-tags="post-hardcore" role="button">
 Of Mice & Men - The Flood (2011-06-14)
 </li>
@@ -306,17 +312,11 @@ Cloud Nothings - Attack on Memory (2012-01-24)
 <li data-cover="http://coverartarchive.org/release/7888bbb8-204b-4701-9f15-ade723cd94ee/7163718243-500.jpg" data-tags="post-hardcore" role="button">
 Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/86f705ee-242f-4e89-896c-f95bb3044189/11987843449-500.jpg" data-tags="post-hardcore, metalcore" role="button">
-Bring Me the Horizon - Sempiternal (2013-03-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/76327a3a-bfea-41df-9e4c-d9e383f7b507/6472117353-500.jpg" data-tags="hard rock, post-hardcore, metalcore" role="button">
 Asking Alexandria - From Death To Destiny (2013-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/57428883-05ae-4cf8-b428-da8ee43a16ed/17944451521-500.jpg" data-tags="post-hardcore, pop punk" role="button">
 A Day to Remember - Common Courtesy (2013-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/304c9ca2-90a7-46ec-98d3-36ce28714ec2/8655187028-500.jpg" data-tags="true norwegian black metal, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, post-hardcore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
-Bring Me the Horizon - Drown (2014-11-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/194e4271-fcb2-4d45-878a-0eceeb215391/8743852867-500.jpg" data-tags="post-hardcore" role="button">
 Enter Shikari - The Mindsweep (2015-01-14)

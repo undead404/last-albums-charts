@@ -1,8 +1,8 @@
 ---
-date: 2021-04-12T14:56:07.090Z
+date: 2021-04-13T06:52:01.481Z
 title: "winter: 100 albums you must listen to before you die"
 ---
-![Kate Bush - 50 Words for Snow (2011-11-21)](http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg "Kate Bush - 50 Words for Snow (2011-11-21)")
+![Sharon Van Etten - Are We There (2014-05-26)](http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg "Sharon Van Etten - Are We There (2014-05-26)")
 <ol class="albums">
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, emo" role="button">Bright Eyes - Letting Off the Happiness (1998-09-02)</li>
 <li data-cover="http://coverartarchive.org/release/c64999b0-8a0c-4085-96dd-7e4eab22c481/14990985445-500.jpg" data-tags="indie" role="button">Copeland - Eat, Sleep, Repeat (2006-08-31)</li>
@@ -11,7 +11,7 @@ title: "winter: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a10f34d5-8afb-460e-b6d5-a442eb7c4a2c/9612740615-500.jpg" data-tags="indie rock" role="button">Portugal. The Man - American Ghetto (2010-05-11)</li>
 <li data-cover="http://coverartarchive.org/release/10c7388e-0ec1-43f4-8c8e-4a083640bc6e/16466640950-500.jpg" data-tags="indie" role="button">The Rural Alberta Advantage - Departing (2011-03-01)</li>
 <li data-cover="http://coverartarchive.org/release/bab7b29e-cedf-4626-913f-e439e0c05ef9/14556222208-500.jpg" data-tags="folk" role="button">Benjamin Francis Leftwich - Last Smoke Before The Snowstorm (2011-07-04)</li>
-<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">Kate Bush - 50 Words for Snow (2011-11-21)</li>
+<li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">Michael Bublé - Christmas (2011-10-14)</li>
 <li data-cover="https://img.discogs.com/CQRfbzNYKpXll6yBUz1Ky6WKVjM=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4349387-1473869117-8469.jpeg.jpg" data-tags="downtempo" role="button">Bonobo - The North Borders (2013-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/294ce5a9-a36b-4e41-982e-56f2f94bb581/20346832405-500.jpg" data-tags="folk, indie folk" role="button">Sharon Van Etten - Are We There (2014-05-26)</li>
 </ol>
@@ -21,9 +21,6 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
-<li data-cover="http://coverartarchive.org/release/16238918-b897-3140-bc04-77b45f99f3ae/21634689401-500.jpg" data-tags="blues" role="button">
-Nina Simone - 'Nuff Said! (1968)
-</li>
 <li data-cover="http://coverartarchive.org/release/c354b401-7722-4297-a26b-0822953fa829/14592166258-500.jpg" data-tags="new wave" role="button">
 Visage - The Damned Don't Cry (1982-01-04)
 </li>
@@ -42,14 +39,17 @@ Quicksand - Slip (1993-02-09)
 <li data-cover="http://coverartarchive.org/release/5941dfb0-209a-4661-9301-ae665b30223d/16110823346-500.jpg" data-tags="pop, acoustic" role="button">
 The Murmurs - The Murmurs (1994)
 </li>
-<li data-cover="https://img.discogs.com/R_DBxpkzS4iv3i4HrTVINHBXVlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1637459-1233745460.jpeg.jpg" data-tags="power pop, 90s" role="button">
-Teenage Fanclub - Grand Prix (1995-05-29)
-</li>
-<li data-cover="http://coverartarchive.org/release/16b34d84-4ef4-38d0-a6f9-709d6eb01fcc/10148858620-500.jpg" data-tags="celtic, christmas" role="button">
-Loreena McKennitt - A Winter Garden: Five Songs for the Season (1995-11-07)
+<li data-cover="http://coverartarchive.org/release/0ee1d08f-4e0b-4f1a-b418-7dd053fb03f1/25107182040-500.jpg" data-tags="electronic, idm" role="button">
+Aphex Twin - Ventolin EP (The Remixes) (1995-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d82a733-4389-424e-a28e-6af0b51618b2/16741522206-500.jpg" data-tags="ambient, shoegaze, drone" role="button">
 Windy & Carl - Drawing of Sound (1996-04)
+</li>
+<li data-cover="https://img.discogs.com/nu0nr_qNzw02HSGU_uqRgDiW2hI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6325288-1416510375-4709.jpeg.jpg" data-tags="christmas" role="button">
+David Benoit - Remembering Christmas (1996-09-24)
+</li>
+<li data-cover="https://img.discogs.com/jFDUiZRneGLrzeHWOS2Jl-3cNEU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13608813-1557434415-6321.jpeg.jpg" data-tags="ambient" role="button">
+The Higher Intelligence Agency & Biosphere - Polar Sequences (1996-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c66ca9d-21d0-4128-9a72-720d7f490d63/7412823886-500.jpg" data-tags="electronic" role="button">
 Global Goon - Goon (1996-11-18)
@@ -102,6 +102,9 @@ Vangelis - Reprise 1990-1999 (1999-11-16)
 <li data-cover="https://img.discogs.com/QLoN79nE68-tlgV6BrSEN5T-9tw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-77560-1291240501.jpeg.jpg" data-tags="ambient" role="button">
 Fridge - Happiness (2000)
 </li>
+<li data-cover="http://coverartarchive.org/release/439fda30-67ae-4c21-8a89-e96607391526/3689428173-500.jpg" data-tags="winter, forgotten realms" role="button">
+Jeremy Soule - Icewind Dale (2000-06-29)
+</li>
 <li data-cover="http://coverartarchive.org/release/cd994d58-4f33-4eff-aa30-2bb486685bcb/23919615928-500.jpg" data-tags="idm" role="button">
 Lusine ICL - A Pseudo Steady State (2000-07)
 </li>
@@ -149,6 +152,9 @@ Snapcase - End Transmission (2002-09-24)
 </li>
 <li data-cover="https://img.discogs.com/i9584y28ConNp5D5Dh_AIYB996g=/fit-in/474x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1030535-1207227733.jpeg.jpg" data-tags="slowcore, post-rock, ambient pop" role="button">
 The White Birch - Star Is Just A Sun (2002-11-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/1ee1f8a5-c0a3-4ff4-a5d8-9453661fc6ae/3625745649-500.jpg" data-tags="live" role="button">
+Current 93 - Some Soft Black Stars Seen Over London (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ad974f7-091f-41b7-ae1c-1294b4b32cd5/15089570158-500.jpg" data-tags="jazz, blues" role="button">
 Nina Simone - Anthology (2003-07-01)
@@ -219,6 +225,9 @@ Black Rebel Motorcycle Club - Baby 81 (2007-04-28)
 <li data-cover="http://coverartarchive.org/release/1f535139-1a00-4da7-89cc-94cb50ceb44d/3886056504-500.jpg" data-tags="indie folk, indie, indie rock, singer-songwriter, autumn" role="button">
 Sea Wolf - Leaves In The River (2007-09-25)
 </li>
+<li data-cover="https://img.discogs.com/wdrK4xIiu8DyDP0ul-LZFdUrr9Y=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1021965-1268559354.jpeg.jpg" data-tags="dark ambient" role="button">
+False Mirror - North (2007-11-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/05eaa945-6eb6-4e4b-a74a-e9bb0f2be39f/5817210927-500.jpg" data-tags="instrumental, winter" role="button">
 Sumner McKane - What A Great Place To Be (2007-12-31)
 </li>
@@ -236,9 +245,6 @@ The Future Sound of London - ENVIRONMENTS II (2008-08-29)
 </li>
 <li data-cover="https://img.discogs.com/H8BvOsvOFiaTVGashYadtz_jyeo=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13635631-1557992376-9266.jpeg.jpg" data-tags="christmas" role="button">
 Sarah Brightman - A Winter Symphony (2008-10-29)
-</li>
-<li data-cover="https://img.discogs.com/N6qHAyHa7JusGcvRH_jPjI-vIrE=/fit-in/532x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4093702-1355018527-1569.jpeg.jpg" data-tags="japanese, female vocalists, christmas, jpop, winter, asian, j-rock, j-pop, jrock, asian music, asian pop" role="button">
-BONNIE PINK - CHAIN (2008-11-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="winter" role="button">
 Icicle - Cold Fear EP (2009-12-07)
@@ -285,9 +291,6 @@ Kara - ウィンターマジック (2011-10-19)
 <li data-cover="http://coverartarchive.org/release/6a882803-2220-41dc-b94b-2938728d28c0/6437332025-500.jpg" data-tags="winter" role="button">
 Stormloop - snowbound* (2011-10-31)
 </li>
-<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
-Kate Bush - 50 Words for Snow (2011-11-21)
-</li>
 <li data-cover="https://img.discogs.com/ybF15F4VYoqhNPSD_h9n7P5FeBw=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3274425-1369346341-7544.jpeg.jpg" data-tags="indie, pop, alternative, winter, patrick wolf, lupercalia" role="button">
 Patrick Wolf - Brumalia EP (2011-12-05)
 </li>
@@ -299,9 +302,6 @@ Sync24 - Comfortable Void (2012-06-21)
 </li>
 <li data-cover="https://img.discogs.com/dAEk2t8qSytwgbNX0h2icF0ufco=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3952156-1354675334-1333.jpeg.jpg" data-tags="ambient, psybient" role="button">
 Connect.Ohm - 9980 (2012-10-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/a6c6d7a9-3093-4c7c-9e41-87a7cf0a38bd/5163933768-500.jpg" data-tags="christmas" role="button">
-Tracey Thorn - Tinsel and Lights (2012-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/817da803-a156-4075-9d28-db04cc7af00e/4061019447-500.jpg" data-tags="ambient" role="button">
 Circular - Nordic Circles | Live Nuit Hypnotique #4 (2013-02-11)

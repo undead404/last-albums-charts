@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:15:01.640Z
+date: 2021-04-13T07:25:01.543Z
 title: "gangsta rap: 100 albums you must listen to before you die"
 ---
 ![Dr. Dre - 2001 (1999-11-16)](http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg "Dr. Dre - 2001 (1999-11-16)")
@@ -7,13 +7,13 @@ title: "gangsta rap: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7e39722c-500b-4e15-aa2b-805a0d1b74cf/3276227761-500.jpg" data-tags="gangsta rap" role="button">2Pac - 2Pacalypse Now (1991-11-12)</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">Dr. Dre - The Chronic (1992-12-15)</li>
 <li data-cover="http://coverartarchive.org/release/f42fe7d8-fa5e-3ee5-9a83-456c8c663ed5/4383297751-500.jpg" data-tags="rap" role="button">The Notorious B.I.G. - Ready to Die (1994-09-13)</li>
-<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">2Pac - Me Against the World (1995)</li>
 <li data-cover="http://coverartarchive.org/release/07e92711-51fe-4e80-97a3-be995b7f4119/4696863575-500.jpg" data-tags="hip-hop, rap" role="button">Mobb Deep - The Infamous (1995-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">2Pac - All Eyez on Me (1996-02-13)</li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">2Pac - Greatest Hits (1998-11-24)</li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">Dr. Dre - 2001 (1999-11-16)</li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">50 Cent - Get Rich Or Die Tryin' (2003-02-04)</li>
 <li data-cover="https://img.discogs.com/0GRKX6vZKxmykt49aVPTcsro_F4=/fit-in/300x298/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1963323-1255339548.jpeg.jpg" data-tags="rap, g-unit" role="button">G-Unit - Beg For Mercy (2003-11-14)</li>
+<li data-cover="http://coverartarchive.org/release/278258e6-ea1a-4b16-aff4-f23233e272cc/3925882965-500.jpg" data-tags="rap" role="button">2Pac - Loyal To The Game (2004-12-14)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -72,9 +72,6 @@ Ice Cube - Bootlegs & B-Sides (1994-11-22)
 <li data-cover="http://coverartarchive.org/release/1d839287-fc18-4515-b9e6-5a1694d3869d/15197555065-500.jpg" data-tags="gangsta rap, west coast rap, yay area" role="button">
 Celly Cel - Killa Kali (1995)
 </li>
-<li data-cover="https://img.discogs.com/ElHcz0s3J9_H0hM7WkNLzOOdiNY=/fit-in/600x947/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6489166-1579715055-6679.jpeg.jpg" data-tags="2pac, rap, gangsta rap" role="button">
-2Pac - Me Against the World (1995)
-</li>
 <li data-cover="https://img.discogs.com/HFjFo-odqbZg5DNTJdhAVDbKWl4=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-468156-1167307287.jpeg.jpg" data-tags="gangsta rap, g-funk" role="button">
 Dr. Dre - Keep Their Heads Ringin' (1995-03-07)
 </li>
@@ -108,14 +105,14 @@ Mobb Deep - Hell on Earth (1996-11-01)
 <li data-cover="http://coverartarchive.org/release/f26284b3-367d-430d-96ec-a70ec73bdc43/18893059393-500.jpg" data-tags="rap, 90s, gangsta rap, when the smoke clears" role="button">
 Three 6 Mafia - Chapter 2: World Domination (1997-11-04)
 </li>
+<li data-cover="https://img.discogs.com/bldqMJfGW9kmnVqeAeqN13-g1Ts=/fit-in/500x435/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6320776-1416407031-7293.jpeg.jpg" data-tags="rap" role="button">
+2Pac - R U Still Down? (Remember Me) (1997-11-25)
+</li>
 <li data-cover="https://img.discogs.com/i3Plihomtgk6DMmhTt8bs2BjIxo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2051207-1597799463-5023.jpeg.jpg" data-tags="rap, dmx" role="button">
 DMX - It's Dark And Hell Is Hot (1998-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9bbca44-faac-4667-901d-3382596bfad8/24155431867-500.jpg" data-tags="gangsta rap" role="button">
 MC Ren - Ruthless For Life (1998-06-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/01a98e51-cc5b-4244-9aec-6c3552d1e774/14285343454-500.jpg" data-tags="gangsta rap" role="button">
-Kurupt - Kuruption! (1998-10-06)
 </li>
 <li data-cover="https://img.discogs.com/CIw1B4aCFdudJV1Uq1LT9CZChD8=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3406323-1332179720.jpeg.jpg" data-tags="rap, 2pac" role="button">
 2Pac - Greatest Hits (1998-11-24)
@@ -161,6 +158,9 @@ Ja Rule - Pain Is Love (2001-10-02)
 </li>
 <li data-cover="https://img.discogs.com/lOzQtrpedMvyB9C39LG8oJHyHCQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-478646-1119616548.jpg.jpg" data-tags="dmx, rap" role="button">
 DMX - The Great Depression (2001-10-22)
+</li>
+<li data-cover="http://coverartarchive.org/release/d467e488-2fae-4175-918b-7c9d10f43737/2876340833-500.jpg" data-tags="japanese" role="button">
+Cornelius - Point (2001-10-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3c61954d-6496-421c-a3a5-95d3f6015320/2434216412-500.jpg" data-tags="rap" role="button">
 Ice Cube - Greatest Hits (2001-12-03)
@@ -303,6 +303,9 @@ Jae Millz - The Time Is Now (2010-08-17)
 <li data-cover="https://img.discogs.com/jQvH2RM7qJ2k7LqOYPG_-vpFGio=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9917019-1490040312-5311.jpeg.jpg" data-tags="west coast hip hop" role="button">
 Ice Cube - I Am The West (2010-09-10)
 </li>
+<li data-cover="http://coverartarchive.org/release/e0347a4c-dc23-4f51-9fa5-7459bf159390/4297248193-500.jpg" data-tags="freddie gibbs" role="button">
+Freddie Gibbs - Cold Day In Hell (2011-10-31)
+</li>
 <li data-cover="https://img.discogs.com/XNB5cRa3Yr_ztHNSSiqXUQHOwqs=/fit-in/339x339/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3818700-1345635944-6929.jpeg.jpg" data-tags="electronic, sacramento" role="button">
 Darkside - Darkside (2011-11-17)
 </li>
@@ -311,9 +314,6 @@ Yelawolf - Radioactive (2011-11-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/63fe4fd9-6419-4678-9eef-280696f02a5f/8225307090-500.jpg" data-tags="self-released" role="button">
 Кровосток - Студень (2012-03-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/38f86768-ec68-46a6-bdbc-3b708f418dcf/954447311-500.jpg" data-tags="hip-hop" role="button">
-Killer Mike - R.A.P. Music (2012-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/48e6db7f-b247-4da6-bcc1-3a89100a7c8d/12252536435-500.jpg" data-tags="2 chainz" role="button">
 2 Chainz - Based on a T.R.U. Story (2012-08-14)

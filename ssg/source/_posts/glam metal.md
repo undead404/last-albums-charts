@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T07:40:01.453Z
+date: 2021-04-13T06:58:01.462Z
 title: "glam metal: 100 albums you must listen to before you die"
 ---
 ![Mötley Crüe - Shout at the Devil (1983-09-26)](https://img.discogs.com/8NPV9s1sLBhsh2xresjn9No_BsU=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2908255-1306745839.jpeg.jpg "Mötley Crüe - Shout at the Devil (1983-09-26)")

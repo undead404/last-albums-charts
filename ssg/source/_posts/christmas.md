@@ -1,15 +1,15 @@
 ---
-date: 2021-04-12T21:33:12.649Z
+date: 2021-04-13T07:39:01.581Z
 title: "christmas: 100 albums you must listen to before you die"
 ---
 ![Mariah Carey - Merry Christmas (1994-10-29)](http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg "Mariah Carey - Merry Christmas (1994-10-29)")
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/6852857f-c2d6-426c-8910-912a9e956da2/3098412625-500.jpg" data-tags="christmas" role="button">Frank Sinatra - Christmas Songs By Sinatra (1948)</li>
+<li data-cover="https://img.discogs.com/HYKvdizEzDpmnAU1DGDaiDKrAn4=/fit-in/350x362/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4999038-1385813760-4727.jpeg.jpg" data-tags="christmas" role="button">Elvis Presley - Elvis' Christmas Album (1957-10-15)</li>
 <li data-cover="https://img.discogs.com/gEBeFW57oa8O72k4DjGXkm3pafM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005930-1486291972-1552.jpeg.jpg" data-tags="christmas" role="button">Bing Crosby - White Christmas (1977-11)</li>
 <li data-cover="https://img.discogs.com/4k4NqDtP1V_DUXGk2oUtrCS4K14=/fit-in/358x353/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1073305-1255968213.jpeg.jpg" data-tags="christmas" role="button">Wham! - Last Christmas (1984-12-03)</li>
 <li data-cover="http://coverartarchive.org/release/2cd98c57-4d2c-3890-88ec-939393144131/5945829868-500.jpg" data-tags="christmas" role="button">Mariah Carey - Merry Christmas (1994-10-29)</li>
-<li data-cover="http://coverartarchive.org/release/35009a6d-3c48-4180-a6dc-81d4734a97a6/2755304343-500.jpg" data-tags="christmas" role="button">Christina Aguilera - My Kind of Christmas (2000-10-24)</li>
 <li data-cover="https://img.discogs.com/8PvYQF5pOtQZTkbR5BeY-glwGDo=/fit-in/600x526/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4919003-1384164068-9819.jpeg.jpg" data-tags="christmas" role="button">Destiny's Child - 8 Days of Christmas (2001-10-23)</li>
-<li data-cover="http://coverartarchive.org/release/60186f6c-bc07-482c-bebb-546f0f8db711/2874480896-500.jpg" data-tags="christmas" role="button">Coldplay - Christmas Lights (2010-12-01)</li>
 <li data-cover="http://coverartarchive.org/release/1931b6f1-2940-461f-931f-e2c0adaa755f/4358923410-500.jpg" data-tags="christmas" role="button">Michael Bublé - Christmas (2011-10-14)</li>
 <li data-cover="http://coverartarchive.org/release/7672ac66-398b-45e8-af78-b78c0788c41c/28251841928-500.jpg" data-tags="pop, christmas, lily allen" role="button">Lily Allen - Somewhere Only We Know (2013-11-10)</li>
 <li data-cover="http://coverartarchive.org/release/79fd65e4-d145-46be-b8fa-b098c2ba5f12/10014987904-500.jpg" data-tags="pop, ariana grande" role="button">Ariana Grande - Santa Tell Me (2014-11-24)</li>
@@ -72,6 +72,9 @@ The Jackson 5 - Christmas Album (1970-10-15)
 <li data-cover="http://coverartarchive.org/release/0da06878-65f4-487c-9d10-4acef5e7e094/18599284618-500.jpg" data-tags="christmas" role="button">
 José Feliciano - Feliz Navidad (1970-11)
 </li>
+<li data-cover="https://img.discogs.com/UqscBMpxGz9XwfbZRVPjpdw6ypY=/fit-in/600x605/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5516343-1433180257-4295.jpeg.jpg" data-tags="christmas, slade" role="button">
+Slade - Merry Xmas Everybody (1973)
+</li>
 <li data-cover="https://img.discogs.com/gEBeFW57oa8O72k4DjGXkm3pafM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1005930-1486291972-1552.jpeg.jpg" data-tags="christmas" role="button">
 Bing Crosby - White Christmas (1977-11)
 </li>
@@ -98,6 +101,9 @@ Shakin' Stevens - Merry Christmas Everyone (1985)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4600d3-2a48-4d31-916e-315d04127016/9566224266-500.jpg" data-tags="christmas" role="button">
 Frank Sinatra - The Sinatra Christmas Album (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/b104242b-563b-4fc8-907f-c0ec83313c46/3342241188-500.jpg" data-tags="christmas, celtic" role="button">
+Loreena McKennitt - To Drive the Cold Winter Away (1987)
 </li>
 <li data-cover="http://coverartarchive.org/release/34586eb6-5c79-4a70-a837-1b122525f690/18644421186-500.jpg" data-tags="christmas" role="button">
 Various Artists - A Very Special Christmas (1987-10-12)
@@ -153,9 +159,6 @@ Perry Como - Greatest Christmas Songs (1999)
 <li data-cover="http://coverartarchive.org/release/8dc54860-4a3b-4757-bbe4-a3e852525f3a/3885285137-500.jpg" data-tags="symphonic metal, rock opera" role="button">
 Trans-Siberian Orchestra - Beethoven's Last Night (2000-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/35009a6d-3c48-4180-a6dc-81d4734a97a6/2755304343-500.jpg" data-tags="christmas" role="button">
-Christina Aguilera - My Kind of Christmas (2000-10-24)
-</li>
 <li data-cover="https://img.discogs.com/Hv9l7FW7Iyt7srfz1_ESeoxTG7w=/fit-in/485x480/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1903114-1251310713.jpeg.jpg" data-tags="christmas" role="button">
 Perry Como - A Perry Como Christmas (2001-05-21)
 </li>
@@ -164,6 +167,9 @@ Destiny's Child - 8 Days of Christmas (2001-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/1800012a-0c30-4a82-a7e8-5fcbe6d397a5/2624749393-500.jpg" data-tags="christmas" role="button">
 Bright Eyes - A Christmas Album (2002-12-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/b6cbca93-fa0f-4905-b8cd-d14d9c6eb56f/20912486719-500.jpg" data-tags="christmas" role="button">
+Johnny Cash - Christmas with Johnny Cash (2003-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/52227ff6-08a9-4fa8-b819-fbfb3eeb40a0/18669530240-500.jpg" data-tags="christmas" role="button">
 Gene Autry - Rudolph The Red Nosed Reindeer And Other Christmas Classics (2003-09-16)
@@ -183,14 +189,14 @@ Barenaked Ladies - Barenaked For The Holidays (2004-10-05)
 <li data-cover="http://coverartarchive.org/release/4526e591-2a5f-4d73-98b6-df8e5410dc5c/18723612263-500.jpg" data-tags="christmas" role="button">
 Trans-Siberian Orchestra - The Lost Christmas Eve (2004-10-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/5cdfdd57-92e2-4cc4-8f92-b83034034d3b/24046770429-500.jpg" data-tags="christmas, frank sinatra" role="button">
-Frank Sinatra - The Christmas Collection (2004-10-26)
-</li>
 <li data-cover="https://img.discogs.com/vG0e5eoHkAfQ-48bW2VqqXSSsI0=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-350177-1185120167.jpeg.jpg" data-tags="christmas" role="button">
 Band Aid 20 - Do They Know It's Christmas? (2004-11-18)
 </li>
 <li data-cover="https://img.discogs.com/wHGM_oLUPnIKoxA51R7OFNq4KBg=/fit-in/600x954/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-184135-1583434837-2507.jpeg.jpg" data-tags="christmas" role="button">
 Kylie Minogue - Santa Baby (2005-03-07)
+</li>
+<li data-cover="https://img.discogs.com/HWlfObvs2n768Y9KKJt5a64k98w=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6558255-1421959201-3891.jpeg.jpg" data-tags="christmas" role="button">
+Frank Sinatra - The Christmas Album (2005-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1253c24-e19a-49f6-9b16-f78901359eda/5794044462-500.jpg" data-tags="christmas" role="button">
 Il Divo - The Christmas Collection (2005-10-25)
@@ -221,9 +227,6 @@ Relient K - Let It Snow Baby...Let It Reindeer (2007-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/32306928-689e-4149-a8c1-534a11a68fc6/28961572725-500.jpg" data-tags="christmas" role="button">
 Colbie Caillat - Mistletoe (2007-11-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/1511dd98-36f7-42d8-93d3-f2ffcd2d2850/26544747762-500.jpg" data-tags="indie rock" role="button">
-The Killers - Don't Shoot Me Santa (2007-11-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/b9d14236-8377-40b7-81c5-6432b17007c0/28989423218-500.jpg" data-tags="christmas" role="button">
 Harry Connick, Jr. - What A Night! A Christmas Album (2008-11-04)
@@ -261,9 +264,6 @@ Ellie Goulding - Your Song (2010-11-16)
 <li data-cover="http://coverartarchive.org/release/e55fa03c-ee2a-4839-a79c-3a978cacf049/23432110689-500.jpg" data-tags="christmas" role="button">
 Kylie Minogue - A Kylie Christmas (2010-11-30)
 </li>
-<li data-cover="http://coverartarchive.org/release/60186f6c-bc07-482c-bebb-546f0f8db711/2874480896-500.jpg" data-tags="christmas" role="button">
-Coldplay - Christmas Lights (2010-12-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/337392be-9dd9-4dba-8a2e-cc443c9d2453/3366583582-500.jpg" data-tags="christmas" role="button">
 Hurts - All I Want for Christmas Is New Year's Day (2010-12-14)
 </li>
@@ -282,9 +282,6 @@ Natasha Bedingfield - Shake up Christmas 2011 (Official Coca-Cola Christmas Song
 <li data-cover="https://img.discogs.com/kKKfMdFzI0DuDQhBMb3-_9gEa2g=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4888160-1382439394-5269.jpeg.jpg" data-tags="christmas" role="button">
 Glee Cast - Glee: The Music, The Christmas Album Volume 2 (2011-11-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
-Kate Bush - 50 Words for Snow (2011-11-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/14857973-e45d-4c98-8a41-720f2174046a/9318639689-500.jpg" data-tags="christmas, lady gaga, jazz, acoustic" role="button">
 Lady Gaga - A Very Gaga Holiday (2011-11-24)
 </li>
@@ -299,6 +296,9 @@ Lady Antebellum - On This Winter's Night (2012-10-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6147d09-1cda-4710-8d81-88f03edb4c88/2530204003-500.jpg" data-tags="christmas, asthmatic kitty, try to find this" role="button">
 Sufjan Stevens - Silver & Gold (2012-11-13)
+</li>
+<li data-cover="http://coverartarchive.org/release/2af78326-8b11-4b7e-b87b-6a077614267e/7361043363-500.jpg" data-tags="christmas" role="button">
+Mary J. Blige - A Mary Christmas (2013-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/52b7afe9-1e61-4a56-9194-d3f5e6db7487/5515861936-500.jpg" data-tags="christmas" role="button">
 Kelly Clarkson - Wrapped in Red (2013-10-25)

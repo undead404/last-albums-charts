@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:12:01.474Z
+date: 2021-04-13T07:34:07.516Z
 title: "progressive: 100 albums you must listen to before you die"
 ---
 ![The Mars Volta - Frances the Mute (2005-03-01)](http://coverartarchive.org/release/95973de7-ddf0-3322-81ea-9f636175bd79/16361971618-500.jpg "The Mars Volta - Frances the Mute (2005-03-01)")
@@ -134,9 +134,6 @@ Mew - Frengers (2003-04-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/85ffc0b7-1878-3ccb-9270-1d2f2d1595b3/24919226700-500.jpg" data-tags="rock" role="button">
 Jane's Addiction - Strays (2003-07-21)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="https://img.discogs.com/7qNbLA9VfonNiIGO0lQbv-LrCpo=/fit-in/600x536/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-426215-1438225450-3894.jpeg.jpg" data-tags="progressive rock" role="button">
 Oceansize - Effloresce (2003-09-29)
@@ -284,6 +281,9 @@ Porcupine Tree - The Incident (2009-09-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/ff398e09-c0ce-4d06-ac4c-de78096b6551/24625583789-500.jpg" data-tags="progressive rock, post-hardcore, progressive" role="button">
 The Fall of Troy - In the Unlikely Event (2009-10-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/72a22f5a-7872-4671-a732-db7cc76bb346/4251814788-500.jpg" data-tags="progressive metal" role="button">
+Between the Buried and Me - The Great Misdirect (2009-10-26)
 </li>
 <li data-cover="https://img.discogs.com/UaixWTPu2z61e5Ylmq2k9ZD1g-w=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4552004-1368139518-5530.jpeg.jpg" data-tags="dance, progressive, vocal house" role="button">
 Medina - You And I (2009-12-13)

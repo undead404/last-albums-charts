@@ -1,15 +1,15 @@
 ---
-date: 2021-04-13T06:25:01.493Z
+date: 2021-04-13T07:35:01.538Z
 title: "indie: 100 albums you must listen to before you die"
 ---
 ![MGMT - Oracular Spectacular (2007-10-02)](http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg "MGMT - Oracular Spectacular (2007-10-02)")
 <ol class="albums">
 <li data-cover="https://img.discogs.com/0KYiptrcWBVNaineREV1kbuow2U=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5104968-1384623054-8986.jpeg.jpg" data-tags="indie, electronic" role="button">The Postal Service - Give Up (2003-02-18)</li>
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">Franz Ferdinand - Franz Ferdinand (2004-02-09)</li>
-<li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">The Killers - Hot Fuss (2004-06-07)</li>
 <li data-cover="https://img.discogs.com/hFG9pe0pGf4SoIHMpU3SHkN8D24=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-831879-1563019220-4715.jpeg.jpg" data-tags="indie rock" role="button">Bloc Party - Silent Alarm (2005-02-02)</li>
 <li data-cover="http://coverartarchive.org/release/e6b48feb-4df7-4feb-b35f-efdb7695a949/9165973395-500.jpg" data-tags="indie" role="button">Death Cab for Cutie - Plans (2005-08-29)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">Kasabian - Empire (2006-08-25)</li>
+<li data-cover="http://coverartarchive.org/release/e3329c6a-6ff9-4254-b82e-f4ac85e5e6dd/2514121509-500.jpg" data-tags="indie, indie rock" role="button">Vampire Weekend - Vampire Weekend (2007-04)</li>
 <li data-cover="https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg" data-tags="folk, indie" role="button">Bon Iver - For Emma, Forever Ago (2007-07-08)</li>
 <li data-cover="http://coverartarchive.org/release/683fd794-f6e2-3c6d-9b46-b392e4ae5047/24085861268-500.jpg" data-tags="indie, electronic" role="button">MGMT - Oracular Spectacular (2007-10-02)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
@@ -30,9 +30,6 @@ Elliott Smith - Either/Or (1997-02-25)
 <li data-cover="http://coverartarchive.org/release/714d92af-7538-48cb-ad06-a6ef645c515a/4083841134-500.jpg" data-tags="indie" role="button">
 Phoenix - United (2000-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
-Coldplay - Parachutes (2000-07-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/7e3dd505-220a-3560-99df-2459afd045d8/2987742874-500.jpg" data-tags="indie rock, rock" role="button">
 The Strokes - Is This It (2001-01-27)
 </li>
@@ -48,9 +45,6 @@ Wilco - Yankee Hotel Foxtrot (2002-04-22)
 <li data-cover="https://img.discogs.com/ZQlQz6fBE2IohmkyyWgN2qBYtbw=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1222805-1202239031.jpeg.jpg" data-tags="acoustic, singer-songwriter, folk" role="button">
 Damien Rice - O (2002-07-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
-Coldplay - A Rush of Blood to the Head (2002-08-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/befc806a-fcc5-45b3-8162-4886c0d28627/4724053186-500.jpg" data-tags="indie" role="button">
 Bright Eyes - Lifted or The Story Is in the Soil, Keep Your Ear to the Ground (2002-08-12)
 </li>
@@ -65,6 +59,9 @@ The White Stripes - Elephant (2003-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce74eeee-8e30-34db-addd-5ea135500e2e/5835206005-500.jpg" data-tags="indie rock, indie, rock" role="button">
 Yeah Yeah Yeahs - Fever To Tell (2003-04-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/361eb780-0b77-479f-bf80-9f2ad813d3e0/7793148294-500.jpg" data-tags="indie" role="button">
+The National - Sad Songs for Dirty Lovers (2003-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/04049b63-b29c-330c-b758-fe671a60f420/26953889856-500.jpg" data-tags="indie" role="button">
 Metric - Old World Underground, Where Are You Now? (2003-07-29)
@@ -89,9 +86,6 @@ Modest Mouse - Good News For People Who Love Bad News (2004-04-06)
 </li>
 <li data-cover="https://img.discogs.com/eU2kHxppsdd5tQ2SLv80GIxVNz8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1006592-1520070252-6057.jpeg.jpg" data-tags="female vocalists, indie" role="button">
 Feist - Let It Die (2004-05-18)
-</li>
-<li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
-The Killers - Hot Fuss (2004-06-07)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, rock" role="button">
 The Libertines - The Libertines (2004-08-30)
@@ -165,6 +159,9 @@ Peter Bjorn and John - Writer's Block (2006-08-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">
 Kasabian - Empire (2006-08-25)
 </li>
+<li data-cover="https://img.discogs.com/8KrBpQesNQtYTtRGyViVBGE-wU0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-785865-1169215288.jpeg.jpg" data-tags="indie rock" role="button">
+The Fratellis - Costello Music (2006-09-11)
+</li>
 <li data-cover="https://img.discogs.com/e8j4hzjnmOYuCeJKF02RrN_5_YY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1054660-1198425678.jpeg.jpg" data-tags="indie, female vocalists" role="button">
 Bat for Lashes - Fur and Gold (2006-09-11)
 </li>
@@ -225,9 +222,6 @@ Death Cab for Cutie - Narrow Stairs (2008-04-29)
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
 </li>
-<li data-cover="http://coverartarchive.org/release/b459cd86-0392-4166-a5d6-0dfa505976df/2584590181-500.jpg" data-tags="indie, indie rock, rock" role="button">
-The Killers - Day & Age (2008-11-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">
 Florence + the Machine - Lungs (2009-01-01)
 </li>
@@ -270,6 +264,9 @@ MGMT - Congratulations (2010-04-07)
 <li data-cover="https://img.discogs.com/DB6Mo-yII18CsFctk6O788ziETs=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2894693-1539270185-7317.jpeg.jpg" data-tags="indie rock" role="button">
 Arcade Fire - The Suburbs (2010-05-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/92e3d43e-06b2-4113-827e-6c0884c0882b/10208208762-500.jpg" data-tags="indie rock, indie" role="button">
+The Vaccines - What Did You Expect from The Vaccines? (2011-03-11)
+</li>
 <li data-cover="https://img.discogs.com/HEWSmK5v2BKKR5dX4Xzkl_02rO0=/fit-in/472x472/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2787336-1301014564.jpeg.jpg" data-tags="indie rock" role="button">
 The Strokes - Angles (2011-03-18)
 </li>
@@ -284,6 +281,9 @@ Beirut - The Rip Tide (2011-08-02)
 </li>
 <li data-cover="https://img.discogs.com/FJT4JjiaFBDBDCUdKj3ouXuus3M=/fit-in/293x293/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3069528-1314275965.jpeg.jpg" data-tags="indie, electronic" role="button">
 Gotye - Making Mirrors (2011-08-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/00ee87de-e714-47ed-8197-314d43d5a6ad/3330596020-500.jpg" data-tags="indie rock, indie" role="button">
+Grouplove - Never Trust A Happy Song (2011-09-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)

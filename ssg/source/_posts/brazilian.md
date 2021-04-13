@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T15:15:02.200Z
+date: 2021-04-13T07:03:01.487Z
 title: "brazilian: 100 albums you must listen to before you die"
 ---
 ![Mamonas Assassinas - Mamonas Assassinas (1995-06-23)](http://coverartarchive.org/release/9afdbf41-9cfb-4318-9bab-0d67c5973958/18297764373-500.jpg "Mamonas Assassinas - Mamonas Assassinas (1995-06-23)")
@@ -138,6 +138,9 @@ Titãs - Volume Dois (1998)
 <li data-cover="https://img.discogs.com/aBvKEmTJVHuAUJwPP97OzhHzYeE=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3524203-1411202068-9110.jpeg.jpg" data-tags="power metal" role="button">
 Angra - Fireworks (1998-02-09)
 </li>
+<li data-cover="https://img.discogs.com/hGKGYeqE2TlR5bLa4vlRD-fa6QM=/fit-in/600x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7359584-1474029942-6333.jpeg.jpg" data-tags="brazilian, samba, romance, brazilian music, pagode, belo" role="button">
+Soweto - Farol Das Estrelas (1999)
+</li>
 <li data-cover="https://img.discogs.com/0GE4CGCQ5Ow83CTb0bNJ8QA31gA=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-945924-1259256005.jpeg.jpg" data-tags="mpb, ney, brasilera" role="button">
 Ney Matogrosso - Olhos De Farol (1999)
 </li>
@@ -260,9 +263,6 @@ Scracho - A Grande Bola Azul (2007-02)
 </li>
 <li data-cover="http://coverartarchive.org/release/3abad84e-b963-47bb-93b1-2f8e1f546cf9/2894802106-500.jpg" data-tags="bossa nova, mpb, cuban, brazilian, samba, female singer, a decouvrir, arbeitsmusik, mpb - 2000, mpb classica, discos 2009" role="button">
 Marina De La Riva - Marina de La Riva (2007-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/30af21c6-9cb1-4f3b-bbf0-948688c4462c/7216991156-500.jpg" data-tags="rock, brazilian, brazilian music, bacaninha, discos favoritos, discos 2009" role="button">
-Ludov - Disco paralelo (2007-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/de1465e0-c2a8-4aa6-b9ff-9316634c8ad8/22098208772-500.jpg" data-tags="brazilian" role="button">
 Vanguart - Vanguart (2007-08-26)

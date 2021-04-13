@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:26:01.463Z
+date: 2021-04-13T07:23:01.989Z
 title: "mathcore: 100 albums you must listen to before you die"
 ---
 ![Converge - Jane Doe (2001-09-04)](http://coverartarchive.org/release/c0c80905-b460-4385-b84d-b068eb14bf5a/7979568810-500.jpg "Converge - Jane Doe (2001-09-04)")
@@ -183,9 +183,6 @@ Converge - No Heroes (2006-10-23)
 <li data-cover="http://coverartarchive.org/release/2a48e55e-5876-4477-8b53-44474b7f9a35/2061177990-500.jpg" data-tags="mathcore" role="button">
 Car Bomb - Centralia (2007-01-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/50282e53-167d-426f-b759-c93e934c3c6a/26841025086-500.jpg" data-tags="metalcore, progressive metal, mathcore" role="button">
-THE END - Elementary (2007-02-06)
-</li>
 <li data-cover="https://img.discogs.com/iWyRJbHjh45yON6e95jzI7_Q7yE=/fit-in/240x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061669-1189109237.jpeg.jpg" data-tags="mathcore" role="button">
 PsyOpus - Our Puzzling Encounters Considered (2007-02-20)
 </li>
@@ -305,6 +302,9 @@ The Chariot - One Wing (2012-08-28)
 </li>
 <li data-cover="https://img.discogs.com/eX7pVRAAMkOij8l1xUNtAbQsFXs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4129243-1546927663-6584.jpeg.jpg" data-tags="metalcore, mathcore" role="button">
 Converge - All We Love We Leave Behind (2012-10-08)
+</li>
+<li data-cover="http://coverartarchive.org/release/ebfc0a50-7f14-446e-9f2e-656101152fae/24411463318-500.jpg" data-tags="mathcore" role="button">
+KEN mode - Entrench (2013-03-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b64f883-57dd-4715-89eb-77ad56c193f6/24759113400-500.jpg" data-tags="mathcore" role="button">
 The Dillinger Escape Plan - One of Us Is the Killer (2013-05-14)

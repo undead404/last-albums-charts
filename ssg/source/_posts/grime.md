@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:00:01.555Z
+date: 2021-04-13T07:41:01.634Z
 title: "grime: 100 albums you must listen to before you die"
 ---
 ![The Streets - A Grand Don&#39;t Come for Free (2004-05-10)](http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg "The Streets - A Grand Don't Come for Free (2004-05-10)")
@@ -120,9 +120,6 @@ Kano - London Town (2007-09-10)
 <li data-cover="http://coverartarchive.org/release/8b57914a-c30c-49d9-9453-76a325aff1fe/16155748642-500.jpg" data-tags="grime" role="button">
 Skepta - Greatest Hits (2007-09-24)
 </li>
-<li data-cover="https://img.discogs.com/oO_o0SZ_TxrsXQ0rWIQWRlb8VAM=/fit-in/427x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4897731-1378808931-4274.jpeg.jpg" data-tags="hip-hop, hip hop, grime, where are my headphones, where is my bong, weightlifting music, beats for days" role="button">
-Dizzee Rascal - Flex (2007-11-19)
-</li>
 <li data-cover="https://img.discogs.com/XyHNviLVGiKuHBzf52nMm9GS888=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1591423-1616085617-5417.jpeg.jpg" data-tags="drum and bass" role="button">
 The Qemists - Dem Na Like Me (2008-01-19)
 </li>
@@ -134,9 +131,6 @@ Wiley - Wearing My Rolex (2008-04-18)
 </li>
 <li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="grime" role="button">
 Chipmunk - LEAGUE OF MY OWN (2008-05-12)
-</li>
-<li data-cover="https://img.discogs.com/tjvvl3hrTlBC_9vhHLp02H8JPLI=/fit-in/600x513/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-153606-1519091917-8565.jpeg.jpg" data-tags="hip-hop, hip hop, grime, where are my headphones, where is my bong, weightlifting music, beats for days" role="button">
-Dizzee Rascal - Dance wiv Me (2008-06-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/8fbf22dc-2393-405b-a6d1-71a7e87cfd08/10704784319-500.jpg" data-tags="dubstep, grime" role="button">
 Plastician - Beg To Differ (2008-06-30)
@@ -152,6 +146,9 @@ ill.Gates - Autopirate (2008-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/09d214ff-df3b-4b8e-9317-0683247eaa2c/8042724648-500.jpg" data-tags="hip-hop, british, rap, grime, 00s, uk rap, general pop vocal, good in 2008, non-american rap" role="button">
 Wiley - See Clear Now (2008-12-05)
+</li>
+<li data-cover="https://img.discogs.com/nhPo6uYYIhQAN6dv-v-T6VhO6cc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1898073-1250949550.jpeg.jpg" data-tags="grime, dubstep, uk hip-hop, electro-hop, uk garage" role="button">
+Durrty Goodz - Ultrasound (2009-01-26)
 </li>
 <li data-cover="https://img.discogs.com/6V098JJ3HuTkWw3AVCUup4F-sm0=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2601963-1323991181.jpeg.jpg" data-tags="dubstep" role="button">
 Caspa - Everybody's Talking, Nobody's Listening! (2009-03-17)
@@ -188,6 +185,9 @@ Tinie Tempah - Pass Out (2010-02-28)
 </li>
 <li data-cover="https://img.discogs.com/IovNwfc4CGtsm-9jYvQ4Q8VS9k8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2167401-1555269607-6014.jpeg.jpg" data-tags="electronic, dance" role="button">
 Crookers - Tons of Friends (2010-03-08)
+</li>
+<li data-cover="https://img.discogs.com/46dad272331b770e45c28eea695bf30f59a15b86/images/spacer.gif" data-tags="grime" role="button">
+Wiley - Avalanche Music 1: Wiley (2010-03-15)
 </li>
 <li data-cover="https://img.discogs.com/-3KuZfYZ8jPOnqjSARFtlxsBl_U=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2244362-1286153740.jpeg.jpg" data-tags="grime, electro, techno, house" role="button">
 Girl Unit - I.R.L EP (2010-04-26)

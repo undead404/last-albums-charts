@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:54:12.667Z
+date: 2021-04-13T06:54:18.281Z
 title: "freak folk: 100 albums you must listen to before you die"
 ---
 ![Animal Collective - Feels (2005-10-14)](http://coverartarchive.org/release/f5d8fc0b-f20d-3e74-85ae-b9e124bf8d25/20324224572-500.jpg "Animal Collective - Feels (2005-10-14)")
@@ -30,6 +30,9 @@ Exuma - Exuma I (1970)
 <li data-cover="http://coverartarchive.org/release/d605007f-74eb-419b-9ed5-062c6743fbd0/6842201405-500.jpg" data-tags="folk, ambient, experimental, freak folk, free folk, tribal folk, my favourite cds, favourite cds" role="button">
 Exuma - Exuma II (1970)
 </li>
+<li data-cover="http://coverartarchive.org/release/bbfa0e49-759c-4863-a794-c9d3a299efa5/4826084985-500.jpg" data-tags="experimental, freak folk, avant-folk, vanguarda paulista" role="button">
+Walter Franco - Ou Não (1973)
+</li>
 <li data-cover="http://coverartarchive.org/release/a6de22f7-a5db-4749-81a8-d8dfac0e65cd/1931948664-500.jpg" data-tags="classic rock" role="button">
 Grateful Dead - Skeletons From the Closet: The Best of the Grateful Dead (1974)
 </li>
@@ -39,9 +42,6 @@ Jandek - Ready for the House (1978-08-31)
 <li data-cover="http://coverartarchive.org/release/69276154-e1e7-4fc6-b409-387ae9befdf2/11447461376-500.jpg" data-tags="avant garde, freak folk, b12, nancykitten all-time favourite albums" role="button">
 Jandek - Blue Corpse (1987)
 </li>
-<li data-cover="http://coverartarchive.org/release/cba37f1a-2c70-3e76-bdc4-ed56e4de184f/9518530430-500.jpg" data-tags="noise rock" role="button">
-Butthole Surfers - Locust Abortion Technician (1987-03)
-</li>
 <li data-cover="http://coverartarchive.org/release/7d792ffe-8648-4f92-94f3-9d02dc08e851/12269756403-500.jpg" data-tags="experimental, experimental rock, world, avant-garde, spoken word, freak folk, tribal, psychedelic rock, psychedelic folk, avant-rock" role="button">
 Sun City Girls - Kaliflower (1993)
 </li>
@@ -50,9 +50,6 @@ The Coup - Kill My Landlord (1993-05-04)
 </li>
 <li data-cover="https://img.discogs.com/vgsFH9bri9oekF96uuqa4jQxFIg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-772862-1332976007.jpeg.jpg" data-tags="indie, rock, alternative, freak folk, high school, goodwillcore" role="button">
 The Geraldine Fibbers - Butch (1997-07-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
-Jim O'Rourke - Bad Timing (1997-08-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="experimental" role="button">
 Faun Fables - Mother Twilight (2001)
@@ -65,6 +62,12 @@ Devendra Banhart - The Charles C. Leary (2002-08-21)
 </li>
 <li data-cover="https://img.discogs.com/Gh0AvnRc9YoA06yHj4mNUNFhe6c=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-304636-1436955400-5740.jpeg.jpg" data-tags="noise" role="button">
 Excepter - KA (2003)
+</li>
+<li data-cover="https://img.discogs.com/fmMDCwfcyqYPc3p1PclhdKQdp7g=/fit-in/225x231/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-448184-1206310504.jpeg.jpg" data-tags="freak folk, psychedelic folk, free folk, and if the snow buries my neighbourhood and if my parents are crying then i will dig a tunnel from my window to yours, folk horror, s t i t s rise, rural eerie, witchy folk" role="button">
+Spires That in the Sunset Rise - Spires That In The Sunset Rise (2003)
+</li>
+<li data-cover="http://coverartarchive.org/release/49c29490-ae71-4b16-823b-6d26ba35d94d/10375284847-500.jpg" data-tags="freak folk, psychedelic folk" role="button">
+Natalie Rose Lebrecht - Warraw (2003)
 </li>
 <li data-cover="http://coverartarchive.org/release/8a759a72-823b-4c07-9cf8-8d38d53e95b5/15060562467-500.jpg" data-tags="singer-songwriter, blues, american, freak folk, new weird america, male vocalists" role="button">
 Entrance - The Kingdom of Heaven Must Be Taken by Storm (2003-03-04)
@@ -111,6 +114,9 @@ Grizzly Bear - Horn Of Plenty (2004-11-09)
 <li data-cover="https://img.discogs.com/BQ870DmwI1K9Daa-jzfmdv0jsM0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8805093-1469131689-8429.jpeg.jpg" data-tags="indie, alternative" role="button">
 Viking Moses - Crosses (2005)
 </li>
+<li data-cover="https://img.discogs.com/dwDcCWysz4mnUI8ocRM3zLe_0jE=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1456949-1553082146-6859.jpeg.jpg" data-tags="folk, freak folk, folk rock, psychedelic folk, sixties, mantric acoustic" role="button">
+Elyse - Elyse (2005)
+</li>
 <li data-cover="https://img.discogs.com/dhfeRRNkC1I9s3stYmQYKBJ5A2o=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-782540-1344067329-2316.jpeg.jpg" data-tags="folk" role="button">
 Feathers - Feathers (2005)
 </li>
@@ -131,9 +137,6 @@ Jack Rose - Kensington Blues (2005-08-30)
 </li>
 <li data-cover="https://img.discogs.com/JER9pOjFx79mxEsIr3hc7I6zIRQ=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-515010-1465559157-3487.jpeg.jpg" data-tags="indie" role="button">
 CocoRosie - Noah's Ark (2005-09-13)
-</li>
-<li data-cover="https://img.discogs.com/7bV-M82hSfPCEj5IlqY-nR7A5K4=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8749787-1570831379-3893.jpeg.jpg" data-tags="freak folk" role="button">
-Animal Collective - Grass (2005-09-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/9b117fed-2eea-456a-8b35-faffb799ebea/19753705983-500.jpg" data-tags="folk" role="button">
 Castanets - First Light's Freeze (2005-10-11)
@@ -164,9 +167,6 @@ Larkin Grimm - The Last Tree (2006-10-06)
 </li>
 <li data-cover="https://img.discogs.com/cHdBU96EmLFYLHfD8G4Gv3BCygM=/fit-in/541x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2089206-1263362839.jpeg.jpg" data-tags="folk, freak folk, add to shopping list, rumpelmusik, alternative albums i own" role="button">
 Feathers - Synchromy (2006-10-17)
-</li>
-<li data-cover="https://img.discogs.com/CUFPWdZxwK1zMX_d_GnG2qo453w=/fit-in/350x347/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893659-1170075469.jpeg.jpg" data-tags="there are cats on this album art" role="button">
-Animal Collective - People (2006-11-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/97291f62-7c9e-4b59-b5f5-79cae7a64d78/13633615038-500.jpg" data-tags="folk, psychedelic, freak folk, new weird america, check out later, drag city, white magic, insuperable, mistico, muita barba, hippagem, fundamento, busca, terrible discooooooo, mas que folk" role="button">
 White Magic - Dat Rosa Mel Apibus (2006-11-14)

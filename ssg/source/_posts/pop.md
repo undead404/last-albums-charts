@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T06:36:01.514Z
+date: 2021-04-13T07:33:01.607Z
 title: "pop: 100 albums you must listen to before you die"
 ---
 ![Lady Gaga - Born This Way (2011-05-20)](https://img.discogs.com/kiLwt_R45vO5UULOxUMKi6fwTvc=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3259342-1322756946.jpeg.jpg "Lady Gaga - Born This Way (2011-05-20)")
@@ -45,8 +45,14 @@ Madonna - Ray of Light (1998-04-27)
 <li data-cover="http://coverartarchive.org/release/7a9b4a0c-0888-4889-804b-eae4f6a2d4b5/7948199430-500.jpg" data-tags="pop, dido, female vocalists" role="button">
 Dido - No Angel (1999-06-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/727148f9-8ebc-4fb9-8c1d-48249b69dd3a/2629779035-500.jpg" data-tags="pop" role="button">
+Christina Aguilera - Christina Aguilera (1999-08-24)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rnb" role="button">
 Destiny's Child - Survivor (2001-04-25)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="john mayer" role="button">
+John Mayer - Room for Squares (2001-06-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/03e76400-d2c5-497c-994e-48219c46c72b/5560639914-500.jpg" data-tags="pop, dance" role="button">
 Kylie Minogue - Fever (2001-10-05)
@@ -59,9 +65,6 @@ Avril Lavigne - Let Go (2002-06-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="maroon 5, pop, rock, pop rock" role="button">
 Maroon 5 - Songs About Jane (2002-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
-Coldplay - A Rush of Blood to the Head (2002-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/6a0c6963-683e-4275-bebb-0279092ee772/2081207603-500.jpg" data-tags="pop" role="button">
 Christina Aguilera - Stripped (2002-10-28)
@@ -165,6 +168,9 @@ Britney Spears - Blackout (2007-10-25)
 <li data-cover="https://img.discogs.com/xseI3kwe7VFwDf7uiq0iHeuGqPo=/fit-in/600x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1555639-1599282424-8912.jpeg.jpg" data-tags="leona lewis, pop" role="button">
 Leona Lewis - Spirit (2007-11-12)
 </li>
+<li data-cover="http://coverartarchive.org/release/c253de39-d431-3576-8471-a94d72edc3fa/16785422694-500.jpg" data-tags="pop, dance" role="button">
+Kylie Minogue - X (2007-11-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/4846826f-c71e-4172-9229-4e1ff7d3e033/2338491060-500.jpg" data-tags="female vocalists, pop" role="button">
 Amy Macdonald - This Is the Life (2007-12-10)
 </li>
@@ -176,9 +182,6 @@ Duffy - Rockferry (2008-03-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e36207e-afe8-4f0b-86fe-11df04332743/9668913960-500.jpg" data-tags="pop" role="button">
 Madonna - Hard Candy (2008-04-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
-Coldplay - Viva la Vida (2008-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/30625a5d-5ceb-4fb6-bb8c-ba82e279acdd/11290179354-500.jpg" data-tags="pop" role="button">
 Katy Perry - One of the Boys (2008-06-17)
@@ -308,9 +311,6 @@ Lorde - Pure Heroine (2013-09-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/10fe095c-c6f9-4248-90af-c3d1e4747180/6935504042-500.jpg" data-tags="pop" role="button">
 Katy Perry - PRISM (2013-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
-Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d7ebd8-9de1-4e94-b390-3975e603a66d/7724907354-500.jpg" data-tags="pop" role="button">
 Sia - 1000 Forms of Fear (2014-07-04)

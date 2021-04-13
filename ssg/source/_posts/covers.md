@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T22:18:01.529Z
+date: 2021-04-13T07:13:08.210Z
 title: "covers: 100 albums you must listen to before you die"
 ---
 ![Nouvelle Vague - Nouvelle Vague (2004-08-09)](http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg "Nouvelle Vague - Nouvelle Vague (2004-08-09)")
@@ -10,8 +10,8 @@ title: "covers: 100 albums you must listen to before you die"
 <li data-cover="https://img.discogs.com/LVgMCcBV6nXU1KmjvUWcYGS6H70=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-701826-1332343303.jpeg.jpg" data-tags="covers, punk" role="button">Me First and the Gimme Gimmes - Blow In The Wind (2001-03-20)</li>
 <li data-cover="http://coverartarchive.org/release/a7ccb022-f437-4492-8eee-8f85d85cdb96/2098090328-500.jpg" data-tags="covers, cover" role="button">Tori Amos - Strange Little Girls (2001-09-17)</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">Nouvelle Vague - Nouvelle Vague (2004-08-09)</li>
-<li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">A Perfect Circle - eMOTIVe (2004-11-01)</li>
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">Paul Anka - Rock Swings (2005-06-07)</li>
+<li data-cover="http://coverartarchive.org/release/c13c0bb8-8e6b-4163-a053-5ad21f6fec2b/22100874189-500.jpg" data-tags="reggae" role="button">Easy Star All-Stars - Radiodread (2006-08-22)</li>
 <li data-cover="https://img.discogs.com/QO7zFM0tva2c9T7Mv2WKmzHED2g=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-966497-1469987494-2664.jpeg.jpg" data-tags="covers" role="button">Patti Smith - Twelve (2007-04-13)</li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">Cat Power - Jukebox (2008-01-18)</li>
 </ol>
@@ -41,9 +41,6 @@ U2 - One (1992-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed/13989672545-500.jpg" data-tags="singer-songwriter, acoustic, 90s" role="button">
 Everything But the Girl - Acoustic (1992-06-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/00b09416-0c4e-4525-81de-c820952b7c40/14473108816-500.jpg" data-tags="heavy metal, 90s" role="button">
-Skid Row - B-Side Ourselves (1992-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3231186d-1fde-4267-afad-150495b470b0/7973068614-500.jpg" data-tags="hard rock" role="button">
 Guns N' Roses - The Spaghetti Incident? (1993-11-21)
@@ -147,14 +144,14 @@ Evergreen Terrace - Writer's Block (2004-02-17)
 <li data-cover="http://coverartarchive.org/release/4843163a-5119-469c-9639-863cd5d3a856/15495644463-500.jpg" data-tags="pop, female vocalists, covers, 00s" role="button">
 Agnetha Fältskog - My Colouring Book (2004-04-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/0247d4db-54d2-4ddb-b538-397c980f1f17/5165774306-500.jpg" data-tags="pop, covers" role="button">
+Wilson Phillips - California (2004-05-25)
+</li>
 <li data-cover="http://coverartarchive.org/release/bea245eb-a490-4f63-b9e9-c564bc42d514/15272031336-500.jpg" data-tags="bossa nova, french, covers" role="button">
 Nouvelle Vague - Nouvelle Vague (2004-08-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="gregorian" role="button">
 Gregorian - The Dark Side (2004-10-25)
-</li>
-<li data-cover="https://img.discogs.com/RuuxMh6e-T3Hv19tCpjYyXQM8M4=/fit-in/600x836/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5073762-1531330871-8949.jpeg.jpg" data-tags="alternative rock" role="button">
-A Perfect Circle - eMOTIVe (2004-11-01)
 </li>
 <li data-cover="https://img.discogs.com/VSwnFOTiuvMGJfhNCorJcgT0J2c=/fit-in/150x150/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-225125-1081083113.gif.jpg" data-tags="listen to your heart" role="button">
 D.H.T. - Listen To Your Heart (2004-11-23)
@@ -171,8 +168,14 @@ Set Your Goals - Reset (2005-04-19)
 <li data-cover="https://img.discogs.com/RASg-glnAvDTAFf8pWns_bW2BzM=/fit-in/500x499/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1147083-1288985803.jpeg.jpg" data-tags="swing, covers" role="button">
 Paul Anka - Rock Swings (2005-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/da06d27c-ebad-465b-b6aa-b79daf8fcfa5/7668794668-500.jpg" data-tags="rockabilly, covers, neo-rockabilly, cover project, kittens and cats, tangleica ramones" role="button">
+Full Blown Cherry - Rockabilly Tribute to the Ramones (2005-09-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/47d3278d-9508-47be-bbb0-2ca01ded76a4/1072873279-500.jpg" data-tags="alternative metal, alternative rock" role="button">
 Deftones - B-Sides & Rarities (2005-10-04)
+</li>
+<li data-cover="https://img.discogs.com/eacRnMX42ntGtUObuJYjMWXP3gI=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-549931-1130341413.jpeg.jpg" data-tags="piano" role="button">
+Maxence Cyrin - Modern Rhapsodies (2005-10-24)
 </li>
 <li data-cover="https://img.discogs.com/L4fYIVFip-y8ol8EFzFpJ-p7pWY=/fit-in/600x620/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8012303-1484173057-5055.jpeg.jpg" data-tags="covers, less than 40 minutes" role="button">
 Tegan and Sara - Songs for Christoff (2006)
@@ -204,6 +207,9 @@ Ann Wilson - Hope & Glory (2007-09-11)
 <li data-cover="http://coverartarchive.org/release/d03c6f9d-a5f3-43ae-860a-5a92ad2a690e/8468336880-500.jpg" data-tags="jazz, female vocalists, smooth jazz, soul, covers" role="button">
 Queen Latifah - Trav'lin' Light (2007-09-25)
 </li>
+<li data-cover="https://img.discogs.com/sIkXWCbaXMqqRjvaM09JmQuF5SI=/fit-in/573x568/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2195318-1269173994.jpeg.jpg" data-tags="french, pop, female vocalists, covers" role="button">
+Tina Arena - Songs Of Love & Loss (2007-12-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/472ab586-be69-4bdb-8f90-af1d25e754a6/22781705669-500.jpg" data-tags="female vocalists, covers, jazz, cover" role="button">
 Cat Power - Jukebox (2008-01-18)
 </li>
@@ -215,9 +221,6 @@ Scarlett Johansson - Anywhere I Lay My Head (2008-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/3d365177-8133-4abd-a4b5-dbfc21c9bbb7/9977116623-500.jpg" data-tags="country, covers, contemporary christian, u2, misc, bono, ccm, killforpeace, pentecostal, the edge, glen campbell, 1000 albums to hear before you die, glen campbel, jesus had a penis, dake-bonoist, dake, dake-bonoism, confucius had a penis, listen to u2, dake-bonoistic doctrine, conforms to dake-bonoistic doctrine, moist butt kittens, they always conform to dake-bonoistic doctrine, finis jennings dake, dake-bono, contemporary muslim" role="button">
 Glen Campbell - Meet Glen Campbell (2008-08-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/9ddd8d7d-0fc5-4567-8867-daa9d5f4b922/8447269122-500.jpg" data-tags="soundtrack" role="button">
-Various Artists - Nightmare Revisited (2008-09-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/225d81f3-a2f7-46df-af4c-a38b3122528b/2985759093-500.jpg" data-tags="downtempo, covers, stage and screen, ambient ram, cudawianki, popyram" role="button">
 Hollywood, Mon Amour - Hollywood, Mon Amour (2008-10-06)
@@ -305,9 +308,6 @@ Jeff Lynne - Long Wave (2012-10-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/e8fb9135-ba7a-454e-a442-e3020c74ab02/6349492271-500.jpg" data-tags="covers, queens of the stone age cover" role="button">
 Olivier Libaux - Uncovered Queens of the Stone Age (2013-06-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/ebadad2b-e01f-432e-8059-1882128213c9/5552546040-500.jpg" data-tags="sad, cover" role="button">
-Glee Cast - The Quarterback (2013-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/236eebe9-e5e1-4d70-a35c-6c8a5751f954/9273119335-500.jpg" data-tags="soundtrack, folk, indie pop, covers, tv soundtrack, the driver is driving really well at the moment" role="button">
 Cœur de Pirate - Trauma (2014-01-14)

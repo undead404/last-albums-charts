@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T06:28:01.487Z
+date: 2021-04-13T07:16:07.076Z
 title: "alternative rock: 100 albums you must listen to before you die"
 ---
 ![Radiohead - OK Computer (1997-05-21)](https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg "Radiohead - OK Computer (1997-05-21)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="http://coverartarchive.org/release/bd797f26-ddc1-43ae-8950-1757e28753cb/7646216656-500.jpg" data-tags="90s, alternative rock, rock" role="button">
+R.E.M. - Out of Time (1991-03-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/97a2952b-51f6-3e84-a6fe-f6c90a45f09f/1494363546-500.jpg" data-tags="grunge" role="button">
 Pearl Jam - Ten (1991-08-27)
 </li>
@@ -54,6 +57,9 @@ Foo Fighters - The Colour and the Shape (1997-05-10)
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/31e609d2-49aa-4b71-ad6e-57c0b0f54161/2466056776-500.jpg" data-tags="rock, alternative rock, 90s" role="button">
+Goo Goo Dolls - Dizzy Up the Girl (1998-09-22)
+</li>
 <li data-cover="http://coverartarchive.org/release/be580d1c-181f-4ad9-9bfd-172c3960979e/20443600585-500.jpg" data-tags="rock, alternative rock" role="button">
 Red Hot Chili Peppers - Californication (1999-06-07)
 </li>
@@ -71,9 +77,6 @@ Foo Fighters - There Is Nothing Left to Lose (1999-11-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg" data-tags="nu metal, rock" role="button">
 Linkin Park - Hybrid Theory (2000-05-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
-Coldplay - Parachutes (2000-07-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
@@ -108,11 +111,11 @@ The White Stripes - White Blood Cells (2001-07-03)
 <li data-cover="http://coverartarchive.org/release/d475a4fe-ef67-4bc9-9eef-1f2150964c1d/5572153535-500.jpg" data-tags="alternative rock, rock, emo" role="button">
 Jimmy Eat World - Bleed American (2001-07-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg" data-tags="indie, alt-country" role="button">
+Wilco - Yankee Hotel Foxtrot (2002-04-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock" role="button">
 Red Hot Chili Peppers - By the Way (2002-06-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
-Coldplay - A Rush of Blood to the Head (2002-08-12)
 </li>
 <li data-cover="https://img.discogs.com/AT2tNE2lhg4JQ8ofozdmX6k650s=/fit-in/600x525/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-545617-1129796340.jpeg.jpg" data-tags="stoner rock, rock" role="button">
 Queens of the Stone Age - Songs for the Deaf (2002-08-17)
@@ -162,14 +165,14 @@ Lostprophets - Start Something (2004-01-15)
 <li data-cover="http://coverartarchive.org/release/b434a801-3c05-46e2-8d43-6a56b77f56c6/8875665067-500.jpg" data-tags="indie rock, indie, franz ferdinand, rock" role="button">
 Franz Ferdinand - Franz Ferdinand (2004-02-09)
 </li>
-<li data-cover="https://img.discogs.com/s_xHgLh4LMSvi6EsciX_mtUmKy0=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368410-1280359276.jpeg.jpg" data-tags="indie rock, indie, rock" role="button">
-The Killers - Hot Fuss (2004-06-07)
-</li>
 <li data-cover="https://img.discogs.com/Q2NHqtdLjFnjifVuEuy1aFg-jLU=/fit-in/510x519/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2914208-1307035961.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Breaking Benjamin - We Are Not Alone (2004-06-08)
 </li>
 <li data-cover="https://img.discogs.com/Y3ZrWLBHYpX5M-UGLTgRcVZIEvI=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3063213-1326676273.jpeg.jpg" data-tags="nu metal, rock, hard rock, alternative rock" role="button">
 Papa Roach - Getting Away With Murder (2004-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/d071fda0-f5cb-448f-9b90-c0f1cd2d116f/6320184240-500.jpg" data-tags="alternative rock, rock, hard rock" role="button">
+Alter Bridge - One Day Remains (2004-08-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/111fa0e4-567f-4b5f-a206-78f5e01de265/4783126212-500.jpg" data-tags="punk rock, punk, rock" role="button">
 Green Day - American Idiot (2004-09-20)
@@ -195,9 +198,6 @@ Audioslave - Out of Exile (2005-05-23)
 <li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">
 The White Stripes - Get Behind Me Satan (2005-06-01)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
-Coldplay - X&Y (2005-06-01)
-</li>
 <li data-cover="http://coverartarchive.org/release/bc56e60b-8173-4be0-9862-5d85ea3c980f/11634413747-500.jpg" data-tags="alternative rock, rock" role="button">
 30 Seconds to Mars - A Beautiful Lie (2005-08-16)
 </li>
@@ -206,6 +206,9 @@ Nickelback - All The Right Reasons (2005-09-26)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="emo, rock" role="button">
 Panic! at the Disco - A Fever You Can't Sweat Out (2005-09-27)
+</li>
+<li data-cover="http://coverartarchive.org/release/bc6365ab-b406-4214-96f8-ec4a7070c5d5/929495400-500.jpg" data-tags="rock, indie rock" role="button">
+The Strokes - First Impressions of Earth (2005-12-30)
 </li>
 <li data-cover="https://img.discogs.com/p1nLSTQQFffBdpkUic-TdeeMeTc=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-509394-1224138179.jpeg.jpg" data-tags="rock, pop punk, alternative rock" role="button">
 The All-American Rejects - Move Along (2006)
@@ -240,6 +243,9 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 <li data-cover="https://via.placeholder.com/450" data-tags="alternative rock, rock" role="button">
 The White Stripes - Icky Thump (2007-06-15)
 </li>
+<li data-cover="http://coverartarchive.org/release/3c7360b9-c7fe-4c14-86fe-a13789461451/6212700819-500.jpg" data-tags="indie rock, indie, post-punk" role="button">
+Interpol - Our Love to Admire (2007-07-09)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Echoes, Silence, Patience & Grace (2007-09-18)
 </li>
@@ -251,12 +257,6 @@ OneRepublic - Dreaming Out Loud (2007-11-20)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="rock, alternative rock" role="button">
 The Raconteurs - Consolers of the Lonely (2008-03-24)
-</li>
-<li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
-Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
-Coldplay - Viva la Vida (2008-06-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/76461aea-eed9-3391-88e4-3c78ea2a94e3/6247643874-500.jpg" data-tags="rock, alternative rock" role="button">
 Kings of Leon - Only by the Night (2008-09-19)
@@ -297,8 +297,8 @@ Linkin Park - A Thousand Suns (2010-09-08)
 <li data-cover="http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg" data-tags="rock, alternative rock" role="button">
 Foo Fighters - Wasting Light (2011-04-08)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
-Coldplay - Mylo Xyloto (2011-10-19)
+<li data-cover="http://coverartarchive.org/release/dc64e2f5-6ca2-429a-8956-c104cd62c925/8016441381-500.jpg" data-tags="indie pop" role="button">
+fun. - Some Nights (2011-07-12)
 </li>
 <li data-cover="https://img.discogs.com/M_Wy2XOuhikxL5YB_zx_Lqe6Wx0=/fit-in/408x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13817306-1561785201-4941.jpeg.jpg" data-tags="alternative rock, blues, blues rock, midwest, the black keys" role="button">
 The Black Keys - Lonely Boy (2011-10-25)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:52:12.713Z
+date: 2021-04-13T07:14:14.215Z
 title: "ebm: 100 albums you must listen to before you die"
 ---
 ![Combichrist - Everybody Hates You (2005-02-21)](http://coverartarchive.org/release/cdb9a10b-625c-4ff9-908a-05580ea48310/9054492147-500.jpg "Combichrist - Everybody Hates You (2005-02-21)")
@@ -66,6 +66,9 @@ Oomph! - OOMPH! (1992)
 <li data-cover="http://coverartarchive.org/release/78491919-c124-486b-a705-d3ab323251a5/28315812844-500.jpg" data-tags="industrial" role="button">
 Skinny Puppy - Last Rights (1992-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5803aeb-8f4e-322f-bdd4-2920e1f280ea/7626994045-500.jpg" data-tags="ebm" role="button">
+Leæther Strip - Solitary Confinement (1992-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/dca56b61-66f1-34d9-8184-1010cf5bb8c9/24465532686-500.jpg" data-tags="electronic, ebm" role="button">
 And One - Flop! (1992-03-30)
 </li>
@@ -98,9 +101,6 @@ Front Line Assembly - Reclamation (1997-10-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/1341d448-8802-4915-b40a-6f90850f54d1/2348898126-500.jpg" data-tags="electronic, ebm, industrial" role="button">
 Front Line Assembly - Flavour Of The Weak (1997-11-05)
-</li>
-<li data-cover="https://img.discogs.com/9JHGtxS5Rw4TomEnoABguqfuzOQ=/fit-in/491x489/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1374019-1303324520.jpeg.jpg" data-tags="ebm, industrial" role="button">
-Das Ich - Egodram (1998-01-30)
 </li>
 <li data-cover="https://img.discogs.com/cL9w8BLy4ihGCULvcIIkSJjapb8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13991990-1565635135-6857.jpeg.jpg" data-tags="ebm, electro" role="button">
 Apoptygma Berzerk - The Apopcalyptic Manifesto (1998-04-21)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:39:07.912Z
+date: 2021-04-13T06:47:01.476Z
 title: "guitar virtuoso: 100 albums you must listen to before you die"
 ---
 ![Joe Satriani - Surfing With The Alien (1987-10-15)](http://coverartarchive.org/release/b06fe72c-868c-4d21-91ff-593a4b0e2022/15141670144-500.jpg "Joe Satriani - Surfing With The Alien (1987-10-15)")
@@ -30,14 +30,8 @@ Jimi Hendrix - Rainbow Bridge (1971-10)
 <li data-cover="http://coverartarchive.org/release/8daf4cd8-def7-4993-b1ef-340700ca95ff/7443035790-500.jpg" data-tags="blues rock" role="button">
 Rory Gallagher - Tattoo (1973)
 </li>
-<li data-cover="https://img.discogs.com/AHtC3FVIMsoA6hRqe56C8Ax2Jm8=/fit-in/600x578/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6931769-1429801974-8154.jpeg.jpg" data-tags="blues rock" role="button">
-Johnny Winter - Still Alive And Well (1973-03)
-</li>
 <li data-cover="https://img.discogs.com/F_PpNjjNEZPo3pSL97LApvoxhJU=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016529-1572163829-8011.jpeg.jpg" data-tags="fusion" role="button">
 Jeff Beck - Blow by Blow (1975-03)
-</li>
-<li data-cover="http://coverartarchive.org/release/2130badd-2c36-4061-b03e-66127118a7dc/5191736117-500.jpg" data-tags="fusion, jazz fusion" role="button">
-Al Di Meola - Land of the Midnight Sun (1976)
 </li>
 <li data-cover="https://img.discogs.com/P08vvN0k9cAp_205aggHldYpfl8=/fit-in/600x616/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2622005-1536349971-1230.jpeg.jpg" data-tags="jazz fusion, jazz, fusion" role="button">
 Al Di Meola - Elegant Gypsy (1977)
@@ -48,6 +42,9 @@ Al Di Meola - Casino (1978)
 <li data-cover="http://coverartarchive.org/release/db27de8b-8253-4b1b-bcda-bad5bb882a43/7443079396-500.jpg" data-tags="blues, blues rock, classic rock" role="button">
 Rory Gallagher - Top Priority (1979-08-14)
 </li>
+<li data-cover="https://img.discogs.com/G2yf-2Yi4J4tCPuItg2HPPNZKMg=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4527702-1442212442-8222.jpeg.jpg" data-tags="jazz fusion" role="button">
+Al Di Meola - Splendido Hotel (1980)
+</li>
 <li data-cover="http://coverartarchive.org/release/679c7769-03cf-4582-bf45-cce56450c8c0/19982018420-500.jpg" data-tags="rock" role="button">
 Gary Moore - Corridors of Power (1982)
 </li>
@@ -57,9 +54,6 @@ Asia - Asia (1982-03-18)
 <li data-cover="http://coverartarchive.org/release/c7c6a575-1d22-40d9-a112-bca069207eb6/14497556057-500.jpg" data-tags="80s, classic rock, soft rock" role="button">
 Toto - Toto IV (1982-04-08)
 </li>
-<li data-cover="https://img.discogs.com/ShKKWfUs68Diszr5Rw4MDHpWT0U=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2438572-1539354338-8517.jpeg.jpg" data-tags="hard rock, guitar virtuoso, yngwie malmsteen" role="button">
-Alcatrazz - No Parole from Rock 'n' Roll (1983)
-</li>
 <li data-cover="https://img.discogs.com/l11eJQX-Qbi88KDHpfGcME4wWUg=/fit-in/439x443/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3667906-1339584107-1206.jpeg.jpg" data-tags="fusion" role="button">
 Allan Holdsworth - Metal Fatigue (1985)
 </li>
@@ -68,6 +62,9 @@ Larry Carlton - Discovery (1986)
 </li>
 <li data-cover="http://coverartarchive.org/release/48b94126-5941-4076-8b0b-fc586c416e07/23743667370-500.jpg" data-tags="twangy guitar" role="button">
 Duane Eddy - Duane Eddy (1987)
+</li>
+<li data-cover="http://coverartarchive.org/release/acb5c3f6-1c7e-4824-9590-14d2d8d664a3/6366098707-500.jpg" data-tags="folk rock, guitar virtuoso, michael hedges, windham hill records, one time recording, windham hill recording" role="button">
+Michael Hedges - Live on the Double Planet (1987)
 </li>
 <li data-cover="https://img.discogs.com/jvdFdwcboJ6e9FQJRMgNi2YuwPI=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4705357-1372840963-5632.jpeg.jpg" data-tags="heavy metal" role="button">
 Racer X - Second Heat (1987)
@@ -120,9 +117,6 @@ Shawn Lane - Powers of Ten (1992-07-14)
 <li data-cover="https://img.discogs.com/ChUgvhIWIVQpohV3tyHWJQA8vRM=/fit-in/252x258/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2446781-1284540147.jpeg.jpg" data-tags="guitar virtuoso" role="button">
 Craig Chaquico - Acoustic Highway (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/5551ab4f-c09f-4456-8d8c-821f63f71d7c/4524676990-500.jpg" data-tags="guitar virtuoso" role="button">
-Joe Satriani - Time Machine (1993-10-26)
-</li>
 <li data-cover="http://coverartarchive.org/release/c521a73a-a455-4fce-8f30-3b6b96d2a014/17155884093-500.jpg" data-tags="guitar virtuoso" role="button">
 Jimi Hendrix - Bleeding Heart (1994)
 </li>
@@ -131,6 +125,9 @@ Gary Moore - Ballads & Blues 1982-1994 (1994-11-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/6fc1a4df-ceb8-4d79-84c1-0f3d6f207750/23035733527-500.jpg" data-tags="guitar virtuoso, instrumental rock, guitar" role="button">
 Steve Vai - Alien Love Secrets (1995-03-21)
+</li>
+<li data-cover="https://img.discogs.com/jQZs0Ceo3XeepSD61f0aIU_c1c8=/fit-in/497x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4659739-1386451402-1888.jpeg.jpg" data-tags="blues rock, blues" role="button">
+Gary Moore - Blues For Greeny (1995-07-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/af0ade95-df87-45ff-b98d-97306b9e916c/5371373102-500.jpg" data-tags="guitar virtuoso" role="button">
 Michael Angelo Batio - No Boundaries (1995-09-01)
@@ -204,6 +201,9 @@ Joe Satriani - Strange Beautiful Music (2002-06-25)
 <li data-cover="http://coverartarchive.org/release/7ad421cb-26d8-47d9-ac97-ef0ba5230646/14928752516-500.jpg" data-tags="instrumental, guitar virtuoso, experimental" role="button">
 Buckethead - Electric Tears (2002-10-08)
 </li>
+<li data-cover="https://img.discogs.com/atNPJQE8YDqOjQSUSGKXAX58m3w=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1888876-1324824836.jpeg.jpg" data-tags="rock, fusion, progressive alternative metal, fk move" role="button">
+Freak Kitchen - Move (2002-10-23)
+</li>
 <li data-cover="https://img.discogs.com/4bOGAW1fpPLYOHj8KJhCxrfadI0=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2513137-1442331042-2541.jpeg.jpg" data-tags="guitar" role="button">
 Jeff Beck - Jeff (2003-08-06)
 </li>
@@ -276,9 +276,6 @@ Richie Kotzen - Into The Black (2006-12)
 <li data-cover="https://img.discogs.com/ScRjA_QLaGQ0UlyAF7k7tVkblXk=/fit-in/589x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7203937-1436097315-9486.jpeg.jpg" data-tags="classic rock" role="button">
 Toto - Greatest Hits (2007)
 </li>
-<li data-cover="http://coverartarchive.org/release/d2f1ef6a-e0b8-48b0-aa96-9ff9c6b20113/28819935253-500.jpg" data-tags="instrumental" role="button">
-Erik Mongrain - Fates (2007-06)
-</li>
 <li data-cover="http://coverartarchive.org/release/55f96af9-1792-43c4-891b-1a93dc084c48/10929669563-500.jpg" data-tags="instrumental rock, rock" role="button">
 Joe Satriani - Professor Satchafunkilus and the Musterion of Rock (2008-03-28)
 </li>
@@ -320,5 +317,8 @@ Steve Vai - The Story of Light (2012-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b98d215-a7fe-416b-8953-63bb8f0e72bd/4117752099-500.jpg" data-tags="instrumental rock" role="button">
 Joe Satriani - Unstoppable Momentum (2013-05-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/07dec81d-73d5-4eaa-9adb-5fc733223349/7522911274-500.jpg" data-tags="guitar virtuoso" role="button">
+Marty Friedman - Inferno (2014-05-23)
 </li>
 </ol>

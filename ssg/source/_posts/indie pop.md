@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T05:01:06.999Z
+date: 2021-04-13T07:27:01.551Z
 title: "indie pop: 100 albums you must listen to before you die"
 ---
 ![Foster the People - Torches (2011-05-23)](http://coverartarchive.org/release/a67c9410-8035-4894-bcca-8848b2a1421e/24056349330-500.jpg "Foster the People - Torches (2011-05-23)")
@@ -165,6 +165,9 @@ Broken Bells - Broken Bells (2010-03-05)
 <li data-cover="http://coverartarchive.org/release/2c965efb-dd6e-430b-bd4e-be8a5733aaac/4804300300-500.jpg" data-tags="indie pop" role="button">
 She & Him - Volume Two (2010-03-17)
 </li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="psychedelic, electronic, indie" role="button">
+MGMT - Congratulations (2010-04-07)
+</li>
 <li data-cover="http://coverartarchive.org/release/cc6f7a05-e1c4-4039-9eb3-8c8ccd37e6b1/13919864002-500.jpg" data-tags="indie pop, shoegaze" role="button">
 The Radio Dept. - Clinging to a Scheme (2010-04-19)
 </li>
@@ -245,9 +248,6 @@ Ellie Goulding - Halcyon (2012-10-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/98215ea8-f57d-49f6-8a77-cad6957b1181/7519909230-500.jpg" data-tags="electronic, synthpop, pop" role="button">
 Ellie Goulding - Halcyon Days (2012-10-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
-Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/fed15943-7a2f-4145-b927-d54bfdbb47a3/3077819531-500.jpg" data-tags="indie pop" role="button">
 Foxygen - We Are the 21st Century Ambassadors of Peace & Magic (2013-01-22)

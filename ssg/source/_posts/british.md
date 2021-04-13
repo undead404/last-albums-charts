@@ -1,10 +1,10 @@
 ---
-date: 2021-04-13T03:11:01.466Z
+date: 2021-04-13T07:12:08.141Z
 title: "british: 100 albums you must listen to before you die"
 ---
 ![Jessie J - Who You Are (2011-02-28)](http://coverartarchive.org/release/cae1712f-0423-4398-bc8a-f458bf7a45c2/14000252347-500.jpg "Jessie J - Who You Are (2011-02-28)")
 <ol class="albums">
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">Coldplay - X&Y (2005-06-01)</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock" role="button">Kasabian - Empire (2006-08-25)</li>
 <li data-cover="http://coverartarchive.org/release/3c7c6c47-aba4-3d96-a5a3-1aa355aed522/7582830579-500.jpg" data-tags="indie rock" role="button">Arctic Monkeys - Favourite Worst Nightmare (2007-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/ea92a194-2d60-35c7-9d56-0e1dba20cd45/8141643246-500.jpg" data-tags="alternative, alternative rock" role="button">Radiohead - In Rainbows (2007-10-10)</li>
 <li data-cover="http://coverartarchive.org/release/11572329-7330-36eb-bcfb-787987c783be/9704570995-500.jpg" data-tags="indie" role="button">Florence + the Machine - Lungs (2009-01-01)</li>
@@ -36,6 +36,9 @@ The Rolling Stones - Let It Bleed (1969-11-29)
 <li data-cover="https://img.discogs.com/Z7CWHAcUvNh2EIwSCAo56cRf12s=/fit-in/460x414/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7767118-1448345509-9572.jpeg.jpg" data-tags="rock, classic rock" role="button">
 The Beatles - Let It Be (1970-05-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/75b17f23-8ad1-3df2-9c7c-cae03b2b8eb4/5052272781-500.jpg" data-tags="punk, punk rock" role="button">
+The Clash - London Calling (1979-12-14)
+</li>
 <li data-cover="https://img.discogs.com/xqf09tHFSiPR9_WfaJUpGLq_MFw=/fit-in/485x484/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2660270-1433472219-9062.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 Radiohead - Pablo Honey (1993-02-22)
 </li>
@@ -51,14 +54,17 @@ Oasis - (What's the Story) Morning Glory? (1995-10-02)
 <li data-cover="https://img.discogs.com/tqXnYlfINIcvurh1bdGgRyyXGy0=/fit-in/321x318/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3710459-1342392164-1799.jpeg.jpg" data-tags="alternative rock, alternative" role="button">
 Radiohead - OK Computer (1997-05-21)
 </li>
+<li data-cover="http://coverartarchive.org/release/1231824a-0e79-4306-8a6c-47b069bb72f9/7309778630-500.jpg" data-tags="britpop" role="button">
+Oasis - Be Here Now (1997-08-21)
+</li>
 <li data-cover="http://coverartarchive.org/release/87c8acad-c20b-35c9-b9cc-26008b429346/2003833223-500.jpg" data-tags="britpop" role="button">
 The Verve - Urban Hymns (1997-09-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/90e63241-4650-4e1e-b41c-058a0d9a0407/23584939765-500.jpg" data-tags="david gray" role="button">
 David Gray - White Ladder (1998-11-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/435fc965-9121-461e-b8da-d9b505c9dc9b/4086974851-500.jpg" data-tags="coldplay, britpop" role="button">
-Coldplay - Parachutes (2000-07-10)
+<li data-cover="http://coverartarchive.org/release/a807034d-09ee-3d4c-9566-06d114c1fc6c/5710869185-500.jpg" data-tags="britpop, rock" role="button">
+Oasis - Standing on the Shoulder of Giants (2000-02-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b13f061a-bd3c-3aaf-9a60-64a0c6f7aee5/2563832918-500.jpg" data-tags="electronic, alternative, experimental" role="button">
 Radiohead - Kid A (2000-08-03)
@@ -80,9 +86,6 @@ Muse - Origin of Symmetry (2001-06-13)
 </li>
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/219b202d-290e-3960-b626-bf852a63bc50/1339509743-500.jpg" data-tags="coldplay, rock" role="button">
-Coldplay - A Rush of Blood to the Head (2002-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/24bd9621-0b64-4897-ac4d-50c7519d1017/21664410934-500.jpg" data-tags="indie rock, indie" role="button">
 The Libertines - Up the Bracket (2002-09-30)
@@ -108,6 +111,9 @@ James Blunt - Back to Bedlam (2004-04-15)
 <li data-cover="http://coverartarchive.org/release/6206d126-6938-3efd-b0a0-63877cd0a237/25696770339-500.jpg" data-tags="alternative, morrissey" role="button">
 Morrissey - You Are The Quarry (2004-05-03)
 </li>
+<li data-cover="http://coverartarchive.org/release/2e24044e-a62d-38cd-a81c-bb18568d69f7/16604406384-500.jpg" data-tags="hip-hop, hip hop" role="button">
+The Streets - A Grand Don't Come for Free (2004-05-10)
+</li>
 <li data-cover="https://img.discogs.com/2SvKCAYi00xoyMoUETY-bjnYcx0=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1830389-1298567872.jpeg.jpg" data-tags="indie rock, indie, british" role="button">
 Razorlight - Up All Night (2004-06-28)
 </li>
@@ -128,9 +134,6 @@ Kaiser Chiefs - Employment (2005-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/ad0a377b-6c7c-30ff-921d-a47edae073e2/6436408454-500.jpg" data-tags="alternative, electronic" role="button">
 Gorillaz - Demon Days (2005-05-11)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="rock, coldplay, alternative rock, alternative" role="button">
-Coldplay - X&Y (2005-06-01)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
@@ -201,6 +204,9 @@ Radiohead - In Rainbows (2007-10-10)
 <li data-cover="http://coverartarchive.org/release/6d4e6692-5ecd-457b-bcd5-85baf51c5e10/5179841564-500.jpg" data-tags="soul" role="button">
 Adele - 19 (2008-01-27)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="indie, indie rock, singer-songwriter, mystery jets, 2008 best albums" role="button">
+Mystery Jets - Twenty One (2008-03-21)
+</li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">
 Foals - Antidotes (2008-03-23)
 </li>
@@ -209,12 +215,6 @@ The Kooks - Konk (2008-04-09)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie rock" role="button">
 The Last Shadow Puppets - The Age of the Understatement (2008-04-16)
-</li>
-<li data-cover="https://img.discogs.com/5HWyWCwVw0BSss-Y20ynKvm-O2Q=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1376191-1244171157.jpeg.jpg" data-tags="rock, britpop, alternative" role="button">
-Coldplay - Viva la Vida or Death and All His Friends (2008-05-26)
-</li>
-<li data-cover="http://coverartarchive.org/release/ae6f6141-57c8-4216-af1f-38950321571f/2071996976-500.jpg" data-tags="alternative, britpop" role="button">
-Coldplay - Viva la Vida (2008-06-11)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 Friendly Fires - Friendly Fires (2008-09-01)
@@ -249,6 +249,9 @@ Muse - The Resistance (2009-09-10)
 <li data-cover="http://coverartarchive.org/release/d751cba4-242e-46d8-b230-3ca1d4e59b85/2484431634-500.jpg" data-tags="folk" role="button">
 Mumford & Sons - Sigh No More (2009-10-05)
 </li>
+<li data-cover="https://img.discogs.com/lfkUaWhOa-mKkA4XsUjtxeJkep0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2259545-1290695051.jpeg.jpg" data-tags="pop" role="button">
+Ellie Goulding - Lights (2010-03-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/a0ae9288-8038-3ed8-bfa8-5ea39ef7ecc8/4174517606-500.jpg" data-tags="indie rock" role="button">
 Foals - Total Life Forever (2010-05-07)
 </li>
@@ -281,9 +284,6 @@ Ed Sheeran - + (2011-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a04148d-c342-47d8-8703-d51109b9dbc5/5046500846-500.jpg" data-tags="folk" role="button">
 Ben Howard - Every Kingdom (2011-09-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
-Coldplay - Mylo Xyloto (2011-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)

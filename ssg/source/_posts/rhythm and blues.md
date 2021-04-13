@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T13:03:12.752Z
+date: 2021-04-13T07:08:07.155Z
 title: "rhythm and blues: 100 albums you must listen to before you die"
 ---
 ![The Weeknd - Kiss Land (2013-09-09)](http://coverartarchive.org/release/f43909e0-943f-4afa-98d0-497ed2054e1b/5066822902-500.jpg "The Weeknd - Kiss Land (2013-09-09)")
@@ -72,14 +72,14 @@ Bill Withers - Just As I Am (1971-05)
 <li data-cover="http://coverartarchive.org/release/1535079b-be0c-4c09-977e-b6b72fec2550/6268306789-500.jpg" data-tags="soul" role="button">
 Al Green - Let's Stay Together (1972-01-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/328058f1-6860-49d9-bdce-f0c2cb110e60/11383041141-500.jpg" data-tags="soul" role="button">
+The Temptations - All Directions (1972-07-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/3c9a52ee-ee0a-3362-a563-d9d28b02a53e/19198598644-500.jpg" data-tags="soul" role="button">
 Al Green - I'm Still in Love With You (1972-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/b90a4b4f-78a9-45f8-a3c9-3ea8b9c2b892/26619308784-500.jpg" data-tags="soul" role="button">
 The Spinners - Spinners (1973)
-</li>
-<li data-cover="http://coverartarchive.org/release/dc689536-49ad-32bd-97ba-975643b46e38/9667967278-500.jpg" data-tags="new orleans, rhythm and blues" role="button">
-Dr. John - In the Right Place (1973-02-25)
 </li>
 <li data-cover="https://img.discogs.com/gwHHf4SwU8F1I517KGbVxkSAb3w=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4150515-1540840917-4122.jpeg.jpg" data-tags="soul" role="button">
 Al Green - Greatest Hits (1975)
@@ -92,6 +92,9 @@ The Blues Brothers - Briefcase Full of Blues (1978-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/1812aa3d-bc63-40f1-a869-37f9fbb147f2/15571937860-500.jpg" data-tags="classic rock, rock, 80s, rhythm and blues, 1980s, xtph early" role="button">
 The J. Geils Band - Love Stinks (1980)
+</li>
+<li data-cover="https://img.discogs.com/nsgEanqJ1_Pi94FPrCGxt52MK9U=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6656362-1424004193-9241.jpeg.jpg" data-tags="jazz, rock, folk, singer-songwriter, fusion, blues, rhythm and blues, italiana, musica italiana, napoli, bella italia, pino, neapolitan, hotel italia" role="button">
+Pino Daniele - Nero A Metà (1980)
 </li>
 <li data-cover="http://coverartarchive.org/release/7db1d3b8-5a82-46a8-8273-3bb5111ff3e1/24422816505-500.jpg" data-tags="80s, rock" role="button">
 Tom Waits - Heartattack and Vine (1980-09)
@@ -132,11 +135,14 @@ Bo Diddley - Bo Diddley (1990)
 <li data-cover="https://img.discogs.com/_PxjF402l-loO_AcXq5sLvle7P0=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12909244-1544309615-7240.jpeg.jpg" data-tags="soul, motown" role="button">
 Marvin Gaye - Motown's Greatest Hits (1992)
 </li>
-<li data-cover="https://img.discogs.com/X8Z6Jz1VsC7pcOIgMCT_cl_J358=/fit-in/397x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9152297-1475690769-3497.jpeg.jpg" data-tags="rock" role="button">
-The Animals - The Animals (1993)
+<li data-cover="https://img.discogs.com/Q119q-3FrDCkJgpcTUG_JZmV14c=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-400402-1362848867-5409.jpeg.jpg" data-tags="80s, 90s, new jack swing, rhythm and blues" role="button">
+Bobby Brown - Bobby (1992-08-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7ae62ee-4da0-4662-89f6-a47264077b88/28717483363-500.jpg" data-tags="80s" role="button">
 The J. Geils Band - Showtime! (1995)
+</li>
+<li data-cover="https://img.discogs.com/pyyTuL7EkQeQHxWeqEIK2p745dg=/fit-in/559x550/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7016946-1431769287-1700.jpeg.jpg" data-tags="rhythm and blues, keepin-it-smooth-jazz, now available on last-fm radio 07q3, fattburger" role="button">
+Fattburger - All Natural Ingredients (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/5e5e7900-bd9a-461e-9768-a83fffe282be/17888190426-500.jpg" data-tags="soul" role="button">
 Curtis Mayfield - The Very Best of Curtis Mayfield (1996-04-22)
@@ -159,9 +165,6 @@ Solomon Burke - The Very Best of Solomon Burke (1998-02-03)
 <li data-cover="http://coverartarchive.org/release/da40c18c-652b-4901-8c76-2779f9a269a2/16639019832-500.jpg" data-tags="soul, motown" role="button">
 The Marvelettes - Ultimate Collection (1998-02-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/0bf2dbc4-600b-4eb6-b0c8-1be7aea3bc5c/18033156707-500.jpg" data-tags="rnb" role="button">
-Ginuwine - 100% Ginuwine (1999-03-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/f7433ff5-35e6-48c2-8503-c2d046540d5d/21406735668-500.jpg" data-tags="soul" role="button">
 Macy Gray - On How Life Is (1999-07-27)
 </li>
@@ -176,6 +179,9 @@ The J.B.'s - Pass The Peas: The Best Of The J.B.'s (2000-06-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c5052f7-d080-408d-a2de-baf772600a2e/24472897818-500.jpg" data-tags="blues rock, rhythm and blues, sympathy68, mick jagger, numckeith" role="button">
 Mick Jagger - God Gave Me Everything (2001)
+</li>
+<li data-cover="https://img.discogs.com/WDs8Q0vywnEkdS2hN_r65odzScc=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1919315-1305435824.jpeg.jpg" data-tags="soul" role="button">
+Angie Stone - Mahogany Soul (2001-06)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="00s, welsh, indie" role="button">
 Super Furry Animals - Rings Around the World (2001-07-23)
@@ -194,9 +200,6 @@ Chuck Berry - Blues (2003-08-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c5b2540a-3aa3-33e2-8d28-8160aeae0973/22070775394-500.jpg" data-tags="soul" role="button">
 Joss Stone - The Soul Sessions (2003-09-16)
-</li>
-<li data-cover="https://img.discogs.com/_ToyuENFlsBXUCGuTrOqcaqwHn0=/fit-in/180x240/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5966082-1407599245-7553.jpeg.jpg" data-tags="ray charles, blues, jazz, soul" role="button">
-Ray Charles - Mess Around (2004-04-26)
 </li>
 <li data-cover="https://img.discogs.com/fCwxXUdTYhYEMi2PkmsJngjZPSQ=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-336787-1098065764.jpg.jpg" data-tags="soul" role="button">
 Next - Platinum & Gold Collection (2004-05-04)
@@ -233,9 +236,6 @@ Ohio Players - Gold (2008-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/45038c35-32de-4256-b41b-c2a20cac826f/13758380977-500.jpg" data-tags="rock" role="button">
 Toto - Toto (2008-03-17)
-</li>
-<li data-cover="https://img.discogs.com/0FslJkPHx7r-9NmAc0eADuRhPf0=/fit-in/600x875/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16195667-1605085244-3496.jpeg.jpg" data-tags="rock, the rolling stones, blues rock" role="button">
-The Rolling Stones - Shine A Light (2008-04-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/c104dd56-2b3a-4137-9d35-7ab7d3af76b7/2962804482-500.jpg" data-tags="pop" role="button">
 Natasha Bedingfield - Pocketful of Sunshine (2008-07-29)

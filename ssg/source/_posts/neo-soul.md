@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:09:01.462Z
+date: 2021-04-13T07:37:01.687Z
 title: "neo-soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -26,9 +26,6 @@ Patrice Rushen - Straight From The Heart (1982)
 </li>
 <li data-cover="http://coverartarchive.org/release/d072d167-28e5-4e81-a904-1c85f7fada02/25413603758-500.jpg" data-tags="soul, rnb" role="button">
 Groove Theory - Groove Theory (1995-10-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
-Fugees - The Score (1996-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e69dbabd-5a61-4147-914b-7e683f096cbc/15210098631-500.jpg" data-tags="soul" role="button">
 Maxwell - Maxwell's Urban Hang Suite (1996-04-02)
@@ -311,6 +308,9 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
 Kelis - Food (2014-04-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/142ec43a-0812-44df-a78a-96e5395eac6a/8687263058-500.jpg" data-tags="soul, neo-soul, nomadic records, modern world soul music" role="button">
+Jesse Boykins III - Love Apparatus (2014-04-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/f96389dd-431f-4537-b8b0-eee6cff2d10e/7573419317-500.jpg" data-tags="soul, neo-soul, livesoncoffee-getit" role="button">
 Fatima - Yellow Memories (2014-05-12)

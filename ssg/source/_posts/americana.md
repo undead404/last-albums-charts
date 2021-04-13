@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T00:20:23.985Z
+date: 2021-04-13T07:05:01.617Z
 title: "americana: 100 albums you must listen to before you die"
 ---
 ![Wilco - Yankee Hotel Foxtrot (2002-04-22)](http://coverartarchive.org/release/667f92d8-2ea5-49fd-914b-54f955622ea9/3636036495-500.jpg "Wilco - Yankee Hotel Foxtrot (2002-04-22)")
@@ -95,6 +95,9 @@ Johnny Cash - American III: Solitary Man (2000-10-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/24f92b75-e2a0-4283-92a5-4073ff5088b5/15459838845-500.jpg" data-tags="alt-country, ryan adams" role="button">
 Ryan Adams - Gold (2001-02-05)
+</li>
+<li data-cover="http://coverartarchive.org/release/d408943f-fa02-4ddd-beac-8b575ba6777a/16967352324-500.jpg" data-tags="rock" role="button">
+Dave Matthews Band - Everyday (2001-02-27)
 </li>
 <li data-cover="https://img.discogs.com/fzL9xXxK4DCv_LxbG-1b02QP8Cc=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12329378-1533050621-6102.jpeg.jpg" data-tags="indie, alt-country" role="button">
 My Morning Jacket - At Dawn (2001-04-05)
@@ -206,9 +209,6 @@ Dr. Dog - Fate (2008-07-22)
 </li>
 <li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">
 Calexico - Carried To Dust (2008-09-08)
-</li>
-<li data-cover="https://img.discogs.com/mzztKFzYH1uhoDlcMzS0sVNixBc=/fit-in/600x529/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1545566-1248028809.jpeg.jpg" data-tags="alternative rock, blues rock, female vocalist" role="button">
-Rachael Yamagata - Elephants...Teeth Sinking Into Heart (2008-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9f1fa02-8290-449a-95ee-e88c53a3e60b/13153183313-500.jpg" data-tags="rock, singer-songwriter, acoustic, americana, adult contemporary, folk rock, singer/songwriter, gregory alan isakov" role="button">
 Gregory Alan Isakov - This Empty Northern Hemisphere (2009)

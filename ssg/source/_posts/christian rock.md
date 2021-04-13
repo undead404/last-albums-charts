@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T01:54:01.452Z
+date: 2021-04-13T07:44:04.755Z
 title: "christian rock: 100 albums you must listen to before you die"
 ---
 ![Skillet - Comatose (2006-10-03)](http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg "Skillet - Comatose (2006-10-03)")
@@ -29,6 +29,9 @@ Newsboys - Take Me To Your Leader (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/8e6eae39-faee-4787-af72-4bd9b61c7724/17811076744-500.jpg" data-tags="christian rock" role="button">
 Skillet - Skillet (1996-10-29)
+</li>
+<li data-cover="http://coverartarchive.org/release/1797161d-28d1-430a-bd7c-0a6f268cab6e/17160061727-500.jpg" data-tags="alternative rock" role="button">
+Switchfoot - The Legend Of Chin (1997-06-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/32bc1026-306c-4c91-96af-3612c1319c74/17811086702-500.jpg" data-tags="christian rock, rock, industrial" role="button">
 Skillet - Hey You, I Love Your Soul (1998-04-21)
@@ -63,9 +66,6 @@ Pillar - Fireproof (2002-05-21)
 <li data-cover="http://coverartarchive.org/release/57a8a0fd-cf7d-4aef-9b50-2a0fcc33daf7/19972210930-500.jpg" data-tags="christian rock, kutless" role="button">
 Kutless - Kutless (2002-07-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/002cb686-6c99-4c5a-bcd8-91d0d95d7c63/9311799375-500.jpg" data-tags="jeremy camp, christian rock" role="button">
-Jeremy Camp - Stay (2002-09-24)
-</li>
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
 </li>
@@ -80,6 +80,9 @@ Thousand Foot Krutch - Phenomenon (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fa87c4d-8e2c-4a00-89ab-1ae980031264/9420368954-500.jpg" data-tags="christian" role="button">
 Casting Crowns - Casting Crowns (2003-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/bf2e6803-5014-41ec-9ae5-c688818d0dac/1537440951-500.jpg" data-tags="hard rock, christian, christian rock, nu metal, orthodox christian, orthodox christian rock, russian christian, russian christian rock" role="button">
+АлисА - Сейчас позднее, чем ты думаешь (2003-10-15)
 </li>
 <li data-cover="https://img.discogs.com/sGynbsmk6XE4XNtG3tLO-2jHWnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4079146-1465313674-6247.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - 8 Great Hits (2003-11-03)
@@ -101,12 +104,6 @@ Kutless - Sea of Faces (2004-02-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/042c32c0-8571-4aba-841b-ceeef8d67a5b/19388021977-500.jpg" data-tags="christian rock" role="button">
 Third Day - Wire (2004-05-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c44f484-d4de-348a-9df9-06de6e6d2c2b/5679624370-500.jpg" data-tags="rock, alternative, alternative rock, pop rock" role="button">
-The Calling - Two (2004-05-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/88992508-e1b2-44c9-910f-3c3b1ce7fd67/24219569474-500.jpg" data-tags="christian rock" role="button">
-Sanctus Real - Fight The Tide (2004-06-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/814233a9-f6b0-4722-b4de-c9d60c015f45/2164745129-500.jpg" data-tags="christian rock" role="button">
 Pillar - Where Do We Go From Here (2004-06-15)
@@ -159,11 +156,11 @@ FM Static - Critically Ashamed (2006-01-08)
 <li data-cover="http://coverartarchive.org/release/5a3210c8-5c3e-48c8-8e8b-4e91d9610256/2220936532-500.jpg" data-tags="christian rock" role="button">
 Kutless - Hearts of the Innocent (2006-03-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/5b907e62-e295-451f-aee5-84ba32cc9761/3645042562-500.jpg" data-tags="christian rock" role="button">
-Sanctus Real - The Face Of Love (2006-04-04)
-</li>
 <li data-cover="http://coverartarchive.org/release/52618222-85c4-4763-b4ee-ee323972536c/1630450537-500.jpg" data-tags="christian rock, christian male vocals" role="button">
 Phil Wickham - Phil Wickham (2006-04-25)
+</li>
+<li data-cover="http://coverartarchive.org/release/8357f62f-4038-457e-aa67-00d1c9fb2c67/26392985704-500.jpg" data-tags="christian rock" role="button">
+Day of Fire - Cut and Move (2006-06-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/0b0c5410-f931-4586-bed3-c15e141c6aab/26518893572-500.jpg" data-tags="christian rock" role="button">
 Decyfer Down - End of Grey (2006-06-06)
@@ -213,6 +210,9 @@ Falling Up - Captiva (2007-10-02)
 <li data-cover="http://coverartarchive.org/release/a2d333dd-bccd-4b87-8d24-e884fdc954ea/23547812365-500.jpg" data-tags="80s, christian, solo album" role="button">
 Jon Foreman - Fall (2007-11-20)
 </li>
+<li data-cover="http://coverartarchive.org/release/0c949fff-8769-447b-8e45-1caf7b0732ae/24397691183-500.jpg" data-tags="christian rock" role="button">
+Rush Of Fools - Wonder Of The World (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/a4c303b5-fdcf-4bf6-9198-b5205cc45249/4889844357-500.jpg" data-tags="rock, christian rock" role="button">
 Ivoryline - There Came A Lion (2008-02-05)
 </li>
@@ -242,6 +242,9 @@ Brandon Heath - What If We (2008-08-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/aa3ee071-a1ef-41c6-a1d1-ba9b7739dece/17811132570-500.jpg" data-tags="christian rock, skillet" role="button">
 Skillet - Comatose Comes Alive (2008-10-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/49a15f1f-0e4f-4085-9397-644b0215d53d/18457833024-500.jpg" data-tags="christian rock" role="button">
+Disciple - Southern Hospitality (2008-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d71f2f6-4ab8-423c-be17-861fc1a3a988/15784546493-500.jpg" data-tags="rock, alternative" role="button">
 Switchfoot - The Best Yet (2008-11-04)
@@ -317,8 +320,5 @@ Hillsong United - Zion (2013-02-26)
 </li>
 <li data-cover="https://img.discogs.com/4AmCBsxV3yLgQZZ532MaLaPnjbo=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5428123-1393264696-7276.jpeg.jpg" data-tags="rock, alternative rock, christian rock" role="button">
 Skillet - Rise (2013-06-25)
-</li>
-<li data-cover="http://coverartarchive.org/release/6e4c8d51-a9c8-4356-803b-a33bfdbb1f18/6921187973-500.jpg" data-tags="alternative rock, indie rock, adult alternative, christian rock, folk rock, southern rock, christian & gospel" role="button">
-NEEDTOBREATHE - Rivers in the Wasteland (2014-04-15)
 </li>
 </ol>

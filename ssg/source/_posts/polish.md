@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T11:46:06.947Z
+date: 2021-04-13T07:07:07.167Z
 title: "polish: 100 albums you must listen to before you die"
 ---
 ![happysad - Wszystko jedno (2004-07-01)](https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg "happysad - Wszystko jedno (2004-07-01)")
@@ -11,9 +11,9 @@ title: "polish: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/7f63e549-0273-406f-ab87-664b8d36a09b/4223291990-500.jpg" data-tags="rock, polish" role="button">Coma - Pierwsze wyjście z mroku (2004-05-17)</li>
 <li data-cover="https://img.discogs.com/yB4l80DZvDODR1hOujANYhaBxuM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-734521-1543586492-2231.jpeg.jpg" data-tags="happysad, polish, rock" role="button">happysad - Wszystko jedno (2004-07-01)</li>
 <li data-cover="http://coverartarchive.org/release/92455303-57a4-4fbf-9d00-f283392f6594/4707388100-500.jpg" data-tags="punk rock" role="button">Pidżama Porno - Bułgarskie centrum (2004-09-20)</li>
+<li data-cover="http://coverartarchive.org/release/d8976e14-3f6d-4e74-9b52-33eec8bbd45d/7101908827-500.jpg" data-tags="polish" role="button">Lao Che - Powstanie Warszawskie (2005-03-21)</li>
 <li data-cover="http://coverartarchive.org/release/a2b5d0a1-b5fe-4206-9780-5cdb54e93060/6357252031-500.jpg" data-tags="rock, alternative rock" role="button">Myslovitz - Happiness Is Easy (2006-05-19)</li>
 <li data-cover="http://coverartarchive.org/release/5e745932-2538-4b2c-952d-2893b8c5b69f/5062074211-500.jpg" data-tags="polish" role="button">Strachy Na Lachy - DODEKAFONIA (2010-02-22)</li>
-<li data-cover="https://img.discogs.com/KFzVsWj8FUJho9RA9oMVqv0Athc=/fit-in/594x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223761-1271074986.jpeg.jpg" data-tags="alternative rock, folk, polish" role="button">Czesław Śpiewa - POP (2010-04-12)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -45,12 +45,6 @@ Wilki - Wilki (1992)
 <li data-cover="http://coverartarchive.org/release/ab8e4983-19df-4ee1-b552-d8a2ce6af015/5692907290-500.jpg" data-tags="rock, grunge, polish rock" role="button">
 Hey - Fire (1993-02-08)
 </li>
-<li data-cover="https://img.discogs.com/wYO0b_PgNfuFRykA21sgWn7lnQQ=/fit-in/400x396/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-970255-1179228566.jpeg.jpg" data-tags="polish rock, rock, polish" role="button">
-Kult - Tata Kazika (1993-04)
-</li>
-<li data-cover="http://coverartarchive.org/release/ef8d8003-66fc-4b55-bd5c-852361376354/12618750019-500.jpg" data-tags="rock, polish rock, kult" role="button">
-Kult - Muj wydafca (1994-10-01)
-</li>
 <li data-cover="https://img.discogs.com/ixHEMNqFvofVjMAVVI6OV-z3zvg=/fit-in/410x410/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-920331-1521923537-6695.jpeg.jpg" data-tags="rock, alternative rock, polish" role="button">
 Myslovitz - Myslovitz (1995)
 </li>
@@ -69,8 +63,11 @@ Edyta Bartosiewicz - Dziecko (1997-06-06)
 <li data-cover="http://coverartarchive.org/release/5a121cf4-d5f7-4820-9282-8c53cacb5dfb/4136135423-500.jpg" data-tags="alternative rock, polish, polish rock, satyra" role="button">
 T.Love - Chlopaki Nie Placza (1997-11-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/5a5adcfc-aa96-42a4-93ab-70d3af740b56/12618649300-500.jpg" data-tags="polish rock, polish, rock" role="button">
-Kult - Ostateczny krach systemu korporacji (1998-05-04)
+<li data-cover="http://coverartarchive.org/release/41ed3bf4-8949-4875-b622-03eb733910eb/14562562548-500.jpg" data-tags="hip-hop, rap" role="button">
+Kaliber 44 - W 63 Minuty Dookoła Świata (1998-03-02)
+</li>
+<li data-cover="https://img.discogs.com/1SNcyzZskL7NDu0fJcqbfm1XiyY=/fit-in/458x325/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-382388-1503936933-8520.jpeg.jpg" data-tags="klasyka, polish" role="button">
+Molesta - Skandal (1998-03-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/af966fce-18df-4658-bfd0-51b03861372c/2610157603-500.jpg" data-tags="punk rock, polish punk, muka muka" role="button">
 Pidżama Porno - Styropian (1998-06-15)
@@ -119,9 +116,6 @@ Hunter - Medeis (2003-03-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/edde1428-aa2d-437e-8051-49527bf3754e/4107771732-500.jpg" data-tags="punk rock, polish" role="button">
 Zielone Żabki - Lekcja Historii (2003-09-06)
-</li>
-<li data-cover="http://coverartarchive.org/release/b9e2fedb-3b06-4251-b839-23976fe0aff0/8337768197-500.jpg" data-tags="rock, female vocalists, hard rock, polish" role="button">
-Hey - Music Music (2003-11-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/bef6b0e4-2b92-43ce-bd2d-85b60b0f95a8/18840461906-500.jpg" data-tags="progressive rock" role="button">
 Riverside - Out Of Myself (2003-12-22)
@@ -237,11 +231,17 @@ Akurat - Optymistyka (2008-11-07)
 <li data-cover="http://coverartarchive.org/release/2aadaf8e-c2f8-4e4c-9525-7d4ff58600a6/8083602403-500.jpg" data-tags="alternative, fisz" role="button">
 Fisz Emade - Heavi Metal (2008-11-21)
 </li>
+<li data-cover="https://img.discogs.com/yLcpVq90fbiAztXPNaivu7FiIGI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1568834-1578906085-1788.jpeg.jpg" data-tags="rap" role="button">
+Eldo - Nie pytaj o nią (2008-12-12)
+</li>
 <li data-cover="https://img.discogs.com/Vva5gtt_Ymb_Nu4S_IGLMBovLQM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2004960-1258032037.jpeg.jpg" data-tags="rock, polish, polish rock" role="button">
 Cool Kids Of Death - Afterparty (2009)
 </li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
+</li>
+<li data-cover="https://img.discogs.com/reTpFA066CUvH9uEpHAUgl7MS2g=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3193247-1575368003-4924.jpeg.jpg" data-tags="rock" role="button">
+Lipali - Trio (2009-03-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/fc9b6c2e-5cb4-4589-a157-4f1955bb7083/6357143832-500.jpg" data-tags="heavy metal" role="button">
 Hunter - Hellwood (2009-04-14)
@@ -263,9 +263,6 @@ Muchy - Notoryczni Debiutanci (2010-03-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/4db11d1d-ce53-44d6-b520-ffc28bec8913/2334984430-500.jpg" data-tags="pop, cover, retro" role="button">
 Ania - Ania Movie (2010-04-02)
-</li>
-<li data-cover="https://img.discogs.com/KFzVsWj8FUJho9RA9oMVqv0Athc=/fit-in/594x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2223761-1271074986.jpeg.jpg" data-tags="alternative rock, folk, polish" role="button">
-Czesław Śpiewa - POP (2010-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/8afbbf3f-39b0-4a5e-a1ba-6aeb77dbb82a/2790682576-500.jpg" data-tags="polish, fisz" role="button">
 Kim Nowak - Kim Nowak (2010-05-14)
@@ -296,6 +293,9 @@ Lao Che - Soundtrack (2012-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/89b7a07b-d111-40d1-a688-d693248846b3/2504577515-500.jpg" data-tags="rock, polish" role="button">
 Hey - Do Rycerzy, do Szlachty, doo Mieszczan (2012-11-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/78264edd-13f2-4515-81a9-5ca5877a4473/4784830339-500.jpg" data-tags="lodz" role="button">
+Kamp! - Kamp! (2012-11-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/c9d24992-57ef-43db-9962-0d3945984c53/3273272547-500.jpg" data-tags="pop, polish" role="button">
 Brodka - LAX (2012-12-04)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:55:01.481Z
+date: 2021-04-13T07:22:02.713Z
 title: "emo: 100 albums you must listen to before you die"
 ---
 ![Jimmy Eat World - Futures (2004-10-11)](http://coverartarchive.org/release/e67133ea-9b44-4e2b-b612-50b2a7f9ca1f/4785067987-500.jpg "Jimmy Eat World - Futures (2004-10-11)")
@@ -53,6 +53,9 @@ The Get Up Kids - Something to Write Home About (1999-09-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/c99bcef0-0809-42c0-8fe7-7273d3a59d0f/9767229393-500.jpg" data-tags="pop punk" role="button">
 Saves the Day - Through Being Cool (1999-11-02)
+</li>
+<li data-cover="http://coverartarchive.org/release/64c2b3d0-f2ff-4e2f-9dad-4c926bb00a10/26393498490-500.jpg" data-tags="indie, folk" role="button">
+Bright Eyes - Fevers and Mirrors (2000-03-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="acoustic" role="button">
 Dashboard Confessional - The Swiss Army Romance (2000-11-14)
@@ -302,9 +305,6 @@ Pierce The Veil - Collide With the Sky (2012-07-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/4fe23667-003a-4973-90c3-f267b37f1df3/12797222710-500.jpg" data-tags="emo, indie rock, pop punk, indie punk, less than 40 minutes" role="button">
 Modern Baseball - Sports (2012-11-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
-Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/f6b77446-f07e-4768-bd34-f8baa90b9b4b/26624103376-500.jpg" data-tags="pop rock" role="button">
 Fall Out Boy - Save Rock and Roll (2013-04-12)

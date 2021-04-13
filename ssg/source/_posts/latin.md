@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:48:01.579Z
+date: 2021-04-13T07:19:02.283Z
 title: "latin: 100 albums you must listen to before you die"
 ---
 ![Buena Vista Social Club - Buena Vista Social Club (1997-06-23)](http://coverartarchive.org/release/9b6e7b6f-920c-4da9-a378-fc48944d3ea8/4505336738-500.jpg "Buena Vista Social Club - Buena Vista Social Club (1997-06-23)")
@@ -62,6 +62,9 @@ Gloria Estefan - Mi Tierra (1993-06-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/5698f022-f4f3-4bdf-985e-5009ead89abb/7975494732-500.jpg" data-tags="ricardo arjona, historias" role="button">
 Ricardo Arjona - Historias (1994-04-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/28772f99-6fa7-4c6b-8536-1e57b8ee37c4/10842003277-500.jpg" data-tags="la tierra del olvido, latin" role="button">
+Carlos Vives - La Tierra del Olvido (1995)
 </li>
 <li data-cover="https://img.discogs.com/qcWBFQFciRaoopm5UMLAcDJCvFY=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5261605-1402393167-6660.jpeg.jpg" data-tags="spanish, latin, shakira, rock" role="button">
 Shakira - Pies Descalzos (1995)
@@ -126,6 +129,9 @@ Compay Segundo - Cien Años de Son (1999-02-25)
 <li data-cover="http://coverartarchive.org/release/6b6ec3cb-736e-43fa-ab4a-fac6c856b263/26703215877-500.jpg" data-tags="latin, pop" role="button">
 Ricky Martin - Ricky Martin (1999-05-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/1fe71f4a-8826-3b08-a1b5-40db6e7ad34e/18390391033-500.jpg" data-tags="pop, latin, latin diva, favourite album covers, maja, latin queen, majas cder, gia tunes" role="button">
+Jennifer Lopez - If You Had My Love (1999-05-11)
+</li>
 <li data-cover="https://img.discogs.com/1DR0jBQzGVXuAlwXyBIu_fdIF3E=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13762857-1560590339-1299.jpeg.jpg" data-tags="pop" role="button">
 Jennifer Lopez - On the 6 (1999-06-01)
 </li>
@@ -149,9 +155,6 @@ Ricardo Montaner - Con La London Metropolitan Orchestra (1999-08-31)
 </li>
 <li data-cover="http://coverartarchive.org/release/42579a94-0d4b-3138-8e4f-cc618643d87f/8121657097-500.jpg" data-tags="cuban" role="button">
 Orishas - A Lo Cubano (1999-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/64cfc603-3ce2-4a8f-85b6-647fb181a991/4653672920-500.jpg" data-tags="latin, pop" role="button">
-Enrique Iglesias - Enrique (1999-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/3e1b3d08-3af2-43ac-8010-64a801b45d25/10003126515-500.jpg" data-tags="spanish, pop" role="button">
 La Oreja de Van Gogh - El viaje de Copperpot (2000-09-11)
@@ -188,9 +191,6 @@ Jennifer Lopez - Jenny From the Block (2002-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c0a27b1d-dbcf-3d6b-8beb-d066e57820d6/9614357626-500.jpg" data-tags="pop, rnb" role="button">
 Jennifer Lopez - This Is Me... Then (2002-11-19)
-</li>
-<li data-cover="https://img.discogs.com/jrWVzobDRoF5M8iFRO0_ha-z8PQ=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-434193-1482085620-7376.jpeg.jpg" data-tags="britpop, indie rock" role="button">
-Starsailor - Silence Is Easy (2003-09-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b78e0d2b-4379-46bd-9eea-4a3be3d3a3a8/15476089187-500.jpg" data-tags="latin, salsa" role="button">
 Sergent Garcia - La Semilla Escondida (2003-09-30)
@@ -255,6 +255,9 @@ Luis Fonsi - Exitos: 98:06 (2006-11-21)
 <li data-cover="http://coverartarchive.org/release/3a16735f-7523-4453-b0ad-4c90a7ed10f9/11580385120-500.jpg" data-tags="latin, chayanne" role="button">
 Chayanne - Mi Tiempo (2006-12-31)
 </li>
+<li data-cover="https://img.discogs.com/PKon_wRB-dDwVCspiKGbHj4Yy4M=/fit-in/455x455/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3007473-1311443219.jpeg.jpg" data-tags="dance, fusion, latin, latin chill" role="button">
+Pacha Massive - All Good Things (2007-02-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/cac4eec8-1534-4fd1-9167-56cfeb2c5be4/10004845334-500.jpg" data-tags="latin pop" role="button">
 Jennifer Lopez - Como Ama Una Mujer (2007-03-20)
 </li>
@@ -311,9 +314,6 @@ La casa azul - La Polinesia Meridional (2011-11-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/7a719c55-3336-42ff-9916-201f0e873035/17723051668-500.jpg" data-tags="latin" role="button">
 Los Amigos Invisibles - Repeat After Me (2013-04-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/28a16fdd-292d-4b89-a6ef-75375a07ed8e/10334011340-500.jpg" data-tags="black metal, mierda" role="button">
-J Balvin - La Familia (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dff8396-82b1-4a35-93a9-77ad34a994a9/17214960042-500.jpg" data-tags="electronic" role="button">
 Todd Terje - It's Album Time (2014-04-07)

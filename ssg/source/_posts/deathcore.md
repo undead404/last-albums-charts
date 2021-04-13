@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T17:35:01.465Z
+date: 2021-04-13T06:57:12.673Z
 title: "deathcore: 100 albums you must listen to before you die"
 ---
 ![Bring Me the Horizon - Count Your Blessings (2006-10-30)](https://img.discogs.com/sQw0cTRb0aPCGSgjMrqGPfRWnn8=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1970717-1515106686-7186.jpeg.jpg "Bring Me the Horizon - Count Your Blessings (2006-10-30)")
@@ -35,6 +35,9 @@ All Shall Perish - Hate.Malice.Revenge (2003-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfbea67f-b49e-44e7-813e-86b86f651d6b/7867314703-500.jpg" data-tags="melodic death metal" role="button">
 The Black Dahlia Murder - Unhallowed (2003-06-17)
+</li>
+<li data-cover="https://img.discogs.com/MgBOy1ql7Y1O6L4B_Lj6Z36KbVQ=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3295267-1451853484-8583.jpeg.jpg" data-tags="deathcore" role="button">
+Animosity - Shut It Down (2003-07-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/abb6f5d6-83a9-485c-84c9-d9aff9d3fc26/6514191168-500.jpg" data-tags="deathcore" role="button">
 Bring Me the Horizon - This Is What the Edge of Your Seat Was Made For (2004-10-02)
@@ -83,6 +86,9 @@ I Declare War - Amidst the Bloodshed (2007)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 Beneath The Sky - What Demons Do To Saints (2007-01-23)
+</li>
+<li data-cover="https://img.discogs.com/3yRM0k79tJ8NGk2fEH_O-N9S3dI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6642527-1423691048-6559.jpeg.jpg" data-tags="deathcore" role="button">
+My Bitter End - The Renovation (2007-02-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/69204334-10ff-4b6d-b986-da242a9dcb0b/15294175612-500.jpg" data-tags="metalcore, deathcore" role="button">
 Emmure - Goodbye To The Gallows (2007-03-06)
@@ -162,6 +168,9 @@ Whitechapel - This Is Exile (2008-07-08)
 <li data-cover="https://img.discogs.com/vZDRbpjhPnHgrym6CIh0kei6VrM=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5647367-1398879446-7979.jpeg.jpg" data-tags="deathcore, grindcore" role="button">
 Dr. Acula - Below Me (2008-08-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/257fc109-3150-431b-8670-39bec0b62e08/28727135104-500.jpg" data-tags="post-hardcore, metalcore" role="button">
+Underoath - Lost in the Sound of Separation (2008-09-02)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="deathcore" role="button">
 All Shall Perish - Awaken the Dreamers (2008-09-05)
 </li>
@@ -240,9 +249,6 @@ Justin Bieber - My Worlds (2010-03-22)
 <li data-cover="http://coverartarchive.org/release/af6f92ea-7d5f-4b4a-a31e-b15e6651b887/8461617239-500.jpg" data-tags="death metal, deathcore" role="button">
 Bleed from Within - Empire (2010-05-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/e3ace496-94e1-4f0e-995c-4adbc081aa61/8461532098-500.jpg" data-tags="deathcore" role="button">
-Attila - Rage (2010-05-11)
-</li>
 <li data-cover="https://img.discogs.com/yakUY3I9vWAh9V3oi2ydPL5D-6E=/fit-in/426x387/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2381692-1280826845.jpeg.jpg" data-tags="deathcore" role="button">
 And Hell Followed With - Proprioception (2010-05-12)
 </li>
@@ -270,9 +276,6 @@ Chelsea Grin - My Damnation (2011-07-19)
 <li data-cover="http://coverartarchive.org/release/25d38669-25ce-4f15-84ee-2cdb3228e366/17547954563-500.jpg" data-tags="deathcore" role="button">
 All Shall Perish - This Is Where It Ends (2011-07-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/079c00e9-a7bc-4f67-93d7-c1dc5f5b9a23/4617202756-500.jpg" data-tags="deathcore" role="button">
-Attila - Outlawed (2011-08-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/4f1f12d0-fb3d-416a-9f61-d2764afbcf8c/2419944650-500.jpg" data-tags="deathcore" role="button">
 Betraying the Martyrs - Breathe In Life (2011-09-19)
 </li>
@@ -296,9 +299,6 @@ Infant Annihilator - The Palpable Leprosy of Pollution (2012-12-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/5cba3798-6b2b-41bd-baff-bdcf34cd9a23/4199812326-500.jpg" data-tags="metalcore, screamo, post-hardcore" role="button">
 Bring Me the Horizon - Shadow Moses (2013-01-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/b8f07c08-a405-4cc9-a4cc-9f92e625e5e5/4617270275-500.jpg" data-tags="metalcore, deathcore, female fronted metal, female vocalists, reggaeton, female vocalist, queercore, goregrind, homocore, brutal death metal, nsbm, a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, drops wet cement on unsuspecting crippled children, a place for people with that tiny black spot on their brain to go when the darkness leaks out and does what it wills, erotic, true metal, true norwegian black metal, true black metal, brutal deathcore, nazi, crimes against humanity, national socialist black metal, swag, fashioncore, antifa, niggacore, gay black metal, a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away, music to suck cock to, homoerotic, man in the pickle suit tricked me again, wagnerian arrangements, no pubic hair, music to have anal sex to, gaygrind, proud to be gay" role="button">
-Attila - About That Life (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/e5c0f2cc-692c-46e2-af7d-4404c95e1550/6434003625-500.jpg" data-tags="metal, j-pop, kawaii metal" role="button">
 BABYMETAL - BABYMETAL (2014-02-26)

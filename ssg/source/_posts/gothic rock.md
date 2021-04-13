@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T19:21:01.701Z
+date: 2021-04-13T07:06:18.260Z
 title: "gothic rock: 100 albums you must listen to before you die"
 ---
 ![Evanescence - The Open Door (2006-09-25)](http://coverartarchive.org/release/b0a43312-26f6-46e1-b751-f24f54413e9f/6183360728-500.jpg "Evanescence - The Open Door (2006-09-25)")

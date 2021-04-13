@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T05:09:01.509Z
+date: 2021-04-13T07:29:01.530Z
 title: "pop rock: 100 albums you must listen to before you die"
 ---
 ![Avril Lavigne - Let Go (2002-06-04)](http://coverartarchive.org/release/bd2fef46-f003-477f-bfb0-6b4de66cfcea/1855817166-500.jpg "Avril Lavigne - Let Go (2002-06-04)")
@@ -33,11 +33,17 @@ Toto - Toto IV (1982-04-08)
 <li data-cover="http://coverartarchive.org/release/160806d7-651d-3470-a09b-40d1b7b21d26/2115338140-500.jpg" data-tags="80s, rock" role="button">
 INXS - Kick (1987-10-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/3f9a92c4-8a35-4683-b27e-5058b953f77b/5961891585-500.jpg" data-tags="90s, alternative rock, rock" role="button">
+Spin Doctors - Pocket Full Of Kryptonite (1991-08-20)
+</li>
 <li data-cover="https://img.discogs.com/kfHVrEkCRDQZ8b-cejUETKyt-pM=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-748997-1224492628.jpeg.jpg" data-tags="emo, pop punk" role="button">
 Cartel - Cartel (1995)
 </li>
 <li data-cover="https://img.discogs.com/i81K-_1Sfz6SdPBzp9yI9KI3m8c=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1813262-1250820614.jpeg.jpg" data-tags="90s, rock, alternative, alternative rock" role="button">
 Third Eye Blind - Third Eye Blind (1997-04-08)
+</li>
+<li data-cover="https://img.discogs.com/U9znl1olQGmbi3dQjMPbJHMbrEM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-368203-1466108919-3862.jpeg.jpg" data-tags="rock, alternative" role="button">
+Smash Mouth - Astro Lounge (1999-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/bd00a78e-8cdb-4aef-a177-1ebd9a69b374/6623114975-500.jpg" data-tags="alternative rock, rock, alternative" role="button">
 Lifehouse - No Name Face (2000-10-31)
@@ -180,9 +186,6 @@ Miley Cyrus - Breakout (2008-07-22)
 <li data-cover="http://coverartarchive.org/release/1df1d4e8-ef3c-3513-b982-845edd9c371b/6635580720-500.jpg" data-tags="pop rock" role="button">
 The Script - The Script (2008-08-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/b459cd86-0392-4166-a5d6-0dfa505976df/2584590181-500.jpg" data-tags="indie, indie rock, rock" role="button">
-The Killers - Day & Age (2008-11-18)
-</li>
 <li data-cover="http://coverartarchive.org/release/936b81b8-d02c-4241-a1c2-a4391a5a49d7/1612708292-500.jpg" data-tags="pop punk" role="button">
 Fall Out Boy - Folie à deux (2008-12-10)
 </li>
@@ -240,14 +243,8 @@ Avril Lavigne - Goodbye Lullaby (2011-03-02)
 <li data-cover="http://coverartarchive.org/release/0b826444-d72d-42b3-b61d-ce116f57a7fe/6567572038-500.jpg" data-tags="pop, pop rock, 10s, alternative" role="button">
 Gavin DeGraw - Sweeter (2011-09-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/0f26e8f3-b85c-457e-8893-5cd1edaa19a2/11469180351-500.jpg" data-tags="rock, alternative, britpop" role="button">
-Coldplay - Mylo Xyloto (2011-10-19)
-</li>
 <li data-cover="https://img.discogs.com/SwwptWILNhuh0Zyv4jaNDCyq3Oc=/fit-in/600x468/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3178948-1319300120.jpeg.jpg" data-tags="indie rock, rock, indie" role="button">
 Arctic Monkeys - Suck It and See (2011-10-31)
-</li>
-<li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
-Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
 </li>
 <li data-cover="https://img.discogs.com/_ji_ALDRRrKt7YKTYs2Es0CBj9Q=/fit-in/520x264/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3784599-1344284990-4609.jpeg.jpg" data-tags="pop rock, pop" role="button">
 The All-American Rejects - Kids in the Street (2012-03-22)
@@ -299,6 +296,9 @@ Sky Ferreira - Night Time, My Time (2013-10-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/6585b0ce-3570-413f-be0f-385d2caae101/5250767763-500.jpg" data-tags="pop rock, rock" role="button">
 Avril Lavigne - Avril Lavigne (2013-11-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/9880235f-650f-423c-ba84-04cf9e015402/6603540608-500.jpg" data-tags="rock, pop rock, pop punk, 5 seconds of summer, 5sos" role="button">
+5 Seconds of Summer - She Looks So Perfect (2014-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/52562880-9c37-4164-bde1-09db1596316e/7565087066-500.jpg" data-tags="alternative" role="button">
 American Authors - Oh, What A Life (2014-03-03)

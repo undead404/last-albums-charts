@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:30:01.560Z
+date: 2021-04-13T07:31:07.069Z
 title: "soul: 100 albums you must listen to before you die"
 ---
 ![Adele - 21 (2011-01-19)](http://coverartarchive.org/release/c45e0e0e-48c9-4441-aac3-2f2b34202d3c/5179890174-500.jpg "Adele - 21 (2011-01-19)")
@@ -222,6 +222,9 @@ Alicia Keys - The Element of Freedom (2009-11-27)
 <li data-cover="http://coverartarchive.org/release/06697697-6019-31eb-b5a0-f7bc3c861bbe/4896141275-500.jpg" data-tags="soul" role="button">
 Sade - Soldier of Love (2010-02-05)
 </li>
+<li data-cover="https://img.discogs.com/qcIKjGB-FH-3K7RIwl7Ik8UsLbE=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2604977-1549321734-9052.jpeg.jpg" data-tags="soul" role="button">
+Plan B - The Defamation of Strickland Banks (2010-04-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)
 </li>
@@ -308,9 +311,6 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/717dd194-1abf-4ac0-85b9-be8c844cf4d8/23657161714-500.jpg" data-tags="soul" role="button">
 Chet Faker - Built On Glass (2014-04-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/49dab146-5393-4686-bb79-efbb1fa43648/22395430275-500.jpg" data-tags="pop, electronic, alternative, alternative rock, coldplay" role="button">
-Coldplay - Ghost Stories (2014-05-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/e005fa83-f67d-475d-bc17-8a147de390de/25244312194-500.jpg" data-tags="pop, soul" role="button">
 Sam Smith - In the Lonely Hour (2014-05-23)

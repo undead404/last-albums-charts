@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:50:01.479Z
+date: 2021-04-13T07:36:01.548Z
 title: "funk: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -255,14 +255,14 @@ Menahan Street Band - Make the Road by Walking (2008-10-14)
 <li data-cover="https://img.discogs.com/B3sGVrYCVeD2QFnjGr3EDbvAmqw=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1722016-1578164947-1150.jpeg.jpg" data-tags="alternative rock, pop punk" role="button">
 The All-American Rejects - When the World Comes Down (2008-12-16)
 </li>
+<li data-cover="http://coverartarchive.org/release/050fd0a7-6dfd-4db8-baca-e57375ac9eff/4520585290-500.jpg" data-tags="hip hop, dance, funk, alternative hip-hop" role="button">
+N.A.S.A. - The Spirit of Apollo (2009-02-13)
+</li>
 <li data-cover="https://img.discogs.com/CEympDX1u4FWYHhBclMI9h-ijx8=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1626055-1233084808.jpeg.jpg" data-tags="indie" role="button">
 The Whitest Boy Alive - Rules (2009-02-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc1cd2f1-f54d-41d6-9eee-d13bcacb10c3/3258071897-500.jpg" data-tags="soul, blues" role="button">
 The Heavy - The House That Dirt Built (2009-09-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
-Wale - Attention Deficit (2009-11-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/14ae1a9c-9e8e-3ae5-87f2-3bf68b9feefd/8899038012-500.jpg" data-tags="soul, funk" role="button">
 Janelle Monáe - The ArchAndroid (2010-05-17)

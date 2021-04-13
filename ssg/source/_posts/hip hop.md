@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:51:01.465Z
+date: 2021-04-13T06:53:01.484Z
 title: "hip hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -54,9 +54,6 @@ Skee-Lo - I Wish (1995)
 <li data-cover="https://img.discogs.com/3WuRCIOlOnT69y46Auud_YjD8j0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-158798-1158147180.jpeg.jpg" data-tags="hip-hop" role="button">
 GZA/Genius - Liquid Swords (1995-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
-Fugees - The Score (1996-02-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
 </li>
@@ -84,8 +81,14 @@ Lauryn Hill - The Miseducation of Lauryn Hill (1998-08-25)
 <li data-cover="http://coverartarchive.org/release/63f4592c-6f58-32bb-bd9f-a431dc14e04d/6640977411-500.jpg" data-tags="hip-hop" role="button">
 OutKast - Aquemini (1998-09-28)
 </li>
+<li data-cover="https://img.discogs.com/hALqARRNhy9I9mxdtUCKXurMkjc=/fit-in/130x130/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10748-1083265077.jpg.jpg" data-tags="breakbeat" role="button">
+Bomfunk MC's - In Stereo (1999)
+</li>
 <li data-cover="http://coverartarchive.org/release/f305300d-d3ef-314f-a260-9b2cc12705d8/2587702528-500.jpg" data-tags="rap" role="button">
 Eminem - The Slim Shady LP (1999-02-23)
+</li>
+<li data-cover="http://coverartarchive.org/release/325b57cb-aa85-4232-b6e3-c24240fc1e32/4437166118-500.jpg" data-tags="hip-hop, hip hop, rap, hiphop, east coast, 1990s, real hip-hop, boom bap, gang starr, hiphop classic albums, estados unidos, ok track, a good 1, radiourbaine, rap estadounidense, 1995-1999" role="button">
+Gang Starr - Full Clip: A Decade Of Gang Starr (1999-07-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/db4baedf-bfe1-4e04-b359-99761f1b3deb/8671147785-500.jpg" data-tags="hip-hop, rap, gangsta rap" role="button">
 Dr. Dre - 2001 (1999-11-16)
@@ -183,12 +186,6 @@ M.I.A. - Paper Planes (2008-02-11)
 <li data-cover="https://img.discogs.com/jh4t6fyePwK2DmFIMS79etQ-LdE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289687-1442838570-1540.jpeg.jpg" data-tags="rap, hip-hop" role="button">
 Flo Rida - Mail On Sunday (2008-03-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/9e8bfc4a-e4cb-4e3c-be31-2d7b7070e642/5759701387-500.jpg" data-tags="hip-hop, hip hop" role="button">
-Atmosphere - When Life Gives You Lemons, You Paint That Shit Gold (2008-04-18)
-</li>
-<li data-cover="https://img.discogs.com/sAHiZ1GQVMxSrV1dwSAi5FPOqL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646806-1516228829-9542.jpeg.jpg" data-tags="hip-hop" role="button">
-N*E*R*D - Seeing Sounds (2008-06-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/f35cde40-667b-4174-b734-d1a50ca0d2e7/5943910410-500.jpg" data-tags="summer, hip hop" role="button">
 Shwayze - Shwayze (2008-08-19)
 </li>
@@ -216,9 +213,6 @@ Ke$ha - TiK ToK (2009-08-07)
 <li data-cover="https://img.discogs.com/ndWPDJk8PNkcotRdXsRETcPl3_k=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2148652-1452952965-7777.jpeg.jpg" data-tags="pop, dance" role="button">
 Taio Cruz - Rokstarr (2009-10-12)
 </li>
-<li data-cover="http://coverartarchive.org/release/7fe11570-db06-4d5a-8e53-d841c8cc6b37/6032925292-500.jpg" data-tags="hip hop" role="button">
-Wale - Attention Deficit (2009-11-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/c74c559b-f79f-4f60-ab87-80cff2da8124/9375294375-500.jpg" data-tags="hip hop" role="button">
 Timbaland - Shock Value II (2009-12-04)
 </li>
@@ -240,6 +234,9 @@ Drake - Thank Me Later (2010-06-14)
 <li data-cover="http://coverartarchive.org/release/dddf01df-f9f1-4ba6-b414-5ddf1984fc7f/1310901778-500.jpg" data-tags="eminem, hip-hop, rap" role="button">
 Eminem - Recovery (2010-06-18)
 </li>
+<li data-cover="https://img.discogs.com/7EklQeehX3bIpVPJ_e4dGQ_j1IA=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2416921-1282913483.jpeg.jpg" data-tags="pop, german, 00s, rockstars, tanzen, rockmusik, sandisfinis, muke, wsh bring mich nachhause, micha maat, der moment" role="button">
+Wir sind Helden - Bring mich nach Hause (2010-08-27)
+</li>
 <li data-cover="http://coverartarchive.org/release/ba4f9bef-af39-4627-ad5a-6452597781d4/14912913412-500.jpg" data-tags="hip hop, r&b, jeremih" role="button">
 Jeremih - All About You (2010-09-28)
 </li>
@@ -254,6 +251,9 @@ Yelawolf - Trunk Muzik 0-60 (2010-11-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/0387cd5d-b6db-4c47-b570-14ac185ba7e1/25103537590-500.jpg" data-tags="hip-hop, hip hop" role="button">
 Lupe Fiasco - Lasers (2011-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/af008090-8bc8-4201-bb01-384a83d262f2/3974655416-500.jpg" data-tags="hip hop" role="button">
+Mac Miller - Best Day Ever (2011-03-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c1d2f621-c5c1-4bc6-acf9-440192654421/1630959999-500.jpg" data-tags="rap" role="button">
 Wiz Khalifa - Rolling Papers (2011-03-28)
@@ -270,14 +270,14 @@ The Roots - Undun (2011-12-05)
 <li data-cover="http://coverartarchive.org/release/60be6325-85c2-4523-bd0d-5f6b5d05098b/1369426454-500.jpg" data-tags="hip hop, pop, reggae, r&b, sean paul" role="button">
 Sean Paul - Tomahawk Technique (2012-01-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/53ab0143-f891-4a38-99c8-53db5bfc4ce8/5892357054-500.jpg" data-tags="electronic" role="button">
+Labrinth - Electronic Earth (2012-04-02)
+</li>
 <li data-cover="http://coverartarchive.org/release/a5e0f379-2eab-468a-8aea-1c7653543af9/2673347297-500.jpg" data-tags="2012" role="button">
 Joey Bada$$ - 1999 (2012-06-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
-Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd78aa4-6938-439e-8be0-e9c51255d35c/5326272078-500.jpg" data-tags="drake, hip hop" role="button">
 Drake - Nothing Was the Same (2013-01-01)

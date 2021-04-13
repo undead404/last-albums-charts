@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T02:17:01.457Z
+date: 2021-04-13T06:59:01.467Z
 title: "reggae: 100 albums you must listen to before you die"
 ---
 ![Rihanna - A Girl Like Me (2006-04-19)](http://coverartarchive.org/release/c3f71ac7-d8e1-4e21-8fd8-2fcfd82e1d0f/14539810071-500.jpg "Rihanna - A Girl Like Me (2006-04-19)")
@@ -96,11 +96,11 @@ Sublime - Robbin' The Hood (1994-02-08)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Peter Tosh - The Gold Collection (1996)
 </li>
-<li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
-Fugees - The Score (1996-02-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/a83286ac-f74f-4527-9577-f8d1cda8ac94/9458074336-500.jpg" data-tags="reggae" role="button">
 Big Mountain - The Best of Big Mountain (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/ee51d02a-408f-47af-bcbc-bf1f2e65ca3a/13196542954-500.jpg" data-tags="reggae, bob marley" role="button">
+Bob Marley - Bob Marley (1998-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/89d58ec8-ece2-36ce-95de-b3216f096438/5134560010-500.jpg" data-tags="reggae, dancehall" role="button">
 Shaggy - Hot Shot (2000-08-08)
@@ -210,9 +210,6 @@ Seeed - Next! (2005-10-14)
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Bob Marley & The Wailers - Africa Unite: The Singles Collection (2005-11-07)
 </li>
-<li data-cover="http://coverartarchive.org/release/c2b401b0-17d6-4c99-b682-a44228ed8ee0/15278504062-500.jpg" data-tags="reggae" role="button">
-State Radio - Us Against The Crown (2005-12-20)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="reggae" role="button">
 Dubska - Avokado (2006)
 </li>
@@ -308,6 +305,9 @@ SOJA - Strength To Survive (2011)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f3cddae-9f6f-4b46-b0cf-5686c90f84ca/2097171191-500.jpg" data-tags="soul" role="button">
 Selah Sue - Selah Sue (2011-03-04)
+</li>
+<li data-cover="http://coverartarchive.org/release/25a97fae-0cf7-4363-8fae-74b35ea88b14/4673555729-500.jpg" data-tags="rock, punk, reggae, ska punk" role="button">
+Sublime with Rome - Yours Truly (2011-07-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/60be6325-85c2-4523-bd0d-5f6b5d05098b/1369426454-500.jpg" data-tags="hip hop, pop, reggae, r&b, sean paul" role="button">
 Sean Paul - Tomahawk Technique (2012-01-27)
