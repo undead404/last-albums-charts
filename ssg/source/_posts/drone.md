@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:14:01.423Z
+date: 2021-04-13T00:47:01.475Z
 title: "drone: 100 albums you must listen to before you die"
 ---
 ![Have a Nice Life - Deathconsciousness (2008-02-21)](http://coverartarchive.org/release/1b354727-7edb-4216-b416-67a4a9030fb4/27119269087-500.jpg "Have a Nice Life - Deathconsciousness (2008-02-21)")
@@ -21,6 +21,9 @@ List of 100 - under the cut.
 _________________
 
 <ol class="albums">
+<li data-cover="https://img.discogs.com/7MF7D6GsKOfVTfyGQfr2tcp3gQ4=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5742450-1401483051-8899.jpeg.jpg" data-tags="progressive electronic, space music" role="button">
+Klaus Schulze - Irrlicht (1972-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/716bf38e-9c94-3031-b637-ea3e6a362515/9191770992-500.jpg" data-tags="electronic, space" role="button">
 Tangerine Dream - Zeit (1972-08)
 </li>
@@ -39,14 +42,14 @@ Stars of the Lid - Music For Nitrous Oxide (1994)
 <li data-cover="https://img.discogs.com/NF1Av-gjTTdMYEU73RdJH-u0_PE=/fit-in/600x619/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16150803-1604299125-5521.jpeg.jpg" data-tags="drone" role="button">
 Earth - Phase 3: Thrones and Dominions (1995-04-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/0cbb0772-d07f-4d50-9ad2-daefa57515de/12833237719-500.jpg" data-tags="drone" role="button">
-Boris - Absolutego (1996)
-</li>
 <li data-cover="https://img.discogs.com/MAQZuTnqQNZAwMQvkmV0sgeTSjQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-53283-1281653093.jpeg.jpg" data-tags="ambient" role="button">
 Stars of the Lid - Gravitational Pull vs. the Desire for an Aquatic Life (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/859acf52-fdaa-4755-ac35-289bffe2081e/4084262745-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - The Ballasted Orchestra (1996)
+</li>
+<li data-cover="http://coverartarchive.org/release/8d82a733-4389-424e-a28e-6af0b51618b2/16741522206-500.jpg" data-tags="ambient, shoegaze, drone" role="button">
+Windy & Carl - Drawing of Sound (1996-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/4e3e2b8a-adfb-3690-b0c3-03b78205049d/1958490670-500.jpg" data-tags="post-rock" role="button">
 Swans - Soundtracks For The Blind (1996-10-22)
@@ -66,29 +69,14 @@ Stars of the Lid - Per Aspera Ad Astra (1998-11-18)
 <li data-cover="http://coverartarchive.org/release/534bf9a3-6e64-308f-8561-016fcc6a71c5/5409365013-500.jpg" data-tags="ambient, drone" role="button">
 Stars of the Lid - Avec Laudenum (1999-12-07)
 </li>
-<li data-cover="https://img.discogs.com/_jQwbyIaFrSFv2bgTHamg70Tn4Q=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-498119-1156908358.jpeg.jpg" data-tags="drone" role="button">
-Sunn O))) - The Grimmrobe Demos (2000)
-</li>
 <li data-cover="http://coverartarchive.org/release/8c22b1b6-07c9-4ac4-944a-4f5697c0c98b/2817171034-500.jpg" data-tags="drone" role="button">
 Sunn O))) - ØØ Void (2000-06-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/287b657f-7e81-4eea-8021-12b8c25d8040/1096834667-500.jpg" data-tags="ambient" role="button">
-Aix Em Klemm - Aix Em Klemm (2000-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/51838493-3a1b-48cf-b7d3-a1dd35aec471/1964934865-500.jpg" data-tags="post-rock, drone" role="button">
 Boris - Flood (2000-12-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/918ce11f-a9fb-4d3c-be10-c0b55e510145/11462273056-500.jpg" data-tags="doom metal, drone metal" role="button">
 Khanate - Khanate (2001)
-</li>
-<li data-cover="http://coverartarchive.org/release/426582e7-ae22-446c-95f9-874f84f82e73/16741656384-500.jpg" data-tags="ambient" role="button">
-Windy & Carl - Consciousness (2001-03-18)
-</li>
-<li data-cover="https://img.discogs.com/sLmX0cLgU4GXuNR3am2vGa7GoKU=/fit-in/600x466/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2138272-1466323574-9059.jpeg.jpg" data-tags="experimental" role="button">
-Animal Collective - Hollinndagain (2002)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c2f966d-4037-4132-9fd7-9b144ef42326/28239694354-500.jpg" data-tags="drone, ambient, experimental" role="button">
-Keith Fullerton Whitman - Playthroughs (2002-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/94e463ee-9c8e-4215-a334-1de8f989cf10/3113397712-500.jpg" data-tags="drone, dark ambient" role="button">
 Nurse With Wound - Salt Marie Celeste (2003-02)
@@ -99,8 +87,14 @@ Sunn O))) - White1 (2003-04)
 <li data-cover="http://coverartarchive.org/release/9c4d2fcd-2578-4b19-875b-8836ecf1f179/2704214622-500.jpg" data-tags="drone" role="button">
 Nadja - Touched (2003-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/0a37bee7-e8bc-4902-bcd9-b99efd7b5d58/21530586130-500.jpg" data-tags="ambient" role="button">
+Eluvium - Lambent Material (2003-05-06)
+</li>
 <li data-cover="https://img.discogs.com/aKa3diJi3OzltEG8-tobhk2bK6o=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1334231-1210541514.jpeg.jpg" data-tags="stoner rock" role="button">
 Boris - Akuma No Uta (2003-06-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/b590af7b-7f13-4fd2-ab4b-1ca9f47c6ed8/14963881539-500.jpg" data-tags="drone, drone metal, ambient" role="button">
+Nadja - Skin Turns To Glass (2003-10-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8ab44b9d-0e3f-4538-bbe5-d83e5bcf25eb/14964010488-500.jpg" data-tags="drone" role="button">
 Nadja - Corrasion (2003-11-15)
@@ -135,8 +129,8 @@ Rosetta - The Galilean Satellites (2005-10-18)
 <li data-cover="https://img.discogs.com/4wtj3rWlnzdpqvA3yTC59UCJSPk=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-536775-1519850593-6492.jpeg.jpg" data-tags="ambient" role="button">
 Brian McBride - When the Detail Lost its Freedom (2005-10-31)
 </li>
-<li data-cover="https://img.discogs.com/MtgXu0yNy2hLeIQvopQGKdLTUm8=/fit-in/490x521/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1263768-1446998694-5625.png.jpg" data-tags="drone" role="button">
-Natural Snow Buildings - The Dance of the Moon and the Sun (2006)
+<li data-cover="http://coverartarchive.org/release/86b4ecb7-4336-4e8f-bf13-6e4673e7698d/1314644765-500.jpg" data-tags="ambient, drone" role="button">
+Loscil - Stases (2006-01-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/62b3c1b2-1ecf-449e-b0ce-f972736da46e/19073869053-500.jpg" data-tags="ambient, drone" role="button">
 Belong - October Language (2006-02-08)
@@ -168,9 +162,6 @@ Earth - Hibernaculum (2007-03-20)
 <li data-cover="http://coverartarchive.org/release/bafedfd5-3f00-34b7-8028-7ec83969dc3f/4890270894-500.jpg" data-tags="drone metal, shoegaze" role="button">
 The Angelic Process - Weighing Souls With Sand (2007-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/6f8b8b1d-4f89-4d92-9688-0f2b5177ef15/26171540721-500.jpg" data-tags="sludge" role="button">
-Bongripper - Hippie Killer (2007-06-20)
-</li>
 <li data-cover="http://coverartarchive.org/release/3af8f7c6-641c-4a00-9575-eaf75cdf298f/19814749802-500.jpg" data-tags="noise, ambient, drone, 00s, compra mi disco" role="button">
 Yellow Swans - At All Ends (2007-10-02)
 </li>
@@ -200,6 +191,9 @@ Sunn O))) - Dømkirke (2008-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/b7a8de7e-f0ef-4260-a063-2f9686d2d733/15346695196-500.jpg" data-tags="drone, drone metal" role="button">
 Menace Ruine - The Die Is Cast (2008-10-14)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="ambient, drone" role="button">
+Jasper TX - Singing Stones (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/63a1accf-dc05-4031-91a7-2dcf7853a586/19647004657-500.jpg" data-tags="ambient, drone" role="button">
 Emeralds - What Happened (2009-01)
@@ -234,6 +228,12 @@ Fuck Buttons - Tarot Sport (2009-10-12)
 <li data-cover="https://img.discogs.com/r_aOPBU-96cK00B1obllhn3crA8=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2117767-1270795198.jpeg.jpg" data-tags="noise, electronic, experimental, drone, ambient noise, post present medium" role="button">
 Infinite Body - Carve Out the Face of My God (2010-01)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5d18496-c4a1-46ad-8219-452798ed3f58/3972240476-500.jpg" data-tags="ambient" role="button">
+Loscil - Endless Falls (2010-03-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/f8da1240-2224-49a7-b197-a7f169148753/7323085465-500.jpg" data-tags="post-punk" role="button">
+Have a Nice Life - Time of Land (2010-03-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/b2582f81-85a6-4c66-b55f-f299d3a466c7/18869751926-500.jpg" data-tags="noise, ambient" role="button">
 Yellow Swans - Going Places (2010-03-08)
 </li>
@@ -254,9 +254,6 @@ Blanck Mass - Blanck Mass (2011-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2feb107-82ac-4bfd-b712-b956c335c978/2605423742-500.jpg" data-tags="ambient" role="button">
 Carbon Based Lifeforms - Twentythree (2011-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/d1df9713-344e-48a5-9a19-0ce183f861a1/26406125673-500.jpg" data-tags="shoegaze, psychedelic, drone, psych, beyondwithin, hashisch party, dark psych, neo-psych, where is my bong, records to play when you come home from the pub pissed" role="button">
-Dead Skeletons - Dead Magick (2011-11-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/3466ac05-d0af-43d4-8650-9df083a9315c/2386440220-500.jpg" data-tags="instrumental, drone, stoner metal, doom jazz" role="button">
 Earth - Angels of Darkness, Demons of Light II (2012-02-14)
@@ -303,8 +300,14 @@ Tim Hecker - Virgins (2013-10-14)
 <li data-cover="http://coverartarchive.org/release/5983b723-c46b-417c-ba5d-dedb5fde9e6b/21907065051-500.jpg" data-tags="post-punk, shoegaze, drone" role="button">
 Have a Nice Life - The Unnatural World (2014-01-27)
 </li>
+<li data-cover="http://coverartarchive.org/release/45248507-f89e-4e33-b37f-dc8438ee6f3a/8300210321-500.jpg" data-tags="ambient" role="button">
+Sunn O))) & Ulver - Terrestrials (2014-01-31)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7d23c24-e217-440e-b527-1751a5255478/13466791800-500.jpg" data-tags="metal, doom metal, drone, dark ambient, sludge metal, drone metal, soundtrack to the apocalypse, bone-crushing, 2014: favourite albums, lament for a dying world" role="button">
 The Body - I Shall Die Here (2014-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/1499ebc5-37da-4fcd-a97b-ad925b326fea/27952413825-500.jpg" data-tags="2014: albums" role="button">
+Thou - Heathen (2014-03-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/01430596-3eaa-4d2f-8198-8e15aac948bd/7269530596-500.jpg" data-tags="post-rock" role="button">
 Swans - To Be Kind (2014-05-03)
@@ -315,10 +318,7 @@ Ben Frost - A U R O R A (2014-05-21)
 <li data-cover="http://coverartarchive.org/release/94a5b3b9-5e56-4f04-86fd-877c99cd720d/8102222224-500.jpg" data-tags="experimental, noise rock, shoegaze" role="button">
 Boris - Noise (2014-06-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/3ddecc40-0a49-4651-93f9-37f56039c717/26273077269-500.jpg" data-tags="drone, stoner rock, psychedelic" role="button">
-Earth - Primitive and Deadly (2014-09-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/9995defc-83f0-4986-8034-37a351c9d8f5/8535696317-500.jpg" data-tags="drone, meme, mucore" role="button">
-Jason Aldean - Old Boots, New Dirt (2014-10-07)
+<li data-cover="http://coverartarchive.org/release/78136d16-9fd6-4709-8122-4513220546c7/8875137980-500.jpg" data-tags="ambient" role="button">
+Loscil - Sea Island (2014-11-17)
 </li>
 </ol>

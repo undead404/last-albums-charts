@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:16:06.955Z
+date: 2021-04-13T01:05:01.497Z
 title: "sludge: 100 albums you must listen to before you die"
 ---
 ![Isis - In the Absence of Truth (2006-10-06)](http://coverartarchive.org/release/0ba88c6e-cc27-4d6b-bf98-638464ec069e/9123370524-500.jpg "Isis - In the Absence of Truth (2006-10-06)")
@@ -87,6 +87,9 @@ Khanate - Khanate (2001)
 <li data-cover="http://coverartarchive.org/release/27f00bc4-5016-48dd-a079-9b3a5e8bd8f3/9577987822-500.jpg" data-tags="sludge, post-metal" role="button">
 Isis - SGNL>05 (2001-03-06)
 </li>
+<li data-cover="http://coverartarchive.org/release/56275d87-152a-44e9-81b5-9cfbb485bdb0/4746609962-500.jpg" data-tags="sludge, ambient, doom" role="button">
+Old Man Gloom - Seminar III: Zozobra (2001-03-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/ca11e9a4-cc91-46e4-99c1-68790f99edec/3104797376-500.jpg" data-tags="post-metal" role="button">
 Neurosis - A Sun That Never Sets (2001-08-07)
 </li>
@@ -95,6 +98,9 @@ Crowbar - Sonic Excess in Its Purest Form (2001-08-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/649d1c49-3018-4a0b-b0cc-3ed64c39e373/7741304161-500.jpg" data-tags="sludge, doom metal" role="button">
 Cult of Luna - The Beyond (2002)
+</li>
+<li data-cover="http://coverartarchive.org/release/5fef35df-4d7a-4a68-9816-8d994e94b0dc/28543085075-500.jpg" data-tags="doom metal" role="button">
+Teeth of Lions Rule the Divine - Rampton (2002-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/75cf454a-8b47-49f4-8472-6ccd7ab19d6b/25054291801-500.jpg" data-tags="progressive metal" role="button">
 Mastodon - Remission (2002-05-28)
@@ -134,9 +140,6 @@ Isis - Panopticon (2004-10-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/b8b0b3d0-1a65-44df-a717-49c3ef9edd18/1121997050-500.jpg" data-tags="sludge, doom metal, post metal" role="button">
 Mouth of the Architect - Time & Withering (2004-11-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/111b9760-852f-4a55-9c1a-981d38f6bf70/28704207369-500.jpg" data-tags="sludge, sludge metal" role="button">
-Crowbar - Lifesblood for the Downtrodden (2005-02-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
@@ -185,9 +188,6 @@ Pelican - City of Echoes (2007-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/bc9f370a-1774-4751-b9c4-ef9d05939770/24057716895-500.jpg" data-tags="sludge, doom metal, post-metal" role="button">
 Neurosis - Given to the Rising (2007-05)
-</li>
-<li data-cover="http://coverartarchive.org/release/6f8b8b1d-4f89-4d92-9688-0f2b5177ef15/26171540721-500.jpg" data-tags="sludge" role="button">
-Bongripper - Hippie Killer (2007-06-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/8051bb91-61b6-48b3-8a82-fb8762951829/19909510907-500.jpg" data-tags="stoner metal" role="button">
 Weedeater - God Luck and Good Speed (2007-07-31)

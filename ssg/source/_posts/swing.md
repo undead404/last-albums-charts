@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:10:01.511Z
+date: 2021-04-13T01:27:01.454Z
 title: "swing: 100 albums you must listen to before you die"
 ---
 ![Michael Bublé - Call Me Irresponsible (2007-04-27)](http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg "Michael Bublé - Call Me Irresponsible (2007-04-27)")
@@ -102,6 +102,9 @@ Rosemary Clooney - 16 Most Requested Songs (1989-07-26)
 <li data-cover="http://coverartarchive.org/release/df7ea720-4e63-4de8-b6f6-b64a7776098b/15625632616-500.jpg" data-tags="soundtrack, 90s, jazz, pop" role="button">
 Madonna - I'm Breathless (1990-05-12)
 </li>
+<li data-cover="https://img.discogs.com/cqXz8bTjFllMOH5SmINeuN_0sRs=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-892586-1452380917-1452.jpeg.jpg" data-tags="lounge, swing, american, oldies" role="button">
+Al Martino - Spanish Eyes (1992)
+</li>
 <li data-cover="http://coverartarchive.org/release/c6732cba-f132-4796-848e-3eb099efb2c9/11942920722-500.jpg" data-tags="jazz, swing, modernjazz, the guardian list of 1000 albums to hear before you die, hotel jazz" role="button">
 Count Basie - The Complete Decca Recordings (1992-03-17)
 </li>
@@ -125,9 +128,6 @@ Louis Armstrong - Mack The Knife (1996)
 </li>
 <li data-cover="http://coverartarchive.org/release/59c6c27b-041b-40b5-a504-dda5f9454d74/7696266373-500.jpg" data-tags="swing" role="button">
 Royal Crown Revue - Mugzy's Move (1996)
-</li>
-<li data-cover="http://coverartarchive.org/release/eec20a0b-20bb-4dff-941a-807710231119/9407385481-500.jpg" data-tags="swing, merkliste" role="button">
-Dean Martin - The Capitol Years (1996-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/70fc4df9-1a86-4357-aac7-0694d4248aed/8413711733-500.jpg" data-tags="swing, jazz" role="button">
 Squirrel Nut Zippers - Hot (1996-06-04)
@@ -167,6 +167,9 @@ Benny Goodman - The Very Best of Benny Goodman (2000-11-07)
 </li>
 <li data-cover="http://coverartarchive.org/release/419228fc-d6a4-4b24-b6bb-9315d0727abd/6436913950-500.jpg" data-tags="female vocalists, female jazz vocalists, jazz" role="button">
 Silje Nergaard - At First Light (2001)
+</li>
+<li data-cover="https://img.discogs.com/lE3w_k2GQ74B64ltv3Xj9McqAAE=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3564976-1353797482-9837.gif.jpg" data-tags="vocal jazz" role="button">
+Frank Sinatra - Strangers in the Night (2001)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac2cc0b6-6c9e-46f8-a645-ff7bf428cabd/8035105659-500.jpg" data-tags="jazz, check me out, ropeadope" role="button">
 The Philadelphia Experiment - The Philadelphia Experiment (2001-06-12)
@@ -209,9 +212,6 @@ Nicolas Repac - Swing Swing (2004-04-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/6ea6d063-de17-3423-80f1-ed21563c47b2/22164226793-500.jpg" data-tags="soul, blues, jazz" role="button">
 Ray Charles - Genius Loves Company (2004-08-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/5cdfdd57-92e2-4cc4-8f92-b83034034d3b/24046770429-500.jpg" data-tags="christmas, frank sinatra" role="button">
-Frank Sinatra - The Christmas Collection (2004-10-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/03a21c23-c743-4897-906e-457bfbe6144e/11516439460-500.jpg" data-tags="pop" role="button">
 Westlife - Allow Us to Be Frank (2004-11-08)

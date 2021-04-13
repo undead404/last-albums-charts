@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:27:01.477Z
+date: 2021-04-13T01:45:01.773Z
 title: "post-hardcore: 100 albums you must listen to before you die"
 ---
 ![A Day to Remember - Homesick (2009-02-03)](http://coverartarchive.org/release/e315cb82-c4a4-4c26-ade5-4fda93af2d5e/6320143013-500.jpg "A Day to Remember - Homesick (2009-02-03)")
@@ -50,6 +50,9 @@ At the Drive-In - Relationship of Command (2000-09-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd7298-790a-30cc-ac23-e5b5144a5cc2/27353011944-500.jpg" data-tags="post-hardcore, emo" role="button">
 Thursday - Full Collapse (2001-04-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/3b1b7509-7bff-4a95-9ee8-f5e050cf102e/27704658731-500.jpg" data-tags="post-hardcore" role="button">
+Unwound - Leaves Turn Inside You (2001-04-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/0e789eca-d5e5-469f-8648-9fe5c1ca68a9/9561282758-500.jpg" data-tags="post-hardcore" role="button">
 Fugazi - The Argument (2001-10-16)
@@ -177,17 +180,11 @@ Escape the Fate - Dying Is Your Latest Fashion (2006-09-26)
 <li data-cover="http://coverartarchive.org/release/dd4f60c8-d4b5-4c41-b200-a78dfe9e1aaf/25342698261-500.jpg" data-tags="post-hardcore, emo" role="button">
 Saosin - Saosin (2006-09-26)
 </li>
-<li data-cover="https://img.discogs.com/79232wWfyj9nvp1eZTSxuwkreI0=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3890719-1348261446-2446.jpeg.jpg" data-tags="post-hardcore" role="button">
-Senses Fail - Still Searching (2006-10-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/d50472b3-95ea-4772-9211-caf26426aa59/3248631123-500.jpg" data-tags="post-hardcore" role="button">
 A Day to Remember - For Those Who Have Heart (2007-01-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/2c7efad2-73f2-4652-b6b6-2ec78963fcf6/8691616470-500.jpg" data-tags="post-hardcore" role="button">
 A Skylit Drive - She Watched The Sky (2007-01-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
-The Almost - Southern Weather (2007-03-30)
 </li>
 <li data-cover="https://img.discogs.com/_uc9FSbRxCm9JJvT1RSz5IgnsfY=/fit-in/600x544/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2760760-1531610590-3471.jpeg.jpg" data-tags="post-hardcore, metalcore, hardcore" role="button">
 From Autumn To Ashes - Holding A Wolf By The Ears (2007-04-09)
@@ -233,6 +230,9 @@ Story of the Year - The Black Swan (2008-04-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/18bd479d-e0de-4603-b1c3-1217482181c9/15093249429-500.jpg" data-tags="post-hardcore" role="button">
 From First to Last - From First To Last (2008-05-06)
+</li>
+<li data-cover="http://coverartarchive.org/release/5d9a3787-a6ae-475a-b93e-1c72a18c7018/3330594215-500.jpg" data-tags="post-hardcore" role="button">
+Greeley Estates - Go West Young Man, Let The Evil Go East (2008-05-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/4697991e-b4f2-48f4-bbf3-552ae81ed05d/17979922684-500.jpg" data-tags="post-hardcore" role="button">
 Emarosa - Relativity (2008-07-08)

@@ -1,18 +1,18 @@
 ---
-date: 2021-04-12T15:58:01.803Z
+date: 2021-04-13T01:35:01.468Z
 title: "piano: 100 albums you must listen to before you die"
 ---
-![Regina Spektor - Far (2009-06-09)](http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg "Regina Spektor - Far (2009-06-09)")
+![PJ Harvey - White Chalk (2007-09-19)](http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg "PJ Harvey - White Chalk (2007-09-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc/24215052902-500.jpg" data-tags="piano, alternative, 90s" role="button">Tori Amos - Under the Pink (1994-01-28)</li>
+<li data-cover="http://coverartarchive.org/release/4cd43e6e-df96-3546-8343-870035e5eaf6/21952897279-500.jpg" data-tags="alternative, piano, female vocalists" role="button">Tori Amos - Boys for Pele (1996-01-16)</li>
 <li data-cover="https://img.discogs.com/jfZn4knjvcFv-_U0n649Rn6Xb8k=/fit-in/294x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9533581-1482236077-1712.png.jpg" data-tags="chamber pop, piano" role="button">Antony and the Johnsons - Antony and the Johnsons (2000-05-01)</li>
-<li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">Regina Spektor - Songs (2002)</li>
-<li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">Regina Spektor - Soviet Kitsch (2004-08-17)</li>
 <li data-cover="https://img.discogs.com/gFS5maU7k9Ve_dROF17h9wCtNUg=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061572-1189108115.jpeg.jpg" data-tags="female vocalists" role="button">Fiona Apple - Extraordinary Machine (2005-03)</li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">Sara Bareilles - Little Voice (2007-07-03)</li>
+<li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">The Starting Line - Direction (2007-07-31)</li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">PJ Harvey - White Chalk (2007-09-19)</li>
+<li data-cover="http://coverartarchive.org/release/7595a6c9-7ae5-4dc3-b9d1-c96f1a928f45/11979030393-500.jpg" data-tags="post-rock, piano, instrumental, ambient" role="button">Balmorhea - Rivers Arms (2008-02-12)</li>
 <li data-cover="https://img.discogs.com/5ULMdii6V1Px_WEq_Gnq-FYTwV4=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1690134-1266618713.jpeg.jpg" data-tags="piano" role="button">Soap&Skin - Lovetune for Vacuum (2009-03-13)</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
 <li data-cover="http://coverartarchive.org/release/2d012e66-6759-485b-beb5-00532c46a386/8544215048-500.jpg" data-tags="folk, singer-songwriter, piano" role="button">Agnes Obel - Aventine (2013-09-27)</li>
 </ol>
 List of 100 - under the cut.
@@ -32,6 +32,9 @@ Bill Evans Trio - Portrait In Jazz (1960)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="jazz" role="button">
 Thelonious Monk - Monk's Dream (1963)
+</li>
+<li data-cover="http://coverartarchive.org/release/61ffc81b-5ff8-492e-bec2-1efc8de357c6/14455314213-500.jpg" data-tags="jazz" role="button">
+The Oscar Peterson Trio - Night Train (1963)
 </li>
 <li data-cover="http://coverartarchive.org/release/2153978a-9ca7-3d4f-901c-5a9221d833a9/27456676174-500.jpg" data-tags="jazz" role="button">
 Dave Brubeck - Dave Brubeck's Greatest Hits (1966)
@@ -117,9 +120,6 @@ Antony and the Johnsons - Antony and the Johnsons (2000-05-01)
 <li data-cover="http://coverartarchive.org/release/f9e26af6-a546-484f-b409-e71da896fc64/10741523166-500.jpg" data-tags="soul, rnb" role="button">
 Alicia Keys - Songs in A Minor (2001-06-05)
 </li>
-<li data-cover="http://coverartarchive.org/release/df05a613-0cde-4f9c-bf69-59bd3b76be3e/5817135757-500.jpg" data-tags="jazz, piano, anti-folk" role="button">
-Regina Spektor - 11:11 (2001-07-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/52866029-e8eb-4cc1-9393-a1e495274480/2262005119-500.jpg" data-tags="ambient" role="button">
 Jon Hopkins - Opalescent (2001-07-30)
 </li>
@@ -128,9 +128,6 @@ Tori Amos - Strange Little Girls (2001-09-17)
 </li>
 <li data-cover="https://img.discogs.com/E7K2dUvuC731u-MhaenRXESSYbk=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1320995-1209578279.jpeg.jpg" data-tags="britpop, british" role="button">
 Starsailor - Love Is Here (2001-10-08)
-</li>
-<li data-cover="http://coverartarchive.org/release/fcb8a3df-61cc-450e-9c9a-fbcfddffae84/16146902869-500.jpg" data-tags="piano, female vocalists" role="button">
-Regina Spektor - Songs (2002)
 </li>
 <li data-cover="http://coverartarchive.org/release/1d089bd9-3344-4de7-bf3f-678d3cf70a76/9205163692-500.jpg" data-tags="piano" role="button">
 Vienna Teng - Waking Hour (2002-11-05)
@@ -156,6 +153,9 @@ Jamie Cullum - Twentysomething (2003-10-20)
 <li data-cover="http://coverartarchive.org/release/94982128-51c8-3a44-b77c-ec78be7d8e5f/20542671034-500.jpg" data-tags="sarah mclachlan" role="button">
 Sarah McLachlan - Afterglow (2003-11-04)
 </li>
+<li data-cover="https://img.discogs.com/Y0b4Ob0n6Hwp7bmnTThEYES_HUw=/fit-in/355x346/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-15418053-1591213040-9861.jpeg.jpg" data-tags="classical" role="button">
+Maurice Ravel - Piano Concerto (2004)
+</li>
 <li data-cover="http://coverartarchive.org/release/cbb6fa2e-393f-39a4-94cc-21caa3baf782/4514952186-500.jpg" data-tags="piano" role="button">
 Gonzales - Solo Piano (2004)
 </li>
@@ -177,9 +177,6 @@ Rachael Yamagata - Happenstance (2004-06-08)
 <li data-cover="http://coverartarchive.org/release/8ff79d0d-0462-4062-b6f0-9d3c95229d1b/18862825108-500.jpg" data-tags="on your shore" role="button">
 Charlotte Martin - On Your Shore (2004-08-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
-Regina Spektor - Soviet Kitsch (2004-08-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/5e760dec-67cc-40fe-a23c-8e08aa6137d3/19385157963-500.jpg" data-tags="piano, ambient" role="button">
 Swod - Gehen (2004-08-23)
 </li>
@@ -194,6 +191,9 @@ Tori Amos - The Beekeeper (2005-02-21)
 </li>
 <li data-cover="https://img.discogs.com/gFS5maU7k9Ve_dROF17h9wCtNUg=/fit-in/566x563/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061572-1189108115.jpeg.jpg" data-tags="female vocalists" role="button">
 Fiona Apple - Extraordinary Machine (2005-03)
+</li>
+<li data-cover="https://img.discogs.com/RsxKq3BnSufmc_LMznrPNWUhwU0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14007360-1565964833-2172.jpeg.jpg" data-tags="piano" role="button">
+Rob Costlow - Woods of Chaos (2005-04-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/86c7166f-433c-47f1-a32d-1fa699d54b3f/4817263003-500.jpg" data-tags="rock, alternative rock" role="button">
 The White Stripes - Get Behind Me Satan (2005-06-01)
@@ -222,14 +222,14 @@ Eluvium - Copia (2007-02-20)
 <li data-cover="https://img.discogs.com/kcWhkV979DH6Nda6ysKEhM_h_uA=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1099905-1532793292-3827.jpeg.jpg" data-tags="rock, alternative rock, alternative" role="button">
 Silverchair - Young Modern (2007-03-31)
 </li>
+<li data-cover="https://img.discogs.com/JKO_2jpeaFzQnDGpJMZB22_KOtA=/fit-in/450x409/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1061290-1375123233-2586.jpeg.jpg" data-tags="instrumental, piano, new age" role="button">
+Helen Jane Long - Porcelain (2007-06-04)
+</li>
 <li data-cover="http://coverartarchive.org/release/bb65a0e6-41c3-42dc-be56-1e2064eb1b2f/13725245197-500.jpg" data-tags="pop" role="button">
 Sara Bareilles - Little Voice (2007-07-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/ece9c44a-274a-44c1-92f0-2962ed4810a1/9182091321-500.jpg" data-tags="alternative, alternative rock, emo, piano, pop punk, virgin, cds, the starting line, bands with a certain something, dumb feelgood thrash, albums terry own, the starting line - direction, two thousand eleven" role="button">
 The Starting Line - Direction (2007-07-31)
-</li>
-<li data-cover="https://img.discogs.com/G-80IlCFUDTqAssTbS0pDeA3AcI=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1104100-1465185364-3063.jpeg.jpg" data-tags="indie pop, british" role="button">
-Kate Nash - Made of Bricks (2007-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/68a8b3b5-b256-4917-8ba0-b74e79bedb44/27171303470-500.jpg" data-tags="piano, alternative" role="button">
 PJ Harvey - White Chalk (2007-09-19)
@@ -264,14 +264,14 @@ Soap&Skin - Lovetune for Vacuum (2009-03-13)
 <li data-cover="http://coverartarchive.org/release/91e158f9-870a-459a-bbca-1883edeb2a47/24901186248-500.jpg" data-tags="female vocalists" role="button">
 Tori Amos - Abnormally Attracted To Sin (2009-05-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
-</li>
 <li data-cover="http://coverartarchive.org/release/b361668a-2c27-49d1-9d76-d5ad374c789b/6674977315-500.jpg" data-tags="piano" role="button">
 Akira Kosemura - Polaroid Piano (2009-08-20)
 </li>
 <li data-cover="https://img.discogs.com/3Vr534L95-Y9u9gnP-aCv6gUaX4=/fit-in/600x509/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1981264-1256500365.jpeg.jpg" data-tags="pop, marit larsen" role="button">
 Marit Larsen - If A Song Could Get Me You (2009-08-21)
+</li>
+<li data-cover="https://img.discogs.com/IKYwr9L9ZoxLmVAvJk4Myb1_G_Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8105976-1553876160-6124.jpeg.jpg" data-tags="pop, mika" role="button">
+Mika - The Boy Who Knew Too Much (2009-09-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/d69e9013-4413-4051-92c8-1741b4534259/8127539569-500.jpg" data-tags="jazz" role="button">
 Jamie Cullum - The Pursuit (2009-11-13)
@@ -285,8 +285,8 @@ Hugh Laurie - Let Them Talk (2011-04-29)
 <li data-cover="http://coverartarchive.org/release/4518b2c0-0091-4780-b31e-6dfc7e1d9cd5/21132684376-500.jpg" data-tags="alternative, art pop, winter" role="button">
 Kate Bush - 50 Words for Snow (2011-11-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
-Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
+<li data-cover="http://coverartarchive.org/release/6a48befb-4dc8-4341-873b-7cf9f3dcc8c6/17844698394-500.jpg" data-tags="alternative rock" role="button">
+Keane - Silenced by the Night (2012-03-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/09391b51-7c9d-44b2-8e86-03fe36ba71ed/13775637323-500.jpg" data-tags="ambient, piano, atmospheric, melancholic, modern classical, dream music" role="button">
 Black Elk - Sparks (2012-07-27)

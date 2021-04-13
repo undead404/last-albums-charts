@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T21:53:01.454Z
+date: 2021-04-13T00:59:01.555Z
 title: "indie folk: 100 albums you must listen to before you die"
 ---
 ![Bon Iver - For Emma, Forever Ago (2007-07-08)](https://img.discogs.com/Uch80IKVlQ2hcrz3xR5xx_QoN1Y=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1284045-1206310312.jpeg.jpg "Bon Iver - For Emma, Forever Ago (2007-07-08)")
@@ -129,8 +129,8 @@ She & Him - Volume One (2008-03-18)
 <li data-cover="https://img.discogs.com/Q2IHdszmdJODyjtNQF6_RfI7oqY=/fit-in/600x532/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1382098-1604161579-9613.jpeg.jpg" data-tags="indie, folk, american, 00s" role="button">
 Shearwater - Rook (2008-06-03)
 </li>
-<li data-cover="http://coverartarchive.org/release/180a76e8-efe0-4d2d-9bdf-3f5e51223460/18171634835-500.jpg" data-tags="indie, rock, folk, acoustic, music to start the day to" role="button">
-Good Old War - Only Way To Be Alone (2008-08-19)
+<li data-cover="https://img.discogs.com/570piM_nHmtsZQ1_26OyDA3-oY0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1495368-1249306448.jpeg.jpg" data-tags="americana, alternative country, calexico" role="button">
+Calexico - Carried To Dust (2008-09-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/a9885a92-fbfa-4ada-a61a-b920a1190e40/5396705512-500.jpg" data-tags="indie folk" role="button">
 Right Away, Great Captain! - The Eventually Home (2008-11-11)
@@ -176,9 +176,6 @@ Villagers - Becoming a Jackal (2010-05-24)
 </li>
 <li data-cover="https://img.discogs.com/0n3LA0qeaCcokxZCVAahUUMJGQM=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2402294-1282013018.jpeg.jpg" data-tags="folk, ambient, chamber pop, indie folk, jagjaguwar" role="button">
 S. Carey - All We Grow (2010-08-24)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8f73bc2-4aa8-4465-8fb1-1fdc2173f072/2098679790-500.jpg" data-tags="folk, under the radar best of 2010" role="button">
-Sharon Van Etten - Epic (2010-09-07)
 </li>
 <li data-cover="https://img.discogs.com/vRpvXCe6inE8vMVH0Qt7yzI7oM0=/fit-in/265x279/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2713020-1297686499.jpeg.jpg" data-tags="folk, singer-songwriter, acoustic, indie folk, dirty hit, benjamin francis leftwich" role="button">
 Benjamin Francis Leftwich - A Million Miles Out (2010-10-25)
@@ -317,6 +314,9 @@ Ben Howard - I Forget Where We Were (2014-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/a5bb7a1b-f162-44a0-b833-69fb8bf13125/8706849113-500.jpg" data-tags="folk, acoustic, indie folk" role="button">
 Damien Rice - My Favourite Faded Fantasy (2014-10-31)
+</li>
+<li data-cover="http://coverartarchive.org/release/be1ab790-ae22-4700-b722-22be7c9bbe70/8750054165-500.jpg" data-tags="indie rock" role="button">
+The Decemberists - What a Terrible World, What a Beautiful World (2015-01-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/5bad490b-2939-4955-955b-9280cf616473/9591833765-500.jpg" data-tags="folk, indie" role="button">
 Father John Misty - I Love You, Honeybear (2015-02-09)

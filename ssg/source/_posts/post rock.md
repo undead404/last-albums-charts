@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:43:13.123Z
+date: 2021-04-13T01:41:01.438Z
 title: "post rock: 100 albums you must listen to before you die"
 ---
 ![Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)](http://coverartarchive.org/release/ca19daf0-1d0e-4bc4-9972-b2a1dab4356d/15041243224-500.jpg "Explosions in the Sky - The Earth Is Not a Cold Dead Place (2003-11-03)")
@@ -138,9 +138,6 @@ M83 - Before the Dawn Heals Us (2005-01-24)
 <li data-cover="https://via.placeholder.com/450" data-tags="post-rock" role="button">
 The Evpatoria Report - Golevka (2005-04-07)
 </li>
-<li data-cover="https://img.discogs.com/KyoJe8kQNtFQ5VlfYfxVOoqb5sY=/fit-in/250x250/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1286171-1227228285.jpeg.jpg" data-tags="post rock" role="button">
-Pelican - March Into the Sea (2005-04-12)
-</li>
 <li data-cover="http://coverartarchive.org/release/65c232e4-cd6d-4354-a623-eab1b463d9b0/22635528848-500.jpg" data-tags="post-rock, instrumental" role="button">
 Pelican - The Fire in Our Throats Will Beckon the Thaw (2005-06-15)
 </li>
@@ -203,6 +200,9 @@ As Cities Burn - Come Now Sleep (2007-08-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/5f1cbec4-bc36-481c-ac27-29b1abfbc00f/17626614858-500.jpg" data-tags="post rock" role="button">
 Leech - The Stolen View (2007-10-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/9d44af90-4aa5-45ad-885e-03dbe3db0af4/21912498985-500.jpg" data-tags="post-rock" role="button">
+Castevet - Summer Fences (2008)
 </li>
 <li data-cover="http://coverartarchive.org/release/9a463b8a-c900-4385-8c90-0f2124dfd7b9/14794004592-500.jpg" data-tags="glitch" role="button">
 Trifonic - Emergence (2008-02-26)

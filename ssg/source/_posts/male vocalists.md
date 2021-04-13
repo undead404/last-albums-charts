@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T14:12:07.059Z
+date: 2021-04-13T01:25:01.467Z
 title: "male vocalists: 100 albums you must listen to before you die"
 ---
 ![Brandon Flowers - Flamingo (2010-09-03)](http://coverartarchive.org/release/a8dff6a9-9a3f-41aa-b2f4-7055eabd7079/4965615269-500.jpg "Brandon Flowers - Flamingo (2010-09-03)")
@@ -24,6 +24,9 @@ _________________
 <li data-cover="http://coverartarchive.org/release/bf591a71-0149-4e04-8425-92326347c3ca/15048384671-500.jpg" data-tags="pop, 70s" role="button">
 King Harvest - Dancing in the Moonlight (1972)
 </li>
+<li data-cover="http://coverartarchive.org/release/a07e3fc0-276f-32cc-9cdb-097763668b35/5657769499-500.jpg" data-tags="70s" role="button">
+Joe Walsh - But Seriously, Folks... (1978-05-16)
+</li>
 <li data-cover="http://coverartarchive.org/release/8ba206bb-edc3-432b-a0f0-67176130c000/15519026811-500.jpg" data-tags="80s, pop" role="button">
 George Michael - Faith (1987-11-01)
 </li>
@@ -36,14 +39,14 @@ Jimmy Eat World - Jimmy Eat World (1994-12)
 <li data-cover="https://img.discogs.com/srk4VKwvLYZHsdluO_-5sOpdufc=/fit-in/600x611/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14621763-1578342628-8323.jpeg.jpg" data-tags="pop, rock, britpop, british" role="button">
 Robbie Williams - Life Thru a Lens (1997-09-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/97242b22-9778-4864-920b-3dfc4c104036/15402431156-500.jpg" data-tags="pop, britpop" role="button">
-Robbie Williams - I've Been Expecting You (1998-10-26)
-</li>
 <li data-cover="https://img.discogs.com/od4YQ45nH_1rhWIVaXfEmCuWXwQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1621167-1465159990-8686.jpeg.jpg" data-tags="male vocalists, new jack swing, faves, rap and hip hop, blackstreet, new songs" role="button">
 Blackstreet - Girlfriend/Boyfriend (1999-04-05)
 </li>
 <li data-cover="https://img.discogs.com/oJDs1q4MjOES-q6E9Tg3Rc1vm7I=/fit-in/500x436/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4950448-1380362760-3376.jpeg.jpg" data-tags="rock" role="button">
 Bryan Adams - The Best of Me (1999-11-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/9c35f3d0-01fa-472d-a123-a89ac3d3c878/7394881559-500.jpg" data-tags="swedish, indiepop, glam rock" role="button">
+The Ark - We Are The Ark (2000-09-25)
 </li>
 <li data-cover="https://img.discogs.com/isniMsRL2XRq3oPsM1fVA2xo7Vk=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-65770-1454768663-3762.jpeg.jpg" data-tags="electronic, trip-hop" role="button">
 Rob Dougan - Furious Angels (2001)
@@ -84,9 +87,6 @@ Rufus Wainwright - Want Two (2004-11-16)
 <li data-cover="http://coverartarchive.org/release/aac73402-efd7-440b-be44-43183aa48f0d/28019403744-500.jpg" data-tags="pop" role="button">
 Brian McFadden - Irish Son (2004-11-22)
 </li>
-<li data-cover="https://img.discogs.com/Dx5rsoFOygBx8nPxKW8Sq5ev6N0=/fit-in/392x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1777368-1242662992.jpeg.jpg" data-tags="rock, japanese, industrial, asian, male vocalists, 00s, industrial metal, j-rock, spookycore" role="button">
-D'espairsRay - [Coll:set] (2005-06-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/62092003-2619-41a4-9795-e77c0625dc03/28025749897-500.jpg" data-tags="pop rock, mcfly, pop, rock" role="button">
 McFly - Wonderland (2005-08-29)
 </li>
@@ -95,6 +95,9 @@ Cartel - Chroma (2005-09-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/d304d0ae-4937-30a9-9ea7-656a8d92860b/1413448182-500.jpg" data-tags="pop, robbie williams" role="button">
 Robbie Williams - Intensive Care (2005-10-20)
+</li>
+<li data-cover="https://img.discogs.com/FtULkQ6b0y6k9auEFqnrvhMRWsw=/fit-in/600x601/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9814785-1587467828-8604.jpeg.jpg" data-tags="country" role="button">
+Johnny Cash - The Essential Johnny Cash (2006)
 </li>
 <li data-cover="http://coverartarchive.org/release/261d9f29-1c1f-47c1-a631-6e213b74a084/28025741649-500.jpg" data-tags="rock, pop rock, mcfly" role="button">
 McFly - Just My Luck (2006-05-09)
@@ -111,17 +114,11 @@ James Morrison - Undiscovered (2006-07-31)
 <li data-cover="http://coverartarchive.org/release/34a322de-e4ef-4861-a7ad-640644606d92/2503909808-500.jpg" data-tags="alternative rock" role="button">
 Five for Fighting - Two Lights (2006-08-01)
 </li>
-<li data-cover="http://coverartarchive.org/release/ffa1cb26-66c1-4ab7-a816-bc1db3b307b2/7017421921-500.jpg" data-tags="rock, japanese, asian, male vocalists, 00s, j-rock" role="button">
-ギルガメッシュ - 13's Reborn (2006-09-27)
-</li>
 <li data-cover="http://coverartarchive.org/release/1cd89dd6-158f-43c8-8a36-70546defb4a9/16174037445-500.jpg" data-tags="indie, indie rock" role="button">
 Cold War Kids - Robbers & Cowards (2006-10-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/2fa5e0f9-c83b-44cb-bd90-7899efc1417b/8994651148-500.jpg" data-tags="soul, john legend, rnb" role="button">
 John Legend - Once Again (2006-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/28a2bfa0-6cf7-4854-93f1-e5a06de9162d/5907595639-500.jpg" data-tags="pop" role="button">
-Robbie Williams - Rudebox (2006-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/be313771-d713-4bb4-90c0-acbca6e4a169/2417155456-500.jpg" data-tags="alternative rock, rock" role="button">
 Incubus - Light Grenades (2006-11-22)
@@ -129,11 +126,17 @@ Incubus - Light Grenades (2006-11-22)
 <li data-cover="http://coverartarchive.org/release/1138469b-30b2-4400-acdc-b84340d1b8ad/26393913064-500.jpg" data-tags="alternative rock, post-grunge" role="button">
 Switchfoot - Oh! Gravity. (2006-12-26)
 </li>
+<li data-cover="http://coverartarchive.org/release/76f9c257-ec81-48eb-afaf-a6eff0d9e271/25696406693-500.jpg" data-tags="trip-hop" role="button">
+Jay-Jay Johanson - The Long Term Physical Effects Are Not Yet Known (2007-01-15)
+</li>
 <li data-cover="http://coverartarchive.org/release/e7a8590c-db03-3c39-a509-bd91a1e104d7/4889361026-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Call Me Irresponsible (2007-04-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/8566242e-1178-4c68-bad5-b55d1e6b17b8/13011370420-500.jpg" data-tags="rock, alternative, alternative rock, pop rock, male vocalists" role="button">
 Arctic Monkeys - Da Frame 2R / Matador (2007-06-18)
+</li>
+<li data-cover="https://img.discogs.com/2ExnGEjeUEEYZKhhuLWor1GmAiY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1161018-1524010777-1954.jpeg.jpg" data-tags="indie, alternative, psychedelic" role="button">
+The Coral - Roots & Echoes (2007-08-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/a81a4da3-daf0-483b-8c72-f70690b2b8ff/19096164883-500.jpg" data-tags="electronic, experimental" role="button">
 Caribou - Andorra (2007-08-17)
@@ -152,9 +155,6 @@ The Hoosiers - The Hoosiers (2008-01-15)
 </li>
 <li data-cover="https://img.discogs.com/0eNuyw42eAvnSlmXyPh0zDCY9u8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1627767-1233103685.jpeg.jpg" data-tags="acoustic" role="button">
 City and Colour - Bring Me Your Love (2008-02-12)
-</li>
-<li data-cover="http://coverartarchive.org/release/17de02f3-5ee1-41c9-9ba4-42bca40dd848/2223304263-500.jpg" data-tags="singer-songwriter, pop, acoustic" role="button">
-Jason Mraz - We Sing. We Dance. We Steal Things. (2008-05-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/2653c58c-fe83-4d3e-829e-3754659536f5/5556108956-500.jpg" data-tags="classic rock, acoustic, oldies, male vocalists, gentel heart" role="button">
 Joshua Radin - Unclear Sky (2008-06-01)
@@ -189,12 +189,6 @@ Mat Kearney - City Of Black & White (2009-05-19)
 <li data-cover="http://coverartarchive.org/release/929090e7-d6dd-4b21-9614-01340e98507a/2100348160-500.jpg" data-tags="electronic, owl city" role="button">
 Owl City - Ocean Eyes (2009-07-14)
 </li>
-<li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
-Dead Man's Bones - Dead Man's Bones (2009-10-02)
-</li>
-<li data-cover="http://coverartarchive.org/release/e15f9b62-f46a-40f5-8e5f-ba52f0bc382a/2688225539-500.jpg" data-tags="british, pop, britpop" role="button">
-Robbie Williams - Reality Killed the Video Star (2009-11-06)
-</li>
 <li data-cover="https://img.discogs.com/cWw7xadx3QlRinvl0Dc48dVMcJU=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9096731-1474718495-9289.jpeg.jpg" data-tags="pop" role="button">
 John Mayer - Battle Studies (2009-11-17)
 </li>
@@ -228,11 +222,17 @@ Twin Shadow - Forget (2010-09-28)
 <li data-cover="http://coverartarchive.org/release/33030768-eed0-404a-bd5e-af6950546211/11501372854-500.jpg" data-tags="pop" role="button">
 Bruno Mars - Doo-Wops & Hooligans (2010-10-04)
 </li>
+<li data-cover="http://coverartarchive.org/release/328efca9-555a-44fb-b122-94f289371433/10229865871-500.jpg" data-tags="country" role="button">
+Darius Rucker - Charleston, SC 1966 (2010-10-12)
+</li>
 <li data-cover="http://coverartarchive.org/release/5a92ffb6-5332-4890-91e5-ee80a9e47465/9915356798-500.jpg" data-tags="just a dream" role="button">
 Nelly - Just A Dream (2010-10-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/ce858ae3-c1df-4394-a1d6-dd93d82dee34/8940167530-500.jpg" data-tags="pop, male vocalists" role="button">
 Olly Murs - Olly Murs (2010-11-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/e187359c-f47b-4dd8-9172-565be0893c10/24502341651-500.jpg" data-tags="rnb" role="button">
+Miguel - All I Want Is You (2010-11-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/6b3f04af-dc51-4e19-8a8f-655da163d8b6/12602343869-500.jpg" data-tags="disco, electronic, male vocalists, hairy chest, mpm, hunks, nice fur, heavy pelt, discos 2011" role="button">
 Marcelo Jeneci - Feito Pra Acabar (2010-12-01)

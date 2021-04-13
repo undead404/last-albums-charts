@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:18:01.454Z
+date: 2021-04-13T01:01:06.935Z
 title: "industrial rock: 100 albums you must listen to before you die"
 ---
 ![Nine Inch Nails - The Downward Spiral (1994-03-08)](http://coverartarchive.org/release/ab64976f-52a8-44e7-9aa3-d6703604bc2f/7159970718-500.jpg "Nine Inch Nails - The Downward Spiral (1994-03-08)")
@@ -95,9 +95,6 @@ David Bowie - Earthling (1997-02-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/0bd87d69-653a-47bc-8219-cf6ad055ca9b/15822705157-500.jpg" data-tags="alternative rock, industrial, industrial rock, alt rock, hybrid, fish lab, has hidden track, mandatory, music from junior high" role="button">
 Econoline Crush - The Devil You Know (1997-06-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/9a760d12-0bde-485a-b927-1c961ce1f737/24090557767-500.jpg" data-tags="90s, industrial rock" role="button">
-God Lives Underwater - Life In The So-Called Space Age (1998-03-24)
 </li>
 <li data-cover="https://img.discogs.com/av87ubWpJAYSiWLFe06--27mNms=/fit-in/600x610/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-928828-1483750079-3904.jpeg.jpg" data-tags="industrial, industrial rock" role="button">
 Stabbing Westward - Darkest Days (1998-04-07)
@@ -215,6 +212,9 @@ Nine Inch Nails - Every Day Is Exactly the Same (2006-03-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/d9294662-5a24-37ab-9fd7-e04a2480ab52/1068174325-500.jpg" data-tags="metal, industrial metal" role="button">
 Rob Zombie - Educated Horses (2006-03-27)
+</li>
+<li data-cover="https://img.discogs.com/R78o6aieaAjwnyxmIwI_htnMN2M=/fit-in/532x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-738893-1161066287.jpeg.jpg" data-tags="industrial rock" role="button">
+Dope Stars Inc. - Make A Star (2006-08-04)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="remix, nin" role="button">
 Halo33 - Year 33 (2007)

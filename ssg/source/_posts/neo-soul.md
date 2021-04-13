@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:34:01.448Z
+date: 2021-04-13T01:09:01.462Z
 title: "neo-soul: 100 albums you must listen to before you die"
 ---
 ![Frank Ocean - channel ORANGE (2012-07-10)](https://img.discogs.com/BTjf4G0FRR-nttzUiJEeYa1ZkcA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14470275-1575194734-3163.jpeg.jpg "Frank Ocean - channel ORANGE (2012-07-10)")
@@ -135,8 +135,8 @@ Rahsaan Patterson - After Hours (2004-04-26)
 <li data-cover="https://img.discogs.com/Y7LIa2isPNnmGrRCpmcQaECd2GI=/fit-in/500x498/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-633013-1325298303.jpeg.jpg" data-tags="soul, neo-soul" role="button">
 Angie Stone - Stone Love (2004-06-28)
 </li>
-<li data-cover="https://img.discogs.com/XuMLR3boHgc5gyx2O2guMX7-tkY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1511365-1367888751-8182.jpeg.jpg" data-tags="neo-soul" role="button">
-Jill Scott - Beautifully Human: Words and Sounds, Volume 2 (2004-08-30)
+<li data-cover="https://img.discogs.com/9a8xxjYSYuhSXeZvA4vlk3ZryMA=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16002842-1601692246-1614.jpeg.jpg" data-tags="female vocalists, jazz" role="button">
+Lalah Hathaway - Outrun the Sky (2004-10-05)
 </li>
 <li data-cover="https://img.discogs.com/6o0kSzwGbQoieBogv-1J7NZu0OU=/fit-in/600x588/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-590002-1348400015-6358.jpeg.jpg" data-tags="soul, rnb" role="button">
 John Legend - Get Lifted (2004-10-25)
@@ -194,6 +194,9 @@ John Legend - Once Again (2006-10-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/0f857ab9-6cd0-45e6-b618-93947c185cf5/13071763593-500.jpg" data-tags="neo-soul" role="button">
 Willow - Willow (2007-03)
+</li>
+<li data-cover="http://coverartarchive.org/release/f65b12ed-3718-43b9-a13a-b6ae76c28c02/4692858102-500.jpg" data-tags="soul, neo-soul" role="button">
+Anthony Hamilton - Southern Comfort (2007-04-03)
 </li>
 <li data-cover="https://img.discogs.com/q7XcYaedTkDRYRLbwYkpKCfWPck=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1416097-1594143330-3792.jpeg.jpg" data-tags="rnb, neo-soul" role="button">
 Carl Thomas - So Much Better (2007-06-05)
@@ -308,9 +311,6 @@ Blood Orange - Cupid Deluxe (2013-11-18)
 </li>
 <li data-cover="https://img.discogs.com/fW5GbF5AiZEpzS9PAr3-IcDNe48=/fit-in/600x539/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14934050-1614784564-7963.jpeg.jpg" data-tags="soul, funk" role="button">
 Kelis - Food (2014-04-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/9815a22f-d7ca-447f-a144-dfa658207998/7044912523-500.jpg" data-tags="electronic, synthpop, testament, exodus" role="button">
-Little Dragon - Nabuma Rubberband (2014-05-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/f96389dd-431f-4537-b8b0-eee6cff2d10e/7573419317-500.jpg" data-tags="soul, neo-soul, livesoncoffee-getit" role="button">
 Fatima - Yellow Memories (2014-05-12)

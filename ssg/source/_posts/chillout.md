@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:25:01.477Z
+date: 2021-04-13T01:20:01.542Z
 title: "chillout: 100 albums you must listen to before you die"
 ---
 ![Zero 7 - Simple Things (2001-04-23)](http://coverartarchive.org/release/492ba46b-0c4b-48c6-8dae-162058dc95e9/12184142601-500.jpg "Zero 7 - Simple Things (2001-04-23)")

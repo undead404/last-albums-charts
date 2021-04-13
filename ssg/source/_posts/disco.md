@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:52:01.473Z
+date: 2021-04-13T01:19:01.474Z
 title: "disco: 100 albums you must listen to before you die"
 ---
 ![Daft Punk - Random Access Memories (2013-05-17)](http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg "Daft Punk - Random Access Memories (2013-05-17)")
@@ -143,9 +143,6 @@ Jamiroquai - Travelling Without Moving (1996-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/04b64669-be17-49ba-a4cc-5b74f2db5e92/17094540160-500.jpg" data-tags="disco" role="button">
 The Trammps - Disco Inferno (1998-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/63b3a8ca-26f2-4e2b-b867-647a6ec2bebd/11266341757-500.jpg" data-tags="pop, 90s, dance" role="button">
-Cher - Believe (1998-10-12)
 </li>
 <li data-cover="https://img.discogs.com/h09j3rFsID_d3IQDD9P3EXbhQSk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-503157-1136621189.jpeg.jpg" data-tags="disco" role="button">
 Bee Gees - One Night Only (1998-11-03)
@@ -296,6 +293,9 @@ Giorgio Moroder - From Here To Eternity (2012-11-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/4220331b-1236-405e-b36b-0dc7050f3ab2/18876982277-500.jpg" data-tags="synthpop" role="button">
+Little Boots - Nocturnes (2013-05-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/36e2aede-346d-4931-8565-78d810d167c7/4436344925-500.jpg" data-tags="electronic, disco, funk" role="button">
 Daft Punk - Random Access Memories (2013-05-17)

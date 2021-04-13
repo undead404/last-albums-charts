@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T10:09:01.412Z
+date: 2021-04-13T00:45:07.463Z
 title: "mashup: 100 albums you must listen to before you die"
 ---
 ![Girl Talk - Feed the Animals (2008-06-19)](http://coverartarchive.org/release/3754eba6-4b85-3586-9ddc-f8e8466d5819/2553358189-500.jpg "Girl Talk - Feed the Animals (2008-06-19)")
@@ -150,9 +150,6 @@ Party Ben - Can't Stop Callin' Out: The Complete Party Ben vs. Lyrics Born Exper
 <li data-cover="http://coverartarchive.org/release/683cec41-69ef-4d75-964d-47690eb5b94d/6955979501-500.jpg" data-tags="hip-hop, electronic, drum and bass, mashup, breakbeat" role="button">
 dj BC - Art Raps (2008-04)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mashup" role="button">
-audiobytes for autobots - 2.0 (2008-05-17)
-</li>
 <li data-cover="https://img.discogs.com/NnUtQ0lWGn5r4POGF3XGyYRJdd0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2813704-1302198745.jpeg.jpg" data-tags="heavy metal, mashup, comedy" role="button">
 Beatallica - All You Need Is Blood (2008-05-20)
 </li>
@@ -300,6 +297,12 @@ The Airport District - Encore (2012-10-14)
 <li data-cover="http://coverartarchive.org/release/a56d3155-e231-40c5-8387-c793ef4d25e2/2955728392-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
 A Plus D - Best of Bootie 2012 (2012-12-25)
 </li>
+<li data-cover="http://coverartarchive.org/release/5dd83c9e-639e-464e-a48f-9aa071c30bfe/4544499975-500.jpg" data-tags="mashup, remix, mash-up, bastard pop, mash up, bootleg" role="button">
+G3RSt - Cracked & Trained (2013)
+</li>
+<li data-cover="https://img.discogs.com/c9ouejqzaTzjX7PfRDKEHd2mny8=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4250331-1359724323-6787.jpeg.jpg" data-tags="mashup, remix, mash-up, bastard pop, podcast, mash up, bootleg" role="button">
+DJ Schmolli - Pirate Nation Vol.4 (2013-05-03)
+</li>
 <li data-cover="http://coverartarchive.org/release/57ea99ef-fc5c-485f-8b95-3454c6ea9e6e/5295505369-500.jpg" data-tags="electronic, pop, dance, mashup, remix, mash-up, bastard pop" role="button">
 Isosine - Mashup Manifesto III (2013-06-25)
 </li>
@@ -317,8 +320,5 @@ Neil Cicierega - Mouth Silence (2014-07-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cda9a44-8adb-4807-9b5c-aefff7c9df6b/8741539510-500.jpg" data-tags="mashup" role="button">
 David Rees - aphex swift (2014-10-24)
-</li>
-<li data-cover="https://via.placeholder.com/450" data-tags="mashup, dj, earworm, dj earworm, do what you wanna do, united states of pop, united states of pop 2014" role="button">
-DJ Earworm - United State Of Pop 2014 (Do What You Wanna Do) (2014-12-03)
 </li>
 </ol>

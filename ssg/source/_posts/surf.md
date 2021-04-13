@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T08:02:01.572Z
+date: 2021-04-13T01:34:07.044Z
 title: "surf: 100 albums you must listen to before you die"
 ---
 ![Best Coast - Crazy for You (2010-07-26)](https://img.discogs.com/wBqojqfUqW7JPRm-k7Ay0V3sJhk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2364771-1436727994-5630.jpeg.jpg "Best Coast - Crazy for You (2010-07-26)")
@@ -42,6 +42,9 @@ The Lively Ones - Surf City (1963-08)
 <li data-cover="https://img.discogs.com/_DQavv8DT-REm9P13B67jLCuywE=/fit-in/590x579/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-385990-1328699490.jpeg.jpg" data-tags="surf rock, garage rock, surfin bird" role="button">
 The Trashmen - Surfin' Bird (1964)
 </li>
+<li data-cover="http://coverartarchive.org/release/74f9471f-7547-45e0-9544-261a29af0264/22995806194-500.jpg" data-tags="surf" role="button">
+The Ventures - Super Psychedelics (1967-06)
+</li>
 <li data-cover="https://img.discogs.com/3nlui8RGMT03SNYnA-IgPa94BMQ=/fit-in/600x613/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6869769-1428774685-1743.jpeg.jpg" data-tags="instrumental, classic rock, surf" role="button">
 The Ventures - Hawaii Five-O (1968)
 </li>
@@ -60,23 +63,17 @@ The Beach Boys - Still Cruisin' (1989-08-28)
 <li data-cover="http://coverartarchive.org/release/e9e6605b-de1d-4bb7-9021-62beee06e09f/5355706918-500.jpg" data-tags="oldies, the beach boys, the beach boys - summer dreams" role="button">
 The Beach Boys - Summer Dreams (1990-06)
 </li>
-<li data-cover="https://img.discogs.com/PqD4V5GCVuTqdWD1zS_M3u5DPck=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3504333-1333048227.jpeg.jpg" data-tags="country, alt-country" role="button">
-Uncle Tupelo - Still Feel Gone (1991-09-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/8eba350a-5f56-4c19-99d7-7ddd26e89535/16705043688-500.jpg" data-tags="surf" role="button">
 Dick Dale and His Del-Tones - Greatest Hits 1961 - 1976 (1992-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9afe4826-f879-4864-8b08-ee3219fcd821/28890740281-500.jpg" data-tags="surf, surf rock, instumental" role="button">
 Laika & The Cosmonauts - Instruments Of Terror (1993)
 </li>
-<li data-cover="http://coverartarchive.org/release/1933de01-235c-4252-8acc-20bafbee6f23/16217895857-500.jpg" data-tags="surf" role="button">
-Man or Astro-Man? - Destroy all Astromen! (1994)
+<li data-cover="http://coverartarchive.org/release/074aa2f7-4ed8-4c0c-b229-3706047f248e/21980559073-500.jpg" data-tags="surf" role="button">
+The Aqua Velvets - The Aqua Velvets (1993)
 </li>
 <li data-cover="https://img.discogs.com/OuSO_yFu4DX2OnYpe55UowF5UcY=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2090429-1412967543-5302.jpeg.jpg" data-tags="surf" role="button">
 The Mermen - Food For Other Fish (1994)
-</li>
-<li data-cover="https://img.discogs.com/0lt0VPynj-LOuYonLu-nUk0mr3Y=/fit-in/588x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1190936-1342893999-8971.jpeg.jpg" data-tags="surf, surf rock, merkliste" role="button">
-Man or Astro-Man? - Your Weight On The Moon (1994-08-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/b60147b4-f182-44cc-a359-58db5985d78a/28638241946-500.jpg" data-tags="surf" role="button">
 The Trashmen - Comic Book Collector (1995)
@@ -111,11 +108,11 @@ Frank Black - The Cult Of Ray (1996-01-19)
 <li data-cover="http://coverartarchive.org/release/8d208d87-ac7a-4d85-be61-28846b6ae8fe/5847038778-500.jpg" data-tags="rock, surf" role="button">
 Man or Astro-Man? - Deluxe Men in Space (1996-02-20)
 </li>
-<li data-cover="http://coverartarchive.org/release/20532932-c1f1-4c78-9127-4d8cdc5ad7b4/10425417412-500.jpg" data-tags="instrumental, surf, surf rock" role="button">
-Man or Astro-Man? - Experiment Zero (1996-04-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/588c155e-5905-49b7-934a-c0bdfaa5b6b9/15586507441-500.jpg" data-tags="surf, bl00d7 m4r7" role="button">
 The Volcanos - Surf Quake (1996-09-24)
+</li>
+<li data-cover="https://img.discogs.com/ebjSBVc-1PqyojNkUs03I8qFxjs=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3142433-1317730152.jpeg.jpg" data-tags="pop, rock, punk, surf, twee pop, power pop, 90s, american, pop punk, bubblegum" role="button">
+Beatnik Termites - Bubblecore (1996-10-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/9d5af185-00b2-4c2a-8b6b-334bd098b910/28890692101-500.jpg" data-tags="surf, surf rock" role="button">
 Laika & The Cosmonauts - Absurdistan (1997)
@@ -138,8 +135,14 @@ The Space Cossacks - Interstellar Stomp (1998)
 <li data-cover="https://img.discogs.com/e__q1ISQOOEZiu9gJmAmd8aqZ4Q=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2359571-1279405014.jpeg.jpg" data-tags="surf" role="button">
 Langhorns - Langhorns (1998)
 </li>
+<li data-cover="https://img.discogs.com/78xBNN97_huCM13A_2MVLrFsEhQ=/fit-in/598x602/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4603847-1510620583-4661.jpeg.jpg" data-tags="surf" role="button">
+Los Esquizitos - Los Esquizitos (1998)
+</li>
 <li data-cover="https://img.discogs.com/Dbynx4lWCcOI8sdVFzhDgTNzGx0=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8503660-1583953406-6793.jpeg.jpg" data-tags="surf rock, surf" role="button">
 The Surfaris - Surfers Rule (1998)
+</li>
+<li data-cover="http://coverartarchive.org/release/9f846f80-f3a0-43f3-83a8-eefb367bae5c/19827924620-500.jpg" data-tags="surf" role="button">
+The Blue Hawaiians - Sway (1998)
 </li>
 <li data-cover="http://coverartarchive.org/release/dee8fe07-f434-46cb-9731-0d668800e445/13476591738-500.jpg" data-tags="bad ass" role="button">
 Andre Williams - Silky (1998-02-10)
@@ -164,6 +167,9 @@ Langhorns - Club Gabardino (1999-04-01)
 </li>
 <li data-cover="https://img.discogs.com/EgR2x4E687T6KNln71rYx84wowg=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-993209-1526181612-3424.jpeg.jpg" data-tags="alternative rock, surf, indie rock, new wave, garage rock, post-punk revival, rivers all time favorite albums, greatest albums of the 90s, black and white album cover, arty farty punk" role="button">
 Clinic - Clinic (1999-04-19)
+</li>
+<li data-cover="http://coverartarchive.org/release/3362bece-7aa7-4276-b06a-aca04a06683f/6408084983-500.jpg" data-tags="bl00d7 m4r7" role="button">
+Vampire Beach Babes - Reckless Summer (2000)
 </li>
 <li data-cover="https://img.discogs.com/Svne3JHztTMHte_2Rq9_1Rc5X64=/fit-in/500x496/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4366585-1419724188-8468.jpeg.jpg" data-tags="surf" role="button">
 The Vara-Tones - Jetty Subject To High Surf (2000-04-15)
@@ -192,9 +198,6 @@ Slightly Stoopid - Everything You Need (2003-03-18)
 <li data-cover="http://coverartarchive.org/release/27f926ab-ff13-4be5-bebe-99e5e23e426e/5749835402-500.jpg" data-tags="surf" role="button">
 The Beautiful Girls - Learn Yourself (2003-09-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/9def2489-d952-4325-88df-d3b09667e9f0/22134783207-500.jpg" data-tags="surf, surf rock" role="button">
-Lost Acapulco - Acapulco Golden (2004-05)
-</li>
 <li data-cover="https://img.discogs.com/nEK0kFJVh-KgvHJmB_0R8SZ27cU=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4615754-1370020221-6824.jpeg.jpg" data-tags="surf" role="button">
 Red Elvises - Lunatics & Poets (2004-07-20)
 </li>
@@ -215,9 +218,6 @@ The Beach Boys - The Platinum Collection (2005-05-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/f05702c0-a8ef-473f-9ce8-e9dbb4ca10a0/4964947583-500.jpg" data-tags="ska" role="button">
 The Aquabats - Charge!! (2005-06-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/a109f2c5-aa07-4e37-95b0-965718c5d96d/6453800513-500.jpg" data-tags="indie, cambodian, aj playlist" role="button">
-Dengue Fever - Escape From Dragon House (2005-09-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2b401b0-17d6-4c99-b682-a44228ed8ee0/15278504062-500.jpg" data-tags="reggae" role="button">
 State Radio - Us Against The Crown (2005-12-20)

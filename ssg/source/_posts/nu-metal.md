@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T06:02:12.583Z
+date: 2021-04-13T01:30:07.162Z
 title: "nu-metal: 100 albums you must listen to before you die"
 ---
 ![Linkin Park - Hybrid Theory (2000-05-07)](http://coverartarchive.org/release/f0cd4041-f859-4b97-b563-3b5f33f98d9d/14504927551-500.jpg "Linkin Park - Hybrid Theory (2000-05-07)")
@@ -93,8 +93,14 @@ Adema - Adema (2001-08-09)
 <li data-cover="https://img.discogs.com/XTd3XQx8DGr3Y70JY3h0N2ymFSI=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2273339-1453263561-8717.jpeg.jpg" data-tags="nu metal, metal" role="button">
 Slipknot - Iowa (2001-08-21)
 </li>
+<li data-cover="https://img.discogs.com/AJ6FLWbSugQt8f99VE7KtV1Fh_E=/fit-in/200x200/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-932932-1174350886.jpeg.jpg" data-tags="metal, nu metal, industrial metal" role="button">
+American Head Charge - The War Of Art (2001-08-21)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="nu metal" role="button">
 40 Below Summer - Invitation to the Dance (2001-09-11)
+</li>
+<li data-cover="http://coverartarchive.org/release/219b9a86-faf5-43b4-b3b7-45444aff5070/4262581087-500.jpg" data-tags="nu metal, metal" role="button">
+Machine Head - Supercharger (2001-09-21)
 </li>
 <li data-cover="https://img.discogs.com/9crr3fjxESn9gZG_OQ2TdABKMv8=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-645776-1556249755-2449.jpeg.jpg" data-tags="metal, hard rock, alternative metal, nu metal" role="button">
 Sevendust - Animosity (2001-11-13)
@@ -138,9 +144,6 @@ Mudvayne - The End of All Things to Come (2002-11-12)
 <li data-cover="http://coverartarchive.org/release/f3bfd870-0708-46d0-9953-9f5f573fb600/9085615951-500.jpg" data-tags="nu metal, rock, linkin park" role="button">
 Linkin Park - Meteora (2003-03-24)
 </li>
-<li data-cover="https://img.discogs.com/MXhvvXsG1UpZ6XSRVwaaL4ZTDKI=/fit-in/450x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1532354-1226519374.jpeg.jpg" data-tags="alternative metal" role="button">
-Nothingface - Skeletons (2003-04-22)
-</li>
 <li data-cover="https://img.discogs.com/kVvo2DTkK2Dzl7sgWMGmEQRnFsc=/fit-in/600x533/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-506066-1415177260-6396.jpeg.jpg" data-tags="nu metal, rapcore, rock" role="button">
 Limp Bizkit - Results May Vary (2003-05-28)
 </li>
@@ -162,14 +165,8 @@ Deftones - Hexagram (2003-09-22)
 <li data-cover="https://img.discogs.com/OuuO6BOG8tOB4Un0tj9ajpx76U8=/fit-in/370x316/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4621734-1371247495-3696.jpeg.jpg" data-tags="rock" role="button">
 Limp Bizkit - Behind Blue Eyes (2003-09-23)
 </li>
-<li data-cover="http://coverartarchive.org/release/ace5c1af-1fc8-43aa-9ff7-bced160a8859/8120232073-500.jpg" data-tags="alternative metal, metal, nu metal, mushroomhead" role="button">
-Mushroomhead - XIII (2003-10-14)
-</li>
 <li data-cover="https://img.discogs.com/Aps8rjlwnJWV4Gu-tfAkYEFZnlM=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1065022-1212577271.jpeg.jpg" data-tags="nu metal" role="button">
 Element Eighty - Element Eighty (2003-10-28)
-</li>
-<li data-cover="http://coverartarchive.org/release/64dca84b-0bdf-43ba-b800-feb37943786a/15564151691-500.jpg" data-tags="nu metal" role="button">
-40 Below Summer - The Mourning After (2003-10-28)
 </li>
 <li data-cover="http://coverartarchive.org/release/0edb5cf7-aaff-4376-8a6b-373a0f08ce39/15089945297-500.jpg" data-tags="nu metal" role="button">
 Linkin Park - Live in Texas (2003-11-18)
@@ -204,9 +201,6 @@ Limp Bizkit - The Unquestionable Truth (Part 1) (2005-05-02)
 <li data-cover="http://coverartarchive.org/release/d31ca23d-af99-4296-b072-adb7f2c88ece/3417770333-500.jpg" data-tags="nu metal, nu-metal" role="button">
 Scars of Life - What We Reflect (2005-08-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/8b50b21f-f12c-49d3-8880-964e29686992/23154266732-500.jpg" data-tags="alternative, alternative metal, nu metal" role="button">
-Taproot - Blue-Sky Research (2005-08-15)
-</li>
 <li data-cover="http://coverartarchive.org/release/555e77a9-ee30-47c4-bd7d-e8954c22a044/4227861682-500.jpg" data-tags="rock, alternative rock, cold" role="button">
 Cold - A Different Kind of Pain (2005-08-30)
 </li>
@@ -225,6 +219,9 @@ Limp Bizkit - Greatest Hitz (2005-11-04)
 <li data-cover="http://coverartarchive.org/release/6dcf1672-f710-4dc8-ae60-46ca885cdb37/11881240850-500.jpg" data-tags="nu metal" role="button">
 Korn - See You on the Other Side (2005-12-05)
 </li>
+<li data-cover="http://coverartarchive.org/release/75b59133-0a25-42e0-bf78-60c7608e2262/20106060612-500.jpg" data-tags="nu-metal" role="button">
+ТОЛ - Синдром бажання (2005-12-05)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="metalcore, post anal experience, modern metal, kircore" role="button">
 [AMATORY] - Книга мёртвых (2006)
 </li>
@@ -236,9 +233,6 @@ Linkin Park - Minutes to Midnight (2007-05-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/53d3d5f4-1e00-43a4-9990-52c4bae0169a/17852920288-500.jpg" data-tags="nu metal" role="button">
 Adema - Kill the Headlights (2007-06-26)
-</li>
-<li data-cover="https://img.discogs.com/B8R-CkWTVPLzuUN4pVvS1IXAy8k=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7698892-1480035733-6881.jpeg.jpg" data-tags="nu metal" role="button">
-Korn - Untitled (2007-07-30)
 </li>
 <li data-cover="https://img.discogs.com/bH8FjpNSiQ8z68Exh_qw33Gz17o=/fit-in/600x606/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2964350-1399285931-8605.jpeg.jpg" data-tags="nu-metal, russian alternative" role="button">
 Слот - Тринити (2007-11-18)
@@ -279,6 +273,9 @@ Disturbed - Disturbed (2010-05-06)
 <li data-cover="http://coverartarchive.org/release/4edde1ae-ff97-4a99-a8f7-f5cd75609148/9270169110-500.jpg" data-tags="nu metal, nu-metal" role="button">
 Taproot - Plead the Fifth (2010-05-11)
 </li>
+<li data-cover="http://coverartarchive.org/release/4334d3cc-f755-3d68-8486-cee2e2b8be70/4499486854-500.jpg" data-tags="nu metal" role="button">
+Korn - Korn III: Remember Who You Are (2010-07-07)
+</li>
 <li data-cover="https://img.discogs.com/yPA9SqOUWxYcWuMPCLXSu-_RHSk=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2418023-1413125052-1157.jpeg.jpg" data-tags="alternative metal" role="button">
 Disturbed - Asylum (2010-08-20)
 </li>
@@ -302,6 +299,9 @@ Disturbed - The Lost Children (2011-11-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/1f8785cd-3f06-4ceb-8f26-623417f44c45/4182280626-500.jpg" data-tags="rapcore, rap metal, metal, nu metal" role="button">
 Limp Bizkit - Ready To Go (2013-04-12)
+</li>
+<li data-cover="http://coverartarchive.org/release/893ebbaf-463e-440a-98e8-8ae5900d8c3d/7669808510-500.jpg" data-tags="rock, grunge, alternative, hard rock, nu metal, nu-metal" role="button">
+Smile Empty Soul - Chemicals (2013-10-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/4cd974a6-8fef-4a31-979b-fdd13efb5ee0/6708979968-500.jpg" data-tags="nu-metal, single, alternative metal  hard rock" role="button">
 Linkin Park - Guilty All The Same (2014-03-06)

@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:02:01.468Z
+date: 2021-04-13T00:53:01.468Z
 title: "chamber pop: 100 albums you must listen to before you die"
 ---
 ![Arcade Fire - Funeral (2004-09-13)](http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg "Arcade Fire - Funeral (2004-09-13)")
@@ -11,7 +11,7 @@ title: "chamber pop: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/e3e77ecb-7d18-3a9a-8c1a-251ebdb150c1/8130435236-500.jpg" data-tags="warp, indie folk, indie" role="button">Grizzly Bear - Yellow House (2006-09-04)</li>
 <li data-cover="http://coverartarchive.org/release/e9d5f43f-826f-3a52-8890-084d0863d687/2096303717-500.jpg" data-tags="indie rock, indie" role="button">Arcade Fire - Neon Bible (2007-03-02)</li>
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">Grizzly Bear - Veckatimest (2009-05-22)</li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">Regina Spektor - Far (2009-06-09)</li>
+<li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">Bat for Lashes - The Haunted Man (2012-10-12)</li>
 <li data-cover="http://coverartarchive.org/release/35a7ea89-605b-466e-a5c5-1726f56f980f/4265527988-500.jpg" data-tags="indie rock" role="button">Vampire Weekend - Modern Vampires of the City (2013-05-06)</li>
 <li data-cover="http://coverartarchive.org/release/b152df81-9311-4f9e-9eb6-659ade6a8c06/8512126596-500.jpg" data-tags="ambient, experimental, chamber pop, art pop" role="button">Perfume Genius - Too Bright (2014-09-22)</li>
 </ol>
@@ -29,6 +29,9 @@ Eels - Beautiful Freak (1996-08-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/2b3c2f96-91f9-4d82-8efb-bd51812cab3c/4629555490-500.jpg" data-tags="indie pop, indie" role="button">
 Belle and Sebastian - If You're Feeling Sinister (1996-11-18)
+</li>
+<li data-cover="http://coverartarchive.org/release/0796c94c-45b7-3880-9c5b-a2b5d5872a34/2737724724-500.jpg" data-tags="chamber pop" role="button">
+My Life Story - The Golden Mile (1997-03-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/ef8ffab3-2a8e-42d0-a208-5fef13716494/3558127143-500.jpg" data-tags="chamber pop, melancholy" role="button">
 Tindersticks - Curtains (1997-06-16)
@@ -50,9 +53,6 @@ Rufus Wainwright - Poses (2001-06-04)
 </li>
 <li data-cover="https://img.discogs.com/0f36ac86c54fe502a205affaefeae52f092904f2/images/spacer.gif" data-tags="00s, welsh, indie" role="button">
 Super Furry Animals - Rings Around the World (2001-07-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/1c5745b0-6f1d-3598-a1db-8d6aa1ae9bc4/17377781071-500.jpg" data-tags="alt-country, 00s" role="button">
-Lambchop - Is A Woman (2002-02-19)
 </li>
 <li data-cover="https://img.discogs.com/vjoFP7533NvxoiqRLRF_M0EQMSM=/fit-in/450x406/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-346802-1597440907-5385.jpeg.jpg" data-tags="post-rock, danish post-rock" role="button">
 Under Byen - Det Er Mig Der Holder Træerne Sammen (2002-04-02)
@@ -78,9 +78,6 @@ Jens Lekman - When I Said I Wanted To Be Your Dog (2004-04-07)
 <li data-cover="http://coverartarchive.org/release/1555c06f-c4a7-4608-af79-e13a3e060001/26560920966-500.jpg" data-tags="electronic, indie" role="button">
 Flotation Toy Warning - Bluffer's Guide to the Flight Deck (2004-08-17)
 </li>
-<li data-cover="http://coverartarchive.org/release/39af013c-fe41-413e-8909-066147967c57/16197647081-500.jpg" data-tags="singer-songwriter, female vocalists, anti-folk" role="button">
-Regina Spektor - Soviet Kitsch (2004-08-17)
-</li>
 <li data-cover="http://coverartarchive.org/release/26cdc327-38f2-4200-b5dc-f2fa0e13fcfe/1189320642-500.jpg" data-tags="indie rock" role="button">
 Arcade Fire - Funeral (2004-09-13)
 </li>
@@ -90,11 +87,11 @@ Flëur - Сияние (2004-10-12)
 <li data-cover="https://img.discogs.com/vDrhdpiSCQOv2B2i_eL7O77oHPg=/fit-in/500x446/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-339667-1321456005.jpeg.jpg" data-tags="post-rock, electronic" role="button">
 Efterklang - Tripper (2004-10-25)
 </li>
-<li data-cover="http://coverartarchive.org/release/82756871-3b84-4b2b-bd61-ccbc27ebb3e5/14786657282-500.jpg" data-tags="instrumental, experimental, chamber pop, 00s, i love it, stunning, yann tiersen, exquisite, collabs, i love this album, merkliste, my deepest desires, so in love, my-dipreshon, about myself, hipnotizante" role="button">
-Yann Tiersen & Shannon Wright - Yann Tiersen & Shannon Wright (2004-10-25)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Decemberists - Picaresque (2005-03-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/6c6156f9-38a0-3183-85e8-df6432517dca/4207186910-500.jpg" data-tags="alternative, indie pop, alternative rock" role="button">
+Eels - Blinking Lights And Other Revelations (2005-04-25)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie, singer-songwriter, british" role="button">
 Patrick Wolf - Wind in the Wires (2005-06-13)
@@ -104,9 +101,6 @@ Sufjan Stevens - Illinois (2005-07-04)
 </li>
 <li data-cover="https://img.discogs.com/Xw_HMsIEfJcK20RO01OQahC8XeI=/fit-in/600x604/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-797831-1530458980-6378.jpeg.jpg" data-tags="indie" role="button">
 Athlete - Tourist (2005-08-15)
-</li>
-<li data-cover="https://img.discogs.com/Jexlw6JwRHADhwFcEzyMHfGdV6w=/fit-in/500x493/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-649320-1161031706.jpeg.jpg" data-tags="indie" role="button">
-Destroyer - Destroyer's Rubies (2006-02-21)
 </li>
 <li data-cover="http://coverartarchive.org/release/6e45a5ef-e2eb-4c4c-9c88-44cca007f224/26591053555-500.jpg" data-tags="indie rock" role="button">
 Anathallo - Floating World (2006-02-25)
@@ -147,6 +141,9 @@ The Mountain Goats - Heretic Pride (2008-02-17)
 <li data-cover="http://coverartarchive.org/release/56b5fa9e-a0e1-4ce3-b94e-c87b74a836c2/27639731930-500.jpg" data-tags="indie" role="button">
 The Hush Sound - Goodbye Blues (2008-03-18)
 </li>
+<li data-cover="https://img.discogs.com/uAc0YA3ccyjfyf6Hsr_5FG1N4EY=/fit-in/250x220/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3484272-1332193346.jpeg.jpg" data-tags="indie, folk, indie pop, singer-songwriter, chamber pop, team love, toad-tested mother-approved" role="button">
+Nik Freitas - Sun Down (2008-05-06)
+</li>
 <li data-cover="https://img.discogs.com/ge0kkIxE2Idf9oNN3pxcA8rxiuw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6539742-1421569801-4407.jpeg.jpg" data-tags="pop, indie pop" role="button">
 Marina & the Diamonds - The Family Jewels (2009)
 </li>
@@ -162,11 +159,8 @@ Camera Obscura - My Maudlin Career (2009-04-20)
 <li data-cover="http://coverartarchive.org/release/5d7797f1-7efc-350e-8d1f-71c5229502e0/2276646471-500.jpg" data-tags="indie rock" role="button">
 Grizzly Bear - Veckatimest (2009-05-22)
 </li>
-<li data-cover="http://coverartarchive.org/release/8de3f2da-225f-49de-bb40-7a58e3bb0518/3715735677-500.jpg" data-tags="pop, piano, anti-folk, indie, alternative, indie pop, indie rock, 00s" role="button">
-Regina Spektor - Far (2009-06-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/efa93a5d-b718-4434-9486-0a33936e4247/15056259297-500.jpg" data-tags="indie" role="button">
-Dead Man's Bones - Dead Man's Bones (2009-10-02)
+<li data-cover="http://coverartarchive.org/release/93d98786-7964-4ac9-a178-edd587af3368/1331405134-500.jpg" data-tags="indie rock, chamber pop, indietronica" role="button">
+Sébastien Schuller - Evenfall (2009-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/3a042707-e728-427f-a043-decd9c2ff938/9809015312-500.jpg" data-tags="chamber pop" role="button">
 Owen Pallett - Heartland (2010-01-11)
@@ -204,11 +198,17 @@ The Antlers - Burst Apart (2011-05-10)
 <li data-cover="https://img.discogs.com/Ceuamf6hVxQfVR0XWGp18Hckcls=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2916395-1455291507-5311.jpeg.jpg" data-tags="post-rock, chamber, chamber pop, modern classical, neoclassical, art pop" role="button">
 Esmerine - La Lechuza (2011-06-07)
 </li>
+<li data-cover="http://coverartarchive.org/release/32d69bdd-ff69-4d55-b004-2d556e2a1138/1260171701-500.jpg" data-tags="indie, indie pop, chamber pop, baroque pop, russian, balkan brass, europe, 10s, european, russia, experimental indie, art pop, russian underground, balkan sound, snegiri, former soviet union, post soviet union" role="button">
+The Retuses - Waltz Baltika! (2011-06-14)
+</li>
 <li data-cover="http://coverartarchive.org/release/6685b742-d51c-44e8-aaf9-795f82968949/24693850094-500.jpg" data-tags="indie rock, psychedelic rock" role="button">
 Portugal. The Man - In the Mountain in the Cloud (2011-07-11)
 </li>
 <li data-cover="http://coverartarchive.org/release/c4cd4554-e6c2-4474-9e03-305b586007a1/17890002299-500.jpg" data-tags="indie, female vocalists" role="button">
 Florence + the Machine - Ceremonials (2011-10-28)
+</li>
+<li data-cover="https://img.discogs.com/8iYnPHnoa47jV4sVVIUYndkb7LY=/fit-in/358x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-394235-1303406668.jpeg.jpg" data-tags="electronic, indie, chamber pop, goldfrapp, art pop" role="button">
+Goldfrapp - Melancholy Sky (2012-01-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/22ace75c-a4a9-4893-bacc-082731288175/4110540965-500.jpg" data-tags="neo-psychedelia" role="button">
 of Montreal - Paralytic Stalks (2012-02-07)
@@ -228,14 +228,14 @@ Revolver - Let Go (2012-03-12)
 <li data-cover="http://coverartarchive.org/release/80d6bd71-6b59-42c5-b8cd-c1c02c763558/2788223281-500.jpg" data-tags="indie, experimental" role="button">
 Kishi Bashi - 151a (2012-04-10)
 </li>
-<li data-cover="http://coverartarchive.org/release/5f6b55a2-bb35-424f-8eb9-47307c4b5768/3469428927-500.jpg" data-tags="alternative" role="button">
-Regina Spektor - What We Saw From The Cheap Seats (2012-05-29)
-</li>
 <li data-cover="http://coverartarchive.org/release/138edfef-da8d-4992-a93b-d41ac314e93c/7732754501-500.jpg" data-tags="dream pop, alternative" role="button">
 Bat for Lashes - The Haunted Man (2012-10-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/7dfd5c40-ee28-4fda-8369-fe3748f75930/3612285293-500.jpg" data-tags="soul, sophisti-pop" role="button">
 Rhye - Woman (2013-01)
+</li>
+<li data-cover="https://img.discogs.com/OFcrrfdWZsPVxszIoFdiiy58ayI=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4202479-1493604193-8446.jpeg.jpg" data-tags="ballads, christopher owens" role="button">
+Christopher Owens - Lysandre (2013-01-14)
 </li>
 <li data-cover="http://coverartarchive.org/release/32d91075-4857-4d10-9c39-f8531caeaa2b/2962749999-500.jpg" data-tags="2010s, art rock" role="button">
 Nick Cave & The Bad Seeds - Push the Sky Away (2013-02-15)

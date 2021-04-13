@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T16:37:01.488Z
+date: 2021-04-13T00:58:01.482Z
 title: "chillwave: 100 albums you must listen to before you die"
 ---
 ![Washed Out - Life of Leisure (2009-09-15)](http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg "Washed Out - Life of Leisure (2009-09-15)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/20fc2ec8-d864-3001-8cc2-e9ed4fac11fa/12748515762-500.jpg" data-tags="chillwave" role="button">Washed Out - Life of Leisure (2009-09-15)</li>
 <li data-cover="http://coverartarchive.org/release/a475ed3c-a989-49de-92ec-4e7c1f2fed68/7868018573-500.jpg" data-tags="chillwave" role="button">Toro y Moi - Causers of This (2010-01-04)</li>
+<li data-cover="http://coverartarchive.org/release/5ddd6650-d435-447d-8679-98a63ddaf637/3944000674-500.jpg" data-tags="electronic, downtempo, idm" role="button">Baths - Cerulean (2010-06-22)</li>
 <li data-cover="http://coverartarchive.org/release/03b381ba-f859-3da0-873c-e359c56f25dd/12929911749-500.jpg" data-tags="indie pop, psychedelic" role="button">Toro y Moi - Underneath the Pine (2011-02-21)</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">Panda Bear - Tomboy (2011-04-12)</li>
 <li data-cover="http://coverartarchive.org/release/9e944b69-8e75-47f7-8d85-1a2584bf3f7c/25694000082-500.jpg" data-tags="chillwave" role="button">Washed Out - Within and Without (2011-07-06)</li>
 <li data-cover="http://coverartarchive.org/release/3148628c-f648-45c0-95ea-b03dc0716e99/1568868601-500.jpg" data-tags="synthpop" role="button">Purity Ring - Shrines (2012-07-23)</li>
 <li data-cover="http://coverartarchive.org/release/8e099cef-e88d-4468-8d66-253d405d6edc/2340969553-500.jpg" data-tags="chillout" role="button">Odesza - Summer's Gone (2012-09-06)</li>
@@ -125,9 +125,6 @@ Work Drugs - Summer Blood (2011-04-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/e7fed4ef-d2e3-4ba8-9894-785827bbb85c/1379568108-500.jpg" data-tags="indie pop, chillwave" role="button">
 Work Drugs - Tropic of Capricorn (2011-04-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/8d5b56e7-7412-4724-9407-039e64ecd014/13800964524-500.jpg" data-tags="indie, experimental, experimental rock, paw tracks" role="button">
-Panda Bear - Tomboy (2011-04-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/0dba6f29-903d-4830-a1b9-850cb3e102c9/22081460755-500.jpg" data-tags="electronic, chillwave, witch house, alternative electronic, newbreed, witchpop, post-futurepop" role="button">
 Purity Ring - Ungirthed (2011-04-12)
@@ -278,6 +275,9 @@ Pure Bathing Culture - Moon Tides (2013-08-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/692e27b8-1ca3-4c67-9408-de01e42bc905/5317359582-500.jpg" data-tags="electronica, chillwave, lefse records" role="button">
 Teen Daze - Glacier (2013-10-01)
+</li>
+<li data-cover="http://coverartarchive.org/release/2f0bf889-8444-4589-bfde-9c4f85632bcf/5822908550-500.jpg" data-tags="electronic, ambient, idm, chillwave, chillstep, glo-fi" role="button">
+WMD - Sophrosyne (2013-10-06)
 </li>
 <li data-cover="http://coverartarchive.org/release/c2f105a0-e10f-44c9-a9a3-3fbed3e04799/19122966964-500.jpg" data-tags="vaporwave, electronic, seapunk, vaportrap" role="button">
 Blank Banshee - BLANK BANSHEE 1 (2013-10-20)
