@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T23:08:01.467Z
+date: 2021-04-13T07:48:04.434Z
 title: "ska: 100 albums you must listen to before you die"
 ---
 ![No Doubt - Tragic Kingdom (1995-10-06)](https://img.discogs.com/LrG3rpBdOc_pruUIvVqpEl3tHi0=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-370484-1195840644.jpeg.jpg "No Doubt - Tragic Kingdom (1995-10-06)")

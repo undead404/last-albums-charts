@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T04:17:01.440Z
+date: 2021-04-13T07:47:03.810Z
 title: "post-grunge: 100 albums you must listen to before you die"
 ---
 ![Foo Fighters - Wasting Light (2011-04-08)](http://coverartarchive.org/release/e5d67b8a-1bfa-47dc-974a-122f49bae60b/1931398048-500.jpg "Foo Fighters - Wasting Light (2011-04-08)")
@@ -44,9 +44,6 @@ The Smashing Pumpkins - Mellon Collie and the Infinite Sadness (1995-10-23)
 </li>
 <li data-cover="http://coverartarchive.org/release/e6d8254a-d86e-4927-9cf3-1bd564c0a832/16379396858-500.jpg" data-tags="alternative, 90s, post-grunge" role="button">
 Dishwalla - Counting Blue Cars (1996-02-27)
-</li>
-<li data-cover="https://img.discogs.com/8nkM00XOwCfXgXcNbAIWfFLPDIU=/fit-in/599x503/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3798511-1349549053-9234.jpeg.jpg" data-tags="alternative rock, rock, alternative" role="button">
-Bloodhound Gang - One Fierce Beer Coaster (1996-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/26374035-ce6e-4eb9-a78e-69f313319f04/2192507364-500.jpg" data-tags="alternative rock, post-grunge" role="button">
 Nickelback - Curb (1996-09)
@@ -152,9 +149,6 @@ Trapt - Trapt (2002-11-05)
 </li>
 <li data-cover="http://coverartarchive.org/release/d2c4953c-08f2-49cb-9050-8f39b6f3803d/1018107254-500.jpg" data-tags="rock" role="button">
 3 Doors Down - Away from the Sun (2002-11-11)
-</li>
-<li data-cover="http://coverartarchive.org/release/6981ebee-21a4-3a08-8bcd-0cf650dfba12/28535485305-500.jpg" data-tags="rock, nu metal, hard rock" role="button">
-Saliva - Back Into Your System (2002-11-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/399047ca-8a49-3693-915d-4db57cce2bb7/5657777780-500.jpg" data-tags="rock, hard rock, alternative rock" role="button">
 Audioslave - Audioslave (2002-11-15)
@@ -303,6 +297,9 @@ Foo Fighters - Wasting Light (2011-04-08)
 <li data-cover="http://coverartarchive.org/release/b13dc962-c0f0-4fd7-a955-2ba57b65a4ac/1735549955-500.jpg" data-tags="post-grunge, alternative rock" role="button">
 Theory of a Deadman - The Truth Is... (2011-07-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/5a486f2e-0da2-48c1-b2db-8a1d8a2cf319/6596167514-500.jpg" data-tags="alternative rock, post-grunge" role="button">
+Switchfoot - Vice Verses (2011-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/0fc5b077-cb71-41f2-9237-406325f33252/15547414589-500.jpg" data-tags="hard rock, rock, alternative rock" role="button">
 Nickelback - Here And Now (2011-11-14)
 </li>
@@ -320,5 +317,8 @@ Seether - Isolate and Medicate (2014-06-27)
 </li>
 <li data-cover="http://coverartarchive.org/release/2e3dc19e-989c-48ab-9312-4ecb4d726aec/9201599493-500.jpg" data-tags="alternative rock, hard rock, post-grunge" role="button">
 Foo Fighters - Sonic Highways (2014-11-10)
+</li>
+<li data-cover="http://coverartarchive.org/release/0b305e17-ef28-4d27-ab51-34c935c9c99f/11491182643-500.jpg" data-tags="rock, hard rock, post-grunge" role="button">
+Nickelback - No Fixed Address (2014-11-14)
 </li>
 </ol>

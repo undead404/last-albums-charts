@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T20:01:06.959Z
+date: 2021-04-13T07:46:09.116Z
 title: "christian: 100 albums you must listen to before you die"
 ---
 ![Emery - The Question (2005-08-02)](http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg "Emery - The Question (2005-08-02)")
@@ -12,8 +12,8 @@ title: "christian: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/0158574e-e762-4a5f-a927-ad925172605d/17944620848-500.jpg" data-tags="alternative rock" role="button">Anberlin - Never Take Friendship Personal (2005-01-17)</li>
 <li data-cover="http://coverartarchive.org/release/ce40f247-a7aa-4784-b18d-35371df6e020/6596843046-500.jpg" data-tags="alternative rock, rock, alternative" role="button">Lifehouse - Lifehouse (2005-03-22)</li>
 <li data-cover="http://coverartarchive.org/release/a7337747-fa84-4d3f-aa12-e53ad43cf745/4889657836-500.jpg" data-tags="emo, christian, emocore, rock, post-hardcore" role="button">Emery - The Question (2005-08-02)</li>
-<li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
 <li data-cover="http://coverartarchive.org/release/cd858900-f750-4c61-a782-1603f6f5b472/15028383485-500.jpg" data-tags="christian rock, alternative rock" role="button">Skillet - Comatose (2006-10-03)</li>
+<li data-cover="http://coverartarchive.org/release/04a93f62-fd7f-4e5b-a0ce-7ca314b44874/4889479113-500.jpg" data-tags="rock, christian rock" role="button">Anberlin - Cities (2007-02-20)</li>
 </ol>
 List of 100 - under the cut.
 <!-- more -->
@@ -48,14 +48,14 @@ Michael W. Smith - Worship (2000-12-01)
 <li data-cover="https://img.discogs.com/n-Z-6D4PDBr4UKPSLmbsP1Uujdw=/fit-in/475x475/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2180119-1268334982.jpeg.jpg" data-tags="christian rock" role="button">
 Starfield - Starfield (2001)
 </li>
+<li data-cover="http://coverartarchive.org/release/b07e4560-2d81-3687-a904-0f4b93cc5188/20110692603-500.jpg" data-tags="modern worship" role="button">
+Rebecca St. James - worship GOD (2002-02-26)
+</li>
 <li data-cover="https://img.discogs.com/4iVcdo_rEcq6zrSE5BjHjlyH1qQ=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1593962-1586191495-6359.jpeg.jpg" data-tags="alternative rock, rock" role="button">
 12 Stones - 12 Stones (2002-04-23)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="christian rock, christian" role="button">
 Pillar - Fireproof (2002-05-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/002cb686-6c99-4c5a-bcd8-91d0d95d7c63/9311799375-500.jpg" data-tags="jeremy camp, christian rock" role="button">
-Jeremy Camp - Stay (2002-09-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/d637c414-07fb-3b98-9c57-caf4e9d70586/1547097863-500.jpg" data-tags="christian rock" role="button">
 Switchfoot - The Beautiful Letdown (2003-02-25)
@@ -68,6 +68,9 @@ Thousand Foot Krutch - Phenomenon (2003-09-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/5fa87c4d-8e2c-4a00-89ab-1ae980031264/9420368954-500.jpg" data-tags="christian" role="button">
 Casting Crowns - Casting Crowns (2003-09-30)
+</li>
+<li data-cover="http://coverartarchive.org/release/997cd7de-163d-4da3-8728-b1ec625e80a0/21974916247-500.jpg" data-tags="post-rock, christian" role="button">
+The Album Leaf - Seal Beach EP (2003-10-20)
 </li>
 <li data-cover="https://img.discogs.com/sGynbsmk6XE4XNtG3tLO-2jHWnc=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4079146-1465313674-6247.jpeg.jpg" data-tags="christian" role="button">
 DC Talk - 8 Great Hits (2003-11-03)
@@ -141,9 +144,6 @@ Starfield - Beauty In The Broken (2006)
 <li data-cover="http://coverartarchive.org/release/5a3210c8-5c3e-48c8-8e8b-4e91d9610256/2220936532-500.jpg" data-tags="christian rock" role="button">
 Kutless - Hearts of the Innocent (2006-03-21)
 </li>
-<li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">
-Mat Kearney - Nothing Left To Lose (2006-04-18)
-</li>
 <li data-cover="https://img.discogs.com/Xxy0yj6KswjbbC2jaOkO0VwFOns=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4133493-1356444424-8753.jpeg.jpg" data-tags="indie, rock, acoustic, christian, christian rock, songs i love, 2000s, available on emusic, 2006 albums, after z" role="button">
 Sleeping at Last - Keep No Score (2006-06-21)
 </li>
@@ -162,6 +162,9 @@ Jeremy Camp - Beyond Measure (2006-10-31)
 <li data-cover="http://coverartarchive.org/release/0dec8f6e-9826-4cb9-9c24-5e87645f810f/9989527145-500.jpg" data-tags="christian" role="button">
 Newsboys - Go (2006-10-31)
 </li>
+<li data-cover="http://coverartarchive.org/release/d4261665-9a94-4af4-af4a-c6c3ffc94d6f/4786458807-500.jpg" data-tags="ambient, christian, worship, praise & worship, amazing worship, the glorious unseen" role="button">
+The Glorious Unseen - Tonight The Stars Speak (2007)
+</li>
 <li data-cover="https://img.discogs.com/i_FP1qwi5QqE3znTGLOvOdB4_Gs=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5488807-1529752537-6386.jpeg.jpg" data-tags="pop, christian, 00s" role="button">
 Matthew West - Something To Say (2007-01-15)
 </li>
@@ -176,12 +179,6 @@ Seventh Day Slumber - Finally Awake (2007-03-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/1b67ab50-5a1f-4fbf-97bf-08a0147b465f/26758185520-500.jpg" data-tags="hardcore" role="button">
 Maylene and the Sons of Disaster - II (2007-03-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/f1f6c952-8761-497d-9d25-4ee399198093/4889467365-500.jpg" data-tags="rock, alternative rock, post-hardcore, alternative" role="button">
-The Almost - Southern Weather (2007-03-30)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8403ef9-d956-48f3-8617-8c6ba5070ccd/18892961265-500.jpg" data-tags="emocore, post-hardcore, metalcore" role="button">
-blessthefall - His Last Walk (2007-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/215df49a-3a03-4b20-8ecd-f482e238acf6/9243496569-500.jpg" data-tags="christian" role="button">
 Hillsong United - All Of The Above (2007-04-30)
@@ -240,11 +237,11 @@ Josh Garrels - Jacaranda (2008-09-23)
 <li data-cover="http://coverartarchive.org/release/a1fee564-6b40-4e99-a79c-be1ef8780cae/4786588304-500.jpg" data-tags="christian, my fav" role="button">
 Jeremy Camp - Speaking Louder Than Before (2008-11-25)
 </li>
-<li data-cover="https://via.placeholder.com/450" data-tags="the civil wars" role="button">
-The Civil Wars - Live at Eddie's Attic (2009)
-</li>
 <li data-cover="https://img.discogs.com/XZFcpSk42RLr89-Xk3DjYAmsJYQ=/fit-in/170x170/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8033187-1453843225-2147.jpeg.jpg" data-tags="christian" role="button">
 The Honey Trees - Wake the Earth (2009-02-17)
+</li>
+<li data-cover="http://coverartarchive.org/release/458945e2-465f-481e-8ba3-4f909b4efb9d/24236494761-500.jpg" data-tags="rock, alternative, christian, christian rock, worship, cross2life, praise and worship, discoverockult" role="button">
+Seventh Day Slumber - Take Everything (2009-03-10)
 </li>
 <li data-cover="https://img.discogs.com/WpcLlPnfaVQmpGjEeIBvw92-Du8=/fit-in/320x320/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4198889-1358372989-7472.jpeg.jpg" data-tags="fusion, modern rock" role="button">
 Mat Kearney - City Of Black & White (2009-05-19)
@@ -317,6 +314,9 @@ Chris Tomlin - Burning Lights (2013-01-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/ba4912d1-89f5-44bb-96c7-541814c79641/3429573413-500.jpg" data-tags="rock, christian, contemporary christian" role="button">
 Hillsong United - Zion (2013-02-26)
+</li>
+<li data-cover="https://img.discogs.com/4AmCBsxV3yLgQZZ532MaLaPnjbo=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5428123-1393264696-7276.jpeg.jpg" data-tags="rock, alternative rock, christian rock" role="button">
+Skillet - Rise (2013-06-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/baa88735-3574-4aba-ac32-d29b406bb68c/8283236994-500.jpg" data-tags="hip hop, christian, holy hip hop, lacrae" role="button">
 Lecrae - Anomaly (2014-09-09)

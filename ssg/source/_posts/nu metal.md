@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T05:06:01.461Z
+date: 2021-04-13T07:52:02.284Z
 title: "nu metal: 100 albums you must listen to before you die"
 ---
 ![System of a Down - Toxicity (2001-08-27)](https://img.discogs.com/wDqouRfTvtK73XbcgvRX1TT0jj0=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1583225-1230327195.jpeg.jpg "System of a Down - Toxicity (2001-08-27)")
@@ -195,11 +195,11 @@ Godsmack - Faceless (2003-04-08)
 <li data-cover="http://coverartarchive.org/release/ab6d3199-90d7-34de-8008-c6f072a5d43a/4766302340-500.jpg" data-tags="alternative metal" role="button">
 Deftones - Deftones (2003-05-19)
 </li>
+<li data-cover="https://img.discogs.com/kF9iKRsz7Si3aPgDV2T74KAXepE=/fit-in/450x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961563-1255210779.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
+Metallica - St. Anger (2003-06-05)
+</li>
 <li data-cover="https://img.discogs.com/Or2_qLd29JC7Tk2mfFQ6lxxTIjE=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2046370-1398872842-3751.jpeg.jpg" data-tags="nu metal" role="button">
 Adema - Unstable (2003-06-11)
-</li>
-<li data-cover="https://img.discogs.com/kF9iKRsz7Si3aPgDV2T74KAXepE=/fit-in/450x398/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1961563-1255210779.jpeg.jpg" data-tags="heavy metal, metal, thrash metal" role="button">
-Metallica - St. Anger (2003-06-23)
 </li>
 <li data-cover="https://img.discogs.com/61pR2y8_a7JYJnm2AAtaPpZNeFY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2805110-1501822761-5526.jpeg.jpg" data-tags="industrial metal, nu metal" role="button">
 Spineshank - Self-Destructive Pattern (2003-07-30)

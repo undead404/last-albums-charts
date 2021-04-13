@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:39:01.472Z
+date: 2021-04-13T07:50:07.241Z
 title: "easy listening: 100 albums you must listen to before you die"
 ---
 ![Bastille - Bad Blood (2013-03-04)](http://coverartarchive.org/release/99d80ba7-516e-4058-8c01-ab04e4ccca4b/11232970334-500.jpg "Bastille - Bad Blood (2013-03-04)")
@@ -33,6 +33,9 @@ Dean Martin - This Is Dean Martin (1958)
 <li data-cover="http://coverartarchive.org/release/50b212ff-cea7-379d-8bb4-340b985e1dd4/3204990971-500.jpg" data-tags="soundtrack" role="button">
 Henry Mancini - Breakfast At Tiffany's (1961)
 </li>
+<li data-cover="https://img.discogs.com/bMvJmpLTFAYXWeYBGPfDNvFUNQ4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3420885-1330120174.jpeg.jpg" data-tags="jazz, sinatra" role="button">
+Frank Sinatra - Classic Sinatra (1964)
+</li>
 <li data-cover="http://coverartarchive.org/release/b8d67da0-99a2-4a87-b306-b540a8bea87f/6121797141-500.jpg" data-tags="jazz, 60s, easy listening, blues, lounge, swing, classic pop, the lizards lounge" role="button">
 Frank Sinatra - The World We Knew (1967)
 </li>
@@ -53,9 +56,6 @@ Bob Dylan - Pat Garrett & Billy the Kid (1973-07-13)
 </li>
 <li data-cover="https://img.discogs.com/s3x16GsK41wxy2uK0LrVoeA7-ok=/fit-in/600x596/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6872316-1488770804-6852.jpeg.jpg" data-tags="jazz, easy listening, blues, lounge, swing" role="button">
 Frank Sinatra - Ol' Blue Eyes Is Back (1973-10)
-</li>
-<li data-cover="http://coverartarchive.org/release/297b5fd9-654c-3eb7-a41e-40fc4ae011c7/9800946084-500.jpg" data-tags="jazz, 70s, easy listening" role="button">
-Barbra Streisand - The Way We Were (1974-01)
 </li>
 <li data-cover="http://coverartarchive.org/release/72746f33-d114-403c-b023-8c19cc57fd21/6506893297-500.jpg" data-tags="easy listening, lounge" role="button">
 Cortex - Troupeau Bleu (1975)
@@ -87,6 +87,9 @@ Lionel Richie - Lionel Richie (1982-10-06)
 <li data-cover="http://coverartarchive.org/release/c9242cf6-f630-4389-b2ba-41702f91b247/1742336973-500.jpg" data-tags="pop, 70s, easy listening, carpenters" role="button">
 Carpenters - Yesterday Once More (1984)
 </li>
+<li data-cover="https://img.discogs.com/gUa8x32XU2iO6Lq6_bx18W6PuWw=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-585309-1143485487.jpeg.jpg" data-tags="80s" role="button">
+Lionel Richie - Dancing On The Ceiling (1985)
+</li>
 <li data-cover="http://coverartarchive.org/release/aa4d9b84-11d2-4222-ba57-0c3819e69939/10799475070-500.jpg" data-tags="johnny mathis" role="button">
 Johnny Mathis - 16 Most Requested Songs (1986)
 </li>
@@ -104,6 +107,9 @@ Bobby Vinton - 16 Most Requested Songs (1991)
 </li>
 <li data-cover="https://img.discogs.com/0NOMf8Yk7O_Djhb8UPJDdvuWEOc=/fit-in/600x540/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12255979-1531540052-2119.jpeg.jpg" data-tags="roxette, 90s, pop" role="button">
 Roxette - Joyride (1991-03-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/81ddd377-b179-4f62-a936-46f097c2f858/7157126420-500.jpg" data-tags="rock, 90s, michael bolton" role="button">
+Michael Bolton - Time, Love & Tenderness (1991-04-23)
 </li>
 <li data-cover="https://img.discogs.com/JEo27I4qzK8fP4zUMJyTLThMgP0=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-10499850-1498716632-5807.jpeg.jpg" data-tags="singer-songwriter, easy listening" role="button">
 José Feliciano - Light My Fire (1992)
@@ -126,9 +132,6 @@ Blessid Union Of Souls - Home (1995-03-21)
 <li data-cover="https://img.discogs.com/pLie3htpn87mtaaQxZ1fDtbRVEE=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1079057-1375995060-1635.jpeg.jpg" data-tags="soul" role="button">
 The Stylistics - The Best Of The Stylistics (1996)
 </li>
-<li data-cover="https://img.discogs.com/BtszspByQCZTXl0NJT69C_iwdr0=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1916821-1252274130.jpeg.jpg" data-tags="celine dion, pop" role="button">
-Céline Dion - Falling Into You (1996-03-07)
-</li>
 <li data-cover="https://img.discogs.com/sbC6XBuFAgRt_aD43Gz4e7KZupU=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-477536-1541093874-5681.jpeg.jpg" data-tags="jazz, oldies" role="button">
 Ella Fitzgerald - Ella & Friends (1996-06-04)
 </li>
@@ -137,9 +140,6 @@ OMC - How Bizarre (1996-10-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/1c8e7898-ea4e-42e8-bba6-6decf4813f94/9535744051-500.jpg" data-tags="pop, 80s, easy listening" role="button">
 Eric Carmen - The Definitive Collection (1997)
-</li>
-<li data-cover="http://coverartarchive.org/release/9d4e7cd3-2126-47b0-a0c3-7ff93570c418/27073926441-500.jpg" data-tags="instrumental, folk, experimental, indie rock, post-rock, easy listening, psychedelic, 90s, morning, freak folk, alt folk, eclectic, soundscapes, chicago, sweet, you are welcome in poland, american primitive, almost unclassifiable, avant-folk, experimental folk, american primitivism, finger picking, mellow indie, introvert and mellow, przyjemny, roch in my head, popluhv vinyl, guitar noodling" role="button">
-Jim O'Rourke - Bad Timing (1997-08-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/ac08220a-ca91-3c93-b31b-b231270773af/11622727078-500.jpg" data-tags="lounge, electronic, post-rock" role="button">
 Stereolab - Dots and Loops (1997-09-22)
@@ -165,6 +165,12 @@ Michelle Branch - Broken Bracelet (2000-06-01)
 <li data-cover="http://coverartarchive.org/release/cb385717-9392-414f-b271-534663cad5b1/5258564363-500.jpg" data-tags="trip-hop, electronic, downtempo" role="button">
 Morcheeba - Fragments of Freedom (2000-07-10)
 </li>
+<li data-cover="https://via.placeholder.com/450" data-tags="easy listening, michael bolton, michael bolton albums, imichael  bolton" role="button">
+Michael Bolton - Love Songs (2001-02-06)
+</li>
+<li data-cover="https://img.discogs.com/XFqlfXwA0Ob9q2OouqHdgX05T6k=/fit-in/600x956/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9022708-1570782260-3726.jpeg.jpg" data-tags="pop, 70s, usa, easy listening, female vocalist, 00s, 70's, pop duo, wonderful women, captain and tennille, pop-rock-n-soul" role="button">
+Captain & Tennille - Ultimate Collection: The Complete Hits (2001-05-22)
+</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="female vocalists" role="button">
 Barbra Streisand - The Essential Barbra Streisand (2002-01-29)
 </li>
@@ -176,9 +182,6 @@ Lighthouse Family - Greatest Hits (2002-11-18)
 </li>
 <li data-cover="http://coverartarchive.org/release/9497ae6f-ecbe-4be5-b4af-53dd14c1ada2/8255969636-500.jpg" data-tags="easy listening" role="button">
 Lighthouse Family - The Very Best of Lighthouse Family (2002-11-18)
-</li>
-<li data-cover="http://coverartarchive.org/release/e02c6bee-5999-3aae-b91d-c4a514653e05/25917116060-500.jpg" data-tags="easy listening" role="button">
-Barbra Streisand - Duets (2002-11-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/cad9b13c-387b-4ec8-a974-c391b3fff935/3847437318-500.jpg" data-tags="jazz, swing" role="button">
 Michael Bublé - Michael Bublé (2003-02-11)
@@ -204,9 +207,6 @@ Chris Botti - When I Fall In Love (2004-09-28)
 <li data-cover="http://coverartarchive.org/release/a9112065-0580-478f-a33e-40f737314438/15616389584-500.jpg" data-tags="70s, easy listening, funk" role="button">
 Kool & The Gang - Gold (2005)
 </li>
-<li data-cover="http://coverartarchive.org/release/a0330032-fd3f-3acc-940b-00744605bc7c/7715501840-500.jpg" data-tags="indie" role="button">
-Adam Green - Gemstones (2005-01-10)
-</li>
 <li data-cover="http://coverartarchive.org/release/cb15f5d0-1e03-48bb-b098-06f87e61494d/14300052856-500.jpg" data-tags="jazz" role="button">
 Michael Bublé - It's Time (2005-02-08)
 </li>
@@ -225,11 +225,14 @@ Au Revoir Simone - Verses of Comfort, Assurance and Salvation (2005-10-31)
 <li data-cover="http://coverartarchive.org/release/3131bf6e-2f1b-45ae-965a-e8aa686cd82a/14833615862-500.jpg" data-tags="downtempo, easy listening, trip hop, folk-jazz, loved track, listen on repeat, live with me, muzica mea" role="button">
 Massive Attack - Live With Me (2006-02)
 </li>
+<li data-cover="http://coverartarchive.org/release/171b8f80-d9c7-3946-832d-381ee4e76e18/14994320946-500.jpg" data-tags="hard rock" role="button">
+Danko Jones - Sleep Is the Enemy (2006-02-17)
+</li>
 <li data-cover="https://img.discogs.com/K8wuXm7t8XdYis3Gq-03yQBwGAs=/fit-in/225x225/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-721994-1151857747.jpeg.jpg" data-tags="female vocalists" role="button">
 Kate Havnevik - Melankton (2006-04-02)
 </li>
-<li data-cover="http://coverartarchive.org/release/c10d1d4e-b5fd-421f-b3d7-425bce705b49/11124033595-500.jpg" data-tags="ambient, easy listening, new age, mellow, psychill, relaxing, goa, u2, magic male voice, newage, progressive psytrance, magic female voice, new age and ambient, new age rythm, nice new age, rich new age and chill, torquemada, -new-age-and-ambient-, -favorites-, new age influences, new age aesthetics, new age favorites, collective sonance, new age collection, ethereal new age, chill new age, new age electronic, getmegetme, genre: new age, etheogenic, 15oooo, new age ambiant, 9p" role="button">
-Entheogenic - Golden Cap (2006-06-05)
+<li data-cover="http://coverartarchive.org/release/2608235d-85a1-4361-8d15-14569ad61b9a/7227622788-500.jpg" data-tags="house" role="button">
+Bob Sinclar - Western Dream (2006-04-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/224b7c46-c51a-4bf1-9db6-b833a707665d/8608625865-500.jpg" data-tags="female vocalists" role="button">
 Kaki King - ...Until We Felt Red (2006-08-08)
@@ -252,20 +255,17 @@ Michael Bublé - Call Me Irresponsible (2007-04-27)
 <li data-cover="https://via.placeholder.com/450" data-tags="chillout, easy listening, soft rock, keller like" role="button">
 Barefoot Truth - Walk Softly (2007-09-21)
 </li>
+<li data-cover="https://img.discogs.com/cfc9e7fd50d7c9c08931869b95f6849a01d0635d/images/spacer.gif" data-tags="easy listening, new age, new age piano" role="button">
+David Lanz - Painting The Sun (2008)
+</li>
 <li data-cover="http://coverartarchive.org/release/b7bfc318-2b99-40f0-9052-58fc57c2417e/10298830949-500.jpg" data-tags="dub" role="button">
 Ott - Skylon (2008-01-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/fb6113e8-a324-455c-b428-f5ed5bb5544a/13180765072-500.jpg" data-tags="never forget" role="button">
 The Morning Benders - Talking Through Tin Cans (2008-05-06)
 </li>
-<li data-cover="http://coverartarchive.org/release/84ebfb84-ef67-429a-abcf-ed356cf1f9bb/17209999101-500.jpg" data-tags="female vocalists, jem" role="button">
-Jem - Down to Earth (2008-09-16)
-</li>
 <li data-cover="http://coverartarchive.org/release/82cbe67a-c4db-4f5b-834a-9224e2ced208/9461785430-500.jpg" data-tags="pop, female vocalists, rock, 90s, 00s" role="button">
 Annie Lennox - The Annie Lennox Collection (2009-02-17)
-</li>
-<li data-cover="http://coverartarchive.org/release/07805f0f-4e6d-329a-8fd5-aba6d3308356/9467972052-500.jpg" data-tags="jazz, female vocalists" role="button">
-Diana Krall - Quiet Nights (2009-03-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/dfe8ba20-6a93-494f-a115-f1d4f950c56f/10161907343-500.jpg" data-tags="usa, easy listening, male vocalist, 00s, purchased 09, grammy nominated, jazzy standard" role="button">
 Willie Nelson - American Classic (2009-08-24)

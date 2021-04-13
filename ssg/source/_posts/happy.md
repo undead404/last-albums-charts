@@ -1,13 +1,13 @@
 ---
-date: 2021-04-12T20:05:01.515Z
+date: 2021-04-13T07:49:10.078Z
 title: "happy: 100 albums you must listen to before you die"
 ---
 ![Passion Pit - Manners (2009-05-19)](http://coverartarchive.org/release/830e2a21-1e76-40ad-a4a5-9a1b12d656ff/11102770324-500.jpg "Passion Pit - Manners (2009-05-19)")
 <ol class="albums">
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">John Mayer - Heavier Things (2003-09-09)</li>
+<li data-cover="https://img.discogs.com/SIEPK12-sJoyarzaCcPXxxjKyAQ=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-12870299-1543555386-7478.jpeg.jpg" data-tags="indie pop, indie" role="button">of Montreal - Satanic Panic in the Attic (2004-03-24)</li>
 <li data-cover="https://img.discogs.com/Gl0JdmtBh4Bu5ENhknStJ6146Ig=/fit-in/600x645/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8577781-1464404138-7605.jpeg.jpg" data-tags="indie, indie rock" role="button">The Go! Team - Thunder, Lightning, Strike (2004-09-13)</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">Architecture in Helsinki - In Case We Die (2005-04-04)</li>
-<li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">Mat Kearney - Nothing Left To Lose (2006-04-18)</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">The Format - Dog Problems (2006-05-18)</li>
 <li data-cover="http://coverartarchive.org/release/7775091e-b300-4dce-849e-93dbaa96eab5/7457813154-500.jpg" data-tags="pop" role="button">Lily Allen - Alright, Still (2006-07-17)</li>
 <li data-cover="http://coverartarchive.org/release/bee6b37a-b48e-4743-b253-77ace8c62f1d/2266503775-500.jpg" data-tags="electronic" role="button">Cut Copy - In Ghost Colours (2008-03-22)</li>
@@ -26,6 +26,12 @@ The Allman Brothers Band - At Fillmore East (1971)
 </li>
 <li data-cover="http://coverartarchive.org/release/6671f035-bb7f-48f3-98a3-99ca33202c67/14753977630-500.jpg" data-tags="80s, happy, 1981 albums, flashback alternatives, gespannt" role="button">
 Billy Idol - Don't Stop (1981)
+</li>
+<li data-cover="https://via.placeholder.com/450" data-tags="dub" role="button">
+Scientist - Scientist Rids the World of the Evil Curse of the Vampires (1981)
+</li>
+<li data-cover="https://img.discogs.com/3yJqwfw2QFLg3EBfqQE9ol2ovCA=/fit-in/214x215/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4046103-1353433062-3667.jpeg.jpg" data-tags="happy, week end party, c berry" role="button">
+Chuck Berry - 23 Original Rock 'n' Roll Hits (1982)
 </li>
 <li data-cover="https://img.discogs.com/8d8f8f69c0b35de09d8b8b063a3d2cd54dd9e234/images/spacer.gif" data-tags="happy, being a kid, p sisters" role="button">
 The Pointer Sisters - Fire! The Very Best of The Pointer Sisters (1982-09-07)
@@ -51,11 +57,14 @@ Rick Astley - Hold Me In Your Arms (1989-01-30)
 <li data-cover="http://coverartarchive.org/release/22f6cbf4-bc17-4e61-bee9-77f86134426c/8972699010-500.jpg" data-tags="alternative" role="button">
 They Might Be Giants - Flood (1990-01-05)
 </li>
+<li data-cover="https://img.discogs.com/zO2bU5dKt1CASfyXOhFQumNplNw=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1216633-1332681920.jpeg.jpg" data-tags="indie pop, twee, twee pop, happy, indiepop, jangle pop, 90s, noise pop, punk rock, pop punk, lo fi, shambolic, fuzz pop, food and drink, hotel indie pop" role="button">
+Strawberry Story - Clamming for It (1993-05-28)
+</li>
+<li data-cover="http://coverartarchive.org/release/89e9dafd-5507-3be6-83c1-77529a0f33df/10105632952-500.jpg" data-tags="funny" role="button">
+Moxy Früvous - Bargainville (1993-07-20)
+</li>
 <li data-cover="https://img.discogs.com/LDoJ4fXQzmCA4wn5n-IRtTjqeP4=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3481-1568187492-9559.jpeg.jpg" data-tags="chillout, downtempo" role="button">
 Kruder & Dorfmeister - G-Stoned (1993-09-02)
-</li>
-<li data-cover="https://img.discogs.com/R_DBxpkzS4iv3i4HrTVINHBXVlQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1637459-1233745460.jpeg.jpg" data-tags="power pop, 90s" role="button">
-Teenage Fanclub - Grand Prix (1995-05-29)
 </li>
 <li data-cover="http://coverartarchive.org/release/d6b43dea-a490-45ef-a2df-c4baf53324e2/7927182820-500.jpg" data-tags="indie" role="button">
 The Mountain Goats - Full Force Galesburg (1997-06)
@@ -99,6 +108,9 @@ Baha Men - Who Let the Dogs Out (2000-10-02)
 <li data-cover="https://img.discogs.com/9APtNKpXs3mJWflAiQeZbJJSmyI=/fit-in/600x687/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7232808-1450003956-2682.jpeg.jpg" data-tags="pop" role="button">
 *NSYNC - Celebrity (2001-07-23)
 </li>
+<li data-cover="http://coverartarchive.org/release/4091a143-94b9-4abb-b5d0-2b53c78c39c8/17218388100-500.jpg" data-tags="latina blandita" role="button">
+Fonseca - Fonseca (2002)
+</li>
 <li data-cover="http://coverartarchive.org/release/859e1b39-674b-4aa6-afd0-35af150ff649/15701501195-500.jpg" data-tags="house" role="button">
 David Guetta - Just A Little More Love (2002-06-10)
 </li>
@@ -117,6 +129,9 @@ Newsboys - Adoration: The Worship Album (2003-03-27)
 <li data-cover="http://coverartarchive.org/release/8a269305-3699-4bfb-8889-1482b99b9d50/10665995130-500.jpg" data-tags="indie rock, indie, indie pop, canadian, 00s" role="button">
 The New Pornographers - Electric Version (2003-04-25)
 </li>
+<li data-cover="https://img.discogs.com/5jlAtdvDIBkpIBvzrc4htficHAY=/fit-in/600x535/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-237370-1217246136.jpeg.jpg" data-tags="electronic, japanese" role="button">
+Piana - Snow Bird (2003-06)
+</li>
 <li data-cover="http://coverartarchive.org/release/805fd4fa-e683-4017-9957-3807bf858cf1/25115408265-500.jpg" data-tags="pop" role="button">
 Jewel - 0304 (2003-06-03)
 </li>
@@ -129,14 +144,8 @@ Keller Williams - Home (2003-08-26)
 <li data-cover="http://coverartarchive.org/release/de5686c7-a301-476e-b4df-61f67f83824b/6621900880-500.jpg" data-tags="john mayer, rock" role="button">
 John Mayer - Heavier Things (2003-09-09)
 </li>
-<li data-cover="http://coverartarchive.org/release/91cc9b5b-9792-4857-ae05-f85ca157127b/16222036992-500.jpg" data-tags="indie, indie pop" role="button">
-Mates of State - Team Boo (2003-09-13)
-</li>
 <li data-cover="https://img.discogs.com/6GJfVqXu_BJ_fRyCbg5ue7oXqlI=/fit-in/208x208/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4383615-1363448225-9578.jpeg.jpg" data-tags="indie, swedish, indie rock" role="button">
 Shout Out Louds - Howl Howl Gaff Gaff (2003-10-01)
-</li>
-<li data-cover="http://coverartarchive.org/release/6a889f3c-6f95-4b92-b66f-7123efb488d8/15746591212-500.jpg" data-tags="female, pop, happy, cute, j-pop, last fm mistake, space age, cymbals, j-pop female, rikunavi" role="button">
-Cymbals - Anthology (2003-12-25)
 </li>
 <li data-cover="http://coverartarchive.org/release/490c329a-7ce9-4eb0-9b00-52175419d031/14684164202-500.jpg" data-tags="soundtrack, shrek" role="button">
 Counting Crows - Accidentally In Love (2004-01-01)
@@ -152,9 +161,6 @@ of Montreal - Satanic Panic in the Attic (2004-03-24)
 </li>
 <li data-cover="http://coverartarchive.org/release/3dd9d35e-294e-4e22-9423-d95edcab15ac/4400833302-500.jpg" data-tags="electronic" role="button">
 C-Mon & Kypski - Static Traveller (2004-04-27)
-</li>
-<li data-cover="http://coverartarchive.org/release/250bd2dc-a9e8-4c50-9b3d-7863a0efc6d2/3457679280-500.jpg" data-tags="indie" role="button">
-The Weepies - Happiness (2004-06-08)
 </li>
 <li data-cover="http://coverartarchive.org/release/08a68719-7c21-41ac-99f7-baca6a60f8dc/26265322098-500.jpg" data-tags="chillout, faithless" role="button">
 Faithless - Everything Will Be Alright Tomorrow (2004-08-30)
@@ -177,9 +183,6 @@ The Boy Least Likely To - The Best Party Ever (2005-02-14)
 <li data-cover="https://img.discogs.com/YmncxciICIl1LAGMyoXlj5nfPvE=/fit-in/600x582/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2568176-1290873847.jpeg.jpg" data-tags="indie, british, happy" role="button">
 The Futureheads - Hounds of Love (2005-02-21)
 </li>
-<li data-cover="http://coverartarchive.org/release/c258da99-ac2f-479c-95e7-21d9724fc225/11205419977-500.jpg" data-tags="indie, pop, folk" role="button">
-Aqualung - Strange and Beautiful (2005-03-22)
-</li>
 <li data-cover="https://img.discogs.com/dvj5OpSy9aqWBgTg6DzCum06chU=/fit-in/280x243/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-747219-1242292656.jpeg.jpg" data-tags="indie pop" role="button">
 Architecture in Helsinki - In Case We Die (2005-04-04)
 </li>
@@ -188,9 +191,6 @@ Belle and Sebastian - Push Barman to Open Old Wounds (2005-05-23)
 </li>
 <li data-cover="https://img.discogs.com/YtrSaPszyrFXACFtOQboWrZfrNU=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-893597-1170067201.jpeg.jpg" data-tags="ska, alternative, australian" role="button">
 The Cat Empire - Two Shoes (2005-09)
-</li>
-<li data-cover="http://coverartarchive.org/release/76409081-4134-4264-9c44-43712f552cd7/21434002898-500.jpg" data-tags="happy, cute, acoustic, laid back, jack johnson, beachy, i can play this song" role="button">
-Jack Johnson - Upside Down (2006-02-24)
 </li>
 <li data-cover="https://via.placeholder.com/450" data-tags="pop, a night out on the town, female popsingers, chill - girly" role="button">
 Marie Serneholt - Enjoy the Ride (2006-03-29)
@@ -204,12 +204,6 @@ Bob Sinclar - Western Dream (2006-04-10)
 <li data-cover="https://img.discogs.com/Cr51MwOudaSojupQ5v1KBoHYtFE=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1655801-1448876667-9552.jpeg.jpg" data-tags="alternative rock, stoner rock, rock, garage rock" role="button">
 Eagles of Death Metal - Death By Sexy (2006-04-11)
 </li>
-<li data-cover="http://coverartarchive.org/release/3c0cfb43-59f6-4a88-a127-31c58e743a7d/18801988457-500.jpg" data-tags="indie, pop, alternative, experimental, happy, canadian, melodic, fun, eclectic, montreal, artsy, 00s, uptempo, super nice, unusual instrumentation, unconventional song structure" role="button">
-The Lovely Feathers - Hind Hind Legs (2006-04-18)
-</li>
-<li data-cover="https://img.discogs.com/ihYWSmPw0AwWWyMFFIaHYTuzsU8=/fit-in/220x219/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2116301-1439610592-2602.jpeg.jpg" data-tags="mat kearney" role="button">
-Mat Kearney - Nothing Left To Lose (2006-04-18)
-</li>
 <li data-cover="https://via.placeholder.com/450" data-tags="indie" role="button">
 The Format - Dog Problems (2006-05-18)
 </li>
@@ -221,6 +215,9 @@ Basement Jaxx - Crazy Itch Radio (2006-09-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/a7481071-cba2-3003-9098-5e99c7781ab4/4400846790-500.jpg" data-tags="electronic, dance, happy, original, klezmer, groovy, 00s, favs, lekkah, 4nas, nadh, vemu, mmwm" role="button">
 C-Mon & Kypski - Where The Wild Things Are (2006-10-20)
+</li>
+<li data-cover="http://coverartarchive.org/release/303c1c04-b8e6-46fd-a5d2-ded0cbbb3cfd/16467301085-500.jpg" data-tags="indie pop, twee, twee pop, happy, jangle pop, twee as fuck, jangle, jangly, 5432fun, cloudberry records, fast and fun" role="button">
+The Pains of Being Pure at Heart - This Love Is Fucking Right! (2007)
 </li>
 <li data-cover="https://img.discogs.com/6n_StLjzNmzNkY6rQKJHl5wGZNU=/fit-in/600x554/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1952632-1500431620-6697.jpeg.jpg" data-tags="rap, happy, club shit" role="button">
 Shop Boyz - Party Like A Rockstar (2007-05-22)
@@ -269,6 +266,9 @@ Passion Pit - Manners (2009-05-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/6aa055b1-051e-42e2-8782-65d25013e48d/12504569177-500.jpg" data-tags="pop, rock, british, happy, summer" role="button">
 Gary Go - Gary Go (2009-05-25)
+</li>
+<li data-cover="https://img.discogs.com/qRAsZcRIqvDYjv14Y33dmMX4ohM=/fit-in/600x577/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14103147-1567892554-5593.jpeg.jpg" data-tags="alternative, happy, powerpop, fucking good" role="button">
+Goodnight Sunrise - Stop, Drop, & Roll (2009-06-23)
 </li>
 <li data-cover="https://img.discogs.com/IKYwr9L9ZoxLmVAvJk4Myb1_G_Y=/fit-in/600x530/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8105976-1553876160-6124.jpeg.jpg" data-tags="pop, mika" role="button">
 Mika - The Boy Who Knew Too Much (2009-09-16)

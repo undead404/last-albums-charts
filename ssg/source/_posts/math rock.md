@@ -1,5 +1,5 @@
 ---
-date: 2021-04-12T18:11:18.248Z
+date: 2021-04-13T07:54:04.410Z
 title: "math rock: 100 albums you must listen to before you die"
 ---
 ![Foals - Antidotes (2008-03-23)](https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg "Foals - Antidotes (2008-03-23)")
@@ -7,7 +7,7 @@ title: "math rock: 100 albums you must listen to before you die"
 <li data-cover="http://coverartarchive.org/release/a16b871f-3b71-3bb0-9a9d-798b513a4fc0/11175324617-500.jpg" data-tags="post-rock, math rock" role="button">Slint - Spiderland (1991-03-15)</li>
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">Drive Like Jehu - Yank Crime (1994-04-26)</li>
 <li data-cover="http://coverartarchive.org/release/aa4983e3-f20f-48fd-a446-8230a71c470b/7248178022-500.jpg" data-tags="indie rock, emo" role="button">American Football - American Football (1999-09-14)</li>
-<li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">Minus the Bear - Highly Refined Pirates (2002-11-19)</li>
+<li data-cover="http://coverartarchive.org/release/3b486b98-76d4-4591-8430-0119454d42ac/11002700286-500.jpg" data-tags="math rock" role="button">Hella - Hold Your Horse Is (2002-03-19)</li>
 <li data-cover="http://coverartarchive.org/release/e0e6f524-90b3-400a-aa4c-ab89e9c172f0/13891715369-500.jpg" data-tags="post-rock" role="button">65daysofstatic - The Fall of Math (2004-10-04)</li>
 <li data-cover="http://coverartarchive.org/release/bd32dcd0-5a09-4725-97ed-5918f55ee356/11318478591-500.jpg" data-tags="math rock" role="button">Battles - Mirrored (2007-04-25)</li>
 <li data-cover="https://img.discogs.com/OGe9EBxPmnL-KHbU69mabGqX1SY=/fit-in/600x591/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1296744-1270584765.jpeg.jpg" data-tags="math rock, indie" role="button">Foals - Antidotes (2008-03-23)</li>
@@ -33,17 +33,17 @@ Polvo - Today's Active Lifestyles (1993-04-19)
 <li data-cover="http://coverartarchive.org/release/883a8c08-4f08-4acc-b2a4-9f2d549ac696/23545562962-500.jpg" data-tags="post-hardcore, math rock" role="button">
 Drive Like Jehu - Yank Crime (1994-04-26)
 </li>
+<li data-cover="https://img.discogs.com/rTTc1Z0kW32khwFCA1OeKQXTXss=/fit-in/600x450/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-16001330-1601663553-5614.jpeg.jpg" data-tags="math rock, noise rock, noise pop, post-hardcore, fucking genius, shady, real post-hardcore, albums to get, no core" role="button">
+Polvo - Celebrate the New Dark Age (1994-05-26)
+</li>
+<li data-cover="http://coverartarchive.org/release/d302d42b-2067-48ac-b9d5-b974046cb90c/18905949105-500.jpg" data-tags="math rock" role="button">
+June of 44 - Engine Takes to the Water (1995-06-20)
+</li>
 <li data-cover="http://coverartarchive.org/release/67a2138a-1130-4575-bb20-6b9995b81fad/12021123808-500.jpg" data-tags="math rock" role="button">
 Don Caballero - Don Caballero 2 (1995-09-15)
 </li>
-<li data-cover="http://coverartarchive.org/release/b0b6e917-61e6-3be3-a2da-bb873eb63af8/21553050631-500.jpg" data-tags="math rock" role="button">
-Polvo - Exploded Drawing (1996-04-30)
-</li>
 <li data-cover="http://coverartarchive.org/release/1be52a25-f261-4d8e-983c-f92795be4f29/11035456850-500.jpg" data-tags="post-rock, math rock" role="button">
 June of 44 - Four Great Points (1998-01-20)
-</li>
-<li data-cover="http://coverartarchive.org/release/0730eb5d-b0e1-4458-bc21-498783e5eb4e/20987949311-500.jpg" data-tags="math rock, post-punk" role="button">
-Shellac - Terraform (1998-02-10)
 </li>
 <li data-cover="http://coverartarchive.org/release/7e5af94a-6e11-4bb4-99ba-177d322027fa/16110487955-500.jpg" data-tags="math rock, instrumental" role="button">
 Don Caballero - What Burns Never Returns (1998-06-09)
@@ -66,20 +66,17 @@ Don Caballero - American Don (2000-10-03)
 <li data-cover="http://coverartarchive.org/release/99e88b3f-3a18-4a13-a2b5-657b909383c8/27006231557-500.jpg" data-tags="math rock" role="button">
 Faraquet - The View from This Tower (2000-11-14)
 </li>
+<li data-cover="http://coverartarchive.org/release/2069f1ff-8fc5-42ea-834f-1d550a3ff776/23459462721-500.jpg" data-tags="indie, math rock, post-rock, shoegaze, rawk, omg i fought dis film was wiked mann lol, alternative grunge, real post-hardcore, quintessential" role="button">
+Shiner - The Egg (2001-10-23)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b486b98-76d4-4591-8430-0119454d42ac/11002700286-500.jpg" data-tags="math rock" role="button">
 Hella - Hold Your Horse Is (2002-03-19)
-</li>
-<li data-cover="http://coverartarchive.org/release/3eba537b-87f9-4a37-b9b7-237855cad684/26395579262-500.jpg" data-tags="indie rock" role="button">
-Minus the Bear - Highly Refined Pirates (2002-11-19)
 </li>
 <li data-cover="http://coverartarchive.org/release/f626b8d5-67a6-4bc7-82cd-4a0c24c8ed5d/11799177283-500.jpg" data-tags="noise rock" role="button">
 Lightning Bolt - Wonderful Rainbow (2003-03-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/6dd76526-e067-4d10-9b34-d3b7be7b0734/16635387400-500.jpg" data-tags="math rock" role="button">
 Ghosts and Vodka - Addicts And Drunks (2003-09-23)
-</li>
-<li data-cover="http://coverartarchive.org/release/c3d3d127-8d68-44b2-9370-e695f05b746b/11002809325-500.jpg" data-tags="math rock" role="button">
-Hella - The Devil Isn't Red (2004-01-20)
 </li>
 <li data-cover="http://coverartarchive.org/release/18d9f1a4-0d64-42d8-9f29-698c03c9674a/11800075266-500.jpg" data-tags="math rock" role="button">
 Battles - B EP (2004-09-14)
@@ -165,9 +162,6 @@ Maybeshewill - Not for Want of Trying (2008-05-12)
 <li data-cover="https://img.discogs.com/xZay37Xy2QIYDzQtQzyk1DiLeK4=/fit-in/600x594/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2353120-1462765529-2327.jpeg.jpg" data-tags="math rock, all time fav, in vinyl collection" role="button">
 Maps & Atlases - You And Me And The Mountain (2008-06-16)
 </li>
-<li data-cover="http://coverartarchive.org/release/d3eab0f0-0f87-40bd-877e-cedd895fb9c8/6532860840-500.jpg" data-tags="post-hardcore, experimental" role="button">
-Dance Gavin Dance - Dance Gavin Dance (2008-08-19)
-</li>
 <li data-cover="http://coverartarchive.org/release/5a11f556-afcf-4efa-8004-a33889292d4e/12021133709-500.jpg" data-tags="math rock" role="button">
 Don Caballero - Punkgasm (2008-08-19)
 </li>
@@ -182,9 +176,6 @@ This Town Needs Guns - Animals (2008-10-13)
 </li>
 <li data-cover="http://coverartarchive.org/release/8f89ed84-9b30-4d09-95ef-ea8ab06836b5/23940491742-500.jpg" data-tags="math rock, emo, midwest emo" role="button">
 Midwest Pen Pals - Inside Jokes EP (2009)
-</li>
-<li data-cover="http://coverartarchive.org/release/dddf0c43-c13e-4369-9639-b8dd6fcd9670/10875440689-500.jpg" data-tags="math rock, post punk, post hardcore, progressive post hardcore, mathpop mathrock indie, weas que planeo escuchar" role="button">
-Bats - Red In Tooth & Claw (2009)
 </li>
 <li data-cover="http://coverartarchive.org/release/f31d8540-2e73-435a-8855-5f8e1f633fc6/11375917391-500.jpg" data-tags="math rock, indie rock, acoustic rock, midwest emo" role="button">
 The One Up Downstairs - The One Up Downstairs Ep (2009-01-27)
@@ -201,11 +192,17 @@ If These Trees Could Talk - Above the Earth, Below the Sky (2009-03-11)
 <li data-cover="http://coverartarchive.org/release/162892dc-49d4-4540-80f6-b7127a147ad4/3370180048-500.jpg" data-tags="post-rock" role="button">
 Maybeshewill - Sing the Word Hope in Four-Part Harmony (2009-06-08)
 </li>
+<li data-cover="http://coverartarchive.org/release/2834da38-0288-4f94-91e4-8250ebc62da6/12393843588-500.jpg" data-tags="jazz" role="button">
+Mouse on the Keys - An Anxious Object (2009-07-08)
+</li>
 <li data-cover="http://coverartarchive.org/release/3b7453da-f435-4e22-9e33-15c78727fd90/1984961533-500.jpg" data-tags="alternative rock" role="button">
 Radiohead - These Are My Twisted Words (2009-08-17)
 </li>
 <li data-cover="http://coverartarchive.org/release/238f52a2-e62e-4da0-ac0b-dced8e0e2e78/4706109611-500.jpg" data-tags="indie, math rock, experimental, indie pop, indie rock, i love this, math pop, math-rock" role="button">
 Colour - Anthology (2009-09-21)
+</li>
+<li data-cover="http://coverartarchive.org/release/75a8ef43-a229-4c5b-97f4-d14c29109fdd/16939313897-500.jpg" data-tags="post-rock" role="button">
+Pretend - Bones in the Soil, Rust in the Oil (2009-10-04)
 </li>
 <li data-cover="http://coverartarchive.org/release/3b64b195-f5be-4a72-897d-11683bede047/16736380229-500.jpg" data-tags="math rock" role="button">
 Rooftops - A Forest of Polarity (2009-11-20)
@@ -225,6 +222,9 @@ Kaki King - Junior (2010-03-01)
 <li data-cover="http://coverartarchive.org/release/a0d1ad05-3710-4b2e-9a47-6136148a2b1b/3331619747-500.jpg" data-tags="math rock" role="button">
 Six Gallery - Breakthroughs in Modern Art (2010-03-19)
 </li>
+<li data-cover="http://coverartarchive.org/release/8318feb1-74ed-4977-a257-17fa1263524f/1769147834-500.jpg" data-tags="math rock" role="button">
+The Redneck Manifesto - Friendship (2010-04-26)
+</li>
 <li data-cover="http://coverartarchive.org/release/248b104a-4865-41bc-9635-7f2edade8c9d/3248579787-500.jpg" data-tags="post-rock, electronic" role="button">
 65daysofstatic - We Were Exploding Anyway (2010-04-26)
 </li>
@@ -239,6 +239,9 @@ Adebisi Shank - This is the second album of a band called Adebisi Shank (2010-08
 </li>
 <li data-cover="http://coverartarchive.org/release/736c8761-0cd3-48c2-a764-7189e32235cc/4455881615-500.jpg" data-tags="math rock, math-rock" role="button">
 Tera Melos - Patagonian Rats (2010-09-07)
+</li>
+<li data-cover="http://coverartarchive.org/release/a7b8dbf2-0b24-4abd-80b0-55fb5954c899/12651444349-500.jpg" data-tags="j-rock" role="button">
+凛として時雨 - still a Sigure virgin? (2010-09-22)
 </li>
 <li data-cover="http://coverartarchive.org/release/2a9000af-1768-4ec2-aa01-b44cacb0e887/11441414525-500.jpg" data-tags="noise, math rock, experimental, experimental rock, neo-psychedelia" role="button">
 Zach Hill - FACE TAT (2010-10-19)
@@ -261,9 +264,6 @@ Hella - Tripper (2011-08-30)
 <li data-cover="https://img.discogs.com/hrEyvwwjtk_ZpcvzvCHDnmc7vpM=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3191675-1545550123-2688.jpeg.jpg" data-tags="indie, rock, progressive rock, indie progressive alternative" role="button">
 Mutemath - Odd Soul (2011-09-30)
 </li>
-<li data-cover="https://img.discogs.com/OTru_VS7QEfP9U8M6v1AEe7rK8w=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3306902-1325016061.jpeg.jpg" data-tags="math rock" role="button">
-This Town Needs Guns - Adventure, Stamina & Anger (2011-10-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/069afaf0-b814-4d38-b28b-50142f32e059/13185182232-500.jpg" data-tags="post-hardcore" role="button">
 A Lot Like Birds - Conversation Piece (2011-10-11)
 </li>
@@ -285,9 +285,6 @@ Dads - American Radass (This Is Important) (2012-08-07)
 <li data-cover="http://coverartarchive.org/release/e9aa97d2-c029-4378-9b3f-90280b4c1be7/3276402980-500.jpg" data-tags="indie rock" role="button">
 Foals - My Number (2012-12-17)
 </li>
-<li data-cover="https://img.discogs.com/4OSOdDpTiQTbs_uwQUQBkgqjSgs=/fit-in/350x350/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4210791-1358639251-9339.jpeg.jpg" data-tags="math rock" role="button">
-This Town Needs Guns - 13.0.0.0.0 (2013-01-21)
-</li>
 <li data-cover="http://coverartarchive.org/release/e5656e38-a4a8-4ee1-9ea4-4273a2275497/25391187859-500.jpg" data-tags="indie rock" role="button">
 Foals - Holy Fire (2013-01-31)
 </li>
@@ -299,6 +296,9 @@ The Physics House Band - Horizons / Rapture (2013-04-15)
 </li>
 <li data-cover="https://img.discogs.com/rjaVDQXkwp2tdzUzVzryw7kQ9os=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4479695-1366083814-8735.png.jpg" data-tags="math rock" role="button">
 Tera Melos - X'ed Out (2013-04-16)
+</li>
+<li data-cover="http://coverartarchive.org/release/50487f67-efd3-4d63-a18f-fa2dc1e6787d/7115602466-500.jpg" data-tags="math rock, summer, post rock, 2013 albums, hymnic" role="button">
+Enemies - Embark, Embrace (2013-05-10)
 </li>
 <li data-cover="https://img.discogs.com/pscnaQIdudebvxaNvSMSI0KzdJQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-5012392-1524398620-5370.jpeg.jpg" data-tags="chill, math rock, progressive metal, progressive rock, prog, epic, hot chocolate, not of this world, instrumental prog metal, god tier chill, legends of chill, not a word was spoken" role="button">
 CHON - Newborn Sun (2013-06-11)

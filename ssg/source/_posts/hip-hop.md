@@ -1,5 +1,5 @@
 ---
-date: 2021-04-13T05:30:01.541Z
+date: 2021-04-13T07:53:02.467Z
 title: "hip-hop: 100 albums you must listen to before you die"
 ---
 ![Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)](http://coverartarchive.org/release/cd7d8c81-d519-4149-8cd0-ade722ad19b9/1469458634-500.jpg "Kanye West - My Beautiful Dark Twisted Fantasy (2010-11-22)")
@@ -27,6 +27,9 @@ Eric B. & Rakim - Paid in Full (1987-07-07)
 <li data-cover="http://coverartarchive.org/release/a30577af-64e7-3e86-9930-556e3e5357b5/2934705740-500.jpg" data-tags="hip-hop" role="button">
 A Tribe Called Quest - Peoples' Instinctive Travels & the Paths of Rhythm (1990-03-12)
 </li>
+<li data-cover="https://img.discogs.com/enufeQj0nr9h8ZTFtMUxF3GRIWY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2606385-1515988935-3293.jpeg.jpg" data-tags="hip-hop" role="button">
+Cypress Hill - CYPRESS HILL (1991-08-13)
+</li>
 <li data-cover="http://coverartarchive.org/release/51088001-d00c-384f-a266-315fd3ee797a/6193413728-500.jpg" data-tags="gangsta rap, hip-hop" role="button">
 Dr. Dre - The Chronic (1992-12-15)
 </li>
@@ -53,9 +56,6 @@ Mobb Deep - The Infamous (1995-04-18)
 </li>
 <li data-cover="https://img.discogs.com/3WuRCIOlOnT69y46Auud_YjD8j0=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-158798-1158147180.jpeg.jpg" data-tags="hip-hop" role="button">
 GZA/Genius - Liquid Swords (1995-11-07)
-</li>
-<li data-cover="http://coverartarchive.org/release/a8ac0c88-6980-411d-8c88-3eed140f71ed/7644775051-500.jpg" data-tags="hip-hop" role="button">
-Fugees - The Score (1996-02-12)
 </li>
 <li data-cover="http://coverartarchive.org/release/8d2491b6-f77f-3ec2-9638-10c231663071/9390923312-500.jpg" data-tags="gangsta rap, hip-hop, 2pac, rap" role="button">
 2Pac - All Eyez on Me (1996-02-13)
@@ -120,14 +120,14 @@ Nas - Stillmatic (2001-12-08)
 <li data-cover="http://coverartarchive.org/release/904e0d41-d49c-429e-8568-235bedbec612/1585589963-500.jpg" data-tags="hip-hop, hip hop, jay-z" role="button">
 Jay-Z - UnPlugged (2001-12-18)
 </li>
+<li data-cover="http://coverartarchive.org/release/c5043588-ff22-40d0-b738-60ce6a817537/9609881130-500.jpg" data-tags="rap" role="button">
+Clipse - Lord Willin' (2002-04-01)
+</li>
 <li data-cover="http://coverartarchive.org/release/003b0f09-cdd1-333d-9262-92d66237a4c0/10252077277-500.jpg" data-tags="hip-hop" role="button">
 Blackalicious - Blazing Arrow (2002-04-30)
 </li>
 <li data-cover="http://coverartarchive.org/release/af71f60c-a8e8-4774-a2b3-30dbfaa13bd6/26547401170-500.jpg" data-tags="rap" role="button">
 Eminem - The Eminem Show (2002-05-27)
-</li>
-<li data-cover="https://img.discogs.com/hH6VDQqSq4WF6Fmi3O71yMN58gk=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3087155-1315116755.jpeg.jpg" data-tags="hip-hop" role="button">
-Jurassic 5 - Power In Numbers (2002-10-04)
 </li>
 <li data-cover="https://img.discogs.com/r_jMkyQ0urHTrJ-ochhEy-z5qbk=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7189287-1542925626-1490.jpeg.jpg" data-tags="rap, hip-hop, 50 cent" role="button">
 50 Cent - Get Rich Or Die Tryin' (2003-02-04)
@@ -201,14 +201,14 @@ Aesop Rock - None Shall Pass (2007-08-28)
 <li data-cover="http://coverartarchive.org/release/06a81817-093d-40f0-aef2-90673fa550ae/2727362998-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - Graduation (2007-09-05)
 </li>
+<li data-cover="https://img.discogs.com/pEEbB0iyVjcmd6SCEptQ3YrK74M=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14516463-1576154585-5016.jpeg.jpg" data-tags="hip-hop" role="button">
+will.i.am - Songs About Girls (2007-09-19)
+</li>
 <li data-cover="http://coverartarchive.org/release/c46652d5-53ec-4c2e-aeb2-a65852099d3c/1398538098-500.jpg" data-tags="hip-hop" role="button">
 Flobots - Fight With Tools (2007-10-16)
 </li>
 <li data-cover="https://img.discogs.com/jh4t6fyePwK2DmFIMS79etQ-LdE=/fit-in/500x442/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1289687-1442838570-1540.jpeg.jpg" data-tags="rap, hip-hop" role="button">
 Flo Rida - Mail On Sunday (2008-03-17)
-</li>
-<li data-cover="https://img.discogs.com/sAHiZ1GQVMxSrV1dwSAi5FPOqL4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3646806-1516228829-9542.jpeg.jpg" data-tags="hip-hop" role="button">
-N*E*R*D - Seeing Sounds (2008-06-09)
 </li>
 <li data-cover="http://coverartarchive.org/release/af8fdbd3-dc27-469d-89bf-9167514b3f5e/4819782950-500.jpg" data-tags="hip-hop" role="button">
 Kanye West - 808s & Heartbreak (2008-11-21)
@@ -224,6 +224,12 @@ Eminem - Relapse (2009-05-15)
 </li>
 <li data-cover="http://coverartarchive.org/release/c131cfbf-5024-4a50-a27b-366f04d3fcd8/1674181130-500.jpg" data-tags="hip hop, hip-hop" role="button">
 Mos Def - The Ecstatic (2009-06-09)
+</li>
+<li data-cover="https://img.discogs.com/qQ1UQdAV28xCiHPkB5Y1igZ3c5Q=/fit-in/400x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2065445-1261940125.jpeg.jpg" data-tags="hip-hop, rap, rock hop, rock" role="button">
+Blakroc - Blakroc (2009-09-09)
+</li>
+<li data-cover="http://coverartarchive.org/release/27ea1a49-0929-4825-ad25-37ddbfc84932/11237324435-500.jpg" data-tags="pop, rihanna" role="button">
+Rihanna - Rated R (2009-11-16)
 </li>
 <li data-cover="http://coverartarchive.org/release/672775d4-cc8b-4af8-8f5f-134e5676d608/2367827712-500.jpg" data-tags="hip-hop" role="button">
 Macklemore - The Unplanned Mixtape (2009-12-15)
@@ -273,9 +279,6 @@ Flo Rida - Good Feeling (2011-08-29)
 <li data-cover="http://coverartarchive.org/release/4c8b518b-3fd9-492f-b77d-00597014dce7/3316397776-500.jpg" data-tags="rap" role="button">
 J. Cole - Cole World: The Sideline Story (2011-09-26)
 </li>
-<li data-cover="http://coverartarchive.org/release/b9bef082-4d1e-454b-9347-d12e7137d3d7/20285352835-500.jpg" data-tags="hip-hop, pop, pop rock, alternative hip hop, hhjjj" role="button">
-Gym Class Heroes - The Papercut Chronicles II (2011-11-11)
-</li>
 <li data-cover="http://coverartarchive.org/release/143ce661-fd14-44a0-a3e7-7393982e6a76/13074176448-500.jpg" data-tags="hip-hop, rap us, asap rocky,  a$ap rocky" role="button">
 A$AP Rocky - Purple Swag (2011-12-05)
 </li>
@@ -287,9 +290,6 @@ C2C - Tetra (2012-08-03)
 </li>
 <li data-cover="http://coverartarchive.org/release/e1d99364-1ad9-4f4d-9505-2242eff10a44/2361576294-500.jpg" data-tags="hip hop" role="button">
 Kendrick Lamar - good kid, m.A.A.d city (2012-10-21)
-</li>
-<li data-cover="http://coverartarchive.org/release/77f25b0b-bb51-44fb-b7b5-9c5c391769dd/7221126832-500.jpg" data-tags="alternative" role="button">
-Twenty One Pilots - Vessel (2012-12-26)
 </li>
 <li data-cover="http://coverartarchive.org/release/cfd78aa4-6938-439e-8be0-e9c51255d35c/5326272078-500.jpg" data-tags="drake, hip hop" role="button">
 Drake - Nothing Was the Same (2013-01-01)
