@@ -3,6 +3,7 @@ import { UpdateWriteOpResult } from 'mongodb';
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import { AlbumAmqpPayload, AlbumRecord } from '../common/types';
+
 import getFromCoverArtArchive from './get-from-cover-art-archive';
 import getFromDiscogs from './get-from-discogs';
 

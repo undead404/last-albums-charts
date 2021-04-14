@@ -1,4 +1,3 @@
-// eslint-disable-next-line @typescript-eslint/no-var-requires,import/no-extraneous-dependencies,node/no-unpublished-require
 const dotenv = require('dotenv');
 
 dotenv.config();
@@ -30,7 +29,7 @@ module.exports = {
     },
     {
       autorestart: true,
-      cron_restart: '* * * * *',
+      cron_restart: '50 * * * *',
       env: {
         APP_NAME: 'gList',
       },

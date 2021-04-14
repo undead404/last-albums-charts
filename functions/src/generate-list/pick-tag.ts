@@ -1,5 +1,4 @@
 import isTagBlacklisted from '../common/is-tag-blacklisted';
-
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import { TagRecord } from '../common/types';

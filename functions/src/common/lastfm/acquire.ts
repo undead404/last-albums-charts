@@ -3,12 +3,12 @@ import isEmpty from 'lodash/isEmpty';
 import toString from 'lodash/toString';
 import { stringify } from 'query-string';
 
+import { LASTFM_API_ERRORS, MAX_RETRIES } from '../constants';
+import logger from '../logger';
+import sleep from '../sleep';
+
 import { DEFAULT_PARAMS } from './api-constants';
 import { Parameters, Payload } from './api-types';
-import { LASTFM_API_ERRORS, MAX_RETRIES } from '../constants';
-
-import sleep from '../sleep';
-import logger from '../logger';
 
 const API_DELAY_MS = 1000;
 

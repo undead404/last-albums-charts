@@ -1,11 +1,11 @@
-import sumBy from 'lodash/sumBy';
 import size from 'lodash/size';
+import sumBy from 'lodash/sumBy';
 import toNumber from 'lodash/toNumber';
 
 import getAlbumInfo from '../common/lastfm/get-album-info';
+import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import { AlbumAmqpPayload, AlbumRecord } from '../common/types';
-import logger from '../common/logger';
 
 export default async function populateAlbumStats(
   album: AlbumAmqpPayload,

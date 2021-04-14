@@ -1,5 +1,6 @@
 import endsWith from 'lodash/endsWith';
 import includes from 'lodash/includes';
+import some from 'lodash/some';
 import startsWith from 'lodash/startsWith';
 
 const BLACKLISTED_TAGS = [
@@ -390,6 +391,22 @@ const BLACKLISTED_TAGS = [
   'your ears will bleed',
 ];
 
+const BLACKLISTED_TAG_STARTS = [
+  ' ',
+  'best ',
+  'fucking great ',
+  'harukaex',
+  'my gang',
+  'perfect ',
+  'top ',
+  'valkyeriex',
+  'valkyreiex',
+  'valkyriex',
+  'worse than ',
+  'worst of ',
+];
+const BLACKLISTED_TAG_ENDS = [' stars', 'buttcore'];
+
 const MIN_TAG_NAME_LENGTH = 3;
 const NUMERIC_RE = /^\d+$/;
 
@@ -400,49 +417,23 @@ export default function isTagBlacklisted(tagName: string): boolean {
   if (includes(BLACKLISTED_TAGS, tagName)) {
     return true;
   }
-  if (startsWith(tagName, ' ')) {
-    return true;
-  }
-  if (startsWith(tagName, 'best ')) {
-    return true;
-  }
-  if (startsWith(tagName, 'perfect ')) {
-    return true;
-  }
-  if (startsWith(tagName, 'valkyriex')) {
-    return true;
-  }
-  if (startsWith(tagName, 'valkyeriex')) {
-    return true;
-  }
-  if (startsWith(tagName, 'harukaex')) {
-    return true;
-  }
-  if (startsWith(tagName, 'valkyreiex')) {
-    return true;
-  }
-  if (startsWith(tagName, 'top ')) {
-    return true;
-  }
-  if (startsWith(tagName, 'worst of ')) {
-    return true;
-  }
-  if (startsWith(tagName, 'worse than ')) {
-    return true;
-  }
-  if (endsWith(tagName, ' stars')) {
-    return true;
-  }
-  if (startsWith(tagName, 'fucking great ')) {
-    return true;
-  }
+
   if (NUMERIC_RE.test(tagName)) {
     return true;
   }
-  if (endsWith(tagName, 'buttcore')) {
+  if (
+    some(BLACKLISTED_TAG_STARTS, (blacklistedTagStart) =>
+      startsWith(tagName, blacklistedTagStart),
+    )
+  ) {
     return true;
   }
-  if (startsWith(tagName, 'my gang')) {
+
+  if (
+    some(BLACKLISTED_TAG_ENDS, (blacklistedTagEnd) =>
+      endsWith(tagName, blacklistedTagEnd),
+    )
+  ) {
     return true;
   }
   return false;

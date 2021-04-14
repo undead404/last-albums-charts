@@ -1,7 +1,7 @@
 import size from 'lodash/size';
 import { WithId } from 'mongodb';
-import { publish } from '../common/amqp-broker';
 
+import { publish } from '../common/amqp-broker';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
 import mongodb from '../common/mongo-database';

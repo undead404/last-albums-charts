@@ -8,8 +8,8 @@ import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 
 import generateSearchIndex from './generate-search-index';
-import saveTags from './save-tags';
 import generateTopList from './generate-top-list';
+import saveTags from './save-tags';
 
 const ROOT_FOLDER = path.resolve(path.join(__dirname, '..', '..', '..'));
 const SITE_FOLDER = path.resolve(path.join(ROOT_FOLDER, 'site'));

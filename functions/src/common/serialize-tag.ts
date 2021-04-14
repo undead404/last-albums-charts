@@ -1,8 +1,8 @@
 import { formatISO } from 'date-fns';
 import map from 'lodash/map';
 import { WithId } from 'mongodb';
-import serializeAlbum from './serialize-album';
 
+import serializeAlbum from './serialize-album';
 import {
   AlbumRecord,
   SerializableAlbum,

@@ -1,9 +1,10 @@
 import { WithId } from 'mongodb';
-import { publish } from '../common/amqp-broker';
 
+import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
 import mongodb from '../common/mongo-database';
 import { AlbumRecord, TagRecord, Weighted } from '../common/types';
+
 import saveList from './save-top-list';
 
 const AVERAGE_NUMBER_OF_TRACKS = 7;

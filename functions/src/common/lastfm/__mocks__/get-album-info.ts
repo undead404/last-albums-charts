@@ -1,6 +1,6 @@
 import exodus1 from './Exodus - Bonded by Blood.json';
-import exodus2 from './Exodus - Tempo of the Damned.json';
 import exodus3 from './Exodus - Shovel Headed Kill Machine.json';
+import exodus2 from './Exodus - Tempo of the Damned.json';
 
 const getAlbumInfo = jest
   .fn()

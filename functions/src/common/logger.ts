@@ -1,4 +1,5 @@
 import { configure } from 'log4js';
+
 import { APP_NAME } from './environment';
 
 const environment =

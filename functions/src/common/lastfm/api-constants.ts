@@ -1,4 +1,5 @@
 import { LASTFM_API_KEY } from '../environment';
+
 import { DefaultParameters } from './api-types';
 
 if (!LASTFM_API_KEY) {

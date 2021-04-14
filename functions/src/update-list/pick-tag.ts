@@ -1,6 +1,6 @@
 import head from 'lodash/head';
-import isTagBlacklisted from '../common/is-tag-blacklisted';
 
+import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import { TagRecord, Weighted } from '../common/types';

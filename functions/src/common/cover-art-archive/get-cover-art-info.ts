@@ -1,6 +1,8 @@
 import axios from 'axios';
+
 import logger from '../logger';
 import sleep from '../sleep';
+
 import { CoverArtArchiveResponse } from './cover-art-archive-types';
 
 const API_DELAY_MS = 1000;

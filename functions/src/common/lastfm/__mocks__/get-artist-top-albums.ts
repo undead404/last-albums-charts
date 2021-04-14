@@ -1,3 +1,5 @@
+const ALBUMS_I_OWN = 'albums I own';
+const THRASH_METAL = 'thrash metal';
 const getArtistTopAlbums = jest
   .fn()
   .mockImplementation((artistName: string) => {
@@ -45,10 +47,10 @@ const getArtistTopAlbums = jest
           tags: {
             tag: [
               {
-                name: 'thrash metal',
+                name: THRASH_METAL,
               },
               {
-                name: 'albums I own',
+                name: ALBUMS_I_OWN,
               },
               {
                 name: 'heavy metal',
@@ -106,11 +108,11 @@ const getArtistTopAlbums = jest
           tags: {
             tag: [
               {
-                name: 'thrash metal',
+                name: THRASH_METAL,
               },
               { name: '1985' },
               {
-                name: 'albums I own',
+                name: ALBUMS_I_OWN,
               },
               {
                 name: 'speed metal',
@@ -166,10 +168,10 @@ const getArtistTopAlbums = jest
           tags: {
             tag: [
               {
-                name: 'thrash metal',
+                name: THRASH_METAL,
               },
               {
-                name: 'albums I own',
+                name: ALBUMS_I_OWN,
               },
               { name: '2005' },
               { name: 'Bay Area' },

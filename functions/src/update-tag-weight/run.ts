@@ -1,4 +1,5 @@
 import mongoDatabase from '../common/mongo-database';
+
 import populateTagWeight from './populate-tag-weight';
 
 export default async function main(): Promise<void> {
