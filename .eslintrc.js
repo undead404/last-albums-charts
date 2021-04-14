@@ -12,6 +12,7 @@ module.exports = {
     'plugin:unicorn/recommended',
     'plugin:lodash/recommended',
     'plugin:eslint-comments/recommended',
+    'plugin:sonarjs/recommended',
     'plugin:prettier/recommended',
     'plugin:jest/all',
     'prettier',
@@ -98,7 +99,6 @@ module.exports = {
     {
       files: ['site/**/*.tsx'],
       rules: {
-        'react/boolean-prop-naming': 'error',
         'react/display-name': 'error',
         'react/function-component-definition': [
           'error',
@@ -107,12 +107,8 @@ module.exports = {
             unnamedComponents: 'arrow-function',
           },
         ],
-        'react/jsx-key': 'error',
         'react/jsx-no-comment-textnodes': 'error',
-        'react/jsx-no-duplicate-props': 'error',
-        'react/jsx-no-target-blank': 'error',
         'react/jsx-no-undef': 'error',
-        'react/jsx-sort-props': 'warn',
         'react/jsx-uses-react': 'error',
         'react/jsx-uses-vars': 'error',
         'react/no-children-prop': 'error',
@@ -128,12 +124,390 @@ module.exports = {
         'react/require-render-return': 'error',
         'react-hooks/rules-of-hooks': 'error',
         'react-hooks/exhaustive-deps': 'warn',
+        'react/forbid-prop-types': [
+          'error',
+          {
+            forbid: ['any', 'array', 'object'],
+            checkContextTypes: true,
+            checkChildContextTypes: true,
+          },
+        ],
+        'react/jsx-filename-extension': ['error', { extensions: ['.tsx'] }],
+        'react/jsx-boolean-value': ['error', 'never', { always: [] }],
+        'react/jsx-closing-bracket-location': ['error', 'line-aligned'],
+        'react/jsx-closing-tag-location': 'error',
+        'react/jsx-curly-spacing': ['error', 'never', { allowMultiline: true }],
+        'react/jsx-handler-names': [
+          'off',
+          {
+            eventHandlerPrefix: 'handle',
+            eventHandlerPropPrefix: 'on',
+          },
+        ],
+        // eslint-disable-next-line no-magic-numbers
+        'react/jsx-indent-props': ['error', 2],
+        'react/jsx-key': 'off',
+        'react/jsx-max-props-per-line': [
+          'error',
+          { maximum: 1, when: 'multiline' },
+        ],
+        'react/jsx-no-bind': [
+          'error',
+          {
+            ignoreRefs: true,
+            allowArrowFunctions: true,
+            allowFunctions: false,
+            allowBind: false,
+            ignoreDOMComponents: true,
+          },
+        ],
+        'react/jsx-no-duplicate-props': ['error', { ignoreCase: true }],
+        'react/jsx-no-literals': ['off', { noStrings: true }],
+        'react/jsx-pascal-case': [
+          'error',
+          {
+            allowAllCaps: true,
+            ignore: [],
+          },
+        ],
+        'react/sort-prop-types': [
+          'off',
+          {
+            ignoreCase: true,
+            callbacksLast: false,
+            requiredFirst: false,
+            sortShapeProp: true,
+          },
+        ],
+        'react/jsx-sort-prop-types': 'off',
+        'react/jsx-sort-props': [
+          'warn',
+          {
+            ignoreCase: true,
+            callbacksLast: false,
+            shorthandFirst: false,
+            shorthandLast: false,
+            noSortAlphabetically: false,
+            reservedFirst: true,
+          },
+        ],
+        'react/jsx-sort-default-props': [
+          'off',
+          {
+            ignoreCase: true,
+          },
+        ],
+        'react/no-danger': 'warn',
+        'react/no-multi-comp': 'off',
+        'react/prefer-es6-class': ['error', 'always'],
+        'react/prefer-stateless-function': [
+          'error',
+          { ignorePureComponents: true },
+        ],
+        'react/react-in-jsx-scope': 'error',
+        'react/self-closing-comp': 'error',
+        'react/sort-comp': [
+          'error',
+          {
+            order: [
+              'static-variables',
+              'static-methods',
+              'instance-variables',
+              'lifecycle',
+              '/^handle.+$/',
+              '/^on.+$/',
+              'getters',
+              'setters',
+              '/^(get|set)(?!(InitialState$|DefaultProps$|ChildContext$)).+$/',
+              'instance-methods',
+              'everything-else',
+              'rendering',
+            ],
+            groups: {
+              lifecycle: [
+                'displayName',
+                'propTypes',
+                'contextTypes',
+                'childContextTypes',
+                'mixins',
+                'statics',
+                'defaultProps',
+                'constructor',
+                'getDefaultProps',
+                'getInitialState',
+                'state',
+                'getChildContext',
+                'getDerivedStateFromProps',
+                'componentWillMount',
+                'UNSAFE_componentWillMount',
+                'componentDidMount',
+                'componentWillReceiveProps',
+                'UNSAFE_componentWillReceiveProps',
+                'shouldComponentUpdate',
+                'componentWillUpdate',
+                'UNSAFE_componentWillUpdate',
+                'getSnapshotBeforeUpdate',
+                'componentDidUpdate',
+                'componentDidCatch',
+                'componentWillUnmount',
+              ],
+              rendering: ['/^render.+$/', 'render'],
+            },
+          },
+        ],
+        'react/jsx-wrap-multilines': [
+          'off',
+          {
+            declaration: 'parens-new-line',
+            assignment: 'parens-new-line',
+            return: 'parens-new-line',
+            arrow: 'parens-new-line',
+            condition: 'parens-new-line',
+            logical: 'parens-new-line',
+            prop: 'parens-new-line',
+          },
+        ],
+
+        'react/jsx-first-prop-new-line': ['error', 'multiline-multiprop'],
+        'react/jsx-equals-spacing': ['error', 'never'],
+        // eslint-disable-next-line no-magic-numbers
+        'react/jsx-indent': ['error', 2],
+        'react/jsx-no-target-blank': [
+          'error',
+          { enforceDynamicLinks: 'always' },
+        ],
+        'react/require-optimization': ['warn', { allowDecorators: [] }],
+        'react/style-prop-object': 'error',
+        'react/jsx-tag-spacing': [
+          'error',
+          {
+            closingSlash: 'never',
+            beforeSelfClosing: 'always',
+            afterOpening: 'never',
+            beforeClosing: 'never',
+          },
+        ],
+        'react/jsx-space-before-closing': ['off', 'always'],
+        'react/no-array-index-key': 'error',
+        'react/boolean-prop-naming': [
+          'off',
+          {
+            propTypeNames: ['bool', 'mutuallyExclusiveTrueProps'],
+            rule: '^(is|has)[A-Z]([A-Za-z0-9]?)+',
+            message: '',
+          },
+        ],
+        'react/no-typos': 'error',
+        'react/jsx-curly-brace-presence': [
+          'error',
+          { props: 'never', children: 'never' },
+        ],
+        'react/jsx-one-expression-per-line': [
+          'error',
+          { allow: 'single-child' },
+        ],
+        'react/destructuring-assignment': ['error', 'always'],
+        'react/button-has-type': [
+          'error',
+          {
+            button: true,
+            submit: true,
+            reset: false,
+          },
+        ],
+        'react/jsx-child-element-spacing': 'off',
+        'react/no-this-in-sfc': 'error',
+        'react/jsx-props-no-multi-spaces': 'error',
+        'react/jsx-fragments': ['error', 'syntax'],
+        'react/jsx-curly-newline': [
+          'error',
+          {
+            multiline: 'consistent',
+            singleline: 'consistent',
+          },
+        ],
+        'react/jsx-props-no-spreading': [
+          'error',
+          {
+            html: 'enforce',
+            custom: 'enforce',
+            explicitSpread: 'ignore',
+            exceptions: [],
+          },
+        ],
+        'react/jsx-no-script-url': [
+          'off',
+          [
+            {
+              name: 'Link',
+              props: ['to'],
+            },
+          ],
+        ],
+        'jsx-a11y/alt-text': [
+          'error',
+          {
+            elements: ['img', 'object', 'area', 'input[type="image"]'],
+            img: [],
+            object: [],
+            area: [],
+            'input[type="image"]': [],
+          },
+        ],
+        'jsx-a11y/anchor-has-content': ['error', { components: [] }],
+        'jsx-a11y/anchor-is-valid': [
+          'error',
+          {
+            components: ['Link'],
+            specialLink: ['to'],
+            aspects: ['noHref', 'invalidHref', 'preferButton'],
+          },
+        ],
+        'jsx-a11y/aria-activedescendant-has-tabindex': 'error',
+        'jsx-a11y/aria-props': 'error',
+        'jsx-a11y/aria-proptypes': 'error',
+        'jsx-a11y/aria-role': ['error', { ignoreNonDOM: false }],
+        'jsx-a11y/aria-unsupported-elements': 'error',
+        'jsx-a11y/autocomplete-valid': [
+          'off',
+          {
+            inputComponents: [],
+          },
+        ],
+        'jsx-a11y/click-events-have-key-events': 'error',
+        'jsx-a11y/control-has-associated-label': [
+          'error',
+          {
+            labelAttributes: ['label'],
+            controlComponents: [],
+            ignoreElements: [
+              'audio',
+              'canvas',
+              'embed',
+              'input',
+              'textarea',
+              'tr',
+              'video',
+            ],
+            ignoreRoles: [
+              'grid',
+              'listbox',
+              'menu',
+              'menubar',
+              'radiogroup',
+              'row',
+              'tablist',
+              'toolbar',
+              'tree',
+              'treegrid',
+            ],
+            depth: 5,
+          },
+        ],
+        'jsx-a11y/heading-has-content': ['error', { components: [''] }],
+        'jsx-a11y/html-has-lang': 'error',
+        'jsx-a11y/img-redundant-alt': 'error',
+        'jsx-a11y/interactive-supports-focus': 'error',
+        'jsx-a11y/label-has-associated-control': [
+          'error',
+          {
+            labelComponents: [],
+            labelAttributes: [],
+            controlComponents: [],
+            assert: 'both',
+            depth: 25,
+          },
+        ],
+        'jsx-a11y/mouse-events-have-key-events': 'error',
+        'jsx-a11y/no-access-key': 'error',
+        'jsx-a11y/no-autofocus': ['error', { ignoreNonDOM: true }],
+        'jsx-a11y/no-distracting-elements': [
+          'error',
+          {
+            elements: ['marquee', 'blink'],
+          },
+        ],
+        'jsx-a11y/no-interactive-element-to-noninteractive-role': [
+          'error',
+          {
+            tr: ['none', 'presentation'],
+          },
+        ],
+        'jsx-a11y/no-noninteractive-element-interactions': [
+          'error',
+          {
+            handlers: [
+              'onClick',
+              'onMouseDown',
+              'onMouseUp',
+              'onKeyPress',
+              'onKeyDown',
+              'onKeyUp',
+            ],
+          },
+        ],
+        'jsx-a11y/no-noninteractive-element-to-interactive-role': [
+          'error',
+          {
+            ul: [
+              'listbox',
+              'menu',
+              'menubar',
+              'radiogroup',
+              'tablist',
+              'tree',
+              'treegrid',
+            ],
+            ol: [
+              'listbox',
+              'menu',
+              'menubar',
+              'radiogroup',
+              'tablist',
+              'tree',
+              'treegrid',
+            ],
+            li: ['menuitem', 'option', 'row', 'tab', 'treeitem'],
+            table: ['grid'],
+            td: ['gridcell'],
+          },
+        ],
+        'jsx-a11y/no-noninteractive-tabindex': [
+          'error',
+          {
+            tags: [],
+            roles: ['tabpanel'],
+          },
+        ],
+        'jsx-a11y/no-redundant-roles': 'error',
+        'jsx-a11y/no-static-element-interactions': [
+          'error',
+          {
+            handlers: [
+              'onClick',
+              'onMouseDown',
+              'onMouseUp',
+              'onKeyPress',
+              'onKeyDown',
+              'onKeyUp',
+            ],
+          },
+        ],
+        'jsx-a11y/role-has-required-aria-props': 'error',
+        'jsx-a11y/role-supports-aria-props': 'error',
+        'jsx-a11y/scope': 'error',
+        'jsx-a11y/tabindex-no-positive': 'error',
+        'react-perf/jsx-no-new-object-as-prop': 'error',
+        'react-perf/jsx-no-new-array-as-prop': 'error',
+        'react-perf/jsx-no-new-function-as-prop': 'error',
+        'react-perf/jsx-no-jsx-as-prop': 'error',
       },
     },
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 2020,
+    project: ['./functions/tsconfig.json', './site/tsconfig.json'],
     sourceType: 'module',
   },
   plugins: [
@@ -148,6 +522,10 @@ module.exports = {
     '@typescript-eslint',
     'react',
     'react-hooks',
+    'jsx-a11y',
+    'react-perf',
+    'sonarjs',
+    'simple-import-sort',
   ],
   root: true,
   rules: {
@@ -199,6 +577,26 @@ module.exports = {
     'unicorn/prefer-spread': 'off',
     'no-use-before-define': 'off',
     '@typescript-eslint/no-use-before-define': ['error'],
+    "simple-import-sort/imports": ["error",{
+      groups: [
+        // Node.js builtins.
+        [
+          `^(${require("module").builtinModules.join("|")})(/|$)`,
+        ],
+        // Packages.
+        ["^@?\\w"],
+        // Side effect imports.
+        ["^\\u0000"],
+        // Parent imports. Put `..` last.
+        ["^\\.\\.(?!/?$)", "^\\.\\./?$"],
+        // Other relative imports. Put same-folder imports and `.` last.
+        ["^\\./(?=.*/)(?!/?$)", "^\\.(?!/?$)", "^\\./?$"],
+        // Style imports.
+        ["^.+\\.s?css$"],
+      ],
+    }],
+    "simple-import-sort/exports": "error",
+    'import/order': 'off'
   },
   settings: {
     'import/parsers': {

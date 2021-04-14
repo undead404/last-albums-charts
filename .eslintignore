@@ -37,3 +37,5 @@ site/node_modules
 site/artifacts
 site/dist
 site/tmp
+functions/ecosystem.config.js
+site/static.config.js
