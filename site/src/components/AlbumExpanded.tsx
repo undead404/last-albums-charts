@@ -6,7 +6,6 @@ import toPairs from 'lodash/toPairs';
 import React, { CSSProperties, useMemo } from 'react';
 
 import { Album } from '../../types';
-
 import getAlbumTitle from '../utils/get-album-title';
 
 import AlbumLinks from './AlbumLinks';
@@ -53,6 +52,7 @@ export default function AlbumExpanded({
       ),
     [album.tags],
   );
+  const rating = `${tagName} #${album.rating}`;
   return (
     <Descriptions
       bordered
@@ -81,9 +81,7 @@ export default function AlbumExpanded({
       <Descriptions.Item label="Links">
         <AlbumLinks album={album} />
       </Descriptions.Item>
-      <Descriptions.Item label="Rating">
-        {tagName} #{album.rating}
-      </Descriptions.Item>
+      <Descriptions.Item label="Rating">{rating}</Descriptions.Item>
     </Descriptions>
   );
 }

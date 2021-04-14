@@ -1,5 +1,7 @@
 import { Button } from 'antd';
-import React, { MouseEvent, ReactNode, useCallback } from 'react';
+import React, { ReactNode } from 'react';
+
+import stopPropagation from '../utils/stop-propagation';
 
 export interface IconLinkProperties {
   icon: ReactNode;
@@ -10,19 +12,15 @@ export default function IconLink({
   icon,
   url,
 }: IconLinkProperties): JSX.Element {
-  const handleClick = useCallback(
-    (event: MouseEvent<HTMLAnchorElement>) => event.stopPropagation(),
-    [],
-  );
   return (
     <Button
       href={url}
       icon={icon}
-      onClick={handleClick}
+      onClick={stopPropagation}
       shape="circle"
       target="_blank"
       title="Last.fm"
       type="link"
-    ></Button>
+    />
   );
 }

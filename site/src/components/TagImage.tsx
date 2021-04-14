@@ -4,7 +4,6 @@ import orderBy from 'lodash/orderBy';
 import React from 'react';
 
 import { Tag } from '../../types';
-
 import getAlbumTitle from '../utils/get-album-title';
 
 export interface TagImageProperties {

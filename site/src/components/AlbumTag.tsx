@@ -20,7 +20,7 @@ export default function AlbumTag({
   tagName,
 }: AlbumTagProperties): JSX.Element {
   const {
-    availableTags: { data: availableTags },
+    availableTags: { data: availableTags } = { data: [] },
   } = useRouteData();
   const formatName = useCallback(
     () => <Typography.Text title={`${tagCount}%`}>{tagName}</Typography.Text>,
@@ -30,8 +30,8 @@ export default function AlbumTag({
     return (
       <Col>
         <Progress
-          format={formatName}
           key={tagName}
+          format={formatName}
           percent={tagCount}
           style={PROGRESS_STYLE}
           type="circle"
@@ -43,8 +43,8 @@ export default function AlbumTag({
     <Col>
       <Link to={`/tag/${filenamify(tagName)}`}>
         <Progress
-          format={formatName}
           key={tagName}
+          format={formatName}
           percent={tagCount}
           style={PROGRESS_STYLE}
           type="circle"

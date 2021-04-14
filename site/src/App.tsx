@@ -1,12 +1,14 @@
 import { Link, Router } from '@reach/router';
 import { Skeleton } from 'antd';
 import React, { Suspense } from 'react';
-import { Root, Routes, addPrefetchExcludes, Head } from 'react-static';
+import { addPrefetchExcludes, Head, Root, Routes } from 'react-static';
 
 import './app.css';
 
 // Any routes that start with 'dynamic' will be treated as non-static routes
 addPrefetchExcludes(['dynamic']);
+
+const FALLBACK = <Skeleton />;
 
 function App(): JSX.Element {
   return (
@@ -65,7 +67,7 @@ function App(): JSX.Element {
         <Link to="/tag">Tags</Link>
       </nav>
       <div className="content">
-        <Suspense fallback={<Skeleton />}>
+        <Suspense fallback={FALLBACK}>
           <Router>
             <Routes path="*" />
           </Router>

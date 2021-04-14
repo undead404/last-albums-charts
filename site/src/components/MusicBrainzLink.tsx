@@ -8,7 +8,7 @@ import IconLink from './IconLink';
 export interface MusicBrainzLinkProperties {
   album: Album;
 }
-
+const ICON = <Musicbrainz color="#BA478F" />;
 export default function MusicBrainzLink({
   album,
 }: MusicBrainzLinkProperties): JSX.Element | null {
@@ -17,7 +17,7 @@ export default function MusicBrainzLink({
   }
   return (
     <IconLink
-      icon={<Musicbrainz color="#BA478F" />}
+      icon={ICON}
       url={`https://musicbrainz.org/release/${album.mbid}`}
     />
   );

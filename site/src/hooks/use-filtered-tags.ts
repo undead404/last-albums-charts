@@ -16,12 +16,11 @@ export default function useFilteredTags(
     () => (searchIndex ? lunr.Index.load(searchIndex) : null),
     [searchIndex],
   );
-  const filteredItems = useMemo(() => {
+  return useMemo(() => {
     if (!search || !searchTerm) {
       return tags;
     }
     const results = search.search(searchTerm);
     return compact(map(results, (result) => find(tags, ['name', result.ref])));
   }, [searchTerm, tags]);
-  return filteredItems;
 }

@@ -24,13 +24,17 @@ export interface TagsListRouteData {
   };
 }
 
+const TABLE_LINK = <Link to="/tag">As a table</Link>;
+
 export default function TagsList(): JSX.Element {
   const availableTags = useRouteData<TagsListRouteData>().availableTags?.data;
   const groupedTags = useMemo<[string, string[]][]>(
     () =>
       availableTags
         ? sortBy(
-            toPairs<string[]>(groupBy<string>(sortBy(availableTags), head)),
+            toPairs<string[]>(
+              groupBy<string>(sortBy(availableTags || []), head),
+            ),
             0,
           )
         : [],
@@ -41,11 +45,11 @@ export default function TagsList(): JSX.Element {
     <Layout>
       <Layout.Header>
         <PageHeader
-          extra={<Link to="/tag">As a table</Link>}
+          extra={TABLE_LINK}
           ghost={false}
           onBack={goBack}
           title="Available charts in a list"
-        ></PageHeader>
+        />
       </Layout.Header>
       <Layout.Content>
         {map(groupedTags, ([firstLetter, tags]) => (

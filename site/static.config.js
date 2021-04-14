@@ -9,6 +9,7 @@ import { createSharedData } from 'react-static/node';
 
 import searchIndex from './src/search-index.json';
 import tagsData from './src/tags.json';
+import topList from './src/top-list.json';
 // import { Tag } from './types'
 
 const { tags } = tagsData;
@@ -36,9 +37,16 @@ export default {
     const sharedAvailableTags = createSharedData(availableTags);
     return [
       {
+        getData: () => ({
+          topList: topList.albums,
+        }),
+        path: '/',
+        template: 'src/pages/index',
+      },
+      {
         children: map(tagsWithRankedAlbums, (tag /* : Post */) => ({
           path: `/${filenamify(tag.name)}`,
-          template: 'src/pages/tag',
+          template: 'src/pages/tag/tag',
           getData: () => ({
             availableTags: sharedAvailableTags,
             tag,
@@ -49,7 +57,7 @@ export default {
           tags: tagsWithRankedAlbums,
         }),
         path: '/tag',
-        template: 'src/pages/tags',
+        template: 'src/pages/tags/tags',
       },
       {
         getData: async () => ({

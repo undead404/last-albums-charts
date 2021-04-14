@@ -16,7 +16,7 @@ export default function TagHelmet({ tag }: TagHelmetProperties): JSX.Element {
   return (
     <Head>
       {/* <!-- Primary Meta Tags --> */}
-      <title>You Must Hear | {tag.name}</title>
+      <title>{title}</title>
       <meta content={title} name="title" />
       <meta
         content="100 albums you must hear before you die"
@@ -41,7 +41,7 @@ export default function TagHelmet({ tag }: TagHelmetProperties): JSX.Element {
         content="100 albums you must hear before you die"
         property="twitter:description"
       />
-      <meta content={image} property="twitter:image"></meta>
+      <meta content={image} property="twitter:image" />
 
       {tag.lastProcessedAt && (
         <meta content={tag.lastProcessedAt} httpEquiv="date" />
