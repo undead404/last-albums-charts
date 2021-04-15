@@ -3,7 +3,7 @@ import { Skeleton } from 'antd';
 import React, { Suspense } from 'react';
 import { addPrefetchExcludes, Head, Root, Routes } from 'react-static';
 
-import './app.css';
+import GlobalStyle from './GlobalStyle';
 
 // Any routes that start with 'dynamic' will be treated as non-static routes
 addPrefetchExcludes(['dynamic']);
@@ -13,6 +13,7 @@ const FALLBACK = <Skeleton />;
 function App(): JSX.Element {
   return (
     <Root>
+      <GlobalStyle />
       <Head>
         <title>You Must Hear</title>
         <meta content="You Must Hear" name="title" />

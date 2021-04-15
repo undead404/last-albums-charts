@@ -28,7 +28,7 @@ export default async function saveList(
   tagRecord: TagRecord,
   albums?: WithId<AlbumRecord>[],
 ): Promise<void> {
-  if (!albums || !didAlbumsChange(tagRecord, albums)) {
+  if (!albums) {
     await mongoDatabase.tags.updateOne(
       { name: tagRecord.name },
       {
@@ -40,15 +40,24 @@ export default async function saveList(
         },
       },
     );
-    return;
-  }
-  const tagUpdate: Partial<TagRecord> = {
-    listCreatedAt: new Date(),
-    topAlbums: albums,
-  };
+  } else if (!didAlbumsChange(tagRecord, albums)) {
+    await mongoDatabase.tags.updateOne(
+      { name: tagRecord.name },
+      {
+        $set: {
+          listCreatedAt: new Date(),
+        },
+      },
+    );
+  } else {
+    const tagUpdate: Partial<TagRecord> = {
+      listCreatedAt: new Date(),
+      topAlbums: albums,
+    };
 
-  await mongoDatabase.tags.updateOne(
-    { name: tagRecord.name },
-    { $set: tagUpdate },
-  );
+    await mongoDatabase.tags.updateOne(
+      { name: tagRecord.name },
+      { $set: tagUpdate },
+    );
+  }
 }

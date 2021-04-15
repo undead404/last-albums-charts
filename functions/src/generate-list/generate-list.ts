@@ -31,6 +31,7 @@ export default async function generateList(): Promise<void> {
       return;
     }
     if (isTagBlacklisted(tagRecord.name)) {
+      logger.warn(`${tagRecord.name} - blacklisted...`);
       await mongodb.tags.deleteOne({ name: tagRecord.name });
       await generateList();
       return;

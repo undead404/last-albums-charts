@@ -1,48 +1,33 @@
 import { LastDotFm } from '@icons-pack/react-simple-icons';
-import {
-  BackTop,
-  Descriptions,
-  Layout,
-  PageHeader,
-  Table,
-  TableProps,
-} from 'antd';
+import { BackTop, Descriptions, Layout, PageHeader } from 'antd';
 import React, { useMemo } from 'react';
 import { useRouteData } from 'react-static';
 
-import { Album, SerializedTag, Weighted } from '../../../types';
-import AlbumExpanded from '../../components/AlbumExpanded';
+import { SerializedTag } from '../../../types';
+import AlbumsTable from '../../components/AlbumsTable/AlbumsTable';
 import IconLink from '../../components/IconLink';
 import TagHelmet from '../../components/TagHelmet';
-import getAlbumKey from '../../utils/get-album-key';
 import goBack from '../../utils/go-back';
-
-import COLUMNS from './columns';
 
 const LASTFM_ICON = <LastDotFm color="#D51007" />;
 
-export default function TagPage(): JSX.Element {
+export default function TagPage(): JSX.Element | null {
   const {
     tag,
   }: { availableTags: string[]; tag: SerializedTag } = useRouteData();
-  const expandable = useMemo<TableProps<Weighted<Album>>['expandable']>(
-    () => ({
-      expandedRowRender(album: Weighted<Album>) {
-        return <AlbumExpanded album={album} tagName={tag.name} />;
-      },
-      expandRowByClick: true,
-    }),
-    [tag.name],
-  );
   const iconLink = useMemo(
-    () => (
-      <IconLink
-        icon={LASTFM_ICON}
-        url={`https://last.fm/tag/${encodeURIComponent(tag.name)}`}
-      />
-    ),
-    [tag.name],
+    () =>
+      tag ? (
+        <IconLink
+          icon={LASTFM_ICON}
+          url={`https://last.fm/tag/${encodeURIComponent(tag.name)}`}
+        />
+      ) : null,
+    [tag],
   );
+  if (!tag) {
+    return null;
+  }
   return (
     <Layout>
       <TagHelmet tag={tag} />
@@ -65,13 +50,7 @@ export default function TagPage(): JSX.Element {
         </PageHeader>
       </Layout.Header>
       <Layout.Content>
-        <Table
-          columns={COLUMNS}
-          dataSource={tag.topAlbums || undefined}
-          expandable={expandable}
-          pagination={false}
-          rowKey={getAlbumKey}
-        />
+        <AlbumsTable albums={tag.topAlbums || undefined} />
       </Layout.Content>
       <BackTop />
     </Layout>

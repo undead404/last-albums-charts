@@ -37,48 +37,59 @@ export default {
     const sharedAvailableTags = createSharedData(availableTags);
     return [
       {
+        children: [{
+          children: map(tagsWithRankedAlbums, (tag /* : Post */) => ({
+            path: `/${filenamify(tag.name)}`,
+            template: 'src/pages/tag/tag',
+            getData: () => ({
+              availableTags: sharedAvailableTags,
+              tag,
+            }),
+          })),
+          getData: async () => ({
+            searchIndex,
+            tags: tagsWithRankedAlbums,
+          }),
+          path: '/tag',
+          template: 'src/pages/tags/tags',
+        },
+        {
+          getData: async () => ({
+            availableTags: sharedAvailableTags,
+          }),
+          path: '/tag-list',
+          template: 'src/pages/tags-list',
+        },
+        {
+          path: '/404',
+          template: 'src/pages/404',
+        },
+        {
+          path: '/about',
+          template: 'src/pages/about',
+        },],
         getData: () => ({
+          availableTags: sharedAvailableTags,
           topList: topList.albums,
         }),
         path: '/',
-        template: 'src/pages/index',
+        template: 'src/pages/index/index',
       },
-      {
-        children: map(tagsWithRankedAlbums, (tag /* : Post */) => ({
-          path: `/${filenamify(tag.name)}`,
-          template: 'src/pages/tag/tag',
-          getData: () => ({
-            availableTags: sharedAvailableTags,
-            tag,
-          }),
-        })),
-        getData: async () => ({
-          searchIndex,
-          tags: tagsWithRankedAlbums,
-        }),
-        path: '/tag',
-        template: 'src/pages/tags/tags',
-      },
-      {
-        getData: async () => ({
-          availableTags: sharedAvailableTags,
-        }),
-        path: '/tag-list',
-        template: 'src/pages/tags-list',
-      },
+
     ];
   },
   outputFileRate: 20,
   plugins: [
     'react-static-plugin-typescript',
-    [
-      require.resolve('react-static-plugin-source-filesystem'),
-      {
-        location: path.resolve('./src/pages'),
-      },
-    ],
+    // [
+    //   require.resolve('react-static-plugin-source-filesystem'),
+    //   {
+    //     location: path.resolve('./src/pages'),
+    //   },
+    // ],
     require.resolve('react-static-plugin-reach-router'),
     require.resolve('react-static-plugin-sitemap'),
+    require.resolve('react-static-plugin-styled-components'),
   ],
   siteRoot: 'https://you-must-hear.surge.sh',
 };

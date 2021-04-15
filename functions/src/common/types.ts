@@ -42,3 +42,7 @@ export type SerializableTag = Omit<
 };
 
 export type AlbumAmqpPayload = Pick<AlbumRecord, 'artist' | 'mbid' | 'name'>;
+
+export type Rated<T> = T & {
+  rating: number;
+};

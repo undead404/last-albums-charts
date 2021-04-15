@@ -1,8 +1,9 @@
 import { Link } from '@reach/router';
 import { BackTop, Input, Layout, PageHeader, Table, TableProps } from 'antd';
 import map from 'lodash/map';
-import React, { CSSProperties, useMemo, useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import { useRouteData } from 'react-static';
+import styled from 'styled-components';
 
 import { SerializedTag, Tag } from '../../../types';
 import useFilteredTags from '../../hooks/use-filtered-tags';
@@ -15,7 +16,10 @@ const SCROLL: TableProps<Tag>['scroll'] = {
   y: '100vh',
 };
 
-const HEADER_STYLE: CSSProperties = { background: 'none' };
+const LayoutHeader = styled(Layout.Header)`
+  background: none;
+`;
+
 const LIST_LINK = <Link to="/tag-list">Full list</Link>;
 export default function Tags(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState('');
@@ -27,13 +31,13 @@ export default function Tags(): JSX.Element {
 
   return (
     <Layout>
-      <Layout.Header style={HEADER_STYLE}>
+      <LayoutHeader>
         <PageHeader
           extra={LIST_LINK}
           onBack={goBack}
           title="Available charts"
         />
-      </Layout.Header>
+      </LayoutHeader>
       <Layout.Content>
         <Input.Search onSearch={setSearchTerm} placeholder="Search..." />
         <Table

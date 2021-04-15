@@ -46,7 +46,7 @@ export default async function generatePosts(): Promise<void> {
   const posts = map(tags, tagToLunrItem);
   const searchIndex = lunr(function configure() {
     this.ref('name');
-    this.field('name', { boost: 3 });
+    this.field('name', { boost: 10 });
     this.field('text');
     forEach(posts, (post) => {
       this.add(post);

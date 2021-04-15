@@ -7,16 +7,16 @@ import map from 'lodash/map';
 import sortBy from 'lodash/sortBy';
 import toPairs from 'lodash/toPairs';
 import toUpper from 'lodash/toUpper';
-import React, { CSSProperties, Fragment, useMemo } from 'react';
+import React, { Fragment, useMemo } from 'react';
 import { useRouteData } from 'react-static';
+import styled from 'styled-components';
 
-import useLogChanges from '../hooks/use-log-changes';
 import goBack from '../utils/go-back';
 
-const LINK_STYLE: CSSProperties = {
-  maxWidth: '100%',
-  padding: '0.5rem',
-};
+const TagLink = styled(Link)`
+  max-width: 100%;
+  padding: 0.5rem;
+`;
 
 export interface TagsListRouteData {
   availableTags?: {
@@ -40,7 +40,6 @@ export default function TagsList(): JSX.Element {
         : [],
     [availableTags],
   );
-  useLogChanges('TagsList', 'groupedTags', groupedTags);
   return (
     <Layout>
       <Layout.Header>
@@ -58,13 +57,12 @@ export default function TagsList(): JSX.Element {
             <Row gutter={8}>
               {map(tags, (tagName) => (
                 <Col key={tagName} span={6} xs={12}>
-                  <Link
+                  <TagLink
                     className="ant-typography ant-typography-ellipsis ant-typography-ellipsis-single-line"
-                    style={LINK_STYLE}
                     to={`/tag/${filenamify(tagName)}`}
                   >
                     {tagName}
-                  </Link>
+                  </TagLink>
                 </Col>
               ))}
             </Row>

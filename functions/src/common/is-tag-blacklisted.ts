@@ -1,14 +1,19 @@
+/* eslint-disable sonarjs/no-duplicated-branches */
 import endsWith from 'lodash/endsWith';
 import includes from 'lodash/includes';
 import some from 'lodash/some';
 import startsWith from 'lodash/startsWith';
 
+import logger from './logger';
+
 const BLACKLISTED_TAGS = [
   '<3',
   '1001 albums you must hear before you die',
+  '200 great albums owned by sideflower',
   '2013 albums',
   '2014 releases',
   '2014: albums',
+  '2cd',
   '4',
   '8 soothing songs for rut',
   'a',
@@ -16,19 +21,26 @@ const BLACKLISTED_TAGS = [
   'album',
   'album i own',
   'albums',
+  'albums i could marry',
   'albums i have',
   'albums i have listened',
   'albums i love',
   'albums i own',
   'albums i own on vinyl',
   'albums i want',
+  'albums that i fucking love',
   'albums that i might like to buy',
+  'albums to buy',
+  'albums to get',
   'all',
   'all aboard the failboat',
   'all things annoying in the world put together into one stupid bitch',
+  'all time favourite albums',
   'all time great albums',
   'amazing',
   'ambient dildocore',
+  'anal pop',
+  'anal vocalist',
   'annoying',
   'approved',
   'approximately 1000 times less pleasant than extreme anal caving',
@@ -116,6 +128,7 @@ const BLACKLISTED_TAGS = [
   'fav',
   'fav album',
   'fav albums',
+  'faves of the year',
   'favorite',
   'favorite album',
   'favorite albums',
@@ -134,6 +147,7 @@ const BLACKLISTED_TAGS = [
   'favs of nocci',
   'fellating the bottom of a bottle of wine',
   'fip',
+  'flat-out amazing records that everyone should have in their cd collection',
   'flawless',
   'flop',
   'for howisya to hear',
@@ -201,6 +215,7 @@ const BLACKLISTED_TAGS = [
   'k1r7m',
   'kacke',
   'kategorische elative',
+  'kayfovo',
   'kept in freezer to be served as dinner',
   'kitsch',
   'known albums',
@@ -209,6 +224,7 @@ const BLACKLISTED_TAGS = [
   'leather daddy rape soundtrack',
   'legally owned albums',
   'legend',
+  'legendary',
   'legendary night music for chads',
   'life',
   'list',
@@ -238,6 +254,8 @@ const BLACKLISTED_TAGS = [
   'more gay than a san fransisco man in a hawaiian shirt sniffing some liquid gold and watching sex in the city',
   'moronic',
   'most amazing bands in the fucking world',
+  'most loved',
+  'mtv trash',
   'music to listen while pederasting',
   'my albums',
   'my cat starts to vomit uncontrollably when listening to this',
@@ -247,6 +265,7 @@ const BLACKLISTED_TAGS = [
   'my favourite albums',
   'my hatred of this is so thick and rich that you could drizzle it over pancakes',
   'my little kvlts',
+  'my mp3',
   'my private work station',
   'my top 10',
   'my vinyl',
@@ -254,6 +273,7 @@ const BLACKLISTED_TAGS = [
   'nazi shit',
   'near-flawless albums',
   'need to check this out',
+  'nice',
   'nice album art',
   'no talent',
   'not on my computer anymore',
@@ -269,6 +289,7 @@ const BLACKLISTED_TAGS = [
   'owned',
   'part of my vinyl collection',
   'pathetic',
+  'pederastcore',
   'people i dont want to have sex with',
   'people who have no talent',
   'perfect',
@@ -280,6 +301,8 @@ const BLACKLISTED_TAGS = [
   'playlist',
   'please assassinate',
   'posluchac',
+  'post-anal experience',
+  'post-kircore',
   'pretentious',
   'psycho',
   'pussycore',
@@ -315,6 +338,7 @@ const BLACKLISTED_TAGS = [
   'shit being pumped into my head through a fire hose',
   'shit only a fag would listen to',
   'shit only a retard would listen to',
+  'shit to check out',
   'shitcore',
   'sick',
   'signed album i own',
@@ -354,6 +378,7 @@ const BLACKLISTED_TAGS = [
   'trashbag filled with vomit',
   'trite',
   'troll',
+  'truth',
   'trying too hard',
   'ugly',
   'ugly vocalists',
@@ -374,6 +399,7 @@ const BLACKLISTED_TAGS = [
   'volatile',
   'waahh i love it',
   'wanking and crying while running a marathon',
+  'waste of valuable human sperm',
   'what a waste of site resources',
   'what should i listen to next',
   'when i listen to them i dont have to buy peptobysmol anymore',
@@ -393,48 +419,52 @@ const BLACKLISTED_TAGS = [
 
 const BLACKLISTED_TAG_STARTS = [
   ' ',
+  'albums bought by ',
+  'altar of the metal gods',
   'best ',
   'fucking great ',
   'harukaex',
   'my gang',
   'perfect ',
+  'the best ',
   'top ',
   'valkyeriex',
   'valkyreiex',
   'valkyriex',
   'worse than ',
-  'worst of ',
+  'worst ',
 ];
 const BLACKLISTED_TAG_ENDS = [' stars', 'buttcore'];
 
-const MIN_TAG_NAME_LENGTH = 3;
+const MIN_TAG_NAME_LENGTH = 2;
 const NUMERIC_RE = /^\d+$/;
 
 export default function isTagBlacklisted(tagName: string): boolean {
+  let result = false;
   if (tagName.length < MIN_TAG_NAME_LENGTH) {
-    return true;
-  }
-  if (includes(BLACKLISTED_TAGS, tagName)) {
-    return true;
-  }
-
-  if (NUMERIC_RE.test(tagName)) {
-    return true;
-  }
-  if (
+    result = true;
+    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: length`);
+  } else if (includes(BLACKLISTED_TAGS, tagName)) {
+    result = true;
+    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: explicitly`);
+  } else if (NUMERIC_RE.test(tagName)) {
+    result = true;
+    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: numeric`);
+  } else if (
     some(BLACKLISTED_TAG_STARTS, (blacklistedTagStart) =>
       startsWith(tagName, blacklistedTagStart),
     )
   ) {
-    return true;
-  }
-
-  if (
+    result = true;
+    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: start`);
+  } else if (
     some(BLACKLISTED_TAG_ENDS, (blacklistedTagEnd) =>
       endsWith(tagName, blacklistedTagEnd),
     )
   ) {
-    return true;
+    result = true;
+    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: end`);
   }
-  return false;
+  return result;
 }
+/* eslint-enable sonarjs/no-duplicated-branches */

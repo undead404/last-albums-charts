@@ -36,9 +36,12 @@ export default async function populateTagWeight(): Promise<void> {
         },
       ])
       .toArray();
-    await (power === 0
-      ? mongoDatabase.tags.deleteOne({ _id: tag._id })
-      : mongoDatabase.tags.updateOne({ _id: tag._id }, { $set: { power } }));
+    if (power === 0) {
+      logger.warn(`${tag.name} - blacklisted...`);
+      await mongoDatabase.tags.deleteOne({ _id: tag._id });
+    } else {
+      await mongoDatabase.tags.updateOne({ _id: tag._id }, { $set: { power } });
+    }
     await publish('perf', {
       end: new Date().toISOString(),
       start: start.toISOString(),

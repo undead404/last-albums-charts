@@ -3,6 +3,7 @@ import { WithId } from 'mongodb';
 import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
 import mongodb from '../common/mongo-database';
+import rateAlbums from '../common/rate-albums';
 import { AlbumRecord, TagRecord, Weighted } from '../common/types';
 
 import saveList from './save-top-list';
@@ -74,7 +75,7 @@ export default async function generateTopList(): Promise<void> {
         },
       ])
       .toArray();
-    await saveList(albums);
+    await saveList(rateAlbums(albums));
     logger.debug('generateTopList: success');
 
     await publish('perf', {

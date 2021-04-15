@@ -48,6 +48,7 @@ export default async function pickTag(): Promise<TagRecord | undefined> {
     logger.warn('No tags picked');
   } else {
     if (isTagBlacklisted(tag.name)) {
+      logger.warn(`${tag.name} - blacklisted...`);
       await mongoDatabase.tags.deleteOne({ name: tag.name });
       return pickTag();
     }
