@@ -3,6 +3,7 @@ import { Skeleton } from 'antd';
 import React, { Suspense } from 'react';
 import { addPrefetchExcludes, Head, Root, Routes } from 'react-static';
 
+import useRedirectHttps from './hooks/use-redirect-https';
 import GlobalStyle from './GlobalStyle';
 
 // Any routes that start with 'dynamic' will be treated as non-static routes
@@ -11,6 +12,7 @@ addPrefetchExcludes(['dynamic']);
 const FALLBACK = <Skeleton />;
 
 function App(): JSX.Element {
+  useRedirectHttps();
   return (
     <Root>
       <GlobalStyle />

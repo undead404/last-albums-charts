@@ -21,7 +21,7 @@ export interface AlbumModalProperties {
   album: Weighted<Album> | null;
   onClose: () => void;
 }
-const MIN_TAG_COUNT = 5;
+const MIN_TAG_COUNT = 50;
 export default function AlbumModal({
   album,
   onClose,
