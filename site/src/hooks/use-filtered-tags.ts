@@ -5,12 +5,12 @@ import lunr from 'lunr';
 import { useMemo } from 'react';
 import { useRouteData } from 'react-static';
 
-import { Tag } from '../../types';
+import { TagForTagsPage } from '../../types';
 
 export default function useFilteredTags(
-  tags: Tag[],
+  tags: TagForTagsPage[],
   searchTerm?: string,
-): Tag[] {
+): TagForTagsPage[] {
   const { searchIndex } = useRouteData();
   const search: lunr.Index | null = useMemo(
     () => (searchIndex ? lunr.Index.load(searchIndex) : null),

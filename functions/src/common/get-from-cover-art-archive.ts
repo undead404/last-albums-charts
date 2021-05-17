@@ -2,8 +2,8 @@ import find from 'lodash/find';
 import get from 'lodash/get';
 import size from 'lodash/size';
 
-import getCoverArtInfo from '../common/cover-art-archive/get-cover-art-info';
-import { AlbumRecord } from '../common/types';
+import getCoverArtInfo from './cover-art-archive/get-cover-art-info';
+import { AlbumRecord } from './types';
 
 export default async function getFromCoverArtArchive(
   albumMbid: string,

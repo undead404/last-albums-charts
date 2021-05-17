@@ -1,8 +1,10 @@
 import { publish } from '../common/amqp-broker';
+import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
-import mongodb from '../common/mongo-database';
+import mongoDatabase from '../common/mongo-database';
 import { TagRecord } from '../common/types';
 
+import generateList from './generate-list';
 import pickTag from './pick-tag';
 import scrapeAlbumsByTag from './scrape-albums-by-tag';
 
@@ -14,11 +16,16 @@ export default async function scrapeAlbums(): Promise<void> {
     return;
   }
   try {
+    if (isTagBlacklisted(tag.name)) {
+      await mongoDatabase.tags.deleteOne({ name: tag.name });
+      await scrapeAlbums();
+      return;
+    }
     await scrapeAlbumsByTag(tag);
     const tagUpdate: Partial<TagRecord> = {
       lastProcessedAt: new Date(),
     };
-    await mongodb.tags.updateOne({ name: tag.name }, { $set: tagUpdate });
+    await mongoDatabase.tags.updateOne({ name: tag.name }, { $set: tagUpdate });
     logger.info(`scrapeAlbums: ${tag.name} - success`);
     await publish('perf', {
       end: new Date().toISOString(),
@@ -36,5 +43,8 @@ export default async function scrapeAlbums(): Promise<void> {
       title: 'scrapeAlbums',
     });
     throw error;
+  }
+  if (!(await generateList(tag))) {
+    await scrapeAlbums();
   }
 }

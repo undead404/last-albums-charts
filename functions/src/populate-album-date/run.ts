@@ -17,6 +17,15 @@ export default async function main(): Promise<void> {
       const album: AlbumAmqpPayload = content;
       const start = new Date();
       try {
+        const albumRecord = await (album.mbid
+          ? mongoDatabase.albums.findOne({ mbid: album.mbid })
+          : mongoDatabase.albums.findOne({
+              artist: album.artist,
+              name: album.name,
+            }));
+        if (albumRecord?.date) {
+          return;
+        }
         await populateAlbumDate(album);
         await publish('perf', {
           end: new Date().toISOString(),

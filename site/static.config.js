@@ -1,6 +1,7 @@
 import path from 'path';
 
 import filenamify from 'filenamify';
+import find from 'lodash/find';
 import findIndex from 'lodash/findIndex';
 import map from 'lodash/map';
 import omit from 'lodash/omit';
@@ -37,37 +38,48 @@ export default {
     const sharedAvailableTags = createSharedData(availableTags);
     return [
       {
-        children: [{
-          children: map(tagsWithRankedAlbums, (tag /* : Post */) => ({
-            path: `/${filenamify(tag.name)}`,
-            template: 'src/pages/tag/tag',
-            getData: () => ({
-              availableTags: sharedAvailableTags,
-              tag,
+        children: [
+          {
+            children: map(tagsWithRankedAlbums, (tag /* : Post */) => ({
+              path: `/${filenamify(tag.name)}`,
+              template: 'src/pages/tag/tag',
+              getData: () => ({
+                availableTags: sharedAvailableTags,
+                tag,
+              }),
+            })),
+            getData: async () => ({
+              searchIndex,
+              tags: map(tagsWithRankedAlbums, (tag) => {
+                const albumWithCover = find(orderBy(tag.topAlbums, ['weight'], ['desc']), 'thumbnail');
+                return {
+                  ...omit(tag, ['_id', 'topAlbums']),
+                  preview: albumWithCover?.thumbnail,
+                  title: albumWithCover
+                    ? `${albumWithCover.artist} - ${albumWithCover.name} (${albumWithCover.date})`
+                    : undefined,
+                };
+              }),
             }),
-          })),
-          getData: async () => ({
-            searchIndex,
-            tags: tagsWithRankedAlbums,
-          }),
-          path: '/tag',
-          template: 'src/pages/tags/tags',
-        },
-        {
-          getData: async () => ({
-            availableTags: sharedAvailableTags,
-          }),
-          path: '/tag-list',
-          template: 'src/pages/tags-list',
-        },
-        {
-          path: '/404',
-          template: 'src/pages/404',
-        },
-        {
-          path: '/about',
-          template: 'src/pages/about',
-        },],
+            path: '/tag',
+            template: 'src/pages/tags/tags',
+          },
+          {
+            getData: async () => ({
+              availableTags: sharedAvailableTags,
+            }),
+            path: '/tag-list',
+            template: 'src/pages/tags-list',
+          },
+          {
+            path: '/404',
+            template: 'src/pages/404',
+          },
+          {
+            path: '/about',
+            template: 'src/pages/about',
+          },
+        ],
         getData: () => ({
           availableTags: sharedAvailableTags,
           topList: topList.albums,
@@ -75,7 +87,6 @@ export default {
         path: '/',
         template: 'src/pages/index/index',
       },
-
     ];
   },
   outputFileRate: 20,

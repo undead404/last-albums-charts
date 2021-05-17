@@ -31,11 +31,11 @@ const config: BrokerConfig = {
           destinationType: 'queue',
           source: 'perf',
         },
-        populateAlbumCover: {
-          destination: 'populateAlbumCover',
-          destinationType: 'queue',
-          source: 'newAlbums',
-        },
+        // populateAlbumCover: {
+        //   destination: 'populateAlbumCover',
+        //   destinationType: 'queue',
+        //   source: 'newAlbums',
+        // },
         populateAlbumDate: {
           destination: 'populateAlbumDate',
           destinationType: 'queue',
@@ -106,7 +106,7 @@ const config: BrokerConfig = {
       //   'populateAlbumTags',
       // ],
       queues: {
-        populateAlbumCover: { assert: true },
+        // populateAlbumCover: { assert: true },
         populateAlbumDate: { assert: true },
         populateAlbumStats: { assert: true },
         populateAlbumTags: { assert: true },
@@ -121,9 +121,9 @@ const config: BrokerConfig = {
         trackPerf: {
           queue: 'trackPerf',
         },
-        populateAlbumCover: {
-          queue: 'populateAlbumCover',
-        },
+        // populateAlbumCover: {
+        //   queue: 'populateAlbumCover',
+        // },
         populateAlbumDate: {
           queue: 'populateAlbumDate',
         },

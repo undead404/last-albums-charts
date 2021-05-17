@@ -37,7 +37,7 @@ async function run() {
     await saveTags();
     await generateSearchIndex();
     await generateTopList();
-    await execute(`cd ${ROOT_FOLDER} && npx eslint site --fix`);
+    // await execute(`cd ${ROOT_FOLDER} && npx eslint site --fix`);
     await execute(`cd ${SITE_FOLDER} && yarn deploy`);
     logger.info('Deploy successful');
     await publish('perf', {
@@ -47,6 +47,7 @@ async function run() {
       targetName: 'site',
       title: 'deploy',
     });
+    process.exit(0);
   } catch (error) {
     logger.error(toString(error));
     await publish('perf', {
@@ -56,6 +57,7 @@ async function run() {
       targetName: 'site',
       title: 'deploy',
     });
+    process.exit(1);
   }
 }
 

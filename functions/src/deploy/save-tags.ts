@@ -1,15 +1,36 @@
 import fs from 'fs';
 import path from 'path';
 
+import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 
 const TARGET_FILENAME = path.resolve('../site/src/tags.json');
+const TAGS_LIMIT = 1500;
 
 export default async function saveTags(): Promise<void> {
+  logger.debug('saveTags()');
   const tags = await mongoDatabase.tags
-    .find(
-      { listCreatedAt: { $ne: null }, topAlbums: { $ne: null } },
-      { sort: [['power', -1]] },
+    .aggregate(
+      [
+        {
+          $match: { listCreatedAt: { $ne: null }, topAlbums: { $ne: null } },
+        },
+        {
+          $sort: {
+            power: -1,
+          },
+        },
+        {
+          $limit: TAGS_LIMIT,
+        },
+        {
+          $sort: {
+            listUpdatedAt: -1,
+            listCreatedAt: -1,
+          },
+        },
+      ],
+      { allowDiskUse: true },
     )
     .toArray();
   return new Promise<void>((resolve, reject) =>

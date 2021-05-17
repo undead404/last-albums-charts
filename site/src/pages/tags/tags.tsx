@@ -5,14 +5,14 @@ import React, { useMemo, useState } from 'react';
 import { useRouteData } from 'react-static';
 import styled from 'styled-components';
 
-import { SerializedTag, Tag } from '../../../types';
+import { SerializedTagForTagsPage, TagForTagsPage } from '../../../types';
 import useFilteredTags from '../../hooks/use-filtered-tags';
 import deserializeTag from '../../utils/deserialize-tag';
 import goBack from '../../utils/go-back';
 
 import COLUMNS from './columns';
 
-const SCROLL: TableProps<Tag>['scroll'] = {
+const SCROLL: TableProps<TagForTagsPage>['scroll'] = {
   y: '100vh',
 };
 
@@ -23,10 +23,13 @@ const LayoutHeader = styled(Layout.Header)`
 const LIST_LINK = <Link to="/tag-list">Full list</Link>;
 export default function Tags(): JSX.Element {
   const [searchTerm, setSearchTerm] = useState('');
-  const { tags: serializedTags }: { tags: SerializedTag[] } = useRouteData();
-  const tags = useMemo(() => map(serializedTags, deserializeTag), [
-    serializedTags,
-  ]);
+  const {
+    tags: serializedTags,
+  }: { tags: SerializedTagForTagsPage[] } = useRouteData();
+  const tags = useMemo<TagForTagsPage[]>(
+    () => map(serializedTags, deserializeTag),
+    [serializedTags],
+  );
   const filteredTags = useFilteredTags(tags, searchTerm);
 
   return (

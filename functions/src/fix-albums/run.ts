@@ -17,7 +17,8 @@ export default async function main(): Promise<void> {
       targetName: `some albums`,
       title: 'fixAlbums',
     });
-  } catch (error) {
+    process.exit(0);
+  } catch {
     await publish('perf', {
       end: new Date().toISOString(),
       start: start.toISOString(),
@@ -25,7 +26,7 @@ export default async function main(): Promise<void> {
       targetName: `some albums`,
       title: 'fixAlbums',
     });
-    throw error;
+    process.exit(1);
   }
 }
 

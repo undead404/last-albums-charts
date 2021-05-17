@@ -1,4 +1,4 @@
-import { Discojs, SearchTypeEnum } from 'discojs';
+import { Discojs } from 'discojs';
 import { closest } from 'fastest-levenshtein';
 import forEach from 'lodash/forEach';
 import map from 'lodash/map';
@@ -7,6 +7,7 @@ import uniq from 'lodash/uniq';
 
 import { DISCOGS_ACCESS_TOKEN } from '../common/environment';
 import logger from '../common/logger';
+import searchDiscogs from '../common/search-discogs';
 import sleep from '../common/sleep';
 
 const discojs = new Discojs({
@@ -48,11 +49,7 @@ export default async function getFromDiscogs(
   logger.debug(`getFromDiscogs: ${artistName} - ${albumName}`);
   try {
     await waiter;
-    const searchResponse = await discojs.searchRelease('', {
-      artist: artistName,
-      releaseTitle: albumName,
-      type: SearchTypeEnum.RELEASE,
-    });
+    const searchResponse = await searchDiscogs(artistName, albumName);
     waiter = sleep(API_DELAY_MS);
     const releaseId = getIdFromResponseResults(
       searchResponse.results,

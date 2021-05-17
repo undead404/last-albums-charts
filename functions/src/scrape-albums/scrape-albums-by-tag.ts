@@ -1,3 +1,4 @@
+import isEmpty from 'lodash/isEmpty';
 import map from 'lodash/map';
 import toString from 'lodash/toString';
 
@@ -24,16 +25,17 @@ export default async function scrapeAlbumsByTag(tag: TagRecord): Promise<void> {
   );
   Promise.all(
     map(albumsRecords, async (albumRecord) => {
-      if (albumRecord.mbid) {
-        const payload = {
-          artist: albumRecord.artist,
-          mbid: albumRecord.mbid,
-          name: albumRecord.name,
-        };
-        await publish('newAlbums', payload);
-      }
+      const payload = {
+        artist: albumRecord.artist,
+        mbid: albumRecord.mbid,
+        name: albumRecord.name,
+      };
+      await publish('newAlbums', payload);
     }),
   ).catch((error) => logger.error(toString(error)));
+  if (isEmpty(albumsRecords)) {
+    return;
+  }
   await mongodb.albums.bulkWrite(
     map(albumsRecords, (albumRecord) => ({
       updateOne: {

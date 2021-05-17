@@ -19,27 +19,28 @@ export default async function populateAlbumTags(
     { artist: album.artist, name: album.name },
     { $set: albumUpdate },
   );
-  if (!isEmpty(tags)) {
-    await mongoDatabase.tags.bulkWrite(
-      map(tags, (tagCount, tagName) => ({
-        updateOne: {
-          filter: {
-            name: tagName,
-          },
-          update: {
-            $setOnInsert: {
-              lastProcessedAt: null,
-              listCreatedAt: null,
-              name: tagName,
-              power: 0,
-            },
-          },
-          upsert: true,
-        },
-      })),
-      {
-        ordered: false,
-      },
-    );
+  if (isEmpty(tags)) {
+    return;
   }
+  await mongoDatabase.tags.bulkWrite(
+    map(tags, (tagCount, tagName) => ({
+      updateOne: {
+        filter: {
+          name: tagName,
+        },
+        update: {
+          $setOnInsert: {
+            lastProcessedAt: null,
+            listCreatedAt: null,
+            name: tagName,
+            power: 0,
+          },
+        },
+        upsert: true,
+      },
+    })),
+    {
+      ordered: false,
+    },
+  );
 }

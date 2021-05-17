@@ -1,30 +1,34 @@
-import { WithId } from 'mongodb';
-
 import mongoDatabase from '../common/mongo-database';
 import { AlbumRecord, TagRecord } from '../common/types';
 
 export default async function saveList(
   tagRecord: TagRecord,
-  albums?: WithId<AlbumRecord>[],
+  albums?: AlbumRecord[],
 ): Promise<void> {
   if (!albums) {
     await mongoDatabase.tags.updateOne(
       { name: tagRecord.name },
       {
-        $set: {
-          listCreatedAt: new Date(),
+        $currentDate: {
+          listCreatedAt: true,
+          listUpdatedAt: true,
         },
       },
     );
     return;
   }
   const tagUpdate: Partial<TagRecord> = {
-    listCreatedAt: new Date(),
     topAlbums: albums,
   };
 
   await mongoDatabase.tags.updateOne(
     { name: tagRecord.name },
-    { $set: tagUpdate },
+    {
+      $currentDate: {
+        listCreatedAt: true,
+        listUpdatedAt: true,
+      },
+      $set: tagUpdate,
+    },
   );
 }

@@ -1,23 +1,16 @@
-import { Discojs, SearchTypeEnum } from 'discojs';
 import { closest } from 'fastest-levenshtein';
 import find from 'lodash/find';
 import forEach from 'lodash/forEach';
 import map from 'lodash/map';
 import uniq from 'lodash/uniq';
 
-import { DISCOGS_ACCESS_TOKEN } from '../common/environment';
-import logger from '../common/logger';
-import sleep from '../common/sleep';
-import { AlbumRecord } from '../common/types';
-
-const discojs = new Discojs({
-  userToken: DISCOGS_ACCESS_TOKEN,
-});
-
-const API_DELAY_MS = 2000;
+import logger from './logger';
+import searchDiscogs from './search-discogs';
+import sleep from './sleep';
+import { AlbumRecord } from './types';
 
 let waiter = Promise.resolve();
-
+const API_DELAY_MS = 2000;
 function getFromResponseResults(
   responseResults: {
     // eslint-disable-next-line camelcase
@@ -58,17 +51,13 @@ export default async function getFromDiscogs(
 ): Promise<Pick<AlbumRecord, 'cover' | 'thumbnail'> | null> {
   logger.debug(`getFromDiscogs: ${artistName} - ${albumName}`);
   await waiter;
-  const searchResponse = await discojs.searchRelease('', {
-    artist: artistName,
-    releaseTitle: albumName,
-    type: SearchTypeEnum.RELEASE,
-  });
-  waiter = sleep(API_DELAY_MS);
+  const searchResponse = await searchDiscogs(artistName, albumName);
   const albumSearchItem = getFromResponseResults(
     searchResponse.results,
     artistName,
     albumName,
   );
+  waiter = sleep(API_DELAY_MS);
   if (!albumSearchItem) {
     return null;
   }

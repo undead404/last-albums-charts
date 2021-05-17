@@ -13,7 +13,7 @@ import getFromMusicbrainz from './get-from-musicbrainz';
 const API_DELAY_MS = 5000;
 async function storeEmpty(album: AlbumAmqpPayload): Promise<void> {
   await mongoDatabase.albums.updateOne(
-    { mbid: album.mbid },
+    { artist: album.artist, name: album.name },
     { $set: { date: null } },
   );
 }
@@ -22,9 +22,6 @@ export default async function populateAlbumDate(
   album: AlbumAmqpPayload,
 ): Promise<void> {
   logger.info(`populateAlbumDate: ${album.artist} - ${album.name}`);
-  if (!album.mbid) {
-    return;
-  }
   let date: null | string = null;
   try {
     date = await getFromMusicbrainz(album);
@@ -32,11 +29,12 @@ export default async function populateAlbumDate(
       date = await getFromDiscogs(album.artist, album.name);
     }
     await mongoDatabase.albums.updateOne(
-      { mbid: album.mbid },
+      { artist: album.artist, name: album.name },
       { $set: { date } },
     );
   } catch (error) {
     if (includes(error.message, 'rate limit')) {
+      logger.warn('Rate limit... Delaying');
       await sleep(API_DELAY_MS);
       await publish('newAlbums', album);
     } else {

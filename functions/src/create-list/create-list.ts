@@ -1,23 +1,45 @@
+import size from 'lodash/size';
 import { WithId } from 'mongodb';
 
 import { publish } from '../common/amqp-broker';
+import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
 import mongodb from '../common/mongo-database';
-import rateAlbums from '../common/rate-albums';
+import populateAlbumsCovers from '../common/populate-albums-covers';
+// import sleep from '../common/sleep';
 import { AlbumRecord, TagRecord, Weighted } from '../common/types';
 
-import saveList from './save-top-list';
+import pickTag from './pick-tag';
+import saveList from './save-list';
 
 const AVERAGE_NUMBER_OF_TRACKS = 7;
 const AVERAGE_SONG_DURATION = 210;
 const AVERAGE_ALBUM_DURATION = AVERAGE_SONG_DURATION * AVERAGE_NUMBER_OF_TRACKS;
-const LIST_LENGTH = 10;
+// const DELAY = 5000;
+const LIST_LENGTH = 100;
+const MIN_TAG_COUNT = 0;
+const EXTREME_EXP = 3;
+const MAX_TAG_COUNT = 100;
 
-export default async function generateTopList(): Promise<void> {
-  logger.debug('generateTopList()');
+export default async function createList(): Promise<void> {
+  logger.debug('createList: start');
   const start = new Date();
   let tagRecord: TagRecord | undefined;
   try {
+    if (!mongodb.isConnected) {
+      await mongodb.connect();
+    }
+    tagRecord = await pickTag();
+    if (!tagRecord) {
+      logger.warn('Failed to find sufficient tag');
+      return;
+    }
+    if (isTagBlacklisted(tagRecord.name)) {
+      logger.warn(`${tagRecord.name} - blacklisted...`);
+      await mongodb.tags.deleteOne({ name: tagRecord.name });
+      await createList();
+      return;
+    }
     const albums:
       | Weighted<WithId<AlbumRecord>>[]
       | undefined = await mongodb.albums
@@ -27,6 +49,9 @@ export default async function generateTopList(): Promise<void> {
             $match: {
               date: {
                 $ne: null,
+              },
+              [`tags.${tagRecord.name}`]: {
+                $gt: MIN_TAG_COUNT,
               },
             },
           },
@@ -62,6 +87,12 @@ export default async function generateTopList(): Promise<void> {
                       },
                     ],
                   },
+                  {
+                    $pow: [
+                      { $divide: [`$tags.${tagRecord.name}`, MAX_TAG_COUNT] },
+                      EXTREME_EXP,
+                    ],
+                  },
                 ],
               },
             },
@@ -82,23 +113,30 @@ export default async function generateTopList(): Promise<void> {
         { allowDiskUse: true },
       )
       .toArray();
-    await saveList(rateAlbums(albums));
-    logger.debug('generateTopList: success');
+    if (size(albums) < LIST_LENGTH) {
+      logger.warn(`${size(albums)}, but required at least ${LIST_LENGTH}`);
+      await saveList(tagRecord);
+      // await sleep(DELAY);
+      // await createList();
+    } else {
+      await saveList(tagRecord, await populateAlbumsCovers(albums));
+      logger.debug('createList: success');
 
-    await publish('perf', {
-      end: new Date().toISOString(),
-      start: start.toISOString(),
-      success: true,
-      targetName: tagRecord?.name,
-      title: 'generateTopList',
-    });
+      await publish('perf', {
+        end: new Date().toISOString(),
+        start: start.toISOString(),
+        success: true,
+        targetName: tagRecord?.name,
+        title: 'createList',
+      });
+    }
   } catch (error) {
     await publish('perf', {
       end: new Date().toISOString(),
       start: start.toISOString(),
       success: false,
       targetName: tagRecord?.name,
-      title: 'generateTopList',
+      title: 'createList',
     });
     throw error;
   }

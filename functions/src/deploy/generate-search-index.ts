@@ -7,6 +7,7 @@ import map from 'lodash/map';
 import replace from 'lodash/replace';
 import lunr from 'lunr';
 
+import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 import { TagRecord } from '../common/types';
 
@@ -26,20 +27,30 @@ function tagToLunrItem(tag: TagItem) {
   };
 }
 
-export default async function generatePosts(): Promise<void> {
+export default async function generateSearchIndex(): Promise<void> {
+  logger.debug('generateSearchIndex()');
   const tags = await mongoDatabase.tags
-    .find<TagItem>(
-      { topAlbums: { $ne: null } },
-      {
-        projection: {
-          _id: false,
-          name: true,
-          topAlbums: true,
+    .aggregate<TagItem>(
+      [
+        {
+          $match: { topAlbums: { $ne: null } },
         },
-        sort: [
-          ['listUpdatedAt', -1],
-          ['listCreatedAt', -1],
-        ],
+        {
+          $project: {
+            _id: false,
+            name: true,
+            topAlbums: true,
+          },
+        },
+        {
+          $sort: {
+            listUpdatedAt: -1,
+            listCreatedAt: -1,
+          },
+        },
+      ],
+      {
+        allowDiskUse: true,
       },
     )
     .toArray();

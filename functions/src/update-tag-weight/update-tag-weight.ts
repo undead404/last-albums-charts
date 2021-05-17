@@ -17,24 +17,27 @@ export default async function updateTagWeight(): Promise<void> {
   try {
     logger.info(`updateTagWeight: ${tag.name}`);
     const [{ power } = { power: 0 }] = await mongoDatabase.albums
-      .aggregate<{ power: number }>([
-        { $match: { [`tags.${tag.name}`]: { $gt: 0 } } },
-        {
-          $group: {
-            _id: null,
-            power: {
-              $sum: {
-                $multiply: [
-                  `$tags.${tag.name}`,
-                  '$playcount',
-                  '$listeners',
-                  NORMALIZATION,
-                ],
+      .aggregate<{ power: number }>(
+        [
+          { $match: { [`tags.${tag.name}`]: { $gt: 0 } } },
+          {
+            $group: {
+              _id: null,
+              power: {
+                $sum: {
+                  $multiply: [
+                    `$tags.${tag.name}`,
+                    '$playcount',
+                    '$listeners',
+                    NORMALIZATION,
+                  ],
+                },
               },
             },
           },
-        },
-      ])
+        ],
+        { allowDiskUse: true },
+      )
       .toArray();
     if (power === 0) {
       logger.warn(`${tag.name} - blacklisted...`);

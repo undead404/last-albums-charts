@@ -69,3 +69,6 @@ node_modules/
 site/dist
 site/tmp
 site/artifacts
+site/src/search-index.json
+site/src/search-index.json
+site/src/top-list.json

@@ -1,4 +1,4 @@
-import { ObjectId, WithId } from 'mongodb';
+import { ObjectId } from 'mongodb';
 
 export interface AlbumRecord {
   artist: string;
@@ -19,8 +19,9 @@ export interface TagRecord {
   name: string;
   lastProcessedAt: null | Date;
   listCreatedAt: null | Date;
+  listUpdatedAt?: Date;
   power: number;
-  topAlbums?: WithId<AlbumRecord>[] | null;
+  topAlbums?: AlbumRecord[] | null;
 }
 
 export type Weighted<T> = T & {
@@ -28,7 +29,7 @@ export type Weighted<T> = T & {
 };
 export interface SerializableAlbum extends Omit<AlbumRecord, 'duplicateOf'> {
   duplicateOf?: string;
-  id: string;
+  // id: string;
 }
 
 export type SerializableTag = Omit<

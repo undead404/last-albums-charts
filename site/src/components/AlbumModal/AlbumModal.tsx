@@ -8,6 +8,7 @@ import styled from 'styled-components';
 
 import { Album, Weighted } from '../../../types';
 import getAlbumTitle from '../../utils/get-album-title';
+import AlbumLinks from '../AlbumLinks';
 import TagTag from '../TagTag';
 
 import AlbumImage from './AlbumImage';
@@ -54,6 +55,9 @@ export default function AlbumModal({
   const footer = useMemo(() => <Button onClick={onClose}>Close</Button>, [
     onClose,
   ]);
+  const links = useMemo(() => (album ? <AlbumLinks album={album} /> : null), [
+    album,
+  ]);
   if (!album) {
     return null;
   }
@@ -69,7 +73,7 @@ export default function AlbumModal({
       title={getAlbumTitle(album)}
       visible={!!album}
     >
-      <Card cover={image}>
+      <Card cover={image} extra={links}>
         <Card.Meta description={description} title={album.rating} />
       </Card>
     </Modal>

@@ -1,25 +1,16 @@
 import { Avatar, Tooltip } from 'antd';
-import find from 'lodash/find';
-import orderBy from 'lodash/orderBy';
 import React from 'react';
 
-import { Tag } from '../../types';
-import getAlbumTitle from '../utils/get-album-title';
+import { TagForTagsPage } from '../../types';
 
 export interface TagImageProperties {
-  tag: Tag;
+  tag: TagForTagsPage;
 }
 
 export default function TagImage({ tag }: TagImageProperties): JSX.Element {
-  const albumWithCover = find(
-    orderBy(tag.topAlbums, ['weight'], ['desc']),
-    'thumbnail',
-  );
-  const imageUrl = albumWithCover
-    ? albumWithCover.thumbnail
-    : 'https://via.placeholder.com/150';
+  const imageUrl = tag.preview || 'https://via.placeholder.com/150';
   return (
-    <Tooltip title={albumWithCover ? getAlbumTitle(albumWithCover) : undefined}>
+    <Tooltip title={tag.title || undefined}>
       <Avatar src={imageUrl} />
     </Tooltip>
   );

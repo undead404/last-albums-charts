@@ -19,10 +19,7 @@ export default function serializeTag(tag: WithId<TagRecord>): SerializableTag {
       : null,
     listCreatedAt: tag.listCreatedAt ? formatISO(tag.listCreatedAt) : null,
     topAlbums: tag.topAlbums
-      ? map<WithId<AlbumRecord>, SerializableAlbum>(
-          tag.topAlbums,
-          serializeAlbum,
-        )
+      ? map<AlbumRecord, SerializableAlbum>(tag.topAlbums, serializeAlbum)
       : undefined,
   };
   // eslint-disable-next-line @typescript-eslint/no-explicit-any

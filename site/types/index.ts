@@ -21,12 +21,29 @@ export interface Tag {
   name: string;
   lastProcessedAt: null | Date;
   listCreatedAt: null | Date;
+  listUpdatedAt?: Date;
   power: number;
   topAlbums?: Weighted<Album>[] | null;
 }
 
 export interface SerializedTag
-  extends Omit<Tag, 'lastProcessedAt' | 'listCreatedAt'> {
+  extends Omit<Tag, 'lastProcessedAt' | 'listCreatedAt' | 'listUpdatedAt'> {
   lastProcessedAt: null | string;
   listCreatedAt: null | string;
+  listUpdatedAt?: string;
+}
+
+export type TagForTagsPage = Omit<Tag, 'topAlbums'> & {
+  preview: string;
+  title: string;
+};
+
+export interface SerializedTagForTagsPage
+  extends Omit<
+    TagForTagsPage,
+    'lastProcessedAt' | 'listCreatedAt' | 'listUpdatedAt'
+  > {
+  lastProcessedAt: null | string;
+  listCreatedAt: null | string;
+  listUpdatedAt?: string;
 }

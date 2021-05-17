@@ -5,6 +5,18 @@ dotenv.config();
 module.exports = {
   apps: [
     {
+      autorestart: true,
+      cron_restart: '35 * * * *',
+      env: {
+        APP_NAME: 'cList',
+      },
+      exec_mode: 'fork',
+      instances: 1,
+      name: 'cList',
+      script: 'lib/create-list/run.js',
+      watch: false,
+    },
+    {
       autorestart: false,
       cron_restart: '45 6 * * *',
       env: {
@@ -17,6 +29,7 @@ module.exports = {
       watch: false,
     },
     {
+      autorestart: false,
       cron_restart: '45 * * * *',
       env: {
         APP_NAME: 'fAlbums',
@@ -27,38 +40,18 @@ module.exports = {
       script: 'lib/fix-albums/run.js',
       watch: false,
     },
-    {
-      autorestart: true,
-      cron_restart: '50 * * * *',
-      env: {
-        APP_NAME: 'gList',
-      },
-      exec_mode: 'fork',
-      instances: 1,
-      name: 'gList',
-      script: 'lib/generate-list/run.js',
-      watch: false,
-    },
     // {
-    //   autorestart: false,
-    //   cron_restart: '30 * * * *',
+    //   cron_restart: '5 * * * *',
+    //   env: {
+    //     APP_NAME: 'paCover',
+    //   },
+    //   exec_mode: 'fork',
     //   instances: 1,
-    //   name: 'hexo',
-    //   script: 'cd ../ssg && yarn build; cd ../functions',
+    //   name: 'paCover',
+    //   restart_delay: 200,
+    //   script: 'lib/populate-album-cover/run.js',
     //   watch: false,
     // },
-    {
-      cron_restart: '5 * * * *',
-      env: {
-        APP_NAME: 'paCover',
-      },
-      exec_mode: 'fork',
-      instances: 1,
-      name: 'paCover',
-      restart_delay: 200,
-      script: 'lib/populate-album-cover/run.js',
-      watch: false,
-    },
     {
       cron_restart: '10 * * * *',
       env: {
@@ -130,7 +123,7 @@ module.exports = {
       watch: false,
     },
     {
-      cron_restart: '* * * * *',
+      cron_restart: '*/5 * * * *',
       env: {
         APP_NAME: 'utWeight',
       },
@@ -142,7 +135,7 @@ module.exports = {
     },
     {
       autorestart: true,
-      cron_restart: '* * * * *',
+      cron_restart: '*/10 * * * *',
       env: {
         APP_NAME: 'uList',
       },

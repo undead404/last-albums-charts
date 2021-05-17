@@ -9,7 +9,13 @@ export default async function main(): Promise<void> {
   if (!mongoDatabase.isConnected) {
     await mongoDatabase.connect();
   }
-  scrapeAlbums().catch((error) => logger.error(toString(error)));
+  try {
+    await scrapeAlbums();
+    process.exit(0);
+  } catch (error) {
+    logger.error(toString(error));
+    process.exit(1);
+  }
 }
 
 main();
