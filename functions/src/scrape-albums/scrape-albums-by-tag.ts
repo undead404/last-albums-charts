@@ -33,16 +33,15 @@ export default async function scrapeAlbumsByTag(tag: TagRecord): Promise<void> {
       await publish('newAlbums', payload);
     }),
   ).catch((error) => logger.error(toString(error)));
-  if (isEmpty(albumsRecords)) {
-    return;
+  if (!isEmpty(albumsRecords)) {
+    await mongodb.albums.bulkWrite(
+      map(albumsRecords, (albumRecord) => ({
+        updateOne: {
+          filter: { artist: albumRecord.artist, name: albumRecord.name },
+          update: { $set: albumRecord },
+          upsert: true,
+        },
+      })),
+    );
   }
-  await mongodb.albums.bulkWrite(
-    map(albumsRecords, (albumRecord) => ({
-      updateOne: {
-        filter: { artist: albumRecord.artist, name: albumRecord.name },
-        update: { $set: albumRecord },
-        upsert: true,
-      },
-    })),
-  );
 }

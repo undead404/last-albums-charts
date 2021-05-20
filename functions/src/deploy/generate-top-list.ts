@@ -28,6 +28,9 @@ export default async function generateTopList(): Promise<void> {
               date: {
                 $ne: null,
               },
+              hidden: {
+                $ne: true,
+              },
             },
           },
           {

@@ -5,10 +5,10 @@ import map from 'lodash/map';
 import toString from 'lodash/toString';
 import uniq from 'lodash/uniq';
 
-import { DISCOGS_ACCESS_TOKEN } from '../common/environment';
-import logger from '../common/logger';
-import searchDiscogs from '../common/search-discogs';
-import sleep from '../common/sleep';
+import { DISCOGS_ACCESS_TOKEN } from '../environment';
+import logger from '../logger';
+import searchDiscogs from '../search-discogs';
+import sleep from '../sleep';
 
 const discojs = new Discojs({
   userToken: DISCOGS_ACCESS_TOKEN,

@@ -12,6 +12,9 @@ export default async function fixAlbums(): Promise<void> {
   const albums = await mongoDatabase.albums
     .find<AlbumAmqpPayload>(
       {
+        hidden: {
+          $ne: true,
+        },
         $or: [
           {
             $and: [
@@ -27,11 +30,11 @@ export default async function fixAlbums(): Promise<void> {
               },
             ],
           },
-          {
-            date: {
-              $exists: false,
-            },
-          },
+          // {
+          //   date: {
+          //     $exists: false,
+          //   },
+          // },
           {
             listeners: null,
           },

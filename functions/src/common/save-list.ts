@@ -1,5 +1,5 @@
-import mongoDatabase from '../common/mongo-database';
-import { AlbumRecord, TagRecord } from '../common/types';
+import mongoDatabase from './mongo-database';
+import { AlbumRecord, TagRecord } from './types';
 
 export default async function saveList(
   tagRecord: TagRecord,

@@ -19,7 +19,14 @@ export default async function updateTagWeight(): Promise<void> {
     const [{ power } = { power: 0 }] = await mongoDatabase.albums
       .aggregate<{ power: number }>(
         [
-          { $match: { [`tags.${tag.name}`]: { $gt: 0 } } },
+          {
+            $match: {
+              [`tags.${tag.name}`]: { $gt: 0 },
+              hidden: {
+                $ne: true,
+              },
+            },
+          },
           {
             $group: {
               _id: null,

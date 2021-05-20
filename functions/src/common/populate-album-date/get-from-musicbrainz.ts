@@ -2,9 +2,9 @@ import get from 'lodash/get';
 import startsWith from 'lodash/startsWith';
 import { MusicBrainzApi } from 'musicbrainz-api';
 
-import logger from '../common/logger';
-import sleep from '../common/sleep';
-import { SerializableAlbum } from '../common/types';
+import logger from '../logger';
+import sleep from '../sleep';
+import { SerializableAlbum } from '../types';
 
 const API_DELAY_MS = 5000;
 const musicbrainz = new MusicBrainzApi({

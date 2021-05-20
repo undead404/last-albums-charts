@@ -52,18 +52,18 @@ module.exports = {
     //   script: 'lib/populate-album-cover/run.js',
     //   watch: false,
     // },
-    {
-      cron_restart: '10 * * * *',
-      env: {
-        APP_NAME: 'paDate',
-      },
-      exec_mode: 'fork',
-      instances: 1,
-      name: 'paDate',
-      restart_delay: 200,
-      script: 'lib/populate-album-date/run.js',
-      watch: false,
-    },
+    // {
+    //   cron_restart: '10 * * * *',
+    //   env: {
+    //     APP_NAME: 'paDate',
+    //   },
+    //   exec_mode: 'fork',
+    //   instances: 1,
+    //   name: 'paDate',
+    //   restart_delay: 200,
+    //   script: 'lib/populate-album-date/run.js',
+    //   watch: false,
+    // },
     {
       cron_restart: '15 * * * *',
       instances: 1,
@@ -135,7 +135,7 @@ module.exports = {
     },
     {
       autorestart: true,
-      cron_restart: '*/10 * * * *',
+      cron_restart: '0 * * * *',
       env: {
         APP_NAME: 'uList',
       },
