@@ -150,6 +150,11 @@ export default async function generateList(tag: TagRecord): Promise<boolean> {
         albumWithDate = await populateAlbumDate(extraAlbum);
         skipCounter += 1;
       }
+      if (!albumWithDate.numberOfTracks) {
+        logger.warn(
+          `${albumWithDate.artist} - ${albumWithDate.name}: NUMBER OF TRACKS UNKNOWN`,
+        );
+      }
       albumsWithDates.push(albumWithDate);
     }
     await saveList(

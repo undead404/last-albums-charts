@@ -26,6 +26,13 @@ export default async function populateAlbumStats(
           artist: album.artist,
           name: album.name,
         });
+        await mongoDatabase.albums.updateOne(
+          {
+            artist: albumInfo.artist,
+            name: albumInfo.name,
+          },
+          { hidden: false },
+        );
         return;
       }
     }

@@ -1,4 +1,5 @@
 import { publish } from '../common/amqp-broker';
+import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
 import mongoDatabase from '../common/mongo-database';
 
@@ -12,6 +13,11 @@ export default async function updateTagWeight(): Promise<void> {
   const tag = await pickTag();
   if (!tag) {
     logger.warn('No tag to populate weight');
+    return;
+  }
+  if (isTagBlacklisted(tag.name)) {
+    logger.warn(`${tag.name} - blacklisted...`);
+    await mongoDatabase.tags.deleteOne({ name: tag.name });
     return;
   }
   try {

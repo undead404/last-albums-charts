@@ -4,6 +4,7 @@ import checkUrl from './check-url';
 import getFromCoverArtArchive from './get-from-cover-art-archive';
 import getFromDiscogs from './get-from-discogs';
 import logger from './logger';
+import mongoDatabase from './mongo-database';
 import sequentialAsyncMap from './sequential-async-map';
 import { AlbumRecord } from './types';
 
@@ -35,9 +36,16 @@ export default async function populateAlbumsCovers(
     if (!albumUpdate) {
       albumUpdate = await getFromDiscogs(album.artist, album.name);
     }
+    if (!albumUpdate) {
+      return album;
+    }
+    await mongoDatabase.albums.updateOne(
+      { artist: album.artist, name: album.name },
+      { $set: albumUpdate },
+    );
     return {
       ...album,
-      ...(albumUpdate || {}),
+      ...albumUpdate,
     };
   });
 }

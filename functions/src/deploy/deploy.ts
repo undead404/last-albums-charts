@@ -38,7 +38,9 @@ async function run() {
     await generateSearchIndex();
     await generateTopList();
     // await execute(`cd ${ROOT_FOLDER} && npx eslint site --fix`);
-    await execute(`cd ${SITE_FOLDER} && yarn deploy`);
+    if (!process.env.SKIP_DEPLOY) {
+      await execute(`cd ${SITE_FOLDER} && yarn deploy`);
+    }
     logger.info('Deploy successful');
     await publish('perf', {
       end: new Date().toISOString(),

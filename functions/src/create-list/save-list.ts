@@ -20,8 +20,8 @@ function didAlbumsChange(
       !tagAlbum ||
       chartAlbum.artist !== tagAlbum.artist ||
       chartAlbum.name !== tagAlbum.name ||
-      chartAlbum.cover !== tagAlbum.cover ||
-      chartAlbum.thumbnail !== tagAlbum.thumbnail ||
+      // chartAlbum.cover !== tagAlbum.cover ||
+      // chartAlbum.thumbnail !== tagAlbum.thumbnail ||
       chartAlbum.date !== tagAlbum.date
     );
   });

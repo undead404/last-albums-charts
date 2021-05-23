@@ -6,6 +6,7 @@ export interface AlbumRecord {
   date?: null | string;
   duplicateOf?: ObjectId;
   duration: number | null;
+  hidden?: boolean;
   listeners: number | null;
   mbid: string | null;
   name: string;
