@@ -58,7 +58,10 @@ const COLUMNS: TableProps<TagForTagsPage>['columns'] = [
     title: 'Albums scraped at',
   },
   {
-    dataIndex: 'power',
+    key: 'power',
+    render(_value: unknown, tag: TagForTagsPage): string {
+      return Math.floor(tag.power).toLocaleString('uk-UA');
+    },
     responsive: ['xl', 'xxl'],
     sorter(tag1: TagForTagsPage, tag2: TagForTagsPage): -1 | 0 | 1 {
       if (tag1.power < tag2.power) {
@@ -69,7 +72,7 @@ const COLUMNS: TableProps<TagForTagsPage>['columns'] = [
       }
       return 0;
     },
-    title: 'Weight',
+    title: 'Power',
   },
 ];
 export default COLUMNS;

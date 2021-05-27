@@ -1,5 +1,6 @@
 import { LastDotFm } from '@icons-pack/react-simple-icons';
 import {
+  Alert,
   BackTop,
   Descriptions,
   DescriptionsProps,
@@ -9,8 +10,11 @@ import {
   Typography,
 } from 'antd';
 import find from 'lodash/find';
+import forEach from 'lodash/forEach';
+import map from 'lodash/map';
+import reject from 'lodash/reject';
 import sortBy from 'lodash/sortBy';
-import React, { useMemo } from 'react';
+import React, { useEffect, useMemo } from 'react';
 import { useRouteData } from 'react-static';
 import { CSSProperties } from 'styled-components';
 
@@ -18,6 +22,7 @@ import { SerializedTag } from '../../../types';
 import AlbumsTable from '../../components/AlbumsTable/AlbumsTable';
 import IconLink from '../../components/IconLink';
 import TagHelmet from '../../components/TagHelmet';
+import getAlbumTitle from '../../utils/get-album-title';
 import goBack from '../../utils/go-back';
 
 const LASTFM_ICON = <LastDotFm color="#D51007" />;
@@ -64,6 +69,21 @@ export default function TagPage(): JSX.Element | null {
       src: imageSource,
     };
   }, [tag.topAlbums]);
+  useEffect(() => {
+    forEach(tag?.topAlbums, (album) => {
+      if (!album.numberOfTracks) {
+        // eslint-disable-next-line no-console
+        console.warn(getAlbumTitle(album), 'number of tracks unknown');
+      } else {
+        // eslint-disable-next-line no-console
+        console.debug(
+          getAlbumTitle(album),
+          'number of tracks',
+          album.numberOfTracks,
+        );
+      }
+    });
+  }, [tag]);
   if (!tag) {
     return null;
   }
@@ -89,6 +109,16 @@ export default function TagPage(): JSX.Element | null {
         </PageHeader>
       </Layout.Header>
       <Layout.Content>
+        {map(reject(tag.topAlbums, 'numberOfTracks'), (album) => {
+          const title = getAlbumTitle(album);
+          return (
+            <Alert
+              key={title}
+              message={`${title} has numberOfTracks empty`}
+              type="warning"
+            />
+          );
+        })}
         <AlbumsTable albums={tag.topAlbums || undefined} />
       </Layout.Content>
       <BackTop />
