@@ -5,7 +5,7 @@ import toString from 'lodash/toString';
 
 import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
+import prisma from '../common/prisma';
 
 import generateSearchIndex from './generate-search-index';
 import generateTopList from './generate-top-list';
@@ -31,9 +31,7 @@ async function execute(command: string): Promise<void> {
 async function run() {
   const start = new Date();
   try {
-    if (!mongoDatabase.isConnected) {
-      await mongoDatabase.connect();
-    }
+    await prisma.$connect();
     await saveTags();
     await generateSearchIndex();
     await generateTopList();
@@ -49,6 +47,7 @@ async function run() {
       targetName: 'site',
       title: 'deploy',
     });
+    await prisma.$disconnect();
     process.exit(0);
   } catch (error) {
     logger.error(toString(error));
@@ -59,8 +58,14 @@ async function run() {
       targetName: 'site',
       title: 'deploy',
     });
+    await prisma.$disconnect();
     process.exit(1);
   }
 }
+process.on('uncaughtException', async (error) => {
+  logger.error(toString(error));
+  await prisma.$disconnect();
+  process.exit(1);
+});
 
 run();

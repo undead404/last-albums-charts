@@ -1,3 +1,6 @@
+export const AVERAGE_NUMBER_OF_TRACKS = 11;
+export const AVERAGE_SONG_DURATION = 221;
+export const AVERAGE_ALBUM_DURATION = 2731;
 export const LASTFM_API_ERRORS = {
   AUTH_FAILED: 4,
   INVALID_API_KEY: 10,
@@ -19,6 +22,4 @@ export const MAX_CACHE_AGE_IN_DAYS_FOR_ALBUM = 180;
 export const MAX_CACHE_AGE_IN_DAYS_FOR_ARTIST = 31;
 export const MAX_CACHE_AGE_IN_DAYS_FOR_TAG = 7;
 export const MAX_RETRIES = 3;
-export const MONGO_DB_URL = 'mongodb://localhost:27017';
-export const MONGO_DB_NAME = 'lastfm';
 export const NUMBER_OF_ALBUMS_TO_SHOW = 100;

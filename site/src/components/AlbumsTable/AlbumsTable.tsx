@@ -3,14 +3,14 @@ import find from 'lodash/find';
 import React, { useCallback, useEffect, useState } from 'react';
 import styled from 'styled-components';
 
-import { Album, Weighted } from '../../../types';
+import { Album } from '../../../types';
 import getAlbumKey from '../../utils/get-album-key';
 import AlbumModal from '../AlbumModal/AlbumModal';
 
 import COLUMNS from './columns';
 
 export interface AlbumsTableProperties {
-  albums?: Weighted<Album>[];
+  albums?: Album[];
 }
 
 const Wrapper = styled.div`
@@ -22,11 +22,9 @@ const Wrapper = styled.div`
 export default function AlbumsTable({
   albums,
 }: AlbumsTableProperties): JSX.Element {
-  const [currentAlbum, setCurrentAlbum] = useState<Weighted<Album> | null>(
-    null,
-  );
+  const [currentAlbum, setCurrentAlbum] = useState<Album | null>(null);
   const hideModal = useCallback(() => setCurrentAlbum(null), []);
-  const onRow: TableProps<Weighted<Album>>['onRow'] = useCallback(
+  const onRow: TableProps<Album>['onRow'] = useCallback(
     (album) => ({
       onClick() {
         setCurrentAlbum(album);

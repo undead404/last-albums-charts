@@ -1,14 +1,14 @@
+import { Album } from '.prisma/client';
 import isEmpty from 'lodash/isEmpty';
 
 import checkUrl from './check-url';
 import getFromCoverArtArchive from './get-from-cover-art-archive';
 import getFromDiscogs from './get-from-discogs';
 import logger from './logger';
-import mongoDatabase from './mongo-database';
+import prisma from './prisma';
 import sequentialAsyncMap from './sequential-async-map';
-import { AlbumRecord } from './types';
 
-async function check(album: AlbumRecord): Promise<boolean> {
+async function check(album: Album): Promise<boolean> {
   return !!(
     album.cover &&
     album.thumbnail &&
@@ -18,8 +18,8 @@ async function check(album: AlbumRecord): Promise<boolean> {
 }
 
 export default async function populateAlbumsCovers(
-  albums: AlbumRecord[] | null | undefined,
-): Promise<AlbumRecord[] | undefined> {
+  albums: Album[] | null | undefined,
+): Promise<Album[] | undefined> {
   logger.info(`populateAlbumsCovers`);
   if (!albums || isEmpty(albums)) {
     return;
@@ -29,7 +29,7 @@ export default async function populateAlbumsCovers(
     if (await check(album)) {
       return album;
     }
-    let albumUpdate: null | Partial<AlbumRecord> = null;
+    let albumUpdate: null | Partial<Album> = null;
     if (album.mbid) {
       albumUpdate = await getFromCoverArtArchive(album.mbid);
     }
@@ -39,13 +39,14 @@ export default async function populateAlbumsCovers(
     if (!albumUpdate) {
       return album;
     }
-    await mongoDatabase.albums.updateOne(
-      { artist: album.artist, name: album.name },
-      { $set: albumUpdate },
-    );
-    return {
-      ...album,
-      ...albumUpdate,
-    };
+    return prisma.album.update({
+      data: albumUpdate,
+      where: {
+        artist_name: {
+          artist: album.artist,
+          name: album.name,
+        },
+      },
+    });
   });
 }

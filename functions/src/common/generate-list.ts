@@ -1,145 +1,103 @@
-import head from 'lodash/head';
+import { Album, AlbumTag, Tag, TagListItem } from '.prisma/client';
+import map from 'lodash/map';
+import nth from 'lodash/nth';
 import size from 'lodash/size';
 import sortBy from 'lodash/sortBy';
-import { WithId } from 'mongodb';
+import take from 'lodash/take';
 
 import populateAlbumDate from './populate-album-date/populate-album-date';
 import logger from './logger';
-import mongodb from './mongo-database';
 import populateAlbumsCovers from './populate-albums-covers';
+import prisma from './prisma';
 import saveList from './save-list';
-import { AlbumRecord, TagRecord, Weighted } from './types';
 
-const AVERAGE_NUMBER_OF_TRACKS = 7;
-const AVERAGE_SONG_DURATION = 210;
-const AVERAGE_ALBUM_DURATION = AVERAGE_SONG_DURATION * AVERAGE_NUMBER_OF_TRACKS;
 const LIST_LENGTH = 100;
+const TAKE_MODIFIER = 2;
 const MIN_TAG_COUNT = 0;
 
-const EXTREME_EXP = 3;
-const MAX_TAG_COUNT = 100;
-
-// eslint-disable-next-line @typescript-eslint/ban-types
-function getProjection(tag: TagRecord): object {
-  return {
-    $project: {
-      artist: true,
-      cover: true,
-      date: true,
-      duration: true,
-      listeners: true,
-      mbid: true,
-      name: true,
-      numberOfTracks: true,
-      playcount: true,
-      tags: true,
-      thumbnail: true,
-      weight: {
-        $multiply: [
-          {
-            $divide: [
-              { $ifNull: ['$playcount', 0] },
-              {
-                $ifNull: ['$numberOfTracks', AVERAGE_NUMBER_OF_TRACKS],
-              },
-            ],
-          },
-          { $ifNull: ['$listeners', 0] },
-          {
-            $divide: [
-              { $ifNull: ['$duration', AVERAGE_ALBUM_DURATION] },
-              {
-                $ifNull: ['$numberOfTracks', AVERAGE_NUMBER_OF_TRACKS],
-              },
-            ],
-          },
-          {
-            $pow: [
-              { $divide: [`$tags.${tag.name}`, MAX_TAG_COUNT] },
-              EXTREME_EXP,
-            ],
-          },
-        ],
+async function getCorrectedAlbumTag(
+  albumTag: AlbumTag & { album: Album },
+  // knownAlbumTags: (AlbumTag & { album: Album })[],
+): Promise<(AlbumTag & { album: Album }) | null> {
+  await populateAlbumDate(albumTag.album);
+  // eslint-disable-next-line no-await-in-loop
+  const correctedAlbumTag = await prisma.albumTag.findUnique({
+    include: {
+      album: true,
+    },
+    where: {
+      albumArtist_albumName_tagName: {
+        albumArtist: albumTag.albumArtist,
+        albumName: albumTag.albumName,
+        tagName: albumTag.tagName,
       },
     },
-  };
+  });
+  if (
+    correctedAlbumTag &&
+    !correctedAlbumTag.album?.date
+    // find(knownAlbumTags, {
+    //   'album.artist': correctedAlbumTag.albumArtist,
+    //   'album.name': correctedAlbumTag.albumName,
+    // }))
+  ) {
+    logger.warn(
+      `${correctedAlbumTag.albumArtist} - ${correctedAlbumTag.albumName}: date unavailable`,
+    );
+    return null;
+  }
+  return correctedAlbumTag;
 }
 
-async function acquireExtraAlbum(
-  tag: TagRecord,
-  n: number,
-): Promise<AlbumRecord | undefined> {
-  return head(
-    await mongodb.albums
-      .aggregate<Weighted<WithId<AlbumRecord>>>(
-        [
-          {
-            $match: {
-              [`tags.${tag.name}`]: {
-                $gt: MIN_TAG_COUNT,
-              },
-              hidden: {
-                $ne: true,
-              },
-            },
-          },
-          getProjection(tag),
-          {
-            $sort: {
-              weight: -1,
-            },
-          },
-          { $skip: LIST_LENGTH + n },
-          { $limit: 1 },
-        ],
-        { allowDiskUse: true },
-      )
-      .toArray(),
-  );
-}
-
-export default async function generateList(tag: TagRecord): Promise<boolean> {
+// eslint-disable-next-line sonarjs/cognitive-complexity
+export default async function generateList(
+  tag: Tag & { list: (TagListItem & { album: Album })[] },
+): Promise<boolean> {
   logger.debug('generateList: start');
-  const albums:
-    | Weighted<WithId<AlbumRecord>>[]
-    | undefined = await mongodb.albums
-    .aggregate<Weighted<WithId<AlbumRecord>>>(
-      [
-        {
-          $match: {
-            [`tags.${tag.name}`]: {
-              $gt: MIN_TAG_COUNT,
-            },
-            hidden: {
-              $ne: true,
-            },
-          },
-        },
-        getProjection(tag),
-        {
-          $sort: {
-            weight: -1,
-          },
-        },
-        { $limit: LIST_LENGTH },
-      ],
-      { allowDiskUse: true },
-    )
-    .toArray();
-  if (size(albums) < LIST_LENGTH) {
-    logger.warn(`${size(albums)}, but required at least ${LIST_LENGTH}`);
+  const availableAlbumTags = await prisma.albumTag.findMany({
+    include: {
+      album: true,
+    },
+    orderBy: [
+      {
+        weight: 'desc',
+      },
+    ],
+    take: LIST_LENGTH * TAKE_MODIFIER,
+    where: {
+      album: { hidden: false },
+      count: {
+        gt: MIN_TAG_COUNT,
+      },
+      tagName: tag.name,
+    },
+  });
+  const albumTags = take(availableAlbumTags, LIST_LENGTH);
+  if (size(albumTags) < LIST_LENGTH) {
+    logger.warn(`${size(albumTags)}, but required at least ${LIST_LENGTH}`);
     await saveList(tag);
   } else {
     let skipCounter = 0;
-    const albumsWithDates = [];
+    const albumTagsWithDates: (AlbumTag & { album: Album })[] = [];
     // eslint-disable-next-line no-restricted-syntax
-    for (const album of albums) {
+    for (const albumTag of albumTags) {
       // eslint-disable-next-line no-await-in-loop
-      let albumWithDate = await populateAlbumDate(album);
-      while (!albumWithDate) {
-        // eslint-disable-next-line no-await-in-loop
-        const extraAlbum = (await acquireExtraAlbum(tag, skipCounter)) || null;
-        if (!extraAlbum) {
+      let correctedAlbumTag = await getCorrectedAlbumTag(
+        albumTag,
+        // albumTagsWithDates,
+      );
+      if (!correctedAlbumTag) {
+        logger.warn(
+          `${albumTag.albumArtist} - ${albumTag.albumName}: date unavailable`,
+        );
+      }
+      while (!correctedAlbumTag) {
+        const extraAlbumTag = nth(
+          availableAlbumTags,
+          LIST_LENGTH + skipCounter,
+        );
+        skipCounter += 1;
+        if (!extraAlbumTag) {
           logger.warn(`Failed to find sufficient number of albums`);
           // eslint-disable-next-line no-await-in-loop
           await saveList(tag);
@@ -147,22 +105,34 @@ export default async function generateList(tag: TagRecord): Promise<boolean> {
           return false;
         }
         // eslint-disable-next-line no-await-in-loop
-        albumWithDate = await populateAlbumDate(extraAlbum);
-        skipCounter += 1;
+        correctedAlbumTag = await getCorrectedAlbumTag(
+          extraAlbumTag,
+          // albumTagsWithDates,
+        );
+        if (!correctedAlbumTag) {
+          logger.warn(
+            `${extraAlbumTag.albumArtist} - ${extraAlbumTag.albumName}: date unavailable`,
+          );
+        }
       }
-      if (!albumWithDate.numberOfTracks) {
+      if (!correctedAlbumTag.album.numberOfTracks) {
         logger.warn(
-          `${albumWithDate.artist} - ${albumWithDate.name}: NUMBER OF TRACKS UNKNOWN`,
+          `${correctedAlbumTag.album.artist} - ${correctedAlbumTag.album.name}: NUMBER OF TRACKS UNKNOWN`,
         );
       }
-      albumsWithDates.push(albumWithDate);
+      albumTagsWithDates.push(correctedAlbumTag);
     }
     await saveList(
       tag,
-      await populateAlbumsCovers(sortBy(albumsWithDates, ['date'])),
+      await populateAlbumsCovers(
+        map(
+          sortBy(albumTagsWithDates, (albumTag) => -albumTag.weight),
+          'album',
+        ),
+      ),
     );
   }
   logger.debug('generateList: success');
 
-  return size(albums) >= LIST_LENGTH;
+  return size(albumTags) >= LIST_LENGTH;
 }

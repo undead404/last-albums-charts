@@ -21,6 +21,7 @@ module.exports = {
       cron_restart: '45 6 * * *',
       env: {
         APP_NAME: 'deploy',
+        // SKIP_DEPLOY: true,
       },
       exec_mode: 'fork',
       instances: 1,

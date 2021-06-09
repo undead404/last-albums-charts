@@ -1,5 +1,5 @@
-import { Album, Weighted } from '../../../types';
+import { Album } from '../../../types';
 
 export default interface IndexRouteData {
-  topList: Weighted<Album>[];
+  topList: Album[];
 }

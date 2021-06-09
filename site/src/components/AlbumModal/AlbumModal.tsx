@@ -6,12 +6,13 @@ import toPairs from 'lodash/toPairs';
 import React, { useMemo } from 'react';
 import styled from 'styled-components';
 
-import { Album, Weighted } from '../../../types';
+import { Album } from '../../../types';
 import getAlbumTitle from '../../utils/get-album-title';
 import AlbumLinks from '../AlbumLinks';
 import TagTag from '../TagTag';
 
 import AlbumImage from './AlbumImage';
+import AlbumStars from './AlbumStars';
 
 const TagsContainer = styled.div`
   display: flex;
@@ -19,7 +20,7 @@ const TagsContainer = styled.div`
 `;
 
 export interface AlbumModalProperties {
-  album: Weighted<Album> | null;
+  album: Album | null;
   onClose: () => void;
 }
 const MIN_TAG_COUNT = 50;
@@ -70,7 +71,12 @@ export default function AlbumModal({
       maskClosable
       onCancel={onClose}
       onOk={onClose}
-      title={getAlbumTitle(album)}
+      title={
+        <>
+          <AlbumStars places={album.places} />
+          {getAlbumTitle(album)}
+        </>
+      }
       visible={!!album}
     >
       <Card cover={image} extra={links}>

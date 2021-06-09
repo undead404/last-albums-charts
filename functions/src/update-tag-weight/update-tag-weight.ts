@@ -1,7 +1,12 @@
+import reject from 'lodash/reject';
+import sumBy from 'lodash/sumBy';
+import toInteger from 'lodash/toInteger';
+
 import { publish } from '../common/amqp-broker';
+import deleteTag from '../common/delete-tag';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
+import prisma from '../common/prisma';
 
 import pickTag from './pick-tag';
 
@@ -17,46 +22,26 @@ export default async function updateTagWeight(): Promise<void> {
   }
   if (isTagBlacklisted(tag.name)) {
     logger.warn(`${tag.name} - blacklisted...`);
-    await mongoDatabase.tags.deleteOne({ name: tag.name });
+    await deleteTag(tag.name);
     return;
   }
   try {
     logger.info(`updateTagWeight: ${tag.name}`);
-    const [{ power } = { power: 0 }] = await mongoDatabase.albums
-      .aggregate<{ power: number }>(
-        [
-          {
-            $match: {
-              [`tags.${tag.name}`]: { $gt: 0 },
-              hidden: {
-                $ne: true,
-              },
-            },
-          },
-          {
-            $group: {
-              _id: null,
-              power: {
-                $sum: {
-                  $multiply: [
-                    `$tags.${tag.name}`,
-                    '$playcount',
-                    '$listeners',
-                    NORMALIZATION,
-                  ],
-                },
-              },
-            },
-          },
-        ],
-        { allowDiskUse: true },
-      )
-      .toArray();
+    const power = toInteger(
+      sumBy(
+        reject(tag.albums, 'album.hidden'),
+        (albumTag) =>
+          albumTag.count *
+          (albumTag.album.playcount || 0) *
+          (albumTag.album.listeners || 0) *
+          NORMALIZATION,
+      ),
+    );
     if (power === 0) {
-      logger.warn(`${tag.name} - blacklisted...`);
-      await mongoDatabase.tags.deleteOne({ _id: tag._id });
+      logger.warn(`${tag.name} - empty...`);
+      await deleteTag(tag.name);
     } else {
-      await mongoDatabase.tags.updateOne({ _id: tag._id }, { $set: { power } });
+      await prisma.tag.update({ data: { power }, where: { name: tag.name } });
     }
     await publish('perf', {
       end: new Date().toISOString(),

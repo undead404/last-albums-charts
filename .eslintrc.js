@@ -584,7 +584,7 @@ module.exports = {
           `^(${require("module").builtinModules.join("|")})(/|$)`,
         ],
         // Packages.
-        ["^@?\\w"],
+        ["^@?(\\w|\.)[^\.\/]"],
         // Side effect imports.
         ["^\\u0000"],
         // Parent imports. Put `..` last.

@@ -1,31 +1,39 @@
-import head from 'lodash/head';
+import { Album, Tag, TagListItem } from '.prisma/client';
 
+import deleteTag from '../common/delete-tag';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
-import { TagRecord } from '../common/types';
+import prisma from '../common/prisma';
 
-export default async function pickTag(): Promise<TagRecord | undefined> {
-  const tag = head(
-    await mongoDatabase.tags
-      .find({
-        lastProcessedAt: {
-          $ne: null,
+export default async function pickTag(): Promise<
+  (Tag & { list: (TagListItem & { album: Album })[] }) | null
+> {
+  const tag = await prisma.tag.findFirst({
+    include: {
+      list: {
+        include: {
+          album: true,
         },
-        topAlbums: {
-          $ne: null,
-        },
-      })
-      .sort({ listCreatedAt: 1 })
-      .limit(1)
-      .toArray(),
-  );
+      },
+    },
+    orderBy: [
+      {
+        listCheckedAt: 'asc',
+      },
+    ],
+    where: {
+      NOT: {
+        albumsScrapedAt: null,
+        listCheckedAt: null,
+      },
+    },
+  });
   if (!tag) {
     logger.warn('No tags picked');
   } else {
     if (isTagBlacklisted(tag.name)) {
       logger.warn(`${tag.name} - blacklisted...`);
-      await mongoDatabase.tags.deleteOne({ name: tag.name });
+      await deleteTag(tag.name);
       return pickTag();
     }
     logger.info(`Picked tag: ${tag.name}`);

@@ -1,14 +1,37 @@
-import { WithId } from 'mongodb';
+import { Album, AlbumTag, Tag } from '.prisma/client';
 
-import mongoDatabase from '../common/mongo-database';
-import { TagRecord } from '../common/types';
+import prisma from '../common/prisma';
 
-export default async function pickTag(): Promise<WithId<TagRecord> | null> {
+export default async function pickTag(): Promise<
+  (Tag & { albums: (AlbumTag & { album: Album })[] }) | null
+> {
   return (
-    (await mongoDatabase.tags.findOne({
-      power: 0,
-      topAlbums: { $ne: null },
-      // eslint-disable-next-line no-return-await
-    })) || (await mongoDatabase.tags.findOne({ power: 0 }))
+    (await prisma.tag.findFirst({
+      include: {
+        albums: {
+          include: {
+            album: true,
+          },
+        },
+      },
+      where: {
+        NOT: {
+          listUpdatedAt: null,
+        },
+        power: 0,
+      },
+    })) ||
+    prisma.tag.findFirst({
+      include: {
+        albums: {
+          include: {
+            album: true,
+          },
+        },
+      },
+      where: {
+        power: 0,
+      },
+    })
   );
 }

@@ -13,6 +13,7 @@ import getAlbumInfo from './get-album-info';
 
 // const DEFAULT_PAGE_LIMIT = 200;
 const DEFAULT_PAGE_LIMIT = 4;
+const MAX_NAME_LENGTH = 1024;
 
 export default async function getArtistTopAlbums(
   artistName: string,
@@ -28,7 +29,13 @@ export default async function getArtistTopAlbums(
       method: 'artist.getTopAlbums',
       page: currentPage,
     });
-    const currentAlbums = reject(data?.topalbums?.album, ['name', '(null)']);
+    const currentAlbums = reject(
+      data?.topalbums?.album,
+      (album) =>
+        album.name === '(null)' ||
+        album.name.length >= MAX_NAME_LENGTH ||
+        album.artist.name.length >= MAX_NAME_LENGTH,
+    );
     if (isEmpty(currentAlbums)) {
       break;
     }
@@ -36,7 +43,13 @@ export default async function getArtistTopAlbums(
     const albumInfos = await sequentialAsyncMap(currentAlbums, (albumItem) =>
       getAlbumInfo(albumItem.name, albumItem.artist.name),
     );
-    albums = [...albums, ...compact(uniqBy(albumInfos, 'name'))];
+    albums = [
+      ...albums,
+      ...uniqBy(
+        compact(albumInfos),
+        (albumInfo) => `${albumInfo.artist} - ${albumInfo.name}`,
+      ),
+    ];
     currentPage += 1;
   }
   return albums;

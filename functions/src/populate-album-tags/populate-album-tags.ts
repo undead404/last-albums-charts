@@ -1,10 +1,9 @@
-import isEmpty from 'lodash/isEmpty';
 import map from 'lodash/map';
 
 import getAlbumTopTags from '../common/lastfm/get-album-top-tags';
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
-import { AlbumAmqpPayload, AlbumRecord } from '../common/types';
+import prisma from '../common/prisma';
+import { AlbumAmqpPayload } from '../common/types';
 
 import normalizeTags from './normalize-tags';
 
@@ -13,34 +12,59 @@ export default async function populateAlbumTags(
 ): Promise<void> {
   logger.info(`populateAlbumTags: ${album.artist} - ${album.name}`);
   const tagsObjects = await getAlbumTopTags(album.name, album.artist);
-  const tags = normalizeTags(tagsObjects);
-  const albumUpdate: Partial<AlbumRecord> = { tags };
-  await mongoDatabase.albums.updateOne(
-    { artist: album.artist, name: album.name },
-    { $set: albumUpdate },
-  );
-  if (isEmpty(tags)) {
+  const albumRecord = await prisma.album.findUnique({
+    where: {
+      artist_name: {
+        artist: album.artist,
+        name: album.name,
+      },
+    },
+  });
+  if (!albumRecord) {
+    logger.warn(
+      `${album.artist} - ${album.name}: album already erased from db`,
+    );
     return;
   }
-  await mongoDatabase.tags.bulkWrite(
-    map(tags, (tagCount, tagName) => ({
-      updateOne: {
-        filter: {
-          name: tagName,
+  const tags = normalizeTags(tagsObjects);
+  await prisma.$transaction(
+    map(tags, (tagCount, tagName) => {
+      return prisma.albumTag.upsert({
+        create: {
+          album: {
+            connect: {
+              artist_name: {
+                artist: album.artist,
+                name: album.name,
+              },
+            },
+          },
+          tag: {
+            connectOrCreate: {
+              create: {
+                albumsScrapedAt: null,
+                listCheckedAt: null,
+                name: tagName,
+                power: 0,
+                registeredAt: new Date(),
+              },
+              where: {
+                name: tagName,
+              },
+            },
+          },
+          count: tagCount,
+          weight: 0,
         },
-        update: {
-          $setOnInsert: {
-            lastProcessedAt: null,
-            listCreatedAt: null,
-            name: tagName,
-            power: 0,
+        update: { count: tagCount },
+        where: {
+          albumArtist_albumName_tagName: {
+            albumArtist: album.artist,
+            albumName: album.name,
+            tagName,
           },
         },
-        upsert: true,
-      },
-    })),
-    {
-      ordered: false,
-    },
+      });
+    }),
   );
 }

@@ -1,9 +1,8 @@
 import { publish } from '../common/amqp-broker';
-import generateList from '../common/generate-list';
+import deleteTag from '../common/delete-tag';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
-import { TagRecord } from '../common/types';
+import prisma from '../common/prisma';
 
 import pickTag from './pick-tag';
 import scrapeAlbumsByTag from './scrape-albums-by-tag';
@@ -17,19 +16,17 @@ export default async function scrapeAlbums(): Promise<void> {
   }
   try {
     if (isTagBlacklisted(tag.name)) {
-      await mongoDatabase.tags.deleteOne({ name: tag.name });
+      await deleteTag(tag.name);
       await scrapeAlbums();
       return;
     }
     await scrapeAlbumsByTag(tag);
-    const tagUpdate: Partial<TagRecord> = {
-      lastProcessedAt: new Date(),
-    };
-    await mongoDatabase.tags.updateOne({ name: tag.name }, { $set: tagUpdate });
-    if (!(await generateList(tag))) {
-      await scrapeAlbums();
-      return;
-    }
+    await prisma.tag.update({
+      data: {
+        albumsScrapedAt: new Date(),
+      },
+      where: { name: tag.name },
+    });
     logger.info(`scrapeAlbums: ${tag.name} - success`);
     await publish('perf', {
       end: new Date().toISOString(),

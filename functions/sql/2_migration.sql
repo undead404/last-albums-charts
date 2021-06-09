@@ -1,0 +1,2 @@
+ALTER TABLE "public"."Tag"
+  ALTER COLUMN "power" TYPE BIGINT;

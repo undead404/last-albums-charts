@@ -1,21 +1,26 @@
 import toString from 'lodash/toString';
 
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
+import prisma from '../common/prisma';
 
 import updateTagWeight from './update-tag-weight';
 
 export default async function main(): Promise<void> {
-  if (!mongoDatabase.isConnected) {
-    await mongoDatabase.connect();
-  }
   try {
+    await prisma.$connect();
     await updateTagWeight();
+    await prisma.$disconnect();
     process.exit(0);
   } catch (error) {
     logger.error(toString(error));
+    await prisma.$disconnect();
     process.exit(1);
   }
 }
+process.on('uncaughtException', async (error) => {
+  logger.error(toString(error));
+  await prisma.$disconnect();
+  process.exit(1);
+});
 
 main();

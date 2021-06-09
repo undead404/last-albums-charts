@@ -1,10 +1,10 @@
+import { Album } from '.prisma/client';
 import includes from 'lodash/includes';
 import toString from 'lodash/toString';
 
 import logger from '../logger';
-import mongoDatabase from '../mongo-database';
+import prisma from '../prisma';
 import sleep from '../sleep';
-import { AlbumRecord } from '../types';
 
 import getFromDiscogs from './get-from-discogs';
 import getFromMusicbrainz from './get-from-musicbrainz';
@@ -12,8 +12,8 @@ import getFromMusicbrainz from './get-from-musicbrainz';
 const API_DELAY_MS = 5000;
 
 export default async function populateAlbumDate(
-  album: AlbumRecord,
-): Promise<AlbumRecord | null> {
+  album: Album,
+): Promise<Album | null> {
   if (album.date) {
     return album;
   }
@@ -27,18 +27,17 @@ export default async function populateAlbumDate(
     if (!date) {
       return null;
     }
-    await mongoDatabase.albums.updateOne(
-      { artist: album.artist, name: album.name },
-      {
-        $set: {
-          date,
+    return await prisma.album.update({
+      data: {
+        date,
+      },
+      where: {
+        artist_name: {
+          artist: album.artist,
+          name: album.name,
         },
       },
-    );
-    return {
-      ...album,
-      date,
-    };
+    });
   } catch (error) {
     if (includes(error.message, 'rate limit')) {
       logger.warn('Rate limit... Delaying');

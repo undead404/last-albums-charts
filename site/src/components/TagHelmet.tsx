@@ -43,11 +43,11 @@ export default function TagHelmet({ tag }: TagHelmetProperties): JSX.Element {
       />
       <meta content={image} property="twitter:image" />
 
-      {tag.lastProcessedAt && (
-        <meta content={tag.lastProcessedAt} httpEquiv="date" />
+      {tag.albumsScrapedAt && (
+        <meta content={tag.albumsScrapedAt} httpEquiv="date" />
       )}
-      {tag.listCreatedAt && (
-        <meta content={tag.listCreatedAt} httpEquiv="last-modified" />
+      {tag.listUpdatedAt && (
+        <meta content={tag.listUpdatedAt} httpEquiv="last-modified" />
       )}
     </Head>
   );

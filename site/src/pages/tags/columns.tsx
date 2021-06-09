@@ -1,6 +1,6 @@
 import { Link } from '@reach/router';
 import { TableProps } from 'antd';
-import formatISO from 'date-fns/formatISO';
+import { formatISO } from 'date-fns';
 import filenamify from 'filenamify';
 import React from 'react';
 
@@ -31,7 +31,7 @@ const COLUMNS: TableProps<TagForTagsPage>['columns'] = [
   {
     key: 'listUpdatedAt',
     render(_value: unknown, tag: TagForTagsPage): string {
-      const when = tag.listUpdatedAt || tag.listCreatedAt;
+      const when = tag.listUpdatedAt || tag.listCheckedAt;
       if (!when) {
         return 'Never';
       }
@@ -39,35 +39,34 @@ const COLUMNS: TableProps<TagForTagsPage>['columns'] = [
     },
     responsive: ['md', 'lg', 'xl', 'xxl'],
     sorter(tag1: TagForTagsPage, tag2: TagForTagsPage): number {
-      return compareDates(
-        tag1.listUpdatedAt || tag1.listCreatedAt,
-        tag2.listUpdatedAt || tag2.listCreatedAt,
-      );
+      const date1 = tag1.listUpdatedAt || tag1.listCheckedAt;
+      const date2 = tag2.listUpdatedAt || tag2.listCheckedAt;
+      return compareDates(date1, date2);
     },
     title: 'List generated at',
   },
   {
-    key: 'lastProcessedAt',
+    key: 'albumsScrapedAt',
     render(_value: unknown, tag: TagForTagsPage): string {
-      return tag.lastProcessedAt ? formatISO(tag.lastProcessedAt) : 'Never';
+      return tag.albumsScrapedAt ? formatISO(tag.albumsScrapedAt) : 'Never';
     },
     responsive: ['lg', 'xl', 'xxl'],
     sorter(tag1: TagForTagsPage, tag2: TagForTagsPage): number {
-      return compareDates(tag1.lastProcessedAt, tag2.lastProcessedAt);
+      return compareDates(tag1.albumsScrapedAt, tag2.albumsScrapedAt);
     },
     title: 'Albums scraped at',
   },
   {
     key: 'power',
     render(_value: unknown, tag: TagForTagsPage): string {
-      return Math.floor(tag.power).toLocaleString('uk-UA');
+      return (tag.power || 0).toLocaleString('uk-UA');
     },
     responsive: ['xl', 'xxl'],
     sorter(tag1: TagForTagsPage, tag2: TagForTagsPage): -1 | 0 | 1 {
-      if (tag1.power < tag2.power) {
+      if ((tag1.power || 0) < (tag2.power || 0)) {
         return -1;
       }
-      if (tag1.power > tag2.power) {
+      if ((tag1.power || 0) > (tag2.power || 0)) {
         return 1;
       }
       return 0;

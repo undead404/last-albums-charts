@@ -1,69 +1,88 @@
+import { Album, Tag, TagListItem } from '.prisma/client';
+import map from 'lodash/map';
 import some from 'lodash/some';
 
 import logger from './logger';
-import mongoDatabase from './mongo-database';
-import { AlbumRecord, TagRecord } from './types';
+import prisma from './prisma';
 
 function didAlbumsChange(
-  tagRecord: TagRecord,
-  albums?: AlbumRecord[],
+  tag: Tag & { list: (TagListItem & { album: Album })[] },
+  albums?: Album[],
 ): boolean {
-  if (!albums && !tagRecord.topAlbums) {
+  if (!albums && !tag.list) {
     return false;
   }
-  if (!albums || !tagRecord.topAlbums) {
+  if (!albums || !tag.list) {
     return true;
   }
-  return some(albums, (chartAlbum, index) => {
-    const tagAlbum = tagRecord.topAlbums?.[index];
+  return some(albums, (listAlbum, index) => {
+    const tagAlbum = tag.list?.[index];
     return (
       !tagAlbum ||
-      chartAlbum.artist !== tagAlbum.artist ||
-      chartAlbum.name !== tagAlbum.name ||
+      listAlbum.artist !== tagAlbum.albumArtist ||
+      listAlbum.name !== tagAlbum.albumArtist ||
       // chartAlbum.cover !== tagAlbum.cover ||
       // chartAlbum.thumbnail !== tagAlbum.thumbnail ||
-      chartAlbum.date !== tagAlbum.date
+      listAlbum.date !== tagAlbum.album.date
     );
   });
 }
 export default async function saveList(
-  tagRecord: TagRecord,
-  albums?: AlbumRecord[],
+  tag: Tag & { list: (TagListItem & { album: Album })[] },
+  albums?: Album[],
 ): Promise<void> {
-  if (!albums) {
-    await mongoDatabase.tags.updateOne(
-      { name: tagRecord.name },
-      {
-        $currentDate: {
-          listCreatedAt: true,
-          listUpdatedAt: true,
-        },
+  if (!albums || !didAlbumsChange(tag, albums)) {
+    logger.debug(`${tag.name}: no changes`);
+    await prisma.tag.update({
+      data: {
+        listCheckedAt: new Date(),
       },
-    );
-  } else if (!didAlbumsChange(tagRecord, albums)) {
-    logger.debug(`${tagRecord.name}: no changes`);
-    await mongoDatabase.tags.updateOne(
-      { name: tagRecord.name },
-      {
-        $currentDate: {
-          listCreatedAt: true,
-        },
+      where: {
+        name: tag.name,
       },
-    );
+    });
   } else {
-    const tagUpdate: Partial<TagRecord> = {
-      topAlbums: albums,
-    };
-
-    await mongoDatabase.tags.updateOne(
-      { name: tagRecord.name },
-      {
-        $currentDate: {
-          listCreatedAt: true,
-          listUpdatedAt: true,
+    // await new Promise<void>((resolve, reject) =>
+    //   fs.writeFile(
+    //     `${filenamify(tag.name)}.json`,
+    //     JSON.stringify(albums),
+    //     (error) => {
+    //       if (error) {
+    //         reject(error);
+    //       } else {
+    //         resolve();
+    //       }
+    //     },
+    //   ),
+    // );
+    await prisma.$transaction([
+      prisma.tag.update({
+        data: {
+          list: {
+            deleteMany: {},
+          },
         },
-        $set: tagUpdate,
-      },
-    );
+        where: {
+          name: tag.name,
+        },
+      }),
+      prisma.tagListItem.createMany({
+        data: map(albums, (album, index) => ({
+          albumArtist: album.artist,
+          albumName: album.name,
+          place: index + 1,
+          tagName: tag.name,
+        })),
+      }),
+      prisma.tag.update({
+        data: {
+          listCheckedAt: new Date(),
+          listUpdatedAt: new Date(),
+        },
+        where: {
+          name: tag.name,
+        },
+      }),
+    ]);
   }
 }

@@ -1,3 +1,4 @@
+import { Album, Tag } from '.prisma/client';
 import isEmpty from 'lodash/isEmpty';
 import map from 'lodash/map';
 import toString from 'lodash/toString';
@@ -5,23 +6,30 @@ import toString from 'lodash/toString';
 import { publish } from '../common/amqp-broker';
 import getTagTopAlbums from '../common/lastfm/get-tag-top-albums';
 import logger from '../common/logger';
-import mongodb from '../common/mongo-database';
-import { AlbumRecord, TagRecord } from '../common/types';
+import prisma from '../common/prisma';
 
-export default async function scrapeAlbumsByTag(tag: TagRecord): Promise<void> {
+export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
   const albums = await getTagTopAlbums(tag.name);
   const albumsRecords = map(
     albums,
-    (album): AlbumRecord => ({
+    (album): Album => ({
       artist: album.artist,
+      cover: null,
+      date: null,
       duration: null,
+      hidden: false,
       mbid: album.mbid || null,
       listeners: null,
       name: album.name,
       numberOfTracks: null,
       playcount: null,
-      tags: null,
+      registeredAt: new Date(),
+      thumbnail: null,
+      weight: 0,
     }),
+  );
+  logger.info(
+    `scrapeAlbumsByTag(${tag.name}): ${albumsRecords.length} albums scraped`,
   );
   Promise.all(
     map(albumsRecords, async (albumRecord) => {
@@ -34,14 +42,9 @@ export default async function scrapeAlbumsByTag(tag: TagRecord): Promise<void> {
     }),
   ).catch((error) => logger.error(toString(error)));
   if (!isEmpty(albumsRecords)) {
-    await mongodb.albums.bulkWrite(
-      map(albumsRecords, (albumRecord) => ({
-        updateOne: {
-          filter: { artist: albumRecord.artist, name: albumRecord.name },
-          update: { $set: albumRecord },
-          upsert: true,
-        },
-      })),
-    );
+    await prisma.album.createMany({
+      data: albumsRecords,
+      skipDuplicates: true,
+    });
   }
 }

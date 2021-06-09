@@ -2,15 +2,13 @@ import toString from 'lodash/toString';
 
 import { publish, subscribe } from '../common/amqp-broker';
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
+import prisma from '../common/prisma';
 import { AlbumAmqpPayload } from '../common/types';
 
 import populateAlbumStats from './populate-album-stats';
 
 export default async function main(): Promise<void> {
-  if (!mongoDatabase.isConnected) {
-    await mongoDatabase.connect();
-  }
+  await prisma.$connect();
   const subscription = await subscribe('populateAlbumStats');
   subscription
     .on('message', async (message, content, ackOrNack) => {
@@ -43,4 +41,21 @@ export default async function main(): Promise<void> {
     });
 }
 
+async function handleExit(): Promise<void> {
+  await prisma.$disconnect();
+}
+process.on('exit', handleExit);
+
+// catches ctrl+c event
+process.on('SIGINT', handleExit);
+
+// catches "kill pid" (for example: nodemon restart)
+process.on('SIGUSR1', handleExit);
+process.on('SIGUSR2', handleExit);
+
+process.on('uncaughtException', async (error) => {
+  logger.error(toString(error));
+  await prisma.$disconnect();
+  process.exit(1);
+});
 main();

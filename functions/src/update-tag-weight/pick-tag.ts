@@ -1,20 +1,33 @@
-import head from 'lodash/head';
+import { Album, AlbumTag, Tag } from '.prisma/client';
 import toInteger from 'lodash/toInteger';
-import { FilterQuery, WithId } from 'mongodb';
 
-import mongoDatabase from '../common/mongo-database';
-import { TagRecord } from '../common/types';
+import prisma from '../common/prisma';
 
-const QUERY: FilterQuery<WithId<TagRecord>> = { power: { $ne: 0 } };
-
-export default async function pickTag(): Promise<WithId<TagRecord> | null> {
-  const numberOfTags = await mongoDatabase.tags.countDocuments(QUERY);
+export default async function pickTag(): Promise<
+  (Tag & { albums: (AlbumTag & { album: Album })[] }) | null
+> {
+  const numberOfTags = await prisma.tag.count({
+    where: {
+      power: {
+        gt: 0,
+      },
+    },
+  });
   // logger.debug(`${numberOfTags} tags present`);
   const indexToPick = toInteger(Math.random() * numberOfTags);
-  return (
-    head(
-      // eslint-disable-next-line unicorn/no-array-callback-reference
-      await mongoDatabase.tags.find(QUERY).skip(indexToPick).limit(1).toArray(),
-    ) || null
-  );
+  return prisma.tag.findFirst({
+    include: {
+      albums: {
+        include: {
+          album: true,
+        },
+      },
+    },
+    skip: indexToPick,
+    where: {
+      power: {
+        gt: 0,
+      },
+    },
+  });
 }

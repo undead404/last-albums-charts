@@ -1,10 +1,10 @@
+import { Album } from '.prisma/client';
 import get from 'lodash/get';
 import startsWith from 'lodash/startsWith';
 import { MusicBrainzApi } from 'musicbrainz-api';
 
 import logger from '../logger';
 import sleep from '../sleep';
-import { SerializableAlbum } from '../types';
 
 const API_DELAY_MS = 5000;
 const musicbrainz = new MusicBrainzApi({
@@ -15,7 +15,7 @@ const musicbrainz = new MusicBrainzApi({
 
 let waiter = Promise.resolve();
 export default async function getFromMusicbrainz(
-  album: Pick<SerializableAlbum, 'artist' | 'mbid' | 'name'>,
+  album: Pick<Album, 'artist' | 'mbid' | 'name'>,
 ): Promise<string | null> {
   logger.debug(`getFromMusicbrainz: ${album.artist} - ${album.name}`);
   if (!album.mbid) {

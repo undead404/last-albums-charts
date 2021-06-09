@@ -1,28 +1,27 @@
 import { parseISO } from 'date-fns';
 
+import { SerializedTag, Tag } from '../../types';
+
 export default function deserializeTag<
-  T extends {
-    lastProcessedAt: null | string;
-    listCreatedAt: null | string;
-    listUpdatedAt?: string;
-  }
+  T extends Pick<
+    SerializedTag,
+    'albumsScrapedAt' | 'listCheckedAt' | 'listUpdatedAt' | 'power'
+  >
 >(
   serializedTag: T,
-): Omit<T, 'lastProcessedAt' | 'listCreatedAt' | 'listUpdatedAt'> & {
-  lastProcessedAt: null | Date;
-  listCreatedAt: null | Date;
-  listUpdatedAt?: Date;
-} {
+): Omit<T, 'albumsScrapedAt' | 'listCheckedAt' | 'listUpdatedAt' | 'power'> &
+  Pick<Tag, 'albumsScrapedAt' | 'listCheckedAt' | 'listUpdatedAt' | 'power'> {
   return {
     ...serializedTag,
-    lastProcessedAt: serializedTag.lastProcessedAt
-      ? parseISO(serializedTag.lastProcessedAt)
+    albumsScrapedAt: serializedTag.albumsScrapedAt
+      ? parseISO(serializedTag.albumsScrapedAt)
       : null,
-    listCreatedAt: serializedTag.listCreatedAt
-      ? parseISO(serializedTag.listCreatedAt)
+    listCheckedAt: serializedTag.listCheckedAt
+      ? parseISO(serializedTag.listCheckedAt)
       : null,
     listUpdatedAt: serializedTag.listUpdatedAt
       ? parseISO(serializedTag.listUpdatedAt)
-      : undefined,
+      : null,
+    power: serializedTag.power ? BigInt(serializedTag.power) : null,
   };
 }

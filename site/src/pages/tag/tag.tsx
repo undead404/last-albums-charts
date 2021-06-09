@@ -100,7 +100,7 @@ export default function TagPage(): JSX.Element | null {
         >
           <Descriptions column={DESCRIPTIONS_COLUMN} size="small">
             <Descriptions.Item label="Albums scraped">
-              <Typography.Text>{tag.lastProcessedAt}</Typography.Text>
+              <Typography.Text>{tag.albumsScrapedAt}</Typography.Text>
             </Descriptions.Item>
             <Descriptions.Item label="Last updated">
               <Typography.Text>{tag.listUpdatedAt}</Typography.Text>
@@ -109,16 +109,17 @@ export default function TagPage(): JSX.Element | null {
         </PageHeader>
       </Layout.Header>
       <Layout.Content>
-        {map(reject(tag.topAlbums, 'numberOfTracks'), (album) => {
-          const title = getAlbumTitle(album);
-          return (
-            <Alert
-              key={title}
-              message={`${title} has numberOfTracks empty`}
-              type="warning"
-            />
-          );
-        })}
+        {process.env.NODE_ENV !== 'production' &&
+          map(reject(tag.topAlbums, 'numberOfTracks'), (album) => {
+            const title = getAlbumTitle(album);
+            return (
+              <Alert
+                key={title}
+                message={`${title} has numberOfTracks empty`}
+                type="warning"
+              />
+            );
+          })}
         <AlbumsTable albums={tag.topAlbums || undefined} />
       </Layout.Content>
       <BackTop />

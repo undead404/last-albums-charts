@@ -1,98 +1,50 @@
-import { WithId } from 'mongodb';
+import find from 'lodash/find';
+import isEmpty from 'lodash/isEmpty';
 
 import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
-import mongodb from '../common/mongo-database';
-import rateAlbums from '../common/rate-albums';
-import { AlbumRecord, TagRecord, Weighted } from '../common/types';
+import prisma from '../common/prisma';
 
-import saveList from './save-top-list';
+import saveTopList from './save-top-list';
 
-const AVERAGE_NUMBER_OF_TRACKS = 7;
-const AVERAGE_SONG_DURATION = 210;
-const AVERAGE_ALBUM_DURATION = AVERAGE_SONG_DURATION * AVERAGE_NUMBER_OF_TRACKS;
 const LIST_LENGTH = 10;
 
 export default async function generateTopList(): Promise<void> {
   logger.debug('generateTopList()');
   const start = new Date();
-  let tagRecord: TagRecord | undefined;
   try {
-    const albums:
-      | Weighted<WithId<AlbumRecord>>[]
-      | undefined = await mongodb.albums
-      .aggregate<Weighted<WithId<AlbumRecord>>>(
-        [
-          {
-            $match: {
-              date: {
-                $ne: null,
-              },
-              hidden: {
-                $ne: true,
-              },
-            },
-          },
-          {
-            $project: {
-              artist: true,
-              cover: true,
-              date: true,
-              duration: true,
-              listeners: true,
-              mbid: true,
-              name: true,
-              numberOfTracks: true,
-              playcount: true,
-              tags: true,
-              thumbnail: true,
-              weight: {
-                $multiply: [
-                  {
-                    $divide: [
-                      { $ifNull: ['$playcount', 0] },
-                      {
-                        $ifNull: ['$numberOfTracks', AVERAGE_NUMBER_OF_TRACKS],
-                      },
-                    ],
-                  },
-                  { $ifNull: ['$listeners', 0] },
-                  {
-                    $divide: [
-                      { $ifNull: ['$duration', AVERAGE_ALBUM_DURATION] },
-                      {
-                        $ifNull: ['$numberOfTracks', AVERAGE_NUMBER_OF_TRACKS],
-                      },
-                    ],
-                  },
-                ],
-              },
-            },
-          },
-          {
-            $sort: {
-              weight: -1,
-            },
-          },
-          { $limit: LIST_LENGTH },
-          {
-            $sort: {
-              date: 1,
-              name: 1,
-            },
-          },
-        ],
-        { allowDiskUse: true },
-      )
-      .toArray();
-    await saveList(rateAlbums(albums));
+    const albums = await prisma.album.findMany({
+      include: {
+        places: true,
+        tags: true,
+      },
+      orderBy: [
+        {
+          weight: 'desc',
+        },
+      ],
+      take: LIST_LENGTH,
+      where: {
+        NOT: {
+          date: null,
+        },
+        hidden: false,
+      },
+    });
+    const albumWithoutTags = find(albums, (album) => isEmpty(album.tags));
+    if (albumWithoutTags) {
+      throw new Error(
+        `${albumWithoutTags.artist} - ${albumWithoutTags.name} - NO TAGS`,
+      );
+    }
+    await saveTopList(albums);
     logger.debug('generateTopList: success');
 
     await publish('perf', {
       end: new Date().toISOString(),
       start: start.toISOString(),
       success: true,
-      targetName: tagRecord?.name,
+      targetName: 'topList',
       title: 'generateTopList',
     });
   } catch (error) {
@@ -100,7 +52,7 @@ export default async function generateTopList(): Promise<void> {
       end: new Date().toISOString(),
       start: start.toISOString(),
       success: false,
-      targetName: tagRecord?.name,
+      targetName: 'topList',
       title: 'generateTopList',
     });
     throw error;

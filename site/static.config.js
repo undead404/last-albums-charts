@@ -2,7 +2,7 @@ import path from 'path';
 
 import filenamify from 'filenamify';
 import find from 'lodash/find';
-import findIndex from 'lodash/findIndex';
+import forEach from 'lodash/forEach';
 import map from 'lodash/map';
 import omit from 'lodash/omit';
 import orderBy from 'lodash/orderBy';
@@ -16,17 +16,55 @@ import topList from './src/top-list.json';
 const { tags } = tagsData;
 
 const tagsWithRankedAlbums = map(tags, (tag) => {
-  const albumsByWeight = orderBy(tag.topAlbums, ['weight'], ['desc']);
+  const albumWithCover = find(tag.list, 'album.thumbnail')?.album;
   return {
-    ...tag,
-    topAlbums: map(tag.topAlbums, (album) => ({
-      ...omit(album, ['_id']),
-      rating:
-        findIndex(albumsByWeight, { artist: album.artist, name: album.name }) +
-        1,
-    })),
+    ...omit(tag, ['albums', 'list']),
+    preview: albumWithCover?.thumbnail,
+    title: albumWithCover
+      ? `${albumWithCover.artist} - ${albumWithCover.name} (${albumWithCover.date})`
+      : undefined,
+    topAlbums: map(tag.list, (tagListItem) => {
+      const places = {};
+      forEach(tagListItem.album.places, (tagListItem) => {
+        if (tagListItem.place <= 10) {
+          places[tagListItem.tagName] = tagListItem.place;
+        }
+      });
+      const tags = {};
+      forEach(tagListItem.album.tags, (albumTag) => {
+        tags[albumTag.tagName] = albumTag.count;
+      });
+      return {
+        ...tagListItem.album,
+        places,
+        rating: tagListItem.place,
+        tags,
+      };
+    }),
   };
 });
+
+const topListAlbums = orderBy(
+  map(topList.albums, (album, i) => {
+    const places = {};
+    forEach(album.places, (tagListItem) => {
+      if (tagListItem.place <= 10) {
+        places[tagListItem.tagName] = tagListItem.place;
+      }
+    });
+    const tags = {};
+    forEach(album.tags, (albumTag) => {
+      tags[albumTag.tagName] = albumTag.count;
+    });
+    return {
+      ...album,
+      places,
+      rating: i + 1,
+      tags,
+    };
+  }),
+  ['date'],
+);
 
 const availableTags = map(tags, 'name');
 
@@ -50,16 +88,7 @@ export default {
             })),
             getData: async () => ({
               searchIndex,
-              tags: map(tagsWithRankedAlbums, (tag) => {
-                const albumWithCover = find(orderBy(tag.topAlbums, ['weight'], ['desc']), 'thumbnail');
-                return {
-                  ...omit(tag, ['_id', 'topAlbums']),
-                  preview: albumWithCover?.thumbnail,
-                  title: albumWithCover
-                    ? `${albumWithCover.artist} - ${albumWithCover.name} (${albumWithCover.date})`
-                    : undefined,
-                };
-              }),
+              tags: tagsWithRankedAlbums,
             }),
             path: '/tag',
             template: 'src/pages/tags/tags',
@@ -82,7 +111,7 @@ export default {
         ],
         getData: () => ({
           availableTags: sharedAvailableTags,
-          topList: topList.albums,
+          topList: topListAlbums,
         }),
         path: '/',
         template: 'src/pages/index/index',

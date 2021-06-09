@@ -9,6 +9,7 @@ import acquire from './acquire';
 import { TagGetTopAlbumsPayload } from './api-types';
 
 const MAX_PAGE_AVAILABLE = 200;
+const MAX_NAME_LENGTH = 1024;
 
 export default async function getTagTopAlbums(
   tagName: string,
@@ -25,7 +26,13 @@ export default async function getTagTopAlbums(
       tag: tagName,
     });
     const currentAlbums = map(
-      reject(data?.albums?.album, ['name', '(null)']),
+      reject(
+        data?.albums?.album,
+        (album) =>
+          album.name === '(null)' ||
+          album.name.length >= MAX_NAME_LENGTH ||
+          album.artist.name.length >= MAX_NAME_LENGTH,
+      ),
       (album) => ({
         artist: album.artist.name,
         mbid: album.mbid,

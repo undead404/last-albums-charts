@@ -1,3 +1,4 @@
+import { Album } from '.prisma/client';
 import { closest } from 'fastest-levenshtein';
 import find from 'lodash/find';
 import forEach from 'lodash/forEach';
@@ -7,7 +8,6 @@ import uniq from 'lodash/uniq';
 import logger from './logger';
 import searchDiscogs from './search-discogs';
 import sleep from './sleep';
-import { AlbumRecord } from './types';
 
 let waiter = Promise.resolve();
 const API_DELAY_MS = 2000;
@@ -48,7 +48,7 @@ function getFromResponseResults(
 export default async function getFromDiscogs(
   artistName: string,
   albumName: string,
-): Promise<Pick<AlbumRecord, 'cover' | 'thumbnail'> | null> {
+): Promise<Pick<Album, 'cover' | 'thumbnail'> | null> {
   logger.debug(`getFromDiscogs: ${artistName} - ${albumName}`);
   await waiter;
   const searchResponse = await searchDiscogs(artistName, albumName);

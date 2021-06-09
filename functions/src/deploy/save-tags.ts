@@ -1,45 +1,59 @@
 import fs from 'fs';
 import path from 'path';
 
+import sortBy from 'lodash/sortBy';
+
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
+import prisma from '../common/prisma';
 
 const TARGET_FILENAME = path.resolve('../site/src/tags.json');
 const TAGS_LIMIT = 1500;
 
 export default async function saveTags(): Promise<void> {
   logger.debug('saveTags()');
-  const tags = await mongoDatabase.tags
-    .aggregate(
-      [
-        {
-          $match: { listCreatedAt: { $ne: null }, topAlbums: { $ne: null } },
-        },
-        {
-          $sort: {
-            power: -1,
+  const tags = sortBy(
+    await prisma.tag.findMany({
+      include: {
+        list: {
+          include: {
+            album: {
+              include: {
+                places: true,
+                tags: true,
+              },
+            },
           },
         },
+      },
+      orderBy: [
         {
-          $limit: TAGS_LIMIT,
-        },
-        {
-          $sort: {
-            listUpdatedAt: -1,
-            listCreatedAt: -1,
-          },
+          power: 'desc',
         },
       ],
-      { allowDiskUse: true },
-    )
-    .toArray();
-  return new Promise<void>((resolve, reject) =>
-    fs.writeFile(TARGET_FILENAME, JSON.stringify({ tags }), (error) => {
-      if (error) {
-        reject(error);
-      } else {
-        resolve();
-      }
+      take: TAGS_LIMIT,
+      where: {
+        NOT: {
+          listUpdatedAt: null,
+        },
+      },
     }),
+    ['listUpdatedAt', 'listCheckedAt'],
+  );
+  return new Promise<void>((resolve, reject) =>
+    fs.writeFile(
+      TARGET_FILENAME,
+      JSON.stringify(
+        { tags },
+        // eslint-disable-next-line lodash/prefer-lodash-typecheck
+        (key, value) => (typeof value === 'bigint' ? value.toString() : value), // return everything else unchanged
+      ),
+      (error) => {
+        if (error) {
+          reject(error);
+        } else {
+          resolve();
+        }
+      },
+    ),
   );
 }

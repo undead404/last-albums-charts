@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
+import { Tag, TagListItem } from '.prisma/client';
 import forEach from 'lodash/forEach';
 import join from 'lodash/join';
 import map from 'lodash/map';
@@ -8,19 +9,20 @@ import replace from 'lodash/replace';
 import lunr from 'lunr';
 
 import logger from '../common/logger';
-import mongoDatabase from '../common/mongo-database';
-import { TagRecord } from '../common/types';
+import prisma from '../common/prisma';
 
 const TARGET_FILENAME = path.resolve('../site/src/search-index.json');
 
-type TagItem = Pick<TagRecord, 'name' | 'topAlbums'>;
-
-function tagToLunrItem(tag: TagItem) {
+function tagToLunrItem(
+  tag: Tag & {
+    list: TagListItem[];
+  },
+) {
   return {
     name: replace(tag.name, '"', '\\"'),
     text: join(
-      map(tag.topAlbums, (album) =>
-        replace(`${album.artist} - ${album.name}`, /"/g, '\\"'),
+      map(tag.list, (album) =>
+        replace(`${album.albumArtist} - ${album.albumName}`, /"/g, '\\"'),
       ),
       ', ',
     ),
@@ -29,31 +31,24 @@ function tagToLunrItem(tag: TagItem) {
 
 export default async function generateSearchIndex(): Promise<void> {
   logger.debug('generateSearchIndex()');
-  const tags = await mongoDatabase.tags
-    .aggregate<TagItem>(
-      [
-        {
-          $match: { topAlbums: { $ne: null } },
-        },
-        {
-          $project: {
-            _id: false,
-            name: true,
-            topAlbums: true,
-          },
-        },
-        {
-          $sort: {
-            listUpdatedAt: -1,
-            listCreatedAt: -1,
-          },
-        },
-      ],
+  const tags = await prisma.tag.findMany({
+    include: {
+      list: true,
+    },
+    orderBy: [
       {
-        allowDiskUse: true,
+        listUpdatedAt: 'desc',
       },
-    )
-    .toArray();
+      {
+        listCheckedAt: 'desc',
+      },
+    ],
+    where: {
+      NOT: {
+        listUpdatedAt: null,
+      },
+    },
+  });
   const posts = map(tags, tagToLunrItem);
   const searchIndex = lunr(function configure() {
     this.ref('name');
