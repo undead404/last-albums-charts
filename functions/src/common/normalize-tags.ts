@@ -6,8 +6,8 @@ import some from 'lodash/some';
 import toLower from 'lodash/toLower';
 import values from 'lodash/values';
 
-import isTagBlacklisted from '../common/is-tag-blacklisted';
-import { Tag } from '../common/lastfm/api-types';
+import { Tag } from './lastfm/api-types';
+import isTagBlacklisted from './is-tag-blacklisted';
 
 const DESIRED_MAX_TAG_COUNT = 100;
 

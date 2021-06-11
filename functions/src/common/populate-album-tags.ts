@@ -1,11 +1,10 @@
 import map from 'lodash/map';
 
-import getAlbumTopTags from '../common/lastfm/get-album-top-tags';
-import logger from '../common/logger';
-import prisma from '../common/prisma';
-import { AlbumAmqpPayload } from '../common/types';
-
+import getAlbumTopTags from './lastfm/get-album-top-tags';
+import logger from './logger';
 import normalizeTags from './normalize-tags';
+import prisma from './prisma';
+import { AlbumAmqpPayload } from './types';
 
 export default async function populateAlbumTags(
   album: AlbumAmqpPayload,

@@ -4,8 +4,6 @@ import includes from 'lodash/includes';
 import some from 'lodash/some';
 import startsWith from 'lodash/startsWith';
 
-import logger from './logger';
-
 const BLACKLISTED_TAGS = [
   '<3',
   '1001 albums you must hear before you die',
@@ -758,7 +756,6 @@ const BLACKLISTED_TAGS = [
   'valley of the bees radio',
   'very good',
   'vibes',
-  'vinyl',
   'vinyl dont scrobble',
   'violates the geneva convention',
   'viralbraindeath',
@@ -901,35 +898,35 @@ const NUMERIC_RE = /^\d+$/;
 export default function isTagBlacklisted(tagName: string): boolean {
   let result = false;
   if (includes(tagName, '.')) {
-    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: dot`);
+    // logger.debug(`isTagBlacklisted(${tagName}) => ${result}: dot`);
     return true;
   }
   if (tagName.length < MIN_TAG_NAME_LENGTH) {
     result = true;
-    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: length`);
+    // logger.debug(`isTagBlacklisted(${tagName}) => ${result}: length`);
   } else if (tagName.length > MAX_TAG_NAME_LENGTH) {
     result = true;
-    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: length`);
+    // logger.debug(`isTagBlacklisted(${tagName}) => ${result}: length`);
   } else if (includes(BLACKLISTED_TAGS, tagName)) {
     result = true;
-    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: explicitly`);
+    // logger.debug(`isTagBlacklisted(${tagName}) => ${result}: explicitly`);
   } else if (NUMERIC_RE.test(tagName)) {
     result = true;
-    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: numeric`);
+    // logger.debug(`isTagBlacklisted(${tagName}) => ${result}: numeric`);
   } else if (
     some(BLACKLISTED_TAG_STARTS, (blacklistedTagStart) =>
       startsWith(tagName, blacklistedTagStart),
     )
   ) {
     result = true;
-    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: start`);
+    // logger.debug(`isTagBlacklisted(${tagName}) => ${result}: start`);
   } else if (
     some(BLACKLISTED_TAG_ENDS, (blacklistedTagEnd) =>
       endsWith(tagName, blacklistedTagEnd),
     )
   ) {
     result = true;
-    logger.debug(`isTagBlacklisted(${tagName}) => ${result}: end`);
+    // logger.debug(`isTagBlacklisted(${tagName}) => ${result}: end`);
   }
   return result;
 }

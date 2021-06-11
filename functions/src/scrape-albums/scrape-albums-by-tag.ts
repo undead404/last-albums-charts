@@ -3,10 +3,12 @@ import isEmpty from 'lodash/isEmpty';
 import map from 'lodash/map';
 import toString from 'lodash/toString';
 
-import { publish } from '../common/amqp-broker';
 import getTagTopAlbums from '../common/lastfm/get-tag-top-albums';
 import logger from '../common/logger';
+import populateAlbumStats from '../common/populate-album-stats';
+import populateAlbumTags from '../common/populate-album-tags';
 import prisma from '../common/prisma';
+import sequentialAsyncForEach from '../common/sequential-async-for-each';
 
 export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
   const albums = await getTagTopAlbums(tag.name);
@@ -31,20 +33,22 @@ export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
   logger.info(
     `scrapeAlbumsByTag(${tag.name}): ${albumsRecords.length} albums scraped`,
   );
-  Promise.all(
-    map(albumsRecords, async (albumRecord) => {
-      const payload = {
-        artist: albumRecord.artist,
-        mbid: albumRecord.mbid,
-        name: albumRecord.name,
-      };
-      await publish('newAlbums', payload);
-    }),
-  ).catch((error) => logger.error(toString(error)));
   if (!isEmpty(albumsRecords)) {
     await prisma.album.createMany({
       data: albumsRecords,
       skipDuplicates: true,
+    });
+    await sequentialAsyncForEach(albumsRecords, async (album) => {
+      try {
+        await populateAlbumStats(album);
+      } catch (error) {
+        logger.error(toString(error));
+      }
+      try {
+        await populateAlbumTags(album);
+      } catch (error) {
+        logger.error(toString(error));
+      }
     });
   }
 }

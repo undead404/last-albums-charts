@@ -3,7 +3,6 @@ import path from 'path';
 
 import toString from 'lodash/toString';
 
-import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
 import prisma from '../common/prisma';
 
@@ -29,7 +28,6 @@ async function execute(command: string): Promise<void> {
 }
 
 async function run() {
-  const start = new Date();
   try {
     await prisma.$connect();
     await saveTags();
@@ -40,24 +38,10 @@ async function run() {
       await execute(`cd ${SITE_FOLDER} && yarn deploy`);
     }
     logger.info('Deploy successful');
-    await publish('perf', {
-      end: new Date().toISOString(),
-      start: start.toISOString(),
-      success: true,
-      targetName: 'site',
-      title: 'deploy',
-    });
     await prisma.$disconnect();
     process.exit(0);
   } catch (error) {
     logger.error(toString(error));
-    await publish('perf', {
-      end: new Date().toISOString(),
-      start: start.toISOString(),
-      success: false,
-      targetName: 'site',
-      title: 'deploy',
-    });
     await prisma.$disconnect();
     process.exit(1);
   }

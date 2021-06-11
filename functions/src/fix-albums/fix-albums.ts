@@ -1,8 +1,8 @@
-import map from 'lodash/map';
-
-import { publish } from '../common/amqp-broker';
 import logger from '../common/logger';
+import populateAlbumStats from '../common/populate-album-stats';
+import populateAlbumTags from '../common/populate-album-tags';
 import prisma from '../common/prisma';
+import sequentialAsyncForEach from '../common/sequential-async-for-each';
 import { AlbumAmqpPayload } from '../common/types';
 
 const LIMIT_FOR_ONE_SHOT = 1000;
@@ -32,5 +32,9 @@ export default async function fixAlbums(): Promise<void> {
     },
   });
   logger.debug(`fixAlbums: ${albums.length} albums found to fix`);
-  await Promise.all(map(albums, (album) => publish('newAlbums', album)));
+
+  await sequentialAsyncForEach(albums, async (album) => {
+    await populateAlbumStats(album);
+    await populateAlbumTags(album);
+  });
 }

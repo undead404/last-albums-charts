@@ -4,10 +4,10 @@ import size from 'lodash/size';
 import sumBy from 'lodash/sumBy';
 import toNumber from 'lodash/toNumber';
 
-import getAlbumInfo from '../common/lastfm/get-album-info';
-import logger from '../common/logger';
-import prisma from '../common/prisma';
-import { AlbumAmqpPayload } from '../common/types';
+import getAlbumInfo from './lastfm/get-album-info';
+import logger from './logger';
+import prisma from './prisma';
+import { AlbumAmqpPayload } from './types';
 
 const MIN_TRACK_LENGTH = 30;
 
