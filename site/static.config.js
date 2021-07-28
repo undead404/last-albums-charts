@@ -8,7 +8,6 @@ import omit from 'lodash/omit';
 import orderBy from 'lodash/orderBy';
 import { createSharedData } from 'react-static/node';
 
-import searchIndex from './src/search-index.json';
 import tagsData from './src/tags.json';
 import topList from './src/top-list.json';
 // import { Tag } from './types'
@@ -18,7 +17,7 @@ const { tags } = tagsData;
 const tagsWithRankedAlbums = map(tags, (tag) => {
   const albumWithCover = find(tag.list, 'album.thumbnail')?.album;
   return {
-    ...omit(tag, ['albums', 'list']),
+    ...omit(tag, ['albums', 'list', 'registeredAt']),
     preview: albumWithCover?.thumbnail,
     title: albumWithCover
       ? `${albumWithCover.artist} - ${albumWithCover.name} (${albumWithCover.date})`
@@ -26,16 +25,23 @@ const tagsWithRankedAlbums = map(tags, (tag) => {
     topAlbums: map(tag.list, (tagListItem) => {
       const places = {};
       forEach(tagListItem.album.places, (tagListItem) => {
-        if (tagListItem.place <= 10) {
-          places[tagListItem.tagName] = tagListItem.place;
-        }
+        // if (tagListItem.place <= 10) {
+        places[tagListItem.tagName] = tagListItem.place;
+        // }
       });
       const tags = {};
       forEach(tagListItem.album.tags, (albumTag) => {
-        tags[albumTag.tagName] = albumTag.count;
+        if (albumTag.count >= 50) {
+          tags[albumTag.tagName] = albumTag.count;
+        }
       });
       return {
-        ...tagListItem.album,
+        ...omit(tagListItem.album, [
+          'statsUpdatedAt',
+          'registeredAt',
+          'tagsUpdatedAt',
+          'hidden',
+        ]),
         places,
         rating: tagListItem.place,
         tags,
@@ -43,6 +49,20 @@ const tagsWithRankedAlbums = map(tags, (tag) => {
     }),
   };
 });
+
+// console.group('tag');
+// forEach(keys(flatten(tagsWithRankedAlbums[0])), (key) => {
+//   if (includes(key, 'topAlbums')) {
+//     return;
+//   }
+//   console.info(key);
+// });
+// console.groupEnd();
+// console.group('album');
+// forEach(keys(flatten(tagsWithRankedAlbums[0].topAlbums[0])), (key) => {
+//   console.info(key);
+// });
+// console.groupEnd();
 
 const topListAlbums = orderBy(
   map(topList.albums, (album, i) => {
@@ -70,6 +90,8 @@ const availableTags = map(tags, 'name');
 
 // Typescript support in static.config.js is not yet supported, but is coming in a future update!
 
+console.log('BUILD TIME');
+
 export default {
   entry: path.join(__dirname, 'src', 'index.tsx'),
   getRoutes: async () => {
@@ -87,7 +109,6 @@ export default {
               }),
             })),
             getData: async () => ({
-              searchIndex,
               tags: tagsWithRankedAlbums,
             }),
             path: '/tag',
@@ -118,7 +139,8 @@ export default {
       },
     ];
   },
-  outputFileRate: 20,
+  // maxThreads: 1,
+  outputFileRate: 1,
   plugins: [
     'react-static-plugin-typescript',
     // [

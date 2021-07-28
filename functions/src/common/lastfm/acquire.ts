@@ -22,14 +22,14 @@ export default async function acquire<T extends Payload>(
     ...DEFAULT_PARAMS,
     ...parameters,
   })}`;
-  logger.warn(url);
+  logger.debug(url);
   try {
     const response = await axios.get<T>(url, { timeout: 2000 });
     if (isEmpty(response?.data)) {
       throw new Error(response?.data?.message || 'Empty response');
     } else if (response.data.error || isEmpty(response.data)) {
       if (response.data.error === LASTFM_API_ERRORS.INVALID_PARAMETERS) {
-        logger.warn(response.data.message);
+        logger.error(response.data.message);
         return null;
       }
       throw new Error(response.data.message || 'Empty response');

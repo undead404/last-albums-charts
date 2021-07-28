@@ -1,25 +1,25 @@
 import toString from 'lodash/toString';
 
+import database from '../common/database';
 import logger from '../common/logger';
-import prisma from '../common/prisma';
 
 import scrapeAlbums from './scrape-albums';
 
 export default async function main(): Promise<void> {
   try {
-    await prisma.$connect();
+    await database.connect();
     await scrapeAlbums();
-    await prisma.$disconnect();
+    await database.end();
     process.exit(0);
   } catch (error) {
     logger.error(toString(error));
-    await prisma.$disconnect();
+    await database.end();
     process.exit(1);
   }
 }
 process.on('uncaughtException', async (error) => {
   logger.error(toString(error));
-  await prisma.$disconnect();
+  await database.end();
   process.exit(1);
 });
 

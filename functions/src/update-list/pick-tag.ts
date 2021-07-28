@@ -1,42 +1,37 @@
-import { Album, Tag, TagListItem } from '.prisma/client';
+import SQL from '@nearform/sql';
+import includes from 'lodash/includes';
 
-import deleteTag from '../common/delete-tag';
+import database from '../common/database';
+import { deleteTag } from '../common/database/tag';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
-import prisma from '../common/prisma';
+import removeTagDuplicates from '../common/remove-tag-duplicates';
+import { Tag } from '../common/types';
 
-export default async function pickTag(): Promise<
-  (Tag & { list: (TagListItem & { album: Album })[] }) | null
-> {
-  const tag = await prisma.tag.findFirst({
-    include: {
-      list: {
-        include: {
-          album: true,
-        },
-      },
-    },
-    orderBy: [
-      {
-        listCheckedAt: 'asc',
-      },
-    ],
-    where: {
-      NOT: {
-        albumsScrapedAt: null,
-        listCheckedAt: null,
-      },
-    },
-  });
-  if (!tag) {
+export default async function pickTag(): Promise<Tag | null> {
+  const result = await database.query<Tag>(SQL`
+    SELECT *
+    FROM "Tag"
+    WHERE "albumsScrapedAt" IS NOT NULL AND
+      "listCheckedAt" IS NOT NULL
+    ORDER BY "listCheckedAt" ASC
+    LIMIT 1
+  `);
+  if (result.rowCount === 0) {
     logger.warn('No tags picked');
-  } else {
-    if (isTagBlacklisted(tag.name)) {
-      logger.warn(`${tag.name} - blacklisted...`);
-      await deleteTag(tag.name);
-      return pickTag();
-    }
-    logger.info(`Picked tag: ${tag.name}`);
+    return null;
   }
+  const tag = result.rows[0];
+  if (isTagBlacklisted(tag.name)) {
+    logger.warn(`${tag.name} - blacklisted...`);
+    await deleteTag(tag);
+    return pickTag();
+  }
+  const removedDuplicates = await removeTagDuplicates(tag.name);
+  if (includes(removedDuplicates, tag.name)) {
+    logger.warn(`${tag.name} - removed as a duplicate`);
+    return pickTag();
+  }
+  logger.debug(`Picked tag: ${tag.name}`);
   return tag;
 }

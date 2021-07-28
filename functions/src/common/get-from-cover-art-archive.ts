@@ -1,9 +1,9 @@
-import { Album } from '.prisma/client';
 import find from 'lodash/find';
 import get from 'lodash/get';
 import size from 'lodash/size';
 
 import getCoverArtInfo from './cover-art-archive/get-cover-art-info';
+import { Album } from './types';
 
 export default async function getFromCoverArtArchive(
   albumMbid: string,

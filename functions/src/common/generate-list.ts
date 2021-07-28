@@ -1,84 +1,142 @@
-import { Album, AlbumTag, Tag, TagListItem } from '.prisma/client';
+import SQL from '@nearform/sql';
+import differenceBy from 'lodash/differenceBy';
+import forEach from 'lodash/forEach';
+import isEmpty from 'lodash/isEmpty';
 import map from 'lodash/map';
 import nth from 'lodash/nth';
+import pick from 'lodash/pick';
 import size from 'lodash/size';
 import sortBy from 'lodash/sortBy';
 import take from 'lodash/take';
 
+import { findAlbumTagWithAlbum } from './database/album-tag';
+import { getList } from './database/tag-list-item';
 import populateAlbumDate from './populate-album-date/populate-album-date';
+import database from './database';
 import logger from './logger';
 import populateAlbumsCovers from './populate-albums-covers';
-import prisma from './prisma';
+import Progress from './progress';
 import saveList from './save-list';
+import { Album, AlbumTag, Tag, TagListItem, Weighted } from './types';
 
 const LIST_LENGTH = 100;
 const TAKE_MODIFIER = 2;
 const MIN_TAG_COUNT = 0;
 
-async function getCorrectedAlbumTag(
-  albumTag: AlbumTag & { album: Album },
+function getAlbumTitle(album: Album): string {
+  return `${album.artist} - ${album.name} (${album.date})`;
+}
+function didAlbumsChange(
+  oldAlbums: (TagListItem & { album: Album })[],
+  albums: Album[],
+): boolean {
+  if (isEmpty(albums) && isEmpty(oldAlbums)) {
+    logger.debug('Emptiness to emptiness');
+    return false;
+  }
+  if (isEmpty(albums) || isEmpty(oldAlbums)) {
+    logger.debug('Remove or create');
+    return true;
+  }
+  const albumsToRemove = differenceBy(
+    map(oldAlbums, 'album'),
+    albums,
+    getAlbumTitle,
+  );
+  forEach(albumsToRemove, (album) => {
+    logger.debug(`REMOVED: ${getAlbumTitle(album)}`);
+  });
+  const albumsToAdd = differenceBy(
+    albums,
+    map(oldAlbums, 'album'),
+    getAlbumTitle,
+  );
+  forEach(albumsToAdd, (album) => {
+    logger.debug(`ADDED: ${getAlbumTitle(album)}`);
+  });
+  return !isEmpty(albumsToRemove) || !isEmpty(albumsToAdd);
+}
+async function getCorrectedAlbumTag<T extends AlbumTag & { album: Album }>(
+  albumTag: T,
   // knownAlbumTags: (AlbumTag & { album: Album })[],
-): Promise<(AlbumTag & { album: Album }) | null> {
+): Promise<T | null> {
   await populateAlbumDate(albumTag.album);
-  // eslint-disable-next-line no-await-in-loop
-  const correctedAlbumTag = await prisma.albumTag.findUnique({
-    include: {
-      album: true,
-    },
-    where: {
-      albumArtist_albumName_tagName: {
-        albumArtist: albumTag.albumArtist,
-        albumName: albumTag.albumName,
-        tagName: albumTag.tagName,
-      },
-    },
+  const correctedAlbumTag = await findAlbumTagWithAlbum({
+    albumArtist: albumTag.albumArtist,
+    albumName: albumTag.albumName,
+    tagName: albumTag.tagName,
   });
   if (
-    correctedAlbumTag &&
-    !correctedAlbumTag.album?.date
+    !correctedAlbumTag?.album.date
     // find(knownAlbumTags, {
     //   'album.artist': correctedAlbumTag.albumArtist,
     //   'album.name': correctedAlbumTag.albumName,
     // }))
   ) {
     logger.warn(
-      `${correctedAlbumTag.albumArtist} - ${correctedAlbumTag.albumName}: date unavailable`,
+      `${correctedAlbumTag?.albumArtist} - ${correctedAlbumTag?.albumName}: date unavailable`,
     );
     return null;
   }
-  return correctedAlbumTag;
+  return correctedAlbumTag ? { ...albumTag, ...correctedAlbumTag } : null;
 }
 
 // eslint-disable-next-line sonarjs/cognitive-complexity
-export default async function generateList(
-  tag: Tag & { list: (TagListItem & { album: Album })[] },
-): Promise<boolean> {
+export default async function generateList(tag: Tag): Promise<boolean> {
   logger.debug('generateList: start');
-  const availableAlbumTags = await prisma.albumTag.findMany({
-    include: {
-      album: true,
-    },
-    orderBy: [
-      {
-        weight: 'desc',
-      },
-    ],
-    take: LIST_LENGTH * TAKE_MODIFIER,
-    where: {
-      album: { hidden: false },
-      count: {
-        gt: MIN_TAG_COUNT,
-      },
-      tagName: tag.name,
-    },
-  });
+  const query = SQL`
+    SELECT *,
+      (COALESCE("Album"."playcount", 0)::FLOAT / COALESCE("Album"."numberOfTracks", (
+        SELECT AVG("numberOfTracks") FROM "Album" WHERE "numberOfTracks" IS NOT NULL
+      ))) *
+      COALESCE("Album"."listeners", 0) *
+      (COALESCE("Album"."duration", (
+        SELECT AVG("duration") FROM "Album" WHERE "duration" IS NOT NULL
+      ))::FLOAT / COALESCE("Album"."numberOfTracks", (
+        SELECT AVG("numberOfTracks") FROM "Album" WHERE "numberOfTracks" IS NOT NULL
+      ))) *
+      POWER("AlbumTag"."count"::FLOAT / 100, 3)
+      AS "weight"
+    FROM "AlbumTag"
+    JOIN "Album"
+    ON "Album"."artist" = "AlbumTag"."albumArtist" AND
+      "Album"."name" = "AlbumTag"."albumName"
+    WHERE "Album"."hidden" <> true AND
+      "AlbumTag"."count" > ${MIN_TAG_COUNT} AND
+      "AlbumTag"."tagName" = ${tag.name}
+    ORDER BY "weight" DESC
+    LIMIT ${LIST_LENGTH * TAKE_MODIFIER}`;
+  const result = await database.query<Weighted<AlbumTag & Album>>(query);
+  const availableAlbumTags = map(result.rows, (row) => ({
+    ...pick(row, ['albumArtist', 'albumName', 'count', 'tagName', 'weight']),
+    album: pick(row, [
+      'artist',
+      'cover',
+      'date',
+      'duration',
+      'hidden',
+      'listeners',
+      'mbid',
+      'name',
+      'numberOfTracks',
+      'playcount',
+      'registeredAt',
+      'thumbnail',
+    ]),
+  }));
   const albumTags = take(availableAlbumTags, LIST_LENGTH);
   if (size(albumTags) < LIST_LENGTH) {
-    logger.warn(`${size(albumTags)}, but required at least ${LIST_LENGTH}`);
-    await saveList(tag);
+    logger.debug(`${size(albumTags)}, but required at least ${LIST_LENGTH}`);
+    await saveList(tag, []);
   } else {
+    const progress = new Progress(
+      albumTags.length,
+      0,
+      `correct AlbumTags for ${tag.name}`,
+      logger,
+    );
     let skipCounter = 0;
-    const albumTagsWithDates: (AlbumTag & { album: Album })[] = [];
+    const albumTagsWithDates: Weighted<AlbumTag & { album: Album }>[] = [];
     // eslint-disable-next-line no-restricted-syntax
     for (const albumTag of albumTags) {
       // eslint-disable-next-line no-await-in-loop
@@ -102,6 +160,7 @@ export default async function generateList(
           // eslint-disable-next-line no-await-in-loop
           await saveList(tag);
           logger.debug('generateList: success');
+          progress.increment();
           return false;
         }
         // eslint-disable-next-line no-await-in-loop
@@ -117,20 +176,20 @@ export default async function generateList(
       }
       if (!correctedAlbumTag.album.numberOfTracks) {
         logger.warn(
-          `${correctedAlbumTag.album.artist} - ${correctedAlbumTag.album.name}: NUMBER OF TRACKS UNKNOWN`,
+          `${correctedAlbumTag.albumArtist} - ${correctedAlbumTag.albumName}: NUMBER OF TRACKS UNKNOWN`,
         );
       }
       albumTagsWithDates.push(correctedAlbumTag);
+      progress.increment();
     }
-    await saveList(
-      tag,
-      await populateAlbumsCovers(
-        map(
-          sortBy(albumTagsWithDates, (albumTag) => -albumTag.weight),
-          'album',
-        ),
-      ),
+    const albums = map(
+      sortBy(albumTagsWithDates, (albumTag) => -albumTag.weight),
+      'album',
     );
+    const oldAlbums = await getList(tag.name);
+    await (didAlbumsChange(oldAlbums, albums)
+      ? saveList(tag, await populateAlbumsCovers(albums))
+      : saveList(tag));
   }
   logger.debug('generateList: success');
 

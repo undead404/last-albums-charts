@@ -6,7 +6,7 @@ module.exports = {
   apps: [
     {
       autorestart: true,
-      cron_restart: '35 * * * *',
+      cron_restart: '*/5 * * * *',
       env: {
         APP_NAME: 'cList',
       },
@@ -42,17 +42,6 @@ module.exports = {
       watch: false,
     },
     {
-      cron_restart: '* * * * *',
-      env: {
-        APP_NAME: 'ptWeight',
-      },
-      exec_mode: 'fork',
-      instances: 1,
-      name: 'ptWeight',
-      script: 'lib/populate-tag-weight/run.js',
-      watch: false,
-    },
-    {
       autorestart: true,
       cron_restart: '0 2 * * *',
       env: {
@@ -62,17 +51,6 @@ module.exports = {
       instances: 1,
       name: 'sAlbums',
       script: 'lib/scrape-albums/run.js',
-      watch: false,
-    },
-    {
-      cron_restart: '*/5 * * * *',
-      env: {
-        APP_NAME: 'utWeight',
-      },
-      exec_mode: 'fork',
-      instances: 1,
-      name: 'utWeight',
-      script: 'lib/update-tag-weight/run.js',
       watch: false,
     },
     {

@@ -23,3 +23,4 @@ export const MAX_CACHE_AGE_IN_DAYS_FOR_ARTIST = 31;
 export const MAX_CACHE_AGE_IN_DAYS_FOR_TAG = 7;
 export const MAX_RETRIES = 3;
 export const NUMBER_OF_ALBUMS_TO_SHOW = 100;
+export const TAGS_LIMIT = 1200;

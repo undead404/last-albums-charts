@@ -14,6 +14,7 @@ const MAX_RETRIES = 1;
 export default async function searchDiscogs(
   artist: string,
   name: string,
+  year?: string,
   retry = 0,
 ): Promise<{
   /* eslint-disable camelcase */
@@ -49,18 +50,27 @@ export default async function searchDiscogs(
 }> {
   await waiter;
   try {
-    return await discojs.searchRelease('', {
+    const result = await discojs.searchRelease('', {
       artist,
       releaseTitle: name,
       type: SearchTypeEnum.RELEASE,
+      year,
     });
+    if (result.pagination.items === 0 && year) {
+      return await discojs.searchRelease('', {
+        artist,
+        releaseTitle: name,
+        type: SearchTypeEnum.RELEASE,
+      });
+    }
+    return result;
   } catch (error) {
     if (
       retry <= MAX_RETRIES &&
       includes(toString(error), 'Too Many Requests')
     ) {
       waiter = sleep(API_DELAY_MS);
-      return searchDiscogs(artist, name, retry + 1);
+      return searchDiscogs(artist, name, year, retry + 1);
     }
     throw error;
   }

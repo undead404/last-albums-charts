@@ -57,16 +57,16 @@ const COLUMNS: TableProps<TagForTagsPage>['columns'] = [
     title: 'Albums scraped at',
   },
   {
-    key: 'power',
+    key: 'weight',
     render(_value: unknown, tag: TagForTagsPage): string {
-      return (tag.power || 0).toLocaleString('uk-UA');
+      return (tag.weight || 0).toLocaleString('uk-UA');
     },
     responsive: ['xl', 'xxl'],
     sorter(tag1: TagForTagsPage, tag2: TagForTagsPage): -1 | 0 | 1 {
-      if ((tag1.power || 0) < (tag2.power || 0)) {
+      if ((tag1.weight || 0) < (tag2.weight || 0)) {
         return -1;
       }
-      if ((tag1.power || 0) > (tag2.power || 0)) {
+      if ((tag1.weight || 0) > (tag2.weight || 0)) {
         return 1;
       }
       return 0;

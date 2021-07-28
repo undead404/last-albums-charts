@@ -3,10 +3,9 @@ import path from 'path';
 
 import toString from 'lodash/toString';
 
+import database from '../common/database';
 import logger from '../common/logger';
-import prisma from '../common/prisma';
 
-import generateSearchIndex from './generate-search-index';
 import generateTopList from './generate-top-list';
 import saveTags from './save-tags';
 
@@ -29,26 +28,26 @@ async function execute(command: string): Promise<void> {
 
 async function run() {
   try {
-    await prisma.$connect();
+    await database.connect();
+    // await removeTagDuplicates();
     await saveTags();
-    await generateSearchIndex();
     await generateTopList();
     // await execute(`cd ${ROOT_FOLDER} && npx eslint site --fix`);
     if (!process.env.SKIP_DEPLOY) {
       await execute(`cd ${SITE_FOLDER} && yarn deploy`);
     }
     logger.info('Deploy successful');
-    await prisma.$disconnect();
+    await database.end();
     process.exit(0);
   } catch (error) {
     logger.error(toString(error));
-    await prisma.$disconnect();
+    await database.end();
     process.exit(1);
   }
 }
 process.on('uncaughtException', async (error) => {
   logger.error(toString(error));
-  await prisma.$disconnect();
+  await database.end();
   process.exit(1);
 });
 

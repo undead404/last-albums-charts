@@ -45,11 +45,12 @@ function getIdFromResponseResults(
 export default async function getFromDiscogs(
   artistName: string,
   albumName: string,
+  year?: string,
 ): Promise<string | null> {
   logger.debug(`getFromDiscogs: ${artistName} - ${albumName}`);
   try {
     await waiter;
-    const searchResponse = await searchDiscogs(artistName, albumName);
+    const searchResponse = await searchDiscogs(artistName, albumName, year);
     waiter = sleep(API_DELAY_MS);
     const releaseId = getIdFromResponseResults(
       searchResponse.results,

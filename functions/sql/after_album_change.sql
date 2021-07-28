@@ -8,7 +8,7 @@ BEGIN
   FOR album_tag IN
     (SELECT * FROM "public"."AlbumTag" WHERE "albumArtist" = NEW."artist" AND "albumName" = NEW."name")
   LOOP
-    UPDATE "public"."AlbumTag" SET "weight" = NEW."weight"::FLOAT * POWER(album_tag."count" / 100, 3) WHERE "albumName" = album_tag."albumName" AND "albumArtist" = album_tag."albumArtist" AND "tagName" = album_tag."tagName";
+    UPDATE "public"."AlbumTag" SET "weight" = NEW."weight"::FLOAT * POWER(album_tag."count"::FLOAT / 100, 3) WHERE "albumName" = album_tag."albumName" AND "albumArtist" = album_tag."albumArtist" AND "tagName" = album_tag."tagName";
   END LOOP;
   RETURN NEW;
 END;$$;

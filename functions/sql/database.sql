@@ -18,8 +18,9 @@ CREATE TABLE IF NOT EXISTS "public"."Album" (
   "numberOfTracks" INTEGER,
   playcount INTEGER,
   "registeredAt" TIMESTAMP NOT NULL DEFAULT now(),
+  "statsUpdatedAt" TIMESTAMP,
+  "tagsUpdatedAt" TIMESTAMP,
   thumbnail VARCHAR(1023),
-  "weight" FLOAT NOT NULL,
   PRIMARY KEY (artist, "name"),
   UNIQUE(mbid)
 );
@@ -29,7 +30,6 @@ CREATE TABLE IF NOT EXISTS "public"."Tag" (
   "listCheckedAt" TIMESTAMP,
   "listUpdatedAt" TIMESTAMP,
   "name" VARCHAR(511) PRIMARY KEY NOT NULL,
-  "power" INTEGER,
   "registeredAt" TIMESTAMP NOT NULL DEFAULT now()
 );
 
@@ -40,8 +40,7 @@ CREATE TABLE IF NOT EXISTS "public"."AlbumTag" (
   "tagName" VARCHAR(511) NOT NULL,
   CONSTRAINT tag FOREIGN KEY("tagName") REFERENCES "public"."Tag"("name") ON DELETE CASCADE,
   "count" INTEGER NOT NULL,
-  PRIMARY KEY("albumArtist", "albumName", "tagName"),
-  "weight" FLOAT NOT NULL
+  PRIMARY KEY("albumArtist", "albumName", "tagName")
 );
 
 CREATE TABLE IF NOT EXISTS "public"."TagListItem" (

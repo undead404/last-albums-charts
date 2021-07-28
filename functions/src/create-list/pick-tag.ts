@@ -1,49 +1,49 @@
-import { Album, Tag, TagListItem } from '.prisma/client';
-import { sub } from 'date-fns';
+import SQL from '@nearform/sql';
+import head from 'lodash/head';
+import includes from 'lodash/includes';
 
-import deleteTag from '../common/delete-tag';
+import database from '../common/database';
+import { deleteTag } from '../common/database/tag';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
-import prisma from '../common/prisma';
+import removeTagDuplicates from '../common/remove-tag-duplicates';
+import { Tag, Weighted } from '../common/types';
 
-export default async function pickTag(): Promise<
-  | (Tag & {
-      list: (TagListItem & {
-        album: Album;
-      })[];
-    })
-  | null
-> {
-  const tag = await prisma.tag.findFirst({
-    include: {
-      list: {
-        include: {
-          album: true,
-        },
-      },
-    },
-    orderBy: [
-      {
-        power: 'desc',
-      },
-    ],
-    where: {
-      albumsScrapedAt: {
-        lt: sub(new Date(), { minutes: 15 }),
-      },
-      listCheckedAt: null,
-      listUpdatedAt: null,
-    },
-  });
+export default async function pickTag(): Promise<Tag | null> {
+  const result = await database.query<Weighted<Tag>>(SQL`
+    SELECT "Tag".*,
+      SUM("AlbumTag"."count"::FLOAT * COALESCE("Album"."playcount", 0) / 1000000 * COALESCE("Album"."listeners", 0) / 1000)
+      AS "weight"
+    FROM "Tag"
+    JOIN "AlbumTag"
+    ON "AlbumTag"."tagName" = "Tag"."name"
+    JOIN "Album"
+    ON "Album"."artist" = "AlbumTag"."albumArtist" AND
+      "Album"."name" = "AlbumTag"."albumName"
+    WHERE "albumsScrapedAt" IS NOT NULL AND
+      "listCheckedAt" IS NULL AND
+      "listUpdatedAt" IS NULL AND
+      "Album"."hidden" <> true
+    GROUP BY "Tag"."name"
+    ORDER BY "weight" DESC
+    LIMIT 1
+  `);
+  const tag = head(result.rows);
   if (!tag) {
     logger.warn('No tags picked');
   } else {
     if (isTagBlacklisted(tag.name)) {
       logger.warn(`${tag.name} - blacklisted...`);
-      await deleteTag(tag.name);
+      await deleteTag({ name: tag.name });
       return pickTag();
     }
-    logger.info(`Picked tag: ${tag.name}`);
+
+    const removedDuplicates = await removeTagDuplicates(tag.name);
+    if (includes(removedDuplicates, tag.name)) {
+      logger.warn(`${tag.name} - removed as a duplicate`);
+      return pickTag();
+    }
+    logger.debug(`Picked tag: ${tag.name}`);
   }
-  return tag;
+  return tag || null;
 }

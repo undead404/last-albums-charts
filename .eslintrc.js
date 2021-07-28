@@ -5,6 +5,7 @@ module.exports = {
   },
   extends: [
     'airbnb-base',
+    'plugin:import/typescript',
     'plugin:promise/recommended',
     'plugin:array-func/all',
     'plugin:node/recommended',

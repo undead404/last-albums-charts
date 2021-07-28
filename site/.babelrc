@@ -1,3 +1,13 @@
 {
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryDirectory": "lib",
+        "libraryName": "antd",
+        "style": "css"
+      }
+    ]
+  ],
   "presets": ["react-static/babel-preset.js"]
 }

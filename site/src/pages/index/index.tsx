@@ -29,7 +29,7 @@ export default function Index(): JSX.Element {
         <title>{title}</title>
         <meta content={title} name="title" />
         <meta
-          content="10 albums you must hear before you die"
+          content="100 albums you must hear before you die"
           name="description"
         />
 
@@ -59,7 +59,7 @@ export default function Index(): JSX.Element {
       <Layout.Header>
         <PageHeader
           ghost={false}
-          subTitle="10 albums to hear before you die"
+          subTitle="100 albums to hear before you die"
           title="You Must Hear"
         />
       </Layout.Header>

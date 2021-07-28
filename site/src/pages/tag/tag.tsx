@@ -55,10 +55,7 @@ export default function TagPage(): JSX.Element | null {
   );
   const avatar: PageHeaderProps['avatar'] = useMemo(() => {
     const imageSource = find(
-      sortBy(
-        tag.topAlbums,
-        (album) => -(album.listeners || 0) * (album.playcount || 0),
-      ),
+      sortBy(tag.topAlbums, (album) => -album.weight),
       'cover',
     )?.cover;
     if (!imageSource) {
