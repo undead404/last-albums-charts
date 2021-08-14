@@ -8,12 +8,54 @@ import sumBy from 'lodash/sumBy';
 import toNumber from 'lodash/toNumber';
 
 import { findAlbum } from './database/album';
+import { AlbumInfo } from './lastfm/api-types';
 import getAlbumInfo from './lastfm/get-album-info';
 import database from './database';
 import logger from './logger';
 import { Album } from './types';
 
 const MIN_TRACK_LENGTH = 30;
+
+async function hideShow(album: Album, albumInfo: AlbumInfo): Promise<void> {
+  try {
+    await database.query('BEGIN');
+    const result = await database.query(SQL`
+        UPDATE "Album"
+        SET "hidden" = false
+        WHERE "artist" = ${albumInfo.artist} AND
+          "name" = ${albumInfo.name}
+      `);
+    if (result.rowCount > 0) {
+      await database.query(SQL`
+        UPDATE "Album"
+        SET "hidden" = true
+        WHERE "artist" = ${album.artist} AND
+          "name" = ${album.name}
+      `);
+    }
+    await database.query('COMMIT');
+  } catch (error) {
+    await database.query('ROLLBACK');
+    throw error;
+  }
+}
+
+async function isMisspelled(
+  album: Album,
+  albumInfo: AlbumInfo,
+  originalAlbum: Album,
+): Promise<boolean> {
+  if (
+    (albumInfo.artist !== album.artist || albumInfo.name !== album.name) &&
+    originalAlbum
+  ) {
+    logger.debug(
+      `${album.artist}'s "${album.name}" is a duplicate of ${albumInfo.artist}'s "${albumInfo.name}"`,
+    );
+    return true;
+  }
+  return false;
+}
 
 export default async function populateAlbumStats(album: Album): Promise<void> {
   const originalAlbum = await findAlbum({
@@ -37,32 +79,8 @@ export default async function populateAlbumStats(album: Album): Promise<void> {
   if (!albumInfo) {
     return;
   }
-  if (
-    (albumInfo.artist !== album.artist || albumInfo.name !== album.name) &&
-    originalAlbum
-  ) {
-    logger.debug(
-      `${album.artist}'s "${album.name}" is a duplicate of ${albumInfo.artist}'s "${albumInfo.name}"`,
-    );
-    try {
-      await database.query('BEGIN');
-      await database.query(SQL`
-          UPDATE "Album"
-          SET "hidden" = false
-          WHERE "artist" = ${albumInfo.artist} AND
-            "name" = ${albumInfo.name}
-        `);
-      await database.query(SQL`
-          UPDATE "Album"
-          SET "hidden" = true
-          WHERE "artist" = ${album.artist} AND
-            "name" = ${album.name}
-        `);
-      await database.query('COMMIT');
-    } catch (error) {
-      await database.query('ROLLBACK');
-      throw error;
-    }
+  if (await isMisspelled(album, albumInfo, originalAlbum)) {
+    await hideShow(album, albumInfo);
     return;
   }
   const albumUpdate: Partial<Album> = {

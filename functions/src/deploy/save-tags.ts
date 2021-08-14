@@ -11,10 +11,11 @@ import Progress from '../common/progress';
 import sequentialAsyncMap from '../common/sequential-async-map';
 import { Album, AlbumTag, Tag, TagListItem, Weighted } from '../common/types';
 
-const TARGET_FILENAME = path.resolve('../site/src/tags.json');
-
-export default async function saveTags(): Promise<void> {
+export default async function saveTags(tagsLimit?: number): Promise<void> {
   logger.debug('saveTags()');
+  const targetFilename = path.resolve(
+    tagsLimit ? `../site/src/tags_${tagsLimit}.json` : '../site/src/tags.json',
+  );
   const basicTags = (
     await database.query<Weighted<Tag>>(SQL`
       SELECT "Tag".*,
@@ -30,7 +31,7 @@ export default async function saveTags(): Promise<void> {
       WHERE "Tag"."listUpdatedAt" IS NOT NULL
       GROUP BY "Tag"."name"
       ORDER BY "weight" DESC
-      LIMIT ${TAGS_LIMIT}`)
+      LIMIT ${tagsLimit || TAGS_LIMIT}`)
   ).rows;
   const progress = new Progress(
     basicTags.length,
@@ -89,7 +90,7 @@ export default async function saveTags(): Promise<void> {
   });
   return new Promise<void>((resolve, reject) =>
     fs.writeFile(
-      TARGET_FILENAME,
+      targetFilename,
       JSON.stringify(
         { tags },
         // eslint-disable-next-line lodash/prefer-lodash-typecheck

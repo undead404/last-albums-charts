@@ -9,10 +9,12 @@ import orderBy from 'lodash/orderBy';
 import { createSharedData } from 'react-static/node';
 
 import tagsData from './src/tags.json';
+import tagsProdData from './src/tags_1000.json';
 import topList from './src/top-list.json';
 // import { Tag } from './types'
 
-const { tags } = tagsData;
+const { tags } =
+  process.env.NODE_ENV === 'development' ? tagsData : tagsProdData;
 
 const tagsWithRankedAlbums = map(tags, (tag) => {
   const albumWithCover = find(tag.list, 'album.thumbnail')?.album;
@@ -139,7 +141,7 @@ export default {
       },
     ];
   },
-  // maxThreads: 1,
+  maxThreads: 1,
   outputFileRate: 1,
   plugins: [
     'react-static-plugin-typescript',

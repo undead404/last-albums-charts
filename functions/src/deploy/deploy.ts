@@ -12,6 +12,9 @@ import saveTags from './save-tags';
 const ROOT_FOLDER = path.resolve(path.join(__dirname, '..', '..', '..'));
 const SITE_FOLDER = path.resolve(path.join(ROOT_FOLDER, 'site'));
 
+const PRODUCTION_TAGS_LIMIT = 1000;
+const DEV_TAGS_LIMIT = 1700;
+
 async function execute(command: string): Promise<void> {
   logger.debug(command);
   const statusCode = await new Promise<number>((resolve, reject) => {
@@ -30,7 +33,8 @@ async function run() {
   try {
     await database.connect();
     // await removeTagDuplicates();
-    await saveTags();
+    await saveTags(DEV_TAGS_LIMIT);
+    await saveTags(PRODUCTION_TAGS_LIMIT);
     await generateTopList();
     // await execute(`cd ${ROOT_FOLDER} && npx eslint site --fix`);
     if (!process.env.SKIP_DEPLOY) {

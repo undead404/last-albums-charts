@@ -3,12 +3,14 @@ import map from 'lodash/map';
 import replace from 'lodash/replace';
 
 import database from './database';
+import logger from './logger';
 import sequentialAsyncForEach from './sequential-async-for-each';
 
 export default async function removeTagDuplicates(
   tagName: string,
 ): Promise<string[]> {
-  const result = await database.query<{ name: string }>(SQL`
+  logger.debug(`removeTagDuplicates(${tagName})`);
+  const query = SQL`
   SELECT "weighted_tags"."name" AS "name"
   FROM (
     SELECT "Tag".*,
@@ -20,7 +22,7 @@ export default async function removeTagDuplicates(
     JOIN "Album" ON "Album"."artist" = "AlbumTag"."albumArtist"
     AND "Album"."name" = "AlbumTag"."albumName"
     WHERE
-      REGEXP_REPLACE("Tag"."name", '\W+', '', 'g') = ${replace(
+      REGEXP_REPLACE("Tag"."name", '\\W+', '', 'g') = ${replace(
         tagName,
         /[^\da-z]/gi,
         '',
@@ -28,7 +30,11 @@ export default async function removeTagDuplicates(
     GROUP BY "Tag"."name"
     ORDER BY "weight" DESC
   ) AS "weighted_tags" OFFSET 1
-  `);
+  `;
+  // logger.debug(query);
+  const result = await database.query<{ name: string }>(query);
+  // eslint-disable-next-line no-console
+  console.debug(tagName, result.rows);
   await sequentialAsyncForEach(result.rows, async ({ name }) => {
     await database.query(SQL`
       DELETE FROM "Tag"

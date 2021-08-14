@@ -70,5 +70,7 @@ site/dist
 site/tmp
 site/artifacts
 site/src/search-index.json
+site/src/tags_1000.json
+site/src/tags_1700.json
 site/src/tags.json
 site/src/top-list.json
