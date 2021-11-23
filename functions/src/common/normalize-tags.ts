@@ -21,11 +21,14 @@ export default function normalizeTags(
     ),
     (tagCount, tagName) => !isTagBlacklisted(tagName),
   );
+
   if (!some(result, (tagCount) => tagCount === DESIRED_MAX_TAG_COUNT)) {
     const maxTagCount = max(values(result));
+
     if (!maxTagCount) {
       return {};
     }
+
     const correction = DESIRED_MAX_TAG_COUNT / maxTagCount;
     result = mapValues(result, (tagCount) => Math.floor(tagCount * correction));
   }

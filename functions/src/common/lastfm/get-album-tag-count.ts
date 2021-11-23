@@ -19,8 +19,10 @@ export default async function getAlbumTagCount(
     albumTags,
     (tagItem: Tag) => toLower(tagItem.name) === toLower(tagName),
   );
+
   if (!tagObject) {
     return 0;
   }
+
   return tagObject.count;
 }

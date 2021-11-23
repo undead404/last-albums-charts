@@ -12,6 +12,7 @@ const getArtistTopTags = jest.fn().mockImplementation((artistName: string) => {
       },
     ]);
   }
+
   return Promise.resolve([]);
 });
 

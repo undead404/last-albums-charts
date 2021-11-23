@@ -16,6 +16,7 @@ export default async function saveTags(tagsLimit?: number): Promise<void> {
   const targetFilename = path.resolve(
     tagsLimit ? `../site/src/tags_${tagsLimit}.json` : '../site/src/tags.json',
   );
+
   const basicTags = (
     await database.query<Weighted<Tag>>(SQL`
       SELECT "Tag".*,
@@ -33,12 +34,14 @@ export default async function saveTags(tagsLimit?: number): Promise<void> {
       ORDER BY "weight" DESC
       LIMIT ${tagsLimit || TAGS_LIMIT}`)
   ).rows;
+
   const progress = new Progress(
     basicTags.length,
     0,
     `saveTags - ${basicTags.length} tags`,
     logger,
   );
+
   const tags = await sequentialAsyncMap(basicTags, async (tag) => {
     const populatedTag = {
       ...tag,
@@ -85,9 +88,11 @@ export default async function saveTags(tagsLimit?: number): Promise<void> {
         }),
       ),
     };
+
     progress.increment();
     return populatedTag;
   });
+
   return new Promise<void>((resolve, reject) =>
     fs.writeFile(
       targetFilename,

@@ -17,17 +17,22 @@ export default async function pickTag(): Promise<Tag | null> {
     ORDER BY "listCheckedAt" ASC
     LIMIT 1
   `);
+
   if (result.rowCount === 0) {
     logger.warn('No tags picked');
     return null;
   }
+
   const tag = result.rows[0];
+
   if (isTagBlacklisted(tag.name)) {
     logger.warn(`${tag.name} - blacklisted...`);
     await deleteTag(tag);
     return pickTag();
   }
+
   const removedDuplicates = await removeTagDuplicates(tag.name);
+
   if (includes(removedDuplicates, tag.name)) {
     logger.warn(`${tag.name} - removed as a duplicate`);
     return pickTag();

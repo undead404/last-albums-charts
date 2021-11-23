@@ -13,6 +13,7 @@ import { Parameters, Payload } from './api-types';
 const API_DELAY_MS = 1000;
 
 let waiter = Promise.resolve();
+
 export default async function acquire<T extends Payload>(
   parameters: Parameters,
   retry = 0,
@@ -22,9 +23,11 @@ export default async function acquire<T extends Payload>(
     ...DEFAULT_PARAMS,
     ...parameters,
   })}`;
+
   logger.debug(url);
   try {
     const response = await axios.get<T>(url, { timeout: 2000 });
+
     if (isEmpty(response?.data)) {
       throw new Error(response?.data?.message || 'Empty response');
     } else if (response.data.error || isEmpty(response.data)) {

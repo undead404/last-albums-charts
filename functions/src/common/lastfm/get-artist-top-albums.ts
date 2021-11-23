@@ -22,6 +22,7 @@ export default async function getArtistTopAlbums(
   assure('artist.getTopAlbums', { artistName });
   let currentPage = 1;
   let albums: AlbumInfo[] = [];
+
   while (currentPage <= DEFAULT_PAGE_LIMIT) {
     // eslint-disable-next-line no-await-in-loop
     const data = await acquire<ArtistGetTopAlbumsPayload>({
@@ -29,6 +30,7 @@ export default async function getArtistTopAlbums(
       method: 'artist.getTopAlbums',
       page: currentPage,
     });
+
     const currentAlbums = reject(
       data?.topalbums?.album,
       (album) =>
@@ -36,13 +38,16 @@ export default async function getArtistTopAlbums(
         album.name.length >= MAX_NAME_LENGTH ||
         album.artist.name.length >= MAX_NAME_LENGTH,
     );
+
     if (isEmpty(currentAlbums)) {
       break;
     }
+
     // eslint-disable-next-line no-await-in-loop
     const albumInfos = await sequentialAsyncMap(currentAlbums, (albumItem) =>
       getAlbumInfo(albumItem.name, albumItem.artist.name),
     );
+
     albums = [
       ...albums,
       ...uniqBy(
@@ -52,5 +57,6 @@ export default async function getArtistTopAlbums(
     ];
     currentPage += 1;
   }
+
   return albums;
 }

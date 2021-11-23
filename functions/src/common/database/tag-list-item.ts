@@ -19,6 +19,7 @@ export async function getList(
     WHERE "TagListItem"."tagName" = ${tagName}
     ORDER BY "TagListItem"."place" ASC
   `);
+
   return map(result.rows, (row) => ({
     ...pick(row, ['albumArtist', 'albumName', 'place', 'tagName', 'updatedAt']),
     album: pick(row, [

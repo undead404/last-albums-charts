@@ -24,6 +24,7 @@ async function execute(command: string): Promise<void> {
     process.stdout?.on?.('data', (data) => logger.debug(data));
     process.stderr?.on?.('data', (data) => logger.warn(data));
   });
+
   if (statusCode) {
     throw new Error('Failure');
   }

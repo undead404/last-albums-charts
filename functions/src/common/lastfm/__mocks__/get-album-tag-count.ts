@@ -5,6 +5,7 @@ const getAlbumTagCount = jest
       if (artistName === 'Exodus' && tagName === 'thrash metal') {
         return Promise.resolve(100);
       }
+
       return Promise.resolve(0);
     },
   );

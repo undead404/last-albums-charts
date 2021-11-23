@@ -18,6 +18,7 @@ export default async function getTagTopAlbums(
   assure('tag.getTopAlbums', { tagName });
   let currentPage = 1;
   let albums = [] as readonly { artist: string; mbid?: string; name: string }[];
+
   while (currentPage <= MAX_PAGE_AVAILABLE) {
     // eslint-disable-next-line no-await-in-loop
     const data = await acquire<TagGetTopAlbumsPayload>({
@@ -25,6 +26,7 @@ export default async function getTagTopAlbums(
       page: currentPage,
       tag: tagName,
     });
+
     const currentAlbums = map(
       reject(
         data?.albums?.album,
@@ -39,6 +41,7 @@ export default async function getTagTopAlbums(
         name: album.name,
       }),
     );
+
     if (isEmpty(currentAlbums)) {
       break;
     }
@@ -50,5 +53,6 @@ export default async function getTagTopAlbums(
     albums = [...albums, ...currentAlbums];
     currentPage += 1;
   }
+
   return albums;
 }

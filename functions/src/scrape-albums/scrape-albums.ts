@@ -13,6 +13,7 @@ import scrapeAlbumsByTag from './scrape-albums-by-tag';
 export default async function scrapeAlbums(): Promise<void> {
   logger.debug('scrapeAlbums()');
   const tag = await pickTag();
+
   if (!tag) {
     logger.error('Failed to find a tag to scrape albums by');
     return;
@@ -22,7 +23,9 @@ export default async function scrapeAlbums(): Promise<void> {
     await scrapeAlbums();
     return;
   }
+
   const removedDuplicates = await removeTagDuplicates(tag.name);
+
   if (includes(removedDuplicates, tag.name)) {
     logger.warn(`${tag.name} - removed as a duplicate`);
     await scrapeAlbums();

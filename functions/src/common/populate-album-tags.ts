@@ -16,6 +16,7 @@ export default async function populateAlbumTags(album: Album): Promise<void> {
     artist: album.artist,
     name: album.name,
   });
+
   if (!albumRecord) {
     logger.warn(
       `${album.artist} - ${album.name}: album already erased from db`,
@@ -40,7 +41,9 @@ export default async function populateAlbumTags(album: Album): Promise<void> {
       ORDER BY "count" DESC
   `)
   ).rows;
+
   const tagsToRemove = reject(oldTags, (albumTag) => !!tags[albumTag.tagName]);
+
   try {
     await database.query('BEGIN');
     await sequentialAsyncForEach(tagsToRemove, async (albumTag) => {

@@ -16,6 +16,8 @@ export async function findAlbum(
       "Album"."name" = ${where.name}
     LIMIT 1
   `;
+
   const result = await database.query<Album, Album[]>(query);
+
   return head(result.rows) || null;
 }

@@ -17,6 +17,8 @@ const getAlbumInfo = jest
           return Promise.resolve();
       }
     }
+
     return Promise.resolve();
   });
+
 export default getAlbumInfo;

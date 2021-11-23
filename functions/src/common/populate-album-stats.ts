@@ -8,60 +8,20 @@ import sumBy from 'lodash/sumBy';
 import toNumber from 'lodash/toNumber';
 
 import { findAlbum } from './database/album';
-import { AlbumInfo } from './lastfm/api-types';
 import getAlbumInfo from './lastfm/get-album-info';
 import database from './database';
 import logger from './logger';
+import maybeMisspelled from './maybe-misspelled';
 import { Album } from './types';
 
 const MIN_TRACK_LENGTH = 30;
-
-async function hideShow(album: Album, albumInfo: AlbumInfo): Promise<void> {
-  try {
-    await database.query('BEGIN');
-    const result = await database.query(SQL`
-        UPDATE "Album"
-        SET "hidden" = false
-        WHERE "artist" = ${albumInfo.artist} AND
-          "name" = ${albumInfo.name}
-      `);
-    if (result.rowCount > 0) {
-      await database.query(SQL`
-        UPDATE "Album"
-        SET "hidden" = true
-        WHERE "artist" = ${album.artist} AND
-          "name" = ${album.name}
-      `);
-    }
-    await database.query('COMMIT');
-  } catch (error) {
-    await database.query('ROLLBACK');
-    throw error;
-  }
-}
-
-async function isMisspelled(
-  album: Album,
-  albumInfo: AlbumInfo,
-  originalAlbum: Album,
-): Promise<boolean> {
-  if (
-    (albumInfo.artist !== album.artist || albumInfo.name !== album.name) &&
-    originalAlbum
-  ) {
-    logger.debug(
-      `${album.artist}'s "${album.name}" is a duplicate of ${albumInfo.artist}'s "${albumInfo.name}"`,
-    );
-    return true;
-  }
-  return false;
-}
 
 export default async function populateAlbumStats(album: Album): Promise<void> {
   const originalAlbum = await findAlbum({
     artist: album.artist,
     name: album.name,
   });
+
   if (!originalAlbum) {
     logger.warn(
       `${album.artist} - ${album.name}: album already erased from db`,
@@ -74,15 +34,16 @@ export default async function populateAlbumStats(album: Album): Promise<void> {
   ) {
     return;
   }
+
   const albumInfo = await getAlbumInfo(album.name, album.artist);
   logger.debug(`populateAlbumStats: ${album.artist} - ${album.name}`);
   if (!albumInfo) {
     return;
   }
-  if (await isMisspelled(album, albumInfo, originalAlbum)) {
-    await hideShow(album, albumInfo);
+  if (await maybeMisspelled(album, albumInfo)) {
     return;
   }
+
   const albumUpdate: Partial<Album> = {
     // artist: albumInfo.artist,
     duration:
@@ -92,6 +53,7 @@ export default async function populateAlbumStats(album: Album): Promise<void> {
     // name: albumInfo.name,
     playcount: toNumber(albumInfo.playcount),
   };
+
   if (!originalAlbum?.numberOfTracks) {
     albumUpdate.numberOfTracks =
       size(
@@ -102,6 +64,7 @@ export default async function populateAlbumStats(album: Album): Promise<void> {
         ),
       ) || null;
   }
+
   const query = SQL`
     UPDATE "Album"
     SET ${SQL.glue(
@@ -127,5 +90,6 @@ export default async function populateAlbumStats(album: Album): Promise<void> {
     WHERE "artist" = ${album.artist} AND
       "name" = ${album.name}
   `;
+
   await database.query(query);
 }

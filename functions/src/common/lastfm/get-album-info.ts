@@ -15,5 +15,6 @@ export default async function getAlbumInfo(
     artist: artistName,
     method: 'album.getInfo',
   });
+
   return data?.album;
 }

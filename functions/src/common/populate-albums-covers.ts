@@ -26,19 +26,23 @@ export default async function populateAlbumsCovers(
   if (!albums || isEmpty(albums)) {
     return;
   }
+
   const progress = new Progress(
     albums.length,
     0,
     `populateAlbumsCovers for ${albums.length} albums`,
     logger,
   );
+
   // eslint-disable-next-line consistent-return
   return sequentialAsyncMap(albums, async (album) => {
     if (await check(album)) {
       progress.increment();
       return album;
     }
+
     let albumUpdate: null | Partial<Album> = null;
+
     if (album.mbid) {
       albumUpdate = await getFromCoverArtArchive(album.mbid);
     }
@@ -54,6 +58,7 @@ export default async function populateAlbumsCovers(
       progress.increment();
       return album;
     }
+
     const result = await database.query(SQL`
       UPDATE "Album"
       SET "cover" = ${albumUpdate.cover},
@@ -62,6 +67,7 @@ export default async function populateAlbumsCovers(
         "name" = ${album.name}
       RETURNING *
     `);
+
     progress.increment();
     return result.rows[0];
   });

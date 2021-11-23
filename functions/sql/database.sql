@@ -1,8 +1,8 @@
 \set ON_ERROR_STOP on
 
-DROP DATABASE lac;
+-- DROP DATABASE lac;
 
-CREATE DATABASE lac;
+-- CREATE DATABASE lac;
 
 \c lac
 
@@ -68,6 +68,6 @@ CREATE TRIGGER last_item_updated
    EXECUTE PROCEDURE tag_list_item_updated_at();
 
 
-INSERT INTO "public"."Tag"("albumsScrapedAt", "listCheckedAt", "listUpdatedAt", "name", "power", "registeredAt") VALUES (NULL, NULL, NULL, 'ukrainian', 1, now());
+INSERT INTO "public"."Tag"("albumsScrapedAt", "listCheckedAt", "listUpdatedAt", "name", "registeredAt") VALUES (NULL, NULL, NULL, 'ukrainian', now());
 
 \unset ON_ERROR_STOP

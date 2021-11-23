@@ -19,9 +19,12 @@ export default async function getAlbumTopTags(
     artist: artistName,
     method: 'album.getTopTags',
   });
+
   const tags = data?.toptags?.tag;
+
   if (isEmpty(tags)) {
     return getArtistTopTags(artistName);
   }
+
   return uniqBy(tags, 'name');
 }

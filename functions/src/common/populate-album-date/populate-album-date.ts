@@ -21,6 +21,7 @@ export default async function populateAlbumDate(
   }
   logger.debug(`populateAlbumDate: ${album.artist} - ${album.name}`);
   let date: null | string = null;
+
   try {
     date = await getFromMusicbrainz(album);
     if (!date) {
@@ -34,15 +35,18 @@ export default async function populateAlbumDate(
     if (!date) {
       return null;
     }
+
     const query = SQL`
       UPDATE "Album"
       SET "date" = ${date}
       WHERE "artist" = ${album.artist}
       AND "name" = ${album.name}
       RETURNING *`;
+
     // eslint-disable-next-line no-console
     // console.info(query.sql);
     const result = await database.query<Album>(query);
+
     // logger.debug(result.rows);
     return head(result.rows) || null;
   } catch (error) {

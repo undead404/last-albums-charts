@@ -8,7 +8,7 @@ import omit from 'lodash/omit';
 import orderBy from 'lodash/orderBy';
 import { createSharedData } from 'react-static/node';
 
-import tagsData from './src/tags.json';
+import tagsData from './src/tags_1700.json';
 import tagsProdData from './src/tags_1000.json';
 import topList from './src/top-list.json';
 // import { Tag } from './types'

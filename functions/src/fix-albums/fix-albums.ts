@@ -27,6 +27,7 @@ export default async function fixAlbums(): Promise<void> {
     GROUP BY "Album"."artist", "Album"."name"
     LIMIT ${LIMIT_FOR_ONE_SHOT}
   `);
+
   const albums = result.rows;
   logger.debug(`fixAlbums: ${albums.length} albums found to fix`);
 
@@ -36,6 +37,7 @@ export default async function fixAlbums(): Promise<void> {
     `fixAlbums for ${albums.length} albums`,
     logger,
   );
+
   await sequentialAsyncForEach(albums, async (album) => {
     try {
       await populateAlbumStats(album);

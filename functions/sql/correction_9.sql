@@ -30,76 +30,478 @@ UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1985-10' WHERE arti
 UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '1989' WHERE artist = 'Saw Throat' AND "name" = 'Inde$troy';
 UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1992' WHERE artist = 'Extreme Noise Terror' AND "name" = 'Phonophobia';
 UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '1993' WHERE artist = 'Anti Cimex' AND "name" = 'Scandinavian Jawbreaker';
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
--- UPDATE "public"."Album" SET "numberOfTracks" = , "date" =  WHERE artist =  AND "name" =
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '1993-02' WHERE artist = 'Nautilus Pompilius' AND "name" = 'Чужая Земля';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '1996-06' WHERE artist = 'Сектор Газа' AND "name" = 'Газовая атака';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '1996-12-03' WHERE artist = 'Линда' AND "name" = 'Ворона';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2000-07-25' WHERE artist = 'Чичерина' AND "name" = 'Сны';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 't.A.T.u.' AND "name" = '200 Po Vstrechnoy';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2002-12-10' WHERE artist = 't.A.T.u.' AND "name" = '200 km/h in the Wrong Lane';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Сплин' AND "name" = '25-ый Кадр';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2004-03-22' WHERE artist = 'Би-2' AND "name" = 'Иnoмарки';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2004-02' WHERE artist = 'Звери' AND "name" = 'Районы-кварталы';
+UPDATE "public"."Album" SET "numberOfTracks" = 17, "date" = '2005-11-22' WHERE artist = 'Ленинград' AND "name" = 'Хлеб';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2006-06-20' WHERE artist = 'Юлия Савичева' AND "name" = 'Магнит';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2009-10-27' WHERE artist = 'Rihanna' AND "name" = 'Russian Roulette';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Noize MC' AND "name" = 'Последний';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Kino' AND "name" = 'Группа крови';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2015-10-09' WHERE artist = 'Мельница' AND "name" = 'Алхимия';
+UPDATE "public"."Album" SET "numberOfTracks" = 16, "date" = '2013-09-01' WHERE artist = 'Hard Bass School' AND "name" = 'The Album (Mixed)';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2014-04-04' WHERE artist = 'King Dude' AND "name" = 'Be Free';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '2012-11-12' WHERE artist = 't.A.T.u.' AND "name" = '200 KM/H In The Wrong Lane (10th Anniversary Edition)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Би-2' AND "name" = 'Иномарки';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2012' WHERE artist = 'Eduard Khil' AND "name" = 'I am very glad, because I''m finally returning back home';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2003-04' WHERE artist = 'Мельница' AND "name" = 'Дорога сна';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2006' WHERE artist = 'Мельница' AND "name" = 'Зов Крови';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2000' WHERE artist = 'Високосный год' AND "name" = 'Который возвращается';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '2005-06-06' WHERE artist = 'Братья Грим' AND "name" = 'Братья Грим';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2011-05' WHERE artist = 'Вася Обломов' AND "name" = 'Повести И Рассказы';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2007-06-26' WHERE artist = 'Mujuice' AND "name" = 'Cool Cool Death';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2009-04-25' WHERE artist = 'Serebro' AND "name" = 'Опиумroz';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2001' WHERE artist = '7Б' AND "name" = 'Молодые ветра';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2005-10-21' WHERE artist = 't.A.T.u.' AND "name" = 'Люди инвалиды';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2001-12-10' WHERE artist = 'Танцы Минус' AND "name" = 'Теряя Тень';
+UPDATE "public"."Album" SET "numberOfTracks" = 17, "date" = '2011' WHERE artist = 'Loc-Dog' AND "name" = 'Всем До Свидания';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2009' WHERE artist = 'Dredd' AND "name" = 'Dead End';
+UPDATE "public"."Album" SET "numberOfTracks" = 18, "date" = '2015' WHERE artist = 'Артем Татищевский' AND "name" = 'Тленное';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Kaban' AND "name" = 'Fallen Angels (single)';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2021-04-01' WHERE artist = 'Dredd' AND "name" = 'Белладонна';
+UPDATE "public"."Album" SET "numberOfTracks" = 17, "date" = '2013-12-18' WHERE artist = 'Dredd' AND "name" = 'Завтра уже наступило';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '1969-11' WHERE artist = 'Steppenwolf' AND "name" = 'Monster';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1969-07' WHERE artist = 'Leslie West' AND "name" = 'Mountain';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '1971-01' WHERE artist = 'Dust' AND "name" = 'Dust';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2014-08-12' WHERE artist = 'Black Sabbath' AND "name" = 'Black Sabbath (2014 Remaster)';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1972-06' WHERE artist = 'Buffalo' AND "name" = 'Dead Forever';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1978-01' WHERE artist = 'Ted Nugent' AND "name" = 'Double Live Gonzo';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1978-09' WHERE artist = 'Ted Nugent' AND "name" = 'Weekend Warriors';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1979-05' WHERE artist = 'Ted Nugent' AND "name" = 'STATE OF SHOCK';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2015-06-29' WHERE artist = 'Black Sabbath' AND "name" = 'Sabotage (2014 Remaster)';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1981-06-30' WHERE artist = 'Alice Cooper' AND "name" = 'Special Forces';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2006' WHERE artist = 'Dio' AND "name" = 'Angry Machines (Re-Release)';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '1987-01-01' WHERE artist = 'Anthrax' AND "name" = 'I''m The Man';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Metallica' AND "name" = 'S & M';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1990-10' WHERE artist = 'Lethal' AND "name" = 'Programmed';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '1992-05-12' WHERE artist = 'Mercyful Fate' AND "name" = 'Return of the Vampire';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Metallica' AND "name" = 'Kill Em All';
+UPDATE "public"."Album" SET "numberOfTracks" = 19, "date" = '1997' WHERE artist = 'Eric Burdon' AND "name" = 'The Animals'' Greatest Hits';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2013-06-07' WHERE artist = 'Black Sabbath' AND "name" = '13 (Deluxe Version)';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '1998-07-21' WHERE artist = 'Anthrax' AND "name" = 'Volume 8 - The Threat Is Real';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2003-09-15' WHERE artist = 'Mercyful Fate' AND "name" = 'The Best of Mercyful Fate';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2003-09' WHERE artist = 'Immortal Choir' AND "name" = 'Beyond the Great Vast Forest';
+UPDATE "public"."Album" SET "numberOfTracks" = 62, "date" = '1999-03-16' WHERE artist = 'Deep Purple' AND "name" = 'Shades 1968-1998';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1987-04-21' WHERE artist = 'Helloween' AND "name" = 'Keeper of the Seven Keys (Part 1)';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2007-10' WHERE artist = 'Nightmare' AND "name" = 'Genetic Disorder';
+UPDATE "public"."Album" SET "numberOfTracks" = 22, "date" = '2008-04' WHERE artist = 'Catch 22' AND "name" = 'Soulreaper: Evilution/Devilution';
+UPDATE "public"."Album" SET "hidden" = true WHERE "name" ILIKE '% [Bonus Tracks]';
+UPDATE "public"."Album" SET "hidden" = true WHERE "name" ILIKE '% [Bonus Track]';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '1998' WHERE artist = 'Slayer' AND "name" = 'Reign In Blood (Expanded Edition)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Motörhead' AND "name" = 'No sleep''til Hammersmith';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Fear Factory' AND "name" = 'Remanufacture (Cloning Technology)';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '1985-04' WHERE artist = 'Helloween' AND "name" = 'Helloween Ep';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Anthrax' AND "name" = 'Volume 8: The Threat Is Real';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1993-03-15' WHERE artist = 'Coverdale/Page' AND "name" = 'Coverdale/Page';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Isis' AND "name" = 'Sawblade EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2012-09-22' WHERE artist = 'mitsume' AND "name" = 'eye';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2019-02-08' WHERE artist = 'Front Line Assembly' AND "name" = 'Wake Up The Coma';
+UPDATE "public"."Album" SET "numberOfTracks" = 20, "date" = '2003-03-01' WHERE artist = 'Adversus' AND "name" = 'Winter, so unsagbar Winter...';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Hocico' AND "name" = 'Memorias Atras';
+UPDATE "public"."Album" SET "numberOfTracks" = 16, "date" = '2010-11-12' WHERE artist = 'Detroit Diesel' AND "name" = 'Terre Humaine';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Moi dix Mois' AND "name" = 'D + SECT';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2010-03-28' WHERE artist = 'ESC' AND "name" = 'Eight Thousand Square Feet';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '2005-02-14' WHERE artist = 'Various Artists' AND "name" = 'United Vol. 1';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '1998' WHERE artist = 'Агата Кристи' AND "name" = 'Чудеса';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Infest' AND "name" = 'Still Fighting';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2006-01' WHERE artist = 'Infest' AND "name" = 'Mankind';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'ACxDC' AND "name" = 'He Had it Comin''';
+UPDATE "public"."Album" SET "numberOfTracks" = 17, "date" = '2012-12' WHERE artist = 'Manpig' AND "name" = 'The Grand Negative';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2016-03-25' WHERE artist = 'The Body' AND "name" = 'One Day You Will Ache Like I Ache';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2008-09-05' WHERE artist = 'The Evpatoria Report' AND "name" = 'Maar';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2007-08-01' WHERE artist = 'Sound Horizon' AND "name" = 'Seisen no Iberia';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2000' WHERE artist = 'That 1 Guy' AND "name" = 'Songs in the Key of Beotch';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '1994' WHERE artist = 'Primus' AND "name" = 'Back in the Madhouse';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1991-02-05' WHERE artist = 'Mordred' AND "name" = 'In This Life';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Korn' AND "name" = 'Kornography';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2007' WHERE artist = 'Amaroka' AND "name" = 'Raketa';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2003-10-23' WHERE artist = 'Xasthur' AND "name" = 'The Funeral Of Being';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2003' WHERE artist = 'Nortt' AND "name" = 'Gudsforladt';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2007-04' WHERE artist = 'Happy Days' AND "name" = 'Alone And Cold';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2007-02-28' WHERE artist = 'Sturm und Drang' AND "name" = 'Rising Son';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2009-07-25' WHERE artist = 'Steingrab' AND "name" = 'Reise Ins Ungewisse';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2018-01-05' WHERE artist = 'Shining' AND "name" = 'X - varg utan flock (Deluxe Edition)';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2013-03-30' WHERE artist = 'Chosen' AND "name" = 'Resolution';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2000' WHERE artist = 'Dulce Liquido' AND "name" = 'Disolucion';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2011-11' WHERE artist = 'SIN D.N.A.' AND "name" = 'Afterlife';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2013-06-25' WHERE artist = 'Norma Jean' AND "name" = 'If You Got It At Five, You Got It At Fifty';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Burden' AND "name" = 'Promo EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2002-08' WHERE artist = 'Circle Takes the Square' AND "name" = 'Document #13: Pyramids In Cloth';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2010' WHERE artist = 'Arroyo' AND "name" = 'Arroyo';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '1997' WHERE artist = 'Swing Kids' AND "name" = 'Discography';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '2011-11-28' WHERE artist = 'Venom' AND "name" = 'Fallen Angels (Special Edition)';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2015' WHERE artist = 'Pangaea' AND "name" = 'Roots';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '1998-06' WHERE artist = 'Power of Omens' AND "name" = 'Eyes of the Oracle';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1998-12' WHERE artist = 'Chthonic' AND "name" = 'Where The Ancestors'' Souls Gathered';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '1999-11-01' WHERE artist = 'Agoraphobic Nosebleed / Converge' AND "name" = 'The Poacher Diaries';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Agoraphobic Nosebleed' AND "name" = 'The Poacher Diaries';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Converge' AND "name" = 'The Poacher Diaries';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Cannibal Corpse' AND "name" = 'Created to kill demo';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '1999-07' WHERE artist = 'Emperor' AND "name" = 'Thorns Vs Emperor';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2011-11-15' WHERE artist = 'Revenge' AND "name" = 'Metal Is: Addiction And Obsession';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2016-07-08' WHERE artist = 'Cradle of Filth' AND "name" = 'Dusk And Her Embrace... The Original Sin';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2015-03-20' WHERE artist = 'Vaee Solis' AND "name" = 'Adversarial Light';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2015-05-13' WHERE artist = 'Necrosy' AND "name" = 'Perdition';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2017-05-31' WHERE artist = 'Progenie Terrestre Pura' AND "name" = 'oltreLuna';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Morbid' AND "name" = 'A Tribute to the Black Emperors';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Cannibal Corpse' AND "name" = 'Hammer Smashed Face [EP]';
+UPDATE "public"."Album" SET "numberOfTracks" = 32, "date" = '2016-09-01' WHERE artist = 'Cradle of Filth' AND "name" = 'Classic Filth';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2017-06-21' WHERE artist = 'Keillen Allith' AND "name" = 'Gol-Goroth the Grey';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2019-10-30' WHERE artist = 'Cradle of Filth' AND "name" = 'Cruelty and the Beast - Re-Mistressed';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Isis' AND "name" = 'The Mosquito Control EP';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Alkonost' AND "name" = 'Stone Heart Blood';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2010-05-08' WHERE artist = 'Heathens' AND "name" = 'Oh Mock the Heavens and Let the Heathens Sing EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2020-10-01' WHERE artist = 'Old Sorcery' AND "name" = 'Sorrowcrown';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2018-06-08' WHERE artist = 'Pendulum' AND "name" = 'The Island, Pt. 1 (Dawn) [Skrillex Remix]';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2007-09' WHERE artist = 'The Bug' AND "name" = 'Skeng';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '1985-03-13' WHERE artist = 'Bulldozer' AND "name" = 'The Day of Wrath';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1988-10' WHERE artist = 'Bulldozer' AND "name" = 'Neurodeliri';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2017-12-22' WHERE artist = 'Venom' AND "name" = '100 Miles To Hell';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '1991-03' WHERE artist = 'Sabbat' AND "name" = 'Envenom';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1992-10-29' WHERE artist = 'Venom' AND "name" = 'The Waste Lands';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1997-03' WHERE artist = 'Deströyer 666' AND "name" = 'Unchain the Wolves';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2006-08' WHERE artist = 'Skeletonwitch' AND "name" = 'Worship the Witch';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2007-09-22' WHERE artist = 'Bloodthirst' AND "name" = 'Let Him Die';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2010-02-05' WHERE artist = 'Cruel Force' AND "name" = 'The Rise of Satanic Might';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2011-06' WHERE artist = 'Cruel Force' AND "name" = 'Under the Sign of the Moon';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2014-01-14' WHERE artist = 'Svolder' AND "name" = 'Desecration of the Five Holy Pillars';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2015-06-06' WHERE artist = 'Bonehunter' AND "name" = 'Evil Triumphs Again';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2018-02-23' WHERE artist = 'Deströyer 666' AND "name" = 'Call Of The Wild';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2018-04-20' WHERE artist = 'Vomitor' AND "name" = 'Pestilent Death';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2019-10-04' WHERE artist = 'Toxic Holocaust' AND "name" = 'Primal Future: 2019';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2021-06-04' WHERE artist = 'Desaster' AND "name" = 'Churches Without Saints';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '1998-08' WHERE artist = 'Bathory' AND "name" = 'Jubileum Volume III';
+UPDATE "public"."Album" SET "numberOfTracks" = 22, "date" = '2004' WHERE artist = 'Nausea' AND "name" = 'The Punk Terrorist Anthology, Vol. 1';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '1998' WHERE artist = 'Оргазм Нострадамуса' AND "name" = 'Лихорадка неясного генеза';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Black Breath' AND "name" = 'Razor To Oblivion EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 22, "date" = '1988' WHERE artist = 'Doom' AND "name" = 'War Crimes (Inhuman Beings)';
+UPDATE "public"."Album" SET "numberOfTracks" = 22, "date" = '1992' WHERE artist = 'Doom' AND "name" = 'Doomed from the Start';
+UPDATE "public"."Album" SET "numberOfTracks" = 30, "date" = '2005' WHERE artist = 'Nausea' AND "name" = 'Punk Terrorist Anthology, Vol. 2: 1986-1988';
+UPDATE "public"."Album" SET "numberOfTracks" = 27, "date" = '1997-01-25' WHERE artist = 'Genocide SS' AND "name" = 'Hail the New Storm';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2000-06-02' WHERE artist = 'Sea Of Deprivation' AND "name" = 'Catharsis in Disharmony';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2002-11-17' WHERE artist = 'Nazgûl' AND "name" = 'De Expugnatione Elfmuth';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2016-10' WHERE artist = 'Cult of Fire' AND "name" = 'Life, Sex and Death';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2005-05-09' WHERE artist = 'Andras' AND "name" = '...Of Old Wisdom';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2006-07-25' WHERE artist = 'Kinstrife & Blood' AND "name" = 'On Paths Long Forgotten';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2015-03-01' WHERE artist = 'Moongates Guardian' AND "name" = '.​.​.​And In The Glade a Light Was Seen';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Summoning' AND "name" = 'The Demon Tapes ... Anno Mortui Domini 1959-1961';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Bal-Sagoth' AND "name" = 'Starfire Burning upon Ice Veiled Throne Ultima Thule';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2018' WHERE artist = 'Summoning' AND "name" = 'As Echoes From The World Of Old';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2009-12-26' WHERE artist = 'Nokturnal Mortum' AND "name" = 'Голос Сталі';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2016-03-06' WHERE artist = 'Mooncitadel' AND "name" = 'As Nightwind Embraced And The Shadows Caressed';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Alec Empire' AND "name" = 'Intelligence & Sacrifice (1 of 2)';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2007-01-23' WHERE artist = 'Agoraphobic Nosebleed' AND "name" = 'The Poacher Diaries [Re-Issue]';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '1996-12' WHERE artist = 'Atari Teenage Riot' AND "name" = 'Sick to Death E.P.';
+UPDATE "public"."Album" SET "numberOfTracks" = 27, "date" = '2002-06-11' WHERE artist = 'Agoraphobic Nosebleed' AND "name" = 'Frozen Corpse Stuffed With Dope';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2006-04' WHERE artist = 'Ladyscraper' AND "name" = 'Cunt Kicker';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Chelsea Grin' AND "name" = 'Music';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2009-05-01' WHERE artist = 'Delayed Desire' AND "name" = 'Genital To Genital Connection';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2009-09-29' WHERE artist = 'Daniel Clough' AND "name" = 'dystopiaq volume 1';
+UPDATE "public"."Album" SET "numberOfTracks" = 64, "date" = '2005-08-02' WHERE artist = 'Agoraphobic Nosebleed' AND "name" = 'Bestial Machinery';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2000-06' WHERE artist = 'The Locust' AND "name" = 'Well I''ll be a Monkey''s Uncle';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2009-07' WHERE artist = 'Rabbit Junk' AND "name" = 'Ghetto Blasphemer II: From the Stars';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '2009' WHERE artist = 'The Captain Kirk on LSD Experience' AND "name" = 'Party Addicted';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2007-10-11' WHERE artist = 'Rolo Tomassi' AND "name" = 'Rolo Tomassi/Cutting Pink With Knives Split Cassette';
+UPDATE "public"."Album" SET "numberOfTracks" = 19, "date" = '2007-02-15' WHERE artist = 'A Beautiful Lotus' AND "name" = 'Tales Of Lust And Revenge';
+UPDATE "public"."Album" SET "numberOfTracks" = 31, "date" = '2007-02-12' WHERE artist = 'The Berzerker' AND "name" = 'Animosity (Limited Edition)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Atari Teenage Riot' AND "name" = 'Redefine The Enemy!';
+UPDATE "public"."Album" SET "numberOfTracks" = 69, "date" = '2007-12-25' WHERE artist = 'Kindergarten Hazing Ritual' AND "name" = 'myspace - the album';
+UPDATE "public"."Album" SET "numberOfTracks" = 23, "date" = '2009-04-07' WHERE artist = 'Bubblegum Octopus' AND "name" = 'The Album Formerly Known As 8-Legged Dance Moves';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '1997' WHERE artist = 'Various Artists' AND "name" = 'Spawn';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2008' WHERE artist = 'Twat Appetizer' AND "name" = 'Self-titled EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2011' WHERE artist = 'NeroshaTE' AND "name" = 'Touhoucore';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2011' WHERE artist = 'Amphibian' AND "name" = 'poisonous pleasures';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Mouth of the Architect' AND "name" = 'The Ties That Bind';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2008-05-03' WHERE artist = 'Consciousness Removal Project' AND "name" = 'Consciousness Removal Project';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2008-02-26' WHERE artist = 'Ganon' AND "name" = 'As Above, So Below';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Pelican' AND "name" = 'March Into The Sea EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2011-03-26' WHERE artist = 'Forge of Clouds' AND "name" = 'Forge of Clouds';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2013-03-18' WHERE artist = 'Steak Number Eight' AND "name" = 'The Hutch';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2014-06-23' WHERE artist = 'Pet Slimmers of the Year' AND "name" = 'Fragments Of Uniforms';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2017-01-27' WHERE artist = 'The Great Old Ones' AND "name" = 'EOD: A Tale Of Dark Legacy';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2021-07-30' WHERE artist = 'King Woman' AND "name" = 'Celestial Blues';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2012-02-14' WHERE artist = 'Isis' AND "name" = 'Live VI';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '2002' WHERE artist = 'Evil''s Toy' AND "name" = 'Evilution Best Of';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2005-06-29' WHERE artist = 'D''espairsRay' AND "name" = 'Coll:set';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Fredrik Thordendal''s Special Defects' AND "name" = 'Sol Niger Within (Version 3.33)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Black Tide' AND "name" = '2008 - Light From Above';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '1995' WHERE artist = 'КОРРОЗИЯ МЕТАЛЛА' AND "name" = '1.966';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Crimson Glory' AND "name" = 'Strange & Beautiful';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1994-06-01' WHERE artist = 'Elegy' AND "name" = 'Supremacy';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Kamelot' AND "name" = '1995 - Eternity';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1995-07-21' WHERE artist = 'Elegy' AND "name" = 'Lost';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1995-08-23' WHERE artist = 'Kamelot' AND "name" = 'Eternity';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2018-08-10' WHERE artist = 'Stratovarius' AND "name" = 'Oblivion';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1998-12-15' WHERE artist = 'Symphony X' AND "name" = 'Prelude To The Millennium';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Kamelot' AND "name" = 'Siége Perilous';
+UPDATE "public"."Album" SET "numberOfTracks" = 16, "date" = '2003-07-02' WHERE artist = 'Angra' AND "name" = 'Rebirth World Tour: Live in São Paulo';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Avantasia' AND "name" = 'The Metal Opera, Pt. II';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Spheric Universe Experience' AND "name" = 'Mental Torments + Bonus Track';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Derdian' AND "name" = 'New Era Pt. 1';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2009-04-30' WHERE artist = 'Killing Touch' AND "name" = 'One Of A Kind';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2010-01-29' WHERE artist = 'Winter''s Verge' AND "name" = 'Tales Of Tragedy';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2010-04-05' WHERE artist = 'Darksun' AND "name" = 'Tocar El Sol';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Angra' AND "name" = 'Omni';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2018-02-16' WHERE artist = 'Angra' AND "name" = 'Ømni';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2016-03-25' WHERE artist = 'Eternity''s End' AND "name" = 'The Fire Within';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2018-05-23' WHERE artist = 'Maestrick' AND "name" = 'Espresso Della Vita: Solare';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2009' WHERE artist = 'All For You' AND "name" = 'She Is The Way Of My Memories';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2012' WHERE artist = 'The Braid' AND "name" = 'Encrusted World [Single 2012]';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = '-=myEtudes=-' AND "name" = '1st Demo song';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'ZUMBA' AND "name" = 'Sladok Devichii Sok LP';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2008' WHERE artist = 'Maio' AND "name" = 'Try To Come Through It';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2007' WHERE artist = 'Paranoid' AND "name" = 'Отторжение';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Mi6' AND "name" = 'Mi6 - 2013';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1994' WHERE artist = 'ДУБОВЫЙ ГААЙЪ' AND "name" = 'Stop Killing Dolphins';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2009' WHERE artist = 'Sh.OK' AND "name" = 'На порядок выше (Single)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Anymore' AND "name" = 'Demo';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'СОРГО' AND "name" = 'Аэро-Аура';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2000-11-21' WHERE artist = 'Dolphin' AND "name" = 'Плавники';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Ленинград' AND "name" = 'Dachniki';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Би-2' AND "name" = 'Нечетный воин (CD 1)';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2005-04-07' WHERE artist = 'Полюса' AND "name" = 'Само собой';
+UPDATE "public"."Album" SET "numberOfTracks" = 16, "date" = '2004-03-25' WHERE artist = 'I.F.K.' AND "name" = 'I.F.K.2004';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2004-09-02' WHERE artist = 'Jane Air' AND "name" = 'Jane Air';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Dolphin' AND "name" = 'Она';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2013-04-29' WHERE artist = 'Louna' AND "name" = 'Mama';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2004-11-06' WHERE artist = 'Amatory' AND "name" = 'Неизбежность';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2003-11-14' WHERE artist = 'Amatory' AND "name" = 'Вечно Прячется Судьба';
+UPDATE "public"."Album" SET "numberOfTracks" = 19, "date" = '2005' WHERE artist = 'Skafandr' AND "name" = 'Убить Голос';
+UPDATE "public"."Album" SET "numberOfTracks" = 20, "date" = '2007-09-17' WHERE artist = 'Tracktor Bowling' AND "name" = 'Полгода до весны...';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2007' WHERE artist = 'Radio Cambodia' AND "name" = 'Стеклянные Баррикады Сердец | EP 2006';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2007-05-25' WHERE artist = 'Dozavtra' AND "name" = 'Только Ты';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2007-04-01' WHERE artist = '3000 Миль До Рая' AND "name" = 'Последний Хит Осени (EP)';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2006-09' WHERE artist = '3000 Миль До Рая' AND "name" = 'Demo';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2007-07-07' WHERE artist = 'Horizon 8' AND "name" = 'Endless';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2007-12-06' WHERE artist = 'ReAnima' AND "name" = 'Забудь Как Жить';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2008' WHERE artist = '3000 Миль До Рая' AND "name" = 'Сердца в Атлантиде (single)';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2004' WHERE artist = 'Плакса' AND "name" = 'El Cielo (demo)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Affix' AND "name" = 'EP 2009';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2007-09-14' WHERE artist = 'Dozavtra' AND "name" = 'Что же будет дальше [EP]';
+UPDATE "public"."Album" SET "numberOfTracks" = 20, "date" = '2008-09-18' WHERE artist = 'Stigmata' AND "name" = 'Acoustic & Drive (Live)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Atakama' AND "name" = 'Atakama';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2008-09-13' WHERE artist = 'Horizon 8' AND "name" = 'Horizon 8';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'ДАЙТЕ2' AND "name" = 'ИПИ (EP)';
+UPDATE "public"."Album" SET "numberOfTracks" = 18, "date" = '2008' WHERE artist = 'Amatory' AND "name" = 'Live Evil';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2012-08-05' WHERE artist = 'Natry' AND "name" = 'Диатоника';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '2007' WHERE artist = 'Various Artist' AND "name" = 'Море ЭМОций Vol. 1';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2014-07-21' WHERE artist = 'Montauk' AND "name" = 'Как Будда';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2013-01-04' WHERE artist = 'Exist/' AND "name" = 'Безысходность';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2007' WHERE artist = '6000000000себя' AND "name" = 'Прошу Убей Меня';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2014-01-11' WHERE artist = 'Сабака' AND "name" = 'Шашни';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Slot' AND "name" = '2 warz';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2007' WHERE artist = 'Плакса' AND "name" = 'Каждый Для Кого-то Его Судьба';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2003-10-25' WHERE artist = 'Slot' AND "name" = 'SLOT 1';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2010' WHERE artist = 'Ideя Fix' AND "name" = 'последняя неделя декабря';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2014-08-18' WHERE artist = 'Multipass' AND "name" = 'Песни Осени';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2007' WHERE artist = 'medusa''scream' AND "name" = 'Medusa''scream [EP]';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2015' WHERE artist = 'Those Days' AND "name" = 'Those Days';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2010' WHERE artist = 'ПЛЯЖ' AND "name" = 'Твоя игра EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2007' WHERE artist = 'beZ bileta' AND "name" = 'кино';
+UPDATE "public"."Album" SET "numberOfTracks" = 16, "date" = '2002' WHERE artist = 'Психея' AND "name" = 'Каждую Секунду Пространства';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2013' WHERE artist = 'Natry' AND "name" = 'Unpublished 2.0';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2008' WHERE artist = 'Skafandr' AND "name" = 'Тяжелый Шар Земной';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2009-06-06' WHERE artist = 'ТЕХНИКА : НЕИСПРАВНА' AND "name" = 'ТЕХНИКА : НЕИСПРАВНА (2009)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Myself' AND "name" = 'PLAY';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2004' WHERE artist = 'Maio' AND "name" = 'motion makes emotions...';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2009' WHERE artist = 'Such a Beautiful Day' AND "name" = 'Such A Beautiful Day 2008';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2005-07-05' WHERE artist = '.crrust' AND "name" = '...doyouseekbeautyindirt? EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2011' WHERE artist = 'Amatory' AND "name" = 'Осколки 2.011';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2006' WHERE artist = 'Desperado' AND "name" = 'Тихо MCD';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2007-01-26' WHERE artist = 'Animal Джаz' AND "name" = 'Шаг Вдох';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2009' WHERE artist = '=T.W.I.X=' AND "name" = 'Навсегда [EP 2009]';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2011' WHERE artist = '=T.W.I.X=' AND "name" = 'Новая жизнь (LP)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = '=T.W.I.X=' AND "name" = 'Последний вздох [single 2010]';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2015-06-04' WHERE artist = 'pureall' AND "name" = 'School of Art’s';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Cyber Hate' AND "name" = '(EP)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = '=T.W.I.X=' AND "name" = '=T.W.I.X= - Прости';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2013-10-14' WHERE artist = 'Axis' AND "name" = 'Axis / Self Defense Family Split';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2017' WHERE artist = 'Axis' AND "name" = 'Shift';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1998' WHERE artist = 'Ascension' AND "name" = 'Abomination';
+UPDATE "public"."Album" SET "numberOfTracks" = 21, "date" = '2006' WHERE artist = 'Various Artists' AND "name" = 'Harder They Fall: A Tribute To Integrity';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '1997-07-26' WHERE artist = 'Overcast' AND "name" = 'Fight Ambition to Kill';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '1998-06-01' WHERE artist = 'Morning Again' AND "name" = 'As Tradition Dies Slowly';
+UPDATE "public"."Album" SET "numberOfTracks" = 25, "date" = '1998' WHERE artist = 'Left for Dead' AND "name" = 'Splitting Heads';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '1999' WHERE artist = 'Atreyu' AND "name" = 'Visions';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2012-06-29' WHERE artist = 'Titan' AND "name" = 'BURN';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2001' WHERE artist = 'Sworn Enemy' AND "name" = 'Negative Outlook';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '1999-10' WHERE artist = 'Day of Mourning' AND "name" = 'Your Future''s End';
+UPDATE "public"."Album" SET "numberOfTracks" = 28, "date" = '2001-03-07' WHERE artist = 'Aftershock' AND "name" = 'Propaganda';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2006-02-24' WHERE artist = 'Remembering Never' AND "name" = 'God Save Us';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2011-01-22' WHERE artist = 'Seven Sisters of Sleep' AND "name" = 'Seven Sisters of Sleep';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2013-02-19' WHERE artist = 'Shai Hulud' AND "name" = 'Reach Beyond the Sun';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Ringworm' AND "name" = '1990-2003';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2015-10-30' WHERE artist = 'Twitching Tongues' AND "name" = 'Disharmony';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2017-02-17' WHERE artist = 'Xibalba' AND "name" = 'Diablo, Con Amor.. Adios.';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2017' WHERE artist = 'Sanction' AND "name" = 'The Infringement of God''s Plan';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2017-04-28' WHERE artist = 'Terror' AND "name" = 'The Walls Will Fall';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2018-11' WHERE artist = 'King Nine' AND "name" = 'Death Rattle';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = '25 Ta Life' AND "name" = 'Strength Integrity Brotherhoodd';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2013' WHERE artist = 'Hatebreed' AND "name" = 'Put It To The Torch';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2010-01-01' WHERE artist = 'Abomination' AND "name" = 'Dark Corner Of The Mind';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2011' WHERE artist = 'Contra Todos Mis Miedos' AND "name" = 'Colera';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2010-06-06' WHERE artist = 'Leviathan' AND "name" = 'In A Search Of A Soul';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2011-12-15' WHERE artist = 'Raindance' AND "name" = 'You And I';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2002-07-08' WHERE artist = 'Jamiroquai' AND "name" = 'Corner of the Earth';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2003-09-01' WHERE artist = 'Starsailor' AND "name" = 'Silence Is Easy';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2018-08-10' WHERE artist = 'Trippie Redd' AND "name" = 'Life''s a Trip';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2015-08-11' WHERE artist = 'Teleport' AND "name" = 'Maukliva';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2008-09' WHERE artist = 'Prophetic Dream' AND "name" = 'Anima';
+UPDATE "public"."Album" SET "numberOfTracks" = 19, "date" = '2003' WHERE artist = 'ULIS' AND "name" = 'Lusterka';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2014-10' WHERE artist = 'The Toobes' AND "name" = 'Road to the Big Time';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2014-01-15' WHERE artist = 'NAVIBAND' AND "name" = 'Лови';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2014-12-15' WHERE artist = 'NAVIBAND' AND "name" = 'Сонцам Сагрэтыя';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2015-09-14' WHERE artist = 'Brutto' AND "name" = 'Родны край';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2015-12-01' WHERE artist = 'Intelligency' AND "name" = 'DoLoven';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2017-01-20' WHERE artist = 'NAVIBAND' AND "name" = 'Иллюминация';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2017-04-03' WHERE artist = 'Intelligency' AND "name" = 'TechnoBlues';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Iced Earth' AND "name" = 'Framing Armageddon';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '1999-05-20' WHERE artist = 'Darkest Hour' AND "name" = 'Prophecy Fulfilled';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '1985-05-22' WHERE artist = 'Slauter Xstroyes' AND "name" = 'Winter Kill';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1988-01-19' WHERE artist = 'Megadeth' AND "name" = 'So Far, So Good...So What!';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '1992-04' WHERE artist = 'Clutch' AND "name" = 'Passive Restraints';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2000-01' WHERE artist = 'Every Time I Die' AND "name" = 'The Burial Plot Bidding War';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2002-06-25' WHERE artist = 'Nonpoint' AND "name" = 'Development';
+UPDATE "public"."Album" SET "numberOfTracks" = 24, "date" = '2002' WHERE artist = 'Overkill' AND "name" = 'Hello From the Gutter';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2003-11-04' WHERE artist = 'Prong' AND "name" = 'Scorpio Rising';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2004-01-26' WHERE artist = 'Attacker' AND "name" = 'Soul Taker';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2009-06-30' WHERE artist = 'Killswitch Engage' AND "name" = 'Killswitch Engage (2009)';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2010-07-02' WHERE artist = 'Dispirit' AND "name" = 'Rehearsal At Oboroten';
+UPDATE "public"."Album" SET "numberOfTracks" = 18, "date" = '2001-05-08' WHERE artist = 'Black Label Society' AND "name" = 'Alcohol Fueled Brewtality';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2016-04-05' WHERE artist = 'Ustalost' AND "name" = 'The Spoor of Vipers';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2019-03-01' WHERE artist = 'Devil Master' AND "name" = 'Satan Spits on Children of Light';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Norma Jean' AND "name" = 'O God, The Aftermath';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2002-06-24' WHERE artist = 'Bleeding Through' AND "name" = 'Portrait of the Goddess';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2002-04' WHERE artist = 'Inepsy' AND "name" = 'See You In Hell';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Colosseum' AND "name" = 'Chapter I: Delirium';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Thergothon' AND "name" = 'Streams from the Heavens';
+UPDATE "public"."Album" SET "numberOfTracks" = 5, "date" = '2004-03' WHERE artist = 'Worship' AND "name" = 'Last CD Before Doomsday';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2005-10-17' WHERE artist = 'Skumring' AND "name" = 'De glemte tider';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2006-07' WHERE artist = 'Wormphlegm' AND "name" = 'Tomb Of The Ancient King';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2007-11-14' WHERE artist = 'Colosseum' AND "name" = 'Chapter 1: Delirium';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Evoken' AND "name" = 'Caress Of The Void';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2007-03-09' WHERE artist = 'Longing for Dawn' AND "name" = 'A Treacherous Ascension';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2019-11-08' WHERE artist = 'Esoteric' AND "name" = 'A Pyrrhic Existence';
+UPDATE "public"."Album" SET "numberOfTracks" = 16, "date" = '1983' WHERE artist = 'D.R.I.' AND "name" = 'Dirty Rotten LP';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'D.R.I.' AND "name" = 'Dealing With It!';
+UPDATE "public"."Album" SET "numberOfTracks" = 24, "date" = '1985-03' WHERE artist = 'D.R.I.' AND "name" = 'Dealing With It';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '1987' WHERE artist = 'Electro Hippies' AND "name" = 'Killing Babies Is Tight';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1988-08-15' WHERE artist = 'Cryptic Slaughter' AND "name" = 'Stream Of Consciousness';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1986-03-15' WHERE artist = 'Napalm Death' AND "name" = 'From Enslavement to Obliteration (Demo)';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '1992-10-20' WHERE artist = 'D.R.I.' AND "name" = 'Definition';
+UPDATE "public"."Album" SET "numberOfTracks" = 20, "date" = '1994-08' WHERE artist = 'Hellnation' AND "name" = 'Control';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Various Artists' AND "name" = 'George Harrison / Hate Process split 7''''';
+UPDATE "public"."Album" SET "numberOfTracks" = 17, "date" = '1988-01' WHERE artist = 'Hellnation' AND "name" = 'Your Chaos Days Are Numbered';
+UPDATE "public"."Album" SET "numberOfTracks" = 19, "date" = '2000' WHERE artist = 'Toxic Narcotic' AND "name" = '89-99';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '1999' WHERE artist = '9 Shocks Terror' AND "name" = 'Zen And The Art Of Beating Your Ass';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2007' WHERE artist = '26 Beers' AND "name" = '26 Beers';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2007-12' WHERE artist = 'The Moebius Curve' AND "name" = 'Deus Ex Machina';
+UPDATE "public"."Album" SET "numberOfTracks" = 20, "date" = '2008-10-10' WHERE artist = 'Vitamin X' AND "name" = 'Full Scale Assault';
+UPDATE "public"."Album" SET "numberOfTracks" = 17, "date" = '2009' WHERE artist = 'Trash Talk' AND "name" = 'Plagues...Walking Disease';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2008' WHERE artist = 'Punch' AND "name" = 'Eyeless E.P.';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2009-08-06' WHERE artist = 'Napoleon Dynamite' AND "name" = 'NUR FLOPS';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2009-10' WHERE artist = 'Boiling Point' AND "name" = 'Thrash the Railroads';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2010-06-08' WHERE artist = 'Integrity' AND "name" = 'The Blackest Curse';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2009' WHERE artist = 'Morto Pela Escola' AND "name" = 'Naifa e Morto Pela Escola';
+UPDATE "public"."Album" SET "numberOfTracks" = 16, "date" = '1983-03' WHERE artist = 'D.R.I.' AND "name" = 'Dirty Rotten EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 15, "date" = '1999-07' WHERE artist = 'Hellnation' AND "name" = 'Fucked Up Mess';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2011-04-20' WHERE artist = 'Crossfaith' AND "name" = 'The Dream The Space';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2012-08' WHERE artist = 'Product of Waste' AND "name" = 'Product Of Waste';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2013-07' WHERE artist = 'Coke Bust' AND "name" = 'Confined';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2006' WHERE artist = 'Appleshout' AND "name" = 'Appleshout';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2006-08-15' WHERE artist = 'LxExAxRxNx' AND "name" = 'First Lesson';
+UPDATE "public"."Album" SET "numberOfTracks" = 27, "date" = '2002' WHERE artist = 'Discarga' AND "name" = 'Happy Night Eletric Experience';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2003' WHERE artist = 'Surf Nazis Must Die' AND "name" = 'Anti Everything EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2008' WHERE artist = 'Rearranged' AND "name" = 'Demo';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2002' WHERE artist = 'Big D And The Kids Table' AND "name" = 'The Gipsy Hill';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2012-02-15' WHERE artist = 'Minefield' AND "name" = 'Отъебись!';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2009-05-28' WHERE artist = 'Kali' AND "name" = 'Demo';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '1989' WHERE artist = 'S.O.B.' AND "name" = 'Thrash Night';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2007' WHERE artist = 'Korova' AND "name" = '...If There Is a Future';
+UPDATE "public"."Album" SET "numberOfTracks" = 22, "date" = '2012-11-16' WHERE artist = 'Crippled Fox' AND "name" = 'THROW UP A V THAT STANDS FOR VENICE';
+UPDATE "public"."Album" SET "numberOfTracks" = 3, "date" = '2009' WHERE artist = 'missis Garrison' AND "name" = 's01.e08.';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'GxHx' AND "name" = 'First Two Years';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2015-04-28' WHERE artist = 'Noisem' AND "name" = 'Blossoming Decay';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2012' WHERE artist = 'Power Play' AND "name" = 'Roar Of The Street Dogz';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '1993-12-14' WHERE artist = 'Beherit' AND "name" = 'Messe des Morts';
+UPDATE "public"."Album" SET "numberOfTracks" = 22, "date" = '1996-06-24' WHERE artist = 'Ildjarn' AND "name" = 'Forest Poetry';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2004' WHERE artist = 'Forest' AND "name" = 'As a Song in the Harvest of Grief';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2000-06' WHERE artist = 'Clandestine Blaze' AND "name" = 'Night of the Unholy Flames';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2013-10' WHERE artist = 'Ildjarn' AND "name" = 'Those Once Mighty Fallen';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Darkthrone' AND "name" = 'Land Of Frost (Demo)';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2002-05-22' WHERE artist = 'Deathspell Omega' AND "name" = 'Inquisitors of Satan';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '1995-07' WHERE artist = 'Black Murder' AND "name" = 'Feasts';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2006' WHERE artist = 'Slavland' AND "name" = 'Tarcza Swaroga';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '1994' WHERE artist = 'Arkona' AND "name" = 'Bogowie Zapomnienia';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2008-10-17' WHERE artist = 'Satanic Warmaster' AND "name" = 'Behexen / Satanic Warmaster';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2006-06-30' WHERE artist = 'Akitsa' AND "name" = 'La Grande Infamie';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2010-04-06' WHERE artist = 'Akitsa' AND "name" = 'Au crépuscule de l''espérance';
+UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2013-06-20' WHERE artist = 'Peste Noire' AND "name" = 'Peste Noire';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Lutomysl' AND "name" = 'Catharsis';
+UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2010-05-28' WHERE artist = 'Satanic Warmaster' AND "name" = 'W.A.T.W.T.C.O.T.B.W.O.A.A.';
+UPDATE "public"."Album" SET "numberOfTracks" = 4, "date" = '2002' WHERE artist = 'Terror' AND "name" = '4 Song Demo';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Ahumado Granujo' AND "name" = 'Splatter - Tekk';
+UPDATE "public"."Album" SET "numberOfTracks" = 23, "date" = '2005-04-01' WHERE artist = 'Cutting Pink With Knives' AND "name" = 'Alef, Alef, Alef!';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Atari Teenage Riot' AND "name" = 'Live in Philadelphia Dec. 1997';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'My Mouth is Full of Dropkicking Astronauts' AND "name" = 'Look At Me, I''m a Breakdancing Dinosaur EP';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Rosetta' AND "name" = 'The Galilean Satellites (CD1)';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Throane' AND "name" = 'Derrière-Nous, La Lumière';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Hocico' AND "name" = 'Signo de Aberracion';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2002-02-11' WHERE artist = 'Hocico' AND "name" = 'Signos De Aberracion';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Grendel' AND "name" = 'Soilbleed:Redux';
+UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2011-05-10' WHERE artist = 'Ohgr' AND "name" = 'Undeveloped';
+UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2006-11-21' WHERE artist = 'Inhale Exhale' AND "name" = 'The Lost, The Sick, The Sacred';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Inhale Exhale' AND "name" = 'The Lost The Sick The Sacred';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Project 86' AND "name" = 'Songs To Burn Bridges By';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Head' AND "name" = 'Save M From Myself';
+UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '1996-07-01' WHERE artist = 'Tourniquet' AND "name" = 'The Collected Works of Tourniquet';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Soilwork' AND "name" = 'Natrual Born Chaos';
+UPDATE "public"."Album" SET "numberOfTracks" = 10, "date" = '2009-03-10' WHERE artist = 'Yngwie Malmsteen' AND "name" = 'Angels of love';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Meshuggah' AND "name" = 'Selfcaged EP';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Soilwork' AND "name" = 'A predators portrait';
+UPDATE "public"."Album" SET "hidden" = false WHERE artist = 'Meshuggah' AND "name" = 'Catch 33';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Meshuggah' AND "name" = 'Catch Thirty Three';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Meshuggah' AND "name" = 'Catch Thirtythr33';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Meshuggah' AND "name" = 'Catch ThirtyThree';
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '2005-01' WHERE artist = 'Alcest' AND "name" = 'Le secret';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Alcest' AND "name" = 'Le secret EP';
+UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2016-04-22' WHERE artist = 'Respire' AND "name" = 'Gravity and Grace';
+UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '2019-03-01' WHERE artist = 'Cartographs' AND "name" = 'wilt & blossom';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2017-02-03' WHERE artist = 'Violet Cold' AND "name" = 'Anomie';
+UPDATE "public"."Album" SET "numberOfTracks" = 6, "date" = '2009' WHERE artist = 'Shining' AND "name" = 'Halmstad';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Shining' AND "name" = 'V . Halmstad';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Shining' AND "name" = 'V: Halmstad';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Samsas Traum' AND "name" = 'Heiliges Herz - Das Schwert deiner Sonne: Album';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Bethlehem' AND "name" = 'Sardonischer Untergang im Zeichen irreligioser Darbietung';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = '1349' AND "name" = '1349 EP';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Carcass' AND "name" = 'Reek Of Putrefacation';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'The Red Jumpsuit Apparatus' AND "name" = 'Don''t Fake It';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Torsofuck' AND "name" = 'Erotic Diarrhea Fantacy';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Last Days of Humanity' AND "name" = '2006 - Putrefaction In Progress';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Last Days of Humanity' AND "name" = 'The Sounds Of Rancid Juices Sloshing Around Your Coffin';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Regurgitate' AND "name" = 'Effortless Regurgitation...the Torture Sessions';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Blood on the Dance Floor' AND "name" = 'It''s Hard To Be A Diamond In A Rhine Stone World';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Last Days of Humanity' AND "name" = 'In Advanced Haemorrhaging Condition';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Insane Clown Posse' AND "name" = 'The Wraith: Remix Album';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'The Devil Wears Prada' AND "name" = 'Dear Love - A Beautiful Discord';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'The Bambi Molesters' AND "name" = 'Sonic Bullets:13 From The Hip';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Donavon Frankenreiter' AND "name" = 'Abbey Road Sessions';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'The Centurions' AND "name" = 'Bullwinkle Pt. II';
+UPDATE "public"."Album" SET "numberOfTracks" = 1, "date" = '2017-02-04' WHERE artist = 'Daikaiju' AND "name" = 'Cock Lobster';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Summoning' AND "name" = 'Minus Morgul';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Falkenbach' AND "name" = 'Heralding the Fireblade [Bonus Disc]';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Bal-Sagoth' AND "name" = 'The Chtonic Chronicles';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Paradise Lost' AND "name" = 'Lost Paradsie';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Acid Witch' AND "name" = 'Witchtanic Hallucinations';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Disembowelment' AND "name" = 'Transcendence Into the Peripheral / Dusk';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Katatonia' AND "name" = 'Dance Of Decembre Souls';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Paradise Lost' AND "name" = '1991 Gothic';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Novembers Doom' AND "name" = 'Amid It''s Hallowed Mirth';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Novembers Doom' AND "name" = '07 - The novella reservoir 2007';
+UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Winter' AND "name" = 'Into Darkness/Eternal Frost';

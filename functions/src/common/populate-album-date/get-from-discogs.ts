@@ -30,6 +30,7 @@ function getIdFromResponseResults(
   const titleToId = new Map<string, number>();
   forEach(responseResults, (responseResult) => {
     const previousId = titleToId.get(responseResult.title);
+
     if (previousId) {
       if (previousId > responseResult.id) {
         titleToId.set(responseResult.title, responseResult.id);
@@ -39,6 +40,7 @@ function getIdFromResponseResults(
     }
   });
   const foundTitle = closest(targetTitle, uniq(map(responseResults, 'title')));
+
   return titleToId.get(foundTitle);
 }
 
@@ -57,6 +59,7 @@ export default async function getFromDiscogs(
       artistName,
       albumName,
     );
+
     if (!releaseId) {
       return null;
     }

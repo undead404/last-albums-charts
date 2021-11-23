@@ -28,7 +28,9 @@ export default async function pickTag(): Promise<Tag | null> {
     ORDER BY "weight" DESC
     LIMIT 1
   `);
+
   const tag = head(result.rows);
+
   if (!tag) {
     logger.warn('No tags picked');
   } else {
@@ -39,11 +41,13 @@ export default async function pickTag(): Promise<Tag | null> {
     }
 
     const removedDuplicates = await removeTagDuplicates(tag.name);
+
     if (includes(removedDuplicates, tag.name)) {
       logger.warn(`${tag.name} - removed as a duplicate`);
       return pickTag();
     }
     logger.debug(`Picked tag: ${tag.name}`);
   }
+
   return tag || null;
 }

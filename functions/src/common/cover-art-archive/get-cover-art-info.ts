@@ -8,6 +8,7 @@ import { CoverArtArchiveResponse } from './cover-art-archive-types';
 const API_DELAY_MS = 1000;
 
 let waiter = Promise.resolve();
+
 export default async function getCoverArtInfo(
   mbid: string,
 ): Promise<CoverArtArchiveResponse | null> {
@@ -17,6 +18,7 @@ export default async function getCoverArtInfo(
     const url = `https://coverartarchive.org/release/${mbid}`;
     logger.debug(url);
     const response = await axios.get<CoverArtArchiveResponse>(url);
+
     return response.data;
   } catch {
     return null;

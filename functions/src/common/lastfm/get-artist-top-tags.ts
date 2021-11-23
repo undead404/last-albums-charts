@@ -15,6 +15,8 @@ export default async function getArtistTopTags(
     artist: artistName,
     method: 'artist.getTopTags',
   });
+
   const tags = data?.toptags?.tag;
+
   return uniqBy(tags, 'name');
 }

@@ -8,9 +8,11 @@ import sleep from './sleep';
 const discojs = new Discojs({
   userToken: DISCOGS_ACCESS_TOKEN,
 });
+
 let waiter = Promise.resolve();
 const API_DELAY_MS = 60_000;
 const MAX_RETRIES = 1;
+
 export default async function searchDiscogs(
   artist: string,
   name: string,
@@ -56,6 +58,7 @@ export default async function searchDiscogs(
       type: SearchTypeEnum.RELEASE,
       year,
     });
+
     if (result.pagination.items === 0 && year) {
       return await discojs.searchRelease('', {
         artist,
@@ -63,6 +66,7 @@ export default async function searchDiscogs(
         type: SearchTypeEnum.RELEASE,
       });
     }
+
     return result;
   } catch (error) {
     if (

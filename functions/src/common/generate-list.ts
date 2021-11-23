@@ -14,6 +14,7 @@ import { getList } from './database/tag-list-item';
 import populateAlbumDate from './populate-album-date/populate-album-date';
 import database from './database';
 import logger from './logger';
+// import maybeMisspelled from './maybe-misspelled';
 import populateAlbumsCovers from './populate-albums-covers';
 import Progress from './progress';
 import saveList from './save-list';
@@ -38,11 +39,13 @@ function didAlbumsChange(
     logger.debug('Remove or create');
     return true;
   }
+
   const albumsToRemove = differenceBy(
     map(oldAlbums, 'album'),
     albums,
     getAlbumTitle,
   );
+
   forEach(albumsToRemove, (album) => {
     logger.debug(`REMOVED: ${getAlbumTitle(album)}`);
   });
@@ -51,6 +54,7 @@ function didAlbumsChange(
     map(oldAlbums, 'album'),
     getAlbumTitle,
   );
+
   forEach(albumsToAdd, (album) => {
     logger.debug(`ADDED: ${getAlbumTitle(album)}`);
   });
@@ -60,12 +64,22 @@ async function getCorrectedAlbumTag<T extends AlbumTag & { album: Album }>(
   albumTag: T,
   // knownAlbumTags: (AlbumTag & { album: Album })[],
 ): Promise<T | null> {
+  // if (
+  //   await maybeMisspelled({
+  //     artist: albumTag.albumArtist,
+  //     name: albumTag.albumName,
+  //   })
+  // ) {
+  //   logger.warn(`${albumTag.albumArtist} - ${albumTag.albumName}: misspelled`);
+  //   return null;
+  // }
   await populateAlbumDate(albumTag.album);
   const correctedAlbumTag = await findAlbumTagWithAlbum({
     albumArtist: albumTag.albumArtist,
     albumName: albumTag.albumName,
     tagName: albumTag.tagName,
   });
+
   if (
     !correctedAlbumTag?.album.date
     // find(knownAlbumTags, {
@@ -78,6 +92,7 @@ async function getCorrectedAlbumTag<T extends AlbumTag & { album: Album }>(
     );
     return null;
   }
+
   return correctedAlbumTag ? { ...albumTag, ...correctedAlbumTag } : null;
 }
 
@@ -88,11 +103,8 @@ export default async function generateList(tag: Tag): Promise<boolean> {
     SELECT *,
       (COALESCE("Album"."playcount", 0)::FLOAT / COALESCE("Album"."numberOfTracks", (
         SELECT AVG("numberOfTracks") FROM "Album" WHERE "numberOfTracks" IS NOT NULL
-      ))) *
-      COALESCE("Album"."listeners", 0) *
-      (COALESCE("Album"."duration", (
-        SELECT AVG("duration") FROM "Album" WHERE "duration" IS NOT NULL
-      ))::FLOAT / COALESCE("Album"."numberOfTracks", (
+      )) *
+      COALESCE("Album"."listeners", 0) / COALESCE("Album"."numberOfTracks", (
         SELECT AVG("numberOfTracks") FROM "Album" WHERE "numberOfTracks" IS NOT NULL
       ))) *
       POWER("AlbumTag"."count"::FLOAT / 100, 3)
@@ -106,6 +118,7 @@ export default async function generateList(tag: Tag): Promise<boolean> {
       "AlbumTag"."tagName" = ${tag.name}
     ORDER BY "weight" DESC
     LIMIT ${LIST_LENGTH * TAKE_MODIFIER}`;
+
   const result = await database.query<Weighted<AlbumTag & Album>>(query);
   const availableAlbumTags = map(result.rows, (row) => ({
     ...pick(row, ['albumArtist', 'albumName', 'count', 'tagName', 'weight']),
@@ -124,7 +137,9 @@ export default async function generateList(tag: Tag): Promise<boolean> {
       'thumbnail',
     ]),
   }));
+
   const albumTags = take(availableAlbumTags, LIST_LENGTH);
+
   if (size(albumTags) < LIST_LENGTH) {
     logger.debug(`${size(albumTags)}, but required at least ${LIST_LENGTH}`);
     await saveList(tag, []);
@@ -135,8 +150,10 @@ export default async function generateList(tag: Tag): Promise<boolean> {
       `correct AlbumTags for ${tag.name}`,
       logger,
     );
+
     let skipCounter = 0;
     const albumTagsWithDates: Weighted<AlbumTag & { album: Album }>[] = [];
+
     // eslint-disable-next-line no-restricted-syntax
     for (const albumTag of albumTags) {
       // eslint-disable-next-line no-await-in-loop
@@ -144,6 +161,7 @@ export default async function generateList(tag: Tag): Promise<boolean> {
         albumTag,
         // albumTagsWithDates,
       );
+
       if (!correctedAlbumTag) {
         logger.warn(
           `${albumTag.albumArtist} - ${albumTag.albumName}: date unavailable`,
@@ -154,6 +172,7 @@ export default async function generateList(tag: Tag): Promise<boolean> {
           availableAlbumTags,
           LIST_LENGTH + skipCounter,
         );
+
         skipCounter += 1;
         if (!extraAlbumTag) {
           logger.warn(`Failed to find sufficient number of albums`);
@@ -182,10 +201,12 @@ export default async function generateList(tag: Tag): Promise<boolean> {
       albumTagsWithDates.push(correctedAlbumTag);
       progress.increment();
     }
+
     const albums = map(
       sortBy(albumTagsWithDates, (albumTag) => -albumTag.weight),
       'album',
     );
+
     const oldAlbums = await getList(tag.name);
     await (didAlbumsChange(oldAlbums, albums)
       ? saveList(tag, await populateAlbumsCovers(albums))

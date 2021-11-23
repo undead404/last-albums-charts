@@ -27,5 +27,6 @@ const log4js = configure({
   },
   pm2: true,
 });
+
 const logger = log4js.getLogger();
 export default logger;

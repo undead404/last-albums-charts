@@ -21,6 +21,7 @@ export default async function pickTag(): Promise<Tag | undefined> {
     ORDER BY "weight" DESC
     LIMIT 1
   `);
+
   if (result.rowCount > 0) {
     return result.rows[0];
   }

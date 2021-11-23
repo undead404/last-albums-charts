@@ -11,6 +11,7 @@ import { Album } from './types';
 
 let waiter = Promise.resolve();
 const API_DELAY_MS = 2000;
+
 function getFromResponseResults(
   responseResults: {
     // eslint-disable-next-line camelcase
@@ -34,6 +35,7 @@ function getFromResponseResults(
   const titleToId = new Map<string, number>();
   forEach(responseResults, (responseResult) => {
     const previousId = titleToId.get(responseResult.title);
+
     if (previousId) {
       if (previousId > responseResult.id) {
         titleToId.set(responseResult.title, responseResult.id);
@@ -43,6 +45,7 @@ function getFromResponseResults(
     }
   });
   const foundTitle = closest(targetTitle, uniq(map(responseResults, 'title')));
+
   return find(responseResults, ['id', titleToId.get(foundTitle)]);
 }
 export default async function getFromDiscogs(
@@ -58,10 +61,13 @@ export default async function getFromDiscogs(
     artistName,
     albumName,
   );
+
   waiter = sleep(API_DELAY_MS);
   if (!albumSearchItem) {
     return null;
   }
+
   const { cover_image: cover, thumb: thumbnail } = albumSearchItem;
+
   return { cover, thumbnail };
 }

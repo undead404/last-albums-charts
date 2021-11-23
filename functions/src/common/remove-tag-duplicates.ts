@@ -31,6 +31,7 @@ export default async function removeTagDuplicates(
     ORDER BY "weight" DESC
   ) AS "weighted_tags" OFFSET 1
   `;
+
   // logger.debug(query);
   const result = await database.query<{ name: string }>(query);
   // eslint-disable-next-line no-console

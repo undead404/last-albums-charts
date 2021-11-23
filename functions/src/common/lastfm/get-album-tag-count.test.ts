@@ -9,6 +9,7 @@ describe('getAlbumTagCount', () => {
       'Exodus',
       'thrash metal',
     );
+
     expect(tagCount).toEqual(100);
   });
   it('returns zero on typo', async () => {
@@ -17,6 +18,7 @@ describe('getAlbumTagCount', () => {
       'Exodu',
       'thrash metal',
     );
+
     expect(tagCount).toEqual(0);
   });
 });

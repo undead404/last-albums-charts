@@ -224,7 +224,7 @@ UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Him' AND "name" = '2
 UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Various Artists' AND "name" = 'Love Metal';
 UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Him' AND "name" = 'Unplugged and More';
 UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Him' AND "name" = 'Tears On Tape (BONUS)';
-UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '1999' WHERE artist = 'Him' AND "name" = 'It''s All Tears (Drown In This Love)'
+UPDATE "public"."Album" SET "numberOfTracks" = 2, "date" = '1999' WHERE artist = 'Him' AND "name" = 'It''s All Tears (Drown In This Love)';
 UPDATE "public"."Album" SET "hidden" = true WHERE artist = 'Him' AND "name" = '2000.03.29 - Arena, Berlin, Germany';
 UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '1990' WHERE artist = 'Various Artists' AND "name" = 'Heavy Metal Love';
 UPDATE "public"."Album" SET "numberOfTracks" = 11, "date" = '2000-01-24' WHERE artist = 'Him' AND "name" = 'Razorblade Romance';

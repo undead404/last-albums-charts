@@ -14,6 +14,7 @@ const musicbrainz = new MusicBrainzApi({
 });
 
 let waiter = Promise.resolve();
+
 export default async function getFromMusicbrainz(
   album: Pick<Album, 'artist' | 'mbid' | 'name'>,
 ): Promise<string | null> {
@@ -26,6 +27,7 @@ export default async function getFromMusicbrainz(
     const release = await musicbrainz.getRelease(album.mbid, [
       'release-groups',
     ]);
+
     waiter = sleep(API_DELAY_MS);
     return (
       get(release, 'release-group.first-release-date') ||

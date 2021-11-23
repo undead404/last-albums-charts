@@ -16,12 +16,9 @@ export default async function generateTopList(): Promise<void> {
       (COALESCE("playcount", 0)::FLOAT / COALESCE("numberOfTracks", (
         SELECT AVG("numberOfTracks") FROM "Album" WHERE "numberOfTracks" IS NOT NULL
       ))) *
-        COALESCE("listeners", 0) *
-        (COALESCE("duration", (
-          SELECT AVG("duration") FROM "Album" WHERE "duration" IS NOT NULL
-        ))::FLOAT / COALESCE("numberOfTracks", (
+        COALESCE("listeners", 0) / COALESCE("numberOfTracks", (
           SELECT AVG("numberOfTracks") FROM "Album" WHERE "numberOfTracks" IS NOT NULL
-        )))
+        ))
       AS "weight"
     FROM "Album"
     WHERE "date" IS NOT NULL AND
@@ -29,6 +26,7 @@ export default async function generateTopList(): Promise<void> {
     ORDER BY "weight" DESC
     LIMIT ${LIST_LENGTH}
   `);
+
   const albums = await sequentialAsyncMap(result.rows, async (album) => ({
     ...album,
     places: (
@@ -50,6 +48,7 @@ export default async function generateTopList(): Promise<void> {
       `)
     ).rows,
   }));
+
   await saveTopList(albums);
   logger.debug('generateTopList: success');
 }

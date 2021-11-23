@@ -6,7 +6,7 @@ module.exports = {
   apps: [
     {
       autorestart: true,
-      cron_restart: '*/5 * * * *',
+      cron_restart: '*/10 * * * *',
       env: {
         APP_NAME: 'cList',
       },
@@ -18,7 +18,7 @@ module.exports = {
     },
     {
       autorestart: false,
-      cron_restart: '45 6 * * *',
+      cron_restart: '0 */6 * * *',
       env: {
         APP_NAME: 'deploy',
         // SKIP_DEPLOY: true,

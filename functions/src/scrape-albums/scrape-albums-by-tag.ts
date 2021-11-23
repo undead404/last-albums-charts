@@ -32,6 +32,7 @@ export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
       thumbnail: null,
     }),
   );
+
   logger.info(
     `scrapeAlbumsByTag(${tag.name}): ${albumsRecords.length} albums scraped`,
   );
@@ -42,6 +43,7 @@ export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
       `scrapeAlbumsByTag - ${albums.length} for ${tag.name}`,
       logger,
     );
+
     await sequentialAsyncForEach(albumsRecords, async (album) => {
       try {
         await database.query(SQL`

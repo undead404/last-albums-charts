@@ -20,6 +20,8 @@ const getAlbumTopTags = jest
         { count: 14, name: 'metal' },
       ] as readonly Tag[];
     }
+
     return [];
   });
+
 export default getAlbumTopTags;

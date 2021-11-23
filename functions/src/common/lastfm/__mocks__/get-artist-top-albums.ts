@@ -184,6 +184,7 @@ const getArtistTopAlbums = jest
         },
       ]);
     }
+
     return Promise.resolve();
   });
 

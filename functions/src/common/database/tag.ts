@@ -57,6 +57,7 @@ export async function findTagsWithLists(): Promise<
       "Tag"."listCheckedAt" DESC,
       "TagListItem"."place" ASC
   `);
+
   let currentTag: (Tag & { list: TagListItem[] }) | null = null;
   const tags: (Tag & { list: TagListItem[] })[] = [];
   forEach(result.rows, (row) => {

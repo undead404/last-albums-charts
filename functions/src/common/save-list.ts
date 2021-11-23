@@ -32,6 +32,7 @@ export default async function saveList(
           DO UPDATE SET "albumArtist" = EXCLUDED."albumArtist",
             "albumName" = EXCLUDED."albumName"
       `;
+
         // logger.debug(query.sql);
         await database.query(query);
       });
@@ -48,6 +49,7 @@ export default async function saveList(
           "listUpdatedAt" = NOW()
         WHERE "name" = ${tag.name}
     `;
+
       // logger.debug(query.sql);
       await database.query(query);
       await database.query('COMMIT');

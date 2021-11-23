@@ -11,6 +11,7 @@ import pickTag from './pick-tag';
 export default async function updateList(): Promise<void> {
   logger.debug('updateList: start');
   const tag = await pickTag();
+
   if (!tag) {
     logger.warn('Failed to find sufficient tag');
     return;
@@ -21,7 +22,9 @@ export default async function updateList(): Promise<void> {
     await updateList();
     return;
   }
+
   const removedDuplicates = await removeTagDuplicates(tag.name);
+
   if (includes(removedDuplicates, tag.name)) {
     logger.warn(`${tag.name} - removed as a duplicate`);
     await updateList();
