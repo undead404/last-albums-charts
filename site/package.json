@@ -36,7 +36,8 @@
     "safe-flat": "~2.0.2",
     "serve": "~11.3.2",
     "surge": "0.23.0",
-    "typescript": "~3.9.4"
+    "typescript": "~3.9.4",
+    "workbox-cli": "~6.4.2"
   },
   "engines": {
     "node": "14"
@@ -47,14 +48,14 @@
     "source": "./dist"
   },
   "scripts": {
-    "build": "react-static build",
+    "build": "react-static build && workbox generateSW",
     "bundle": "react-static bundle",
     "clean": "rimraf ./dist",
-    "deploy": "yarn build && surge ./dist --domain you-must-hear.surge.sh",
+    "deploy": "yarn build && neocities push dist",
     "export": "react-static export",
     "serve": "serve dist -p 3000 -s",
     "snap": "react-snap",
-    "stage": "react-static build --staging",
+    "stage": "react-static build --staging && workbox generateSW",
     "start": "react-static start"
   }
 }

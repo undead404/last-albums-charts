@@ -26,7 +26,7 @@ function App(): JSX.Element {
 
         {/* <!-- Open Graph / Facebook --> */}
         <meta content="website" property="og:type" />
-        <meta content="https://you-must-hear.surge.sh" property="og:url" />
+        <meta content="https://undead404.neocities.org" property="og:url" />
         <meta content="You Must Hear" property="og:title" />
         <meta
           content="Albums you must hear before you die"
@@ -35,7 +35,7 @@ function App(): JSX.Element {
 
         {/* <!-- Twitter --> */}
         <meta content="summary_large_image" property="twitter:card" />
-        <meta content="https://you-must-hear.surge.sh" property="twitter:url" />
+        <meta content="https://undead404.neocities.org" property="twitter:url" />
         <meta content="You Must Hear" property="twitter:title" />
         <meta
           content="100 albums you must hear before you die"
@@ -63,6 +63,12 @@ function App(): JSX.Element {
           type="image/png"
         />
         <link href="/site.webmanifest" rel="manifest" />
+        {process.env.NODE_ENV === 'production' && (
+          <link rel="manifest" href="/manifest.json"></link>
+        )}
+        {process.env.NODE_ENV === 'production' && (
+          <script src="/init-sw.js"></script>
+        )}
       </Head>
       <nav>
         <Link to="/">Home</Link>

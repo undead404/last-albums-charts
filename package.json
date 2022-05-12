@@ -38,8 +38,9 @@
 	"scripts": {
 		"fix": "eslint . --fix",
 		"lint": "eslint .",
-		"postinstall": "cd ./functions && yarn; cd ../site && yarn; cd ..",
-		"process": "cd ./functions && yarn start; cd .."
+		"postinstall": "cd ./scraper && yarn; cd ../site && yarn; cd ..",
+		"process": "cd ./scraper && yarn start; cd .."
 	},
-	"version": "0.1.0"
+	"version": "0.1.0",
+	"dependencies": {}
 }

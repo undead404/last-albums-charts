@@ -1,16 +1,12 @@
 {
   "compilerOptions": {
-    "esModuleInterop": true,
     "module": "commonjs",
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "outDir": "lib",
-    "resolveJsonModule": true,
     "sourceMap": true,
     "strict": true,
-    "target": "es2017",
-    "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "target": "es2017"
   },
   "compileOnSave": true,
   "include": [

@@ -12,7 +12,7 @@ export interface TagHelmetProperties {
 export default function TagHelmet({ tag }: TagHelmetProperties): JSX.Element {
   const title = `You Must Hear | ${tag.name}`;
   const image = getTagPreview(tag);
-  const url = `https://you-must-hear.surge.sh/tag/${filenamify(tag.name)}`;
+  const url = `https://undead404.neocities.org/tag/${filenamify(tag.name)}`;
   return (
     <Head>
       {/* <!-- Primary Meta Tags --> */}

@@ -1,0 +1,12 @@
+{
+  "short_name": "You Must Hear",
+  "name": "You Must Hear",
+  "description": "100 albums you must hear before you die",
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000",
+  "shortcuts": [],
+  "icons": []
+}

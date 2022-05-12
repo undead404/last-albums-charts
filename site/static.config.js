@@ -9,12 +9,12 @@ import orderBy from 'lodash/orderBy';
 import { createSharedData } from 'react-static/node';
 
 import tagsData from './src/tags_1700.json';
-import tagsProdData from './src/tags_1000.json';
+// import tagsProdData from './src/tags_1000.json';
 import topList from './src/top-list.json';
 // import { Tag } from './types'
 
-const { tags } =
-  process.env.NODE_ENV === 'development' ? tagsData : tagsProdData;
+const { tags } = tagsData;
+  // process.env.NODE_ENV === 'development' ? tagsData : tagsProdData;
 
 const tagsWithRankedAlbums = map(tags, (tag) => {
   const albumWithCover = find(tag.list, 'album.thumbnail')?.album;
@@ -155,5 +155,5 @@ export default {
     require.resolve('react-static-plugin-sitemap'),
     require.resolve('react-static-plugin-styled-components'),
   ],
-  siteRoot: 'https://you-must-hear.surge.sh',
+  siteRoot: 'https://undead404.neocities.org',
 };

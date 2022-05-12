@@ -10,7 +10,7 @@ import AlbumsTable from '../../components/AlbumsTable/AlbumsTable';
 import IndexRouteData from './index-route-data';
 
 const title = 'You Must Hear';
-const url = `https://you-must-hear.surge.sh`;
+const url = `https://undead404.neocities.org`;
 
 export default function Index(): JSX.Element {
   const { topList } = useRouteData<IndexRouteData>();

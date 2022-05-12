@@ -28,14 +28,20 @@ coverage/
 lib/
 
 **/node_modules/**
-functions/node_modules
+scraper/node_modules
 client/config/**/*.js
 client/scripts/*.js
 **/react-app-env.d.ts
 **/*.min.js
-site/node_modules
-site/artifacts
-site/dist
-site/tmp
-functions/ecosystem.config.js
+site2/node_modules
+site2/artifacts
+site2/dist
+site2/tmp
+scraper/ecosystem.config.js
 site/static.config.js
+
+site
+.eslintrc.js
+**/next.config.js
+site2/out
+site2/**/*.d.ts

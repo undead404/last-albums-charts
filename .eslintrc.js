@@ -20,7 +20,7 @@ module.exports = {
   ],
   overrides: [
     {
-      files: ['./*', 'site/**/*.js', 'setup-tests.ts'],
+      files: ['./*', 'site2/**/*.js', 'setup-tests.ts'],
       rules: {
         'import/no-extraneous-dependencies': [
           'error',
@@ -33,7 +33,7 @@ module.exports = {
         'node/no-unpublished-require': 'off',
         '@typescript-eslint/no-var-requires': 'off',
         '@typescript-eslint/explicit-module-boundary-types': 'off',
-        'no-console': 'off',
+        'no-console': 'off'
       },
     },
     {
@@ -72,7 +72,7 @@ module.exports = {
       },
     },
     {
-      files: ['site/**/*.tsx', 'site/**/*.ts'],
+      files: ['site2/**/*.tsx', 'site2/**/*.ts'],
       rules: {
         'node/no-unsupported-features/node-builtins': 'off',
         'unicorn/filename-case': [
@@ -84,10 +84,16 @@ module.exports = {
             },
           },
         ],
+        'unicorn/prevent-abbreviations': ['error', {
+          ignore: [
+            'getStaticProps'
+          ]
+        }],
+        'react/react-in-jsx-scope': 'off'
       },
     },
     {
-      files: ['functions/**/*.ts'],
+      files: ['scraper/**/*.ts'],
       rules: {
         'no-underscore-dangle': [
           'error',
@@ -98,7 +104,7 @@ module.exports = {
       },
     },
     {
-      files: ['site/**/*.tsx'],
+      files: ['site2/**/*.tsx'],
       rules: {
         'react/display-name': 'error',
         'react/function-component-definition': [
@@ -205,7 +211,6 @@ module.exports = {
           'error',
           { ignorePureComponents: true },
         ],
-        'react/react-in-jsx-scope': 'error',
         'react/self-closing-comp': 'error',
         'react/sort-comp': [
           'error',
@@ -508,7 +513,7 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 2020,
-    project: ['./functions/tsconfig.json', './site/tsconfig.json'],
+    project: ['./scraper/tsconfig.json', './site2/tsconfig.json'],
     sourceType: 'module',
   },
   plugins: [
@@ -578,7 +583,7 @@ module.exports = {
     'unicorn/prefer-spread': 'off',
     'no-use-before-define': 'off',
     '@typescript-eslint/no-use-before-define': ['error'],
-    "simple-import-sort/imports": ["error",{
+    "simple-import-sort/imports": ["error", {
       groups: [
         // Node.js builtins.
         [
@@ -606,11 +611,11 @@ module.exports = {
     'import/resolver': {
       typescript: {
         alwaysTryTypes: true, // always try to resolve types under `<root>@types` directory even it doesn't contain any source code, like `@types/unist`,
-        project: ['./functions', './site'],
+        project: ['./scraper', './site2'],
       },
     },
     react: {
-      version: '16.14',
+      version: '17.02',
     },
   },
 };
