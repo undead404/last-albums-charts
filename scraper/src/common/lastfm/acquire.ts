@@ -12,6 +12,9 @@ import { Parameters, Payload } from './api-types';
 
 const API_DELAY_MS = 1000;
 
+const RESPONSE_TIMEOUT = 2000;
+const CONNECTION_TIMEOUT = 5000;
+
 let waiter = Promise.resolve();
 
 export default async function acquire<T extends Payload>(
@@ -26,7 +29,16 @@ export default async function acquire<T extends Payload>(
 
   logger.debug(url);
   try {
-    const response = await axios.get<T>(url, { timeout: 2000 });
+    const abortController = new AbortController();
+    const connectionTimeout = setTimeout(() => {
+      abortController.abort();
+      logger.error('Aborted');
+    }, CONNECTION_TIMEOUT);
+    const response = await axios.get<T>(url, {
+      signal: abortController.signal,
+      timeout: RESPONSE_TIMEOUT,
+    });
+    clearTimeout(connectionTimeout);
 
     if (isEmpty(response?.data)) {
       throw new Error(response?.data?.message || 'Empty response');

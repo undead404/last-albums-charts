@@ -12,7 +12,7 @@ const LIST_LENGTH = 100;
 
 export default async function generateTopList(): Promise<void> {
   logger.debug('generateTopList()');
-  const result = await database.query<Weighted<Album>>(SQL`
+  const result = await database.query<Weighted<Album> & { rating: string }>(SQL`
     SELECT "bydate".*,
       ROW_NUMBER() OVER (ORDER BY "bydate"."weight" DESC) AS "rating"
     FROM (
@@ -35,6 +35,7 @@ export default async function generateTopList(): Promise<void> {
 
   const albums = await sequentialAsyncMap(result.rows, async (album) => ({
     ...album,
+    rating: Number.parseInt(album.rating, 10),
     places: reduce(
       (
         await database.query<TagListItem>(SQL`

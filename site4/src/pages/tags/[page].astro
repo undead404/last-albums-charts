@@ -1,0 +1,79 @@
+---
+
+import type { PaginateFunction } from 'astro';
+import { formatDistance, formatISO } from 'date-fns';
+import map from 'lodash/map';
+import toInteger from 'lodash/toInteger';
+
+import Pagination from '../../components/pagination.astro';
+import Layout from '../../layouts/layout.astro';
+import { initDatabase } from '../../services/data/database';
+import getTags from '../../services/data/get-tags';
+import type { TagPayload } from '../../types';
+
+const {
+  page: {
+    currentPage,
+    data,
+    lastPage: numberOfPages,
+    url: { current: currentUrl },
+  },
+} = Astro.props;
+const tags: TagPayload[] = data;
+
+export async function getStaticPaths({ paginate }: {paginate: PaginateFunction}) {
+  await initDatabase();
+  const allTags = await getTags();
+  return paginate(allTags, { pageSize: 20 });
+}
+---
+
+<Layout
+  date={formatISO(new Date())}
+  title="Music tags - genres and more"
+  url={currentUrl}
+>
+  <main>
+    <table class="table is-fullwidth">
+      <thead
+        ><tr
+          ><th scope="column">Name</th><th
+            scope="column"
+            aria-label="Tag preview"></th><th scope="column"
+            >Chart generation date</th
+          ><th scope="column">Power</th>
+        </tr>
+      </thead>
+      <tbody
+        >{
+          map(tags, (tag) => (
+            <tr>
+              <th scope="row">
+                <a href={`/tag/${encodeURIComponent(tag.name)}`}>{tag.name}</a>
+              </th>
+              <td>
+                <figure class="image is-32x32" title={tag.title}>
+                  <img class="is-rounded" src={tag.preview} />
+                </figure>
+              </td>
+              <td title={`${tag.listUpdatedAt}`}>
+                {tag.listUpdatedAt
+                  ? `${formatDistance(
+                      tag.listUpdatedAt,
+                      new Date(),
+                    )} ago`
+                  : 'Never'}
+              </td>
+              <td>{tag.weight}</td>
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+    <Pagination
+      baseUrl="/tags"
+      currentPage={currentPage ? toInteger(currentPage) : 1}
+      numberOfPages={numberOfPages}
+    />
+  </main>
+</Layout>

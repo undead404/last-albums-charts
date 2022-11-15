@@ -5,7 +5,7 @@ dotenv.config();
 module.exports = {
   apps: [
     {
-      autorestart: true,
+      autorestart: false,
       cron_restart: '*/10 * * * *',
       env: {
         APP_NAME: 'cList',
@@ -22,7 +22,7 @@ module.exports = {
       env: {
         APP_NAME: 'deploy',
         NODE_OPTIONS: '--max_old_space_size=8192',
-        // SKIP_DEPLOY: true,
+        SKIP_DEPLOY: false,
       },
       exec_mode: 'fork',
       instances: 1,
@@ -31,8 +31,8 @@ module.exports = {
       watch: false,
     },
     {
-      autorestart: true,
-      cron_restart: '45 0 * * *',
+      autorestart: false,
+      cron_restart: '45 * * * *',
       env: {
         APP_NAME: 'fAlbums',
       },
@@ -44,7 +44,7 @@ module.exports = {
     },
     {
       autorestart: true,
-      cron_restart: '0 2 * * *',
+      // cron_restart: '0 2 * * *',
       env: {
         APP_NAME: 'sAlbums',
       },
@@ -55,8 +55,8 @@ module.exports = {
       watch: false,
     },
     {
-      autorestart: true,
-      cron_restart: '0 * * * *',
+      autorestart: false,
+      // cron_restart: '0 * * * *',
       env: {
         APP_NAME: 'uList',
       },

@@ -45,3 +45,8 @@ site
 **/next.config.js
 site2/out
 site2/**/*.d.ts
+scraper/node_modules
+**/*.log
+site4/dist
+site4/node_modules
+site4/data/**/*.json

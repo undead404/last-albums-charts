@@ -1,5 +1,5 @@
-import childProcess from 'child_process';
-import path from 'path';
+import childProcess from 'node:child_process';
+import path from 'node:path';
 
 import find from 'lodash/find';
 import get from 'lodash/get';
@@ -10,15 +10,15 @@ import toString from 'lodash/toString';
 import database from '../common/database';
 import logger from '../common/logger';
 
-import generateTopList from './generate-top-list';
+// import generateTopList from './generate-top-list';
 import getTags from './get-tags';
 import saveTags from './save-tags';
-import saveTagsIndex from './save-tags-index';
+// import saveTagsIndex from './save-tags-index';
 import saveToAlgolia from './save-to-algolia';
-// import saveToFirestore from './save-to-firestore';
 
+// eslint-disable-next-line unicorn/prefer-module
 const ROOT_FOLDER = path.resolve(path.join(__dirname, '..', '..', '..'));
-const SITE_FOLDER = path.resolve(path.join(ROOT_FOLDER, 'site2'));
+const SITE_FOLDER = path.resolve(path.join(ROOT_FOLDER, 'site4'));
 
 // const PRODUCTION_TAGS_LIMIT = 1500;
 // const DEV_TAGS_LIMIT = 1700;
@@ -64,11 +64,18 @@ async function run() {
       };
     });
     await saveToAlgolia(tagsForTagsPage);
-    await saveTagsIndex(tagsForTagsPage);
-    await generateTopList();
-    await execute(`cd ${ROOT_FOLDER} && npx eslint site2 --fix`);
+    // await saveTagsIndex(tagsForTagsPage);
+    // await generateTopList();
+    // await execute(
+    //   `cd ${ROOT_FOLDER} && npx eslint  'site4/**/*.{ts,tsx,astro}' --fix`,
+    // );
     await execute(`cd ${SITE_FOLDER} && yarn build`);
-    if (!process.env.SKIP_DEPLOY) {
+    logger.debug(
+      `SKIP_DEPLOY: ${typeof process.env.SKIP_DEPLOY} ${
+        process.env.SKIP_DEPLOY
+      }`,
+    );
+    if (!process.env.SKIP_DEPLOY || process.env.SKIP_DEPLOY === 'false') {
       await execute(`cd ${ROOT_FOLDER} && firebase deploy --only hosting`);
     }
     logger.info('Deploy successful');
@@ -76,7 +83,7 @@ async function run() {
     process.exit(0);
   } catch (error: any) {
     // eslint-disable-next-line no-magic-numbers
-    logger.error(error);
+    logger.error(`FAILURE EXIT REASON: ${toString(error)}`);
     if (error?.transporterStackTrace) {
       logger.error(get(error, 'transporterStackTrace[0].host'));
       logger.error(get(error, 'transporterStackTrace[0].request'));

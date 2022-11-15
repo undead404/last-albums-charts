@@ -1,0 +1,9 @@
+services:
+  db:
+    build: ./db
+    environment:
+      POSTGRES_PASSWORD: lac
+    restart: always
+    volumes:
+      - ./db-data:/var/lib/postgresql/data
+version: '3.1'

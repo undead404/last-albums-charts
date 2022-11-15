@@ -1,0 +1,48 @@
+---
+import { formatDistance } from 'date-fns';
+import isString from 'lodash/isString';
+import map from 'lodash/map';
+
+import AlbumsTable from '../../components/albums-table';
+import Layout from '../../layouts/layout.astro';
+import { initDatabase } from '../../services/data/database';
+import getTag from '../../services/data/get-tag';
+import listTags from '../../services/data/list-tags';
+
+export interface Properties {
+  tagName: string;
+}
+const { tag } = Astro.params;
+if (!isString(tag)) {
+  throw new Error(`tag param of wrong type: ${tag}`)
+}
+await initDatabase();
+const tagInfo = await getTag(tag);
+// const tagInfo = await getTagInfo(`${tag}`);
+
+
+export async function getStaticPaths() {
+  await initDatabase();
+  const tagNames = await listTags();
+  return map(tagNames, (tagName) => ({
+    params: { tag: tagName },
+  }));
+}
+---
+
+<Layout
+  date={(tagInfo).listUpdatedAt}
+  imageSrc={tagInfo.preview}
+  subtitle={(tagInfo).listUpdatedAt
+    ? `Last updated ${formatDistance(
+        (tagInfo).listUpdatedAt,
+        new Date(),
+      )} ago`
+    : 'Never updated'}
+  title={`Best ${tag} releases`}
+  url={`/tag/${encodeURIComponent(tag)}`}
+>
+  <main>
+    <AlbumsTable client:load albumsPlaces={(tagInfo).list} client:load />
+  </main>
+</Layout>

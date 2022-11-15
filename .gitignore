@@ -76,3 +76,4 @@ site/src/top-list.json
 
 site2/data/*.json
 site2/data/**/*.json
+scraper2/db-data

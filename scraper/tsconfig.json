@@ -1,16 +1,17 @@
 {
   "compilerOptions": {
     "esModuleInterop": true,
-    "module": "commonjs",
+    "module": "node16",
     "noImplicitReturns": true,
     "noUnusedLocals": true,
     "outDir": "lib",
     "resolveJsonModule": true,
     "sourceMap": true,
     "strict": true,
-    "target": "es2017",
+    "target": "es2022",
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "Node"
   },
   "compileOnSave": true,
   "include": [

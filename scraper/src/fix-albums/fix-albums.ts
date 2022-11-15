@@ -42,12 +42,12 @@ export default async function fixAlbums(): Promise<void> {
     try {
       await populateAlbumStats(album);
     } catch (error) {
-      logger.error(toString(error));
+      logger.error(`populateAlbumStats: ${toString(error)}`);
     }
     try {
       await populateAlbumTags(album);
     } catch (error) {
-      logger.error(toString(error));
+      logger.error(`populateAlbumTags: ${toString(error)}`);
     }
     progress.increment();
   });

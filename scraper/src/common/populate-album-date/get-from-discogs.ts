@@ -68,7 +68,7 @@ export default async function getFromDiscogs(
     waiter = sleep(API_DELAY_MS);
     return albumInfo.released || null;
   } catch (error) {
-    logger.error(toString(error));
+    logger.error(`getFromDiscogs: ${toString(error)}`);
     return null;
   }
 }

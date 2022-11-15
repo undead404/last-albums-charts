@@ -34,7 +34,7 @@ export default async function getFromMusicbrainz(
       get(release, 'date') ||
       null
     );
-  } catch (error) {
+  } catch (error: any) {
     if (
       startsWith(error.message, 'Got response status 404') ||
       startsWith(error.message, 'Not Found')

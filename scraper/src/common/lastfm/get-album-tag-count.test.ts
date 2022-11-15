@@ -10,7 +10,7 @@ describe('getAlbumTagCount', () => {
       'thrash metal',
     );
 
-    expect(tagCount).toEqual(100);
+    expect(tagCount).toBe(100);
   });
   it('returns zero on typo', async () => {
     const tagCount = await getAlbumTagCount(
@@ -19,6 +19,6 @@ describe('getAlbumTagCount', () => {
       'thrash metal',
     );
 
-    expect(tagCount).toEqual(0);
+    expect(tagCount).toBe(0);
   });
 });

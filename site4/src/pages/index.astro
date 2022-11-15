@@ -1,0 +1,35 @@
+---
+import { formatISO } from 'date-fns';
+import find from 'lodash/find';
+import map from 'lodash/map';
+import orderBy from 'lodash/orderBy';
+
+import AlbumsTable from '../components/albums-table';
+import Layout from '../layouts/layout.astro';
+import { initDatabase } from '../services/data/database';
+import getTopList from '../services/data/get-top-list';
+
+await initDatabase();
+// const topList = await getTagInfo('top-list') as Album[];
+const topList = await getTopList();
+const albumsPlaces = map(
+  orderBy(topList, ['weight'], ['desc']),
+  (album, index) => ({
+    album,
+    place: index + 1,
+  }),
+);
+
+const imageSource = find(orderBy(topList, ['weight'], ['desc']), 'cover')?.cover;
+---
+
+<Layout
+  date={formatISO(new Date())}
+  imageSrc={imageSource || undefined}
+  title="Best music of all time."
+  url="/"
+>
+  <main>
+    <AlbumsTable albumsPlaces={albumsPlaces} client:load />
+  </main>
+</Layout>

@@ -12,14 +12,14 @@ export default async function main(): Promise<void> {
     await database.end();
     process.exit(0);
   } catch (error) {
-    logger.error(toString(error));
+    logger.error(`FAILURE EXIT REASON: ${toString(error)}`);
     await database.end();
     process.exit(1);
   }
 }
 
 process.on('uncaughtException', async (error) => {
-  logger.error(toString(error));
+  logger.error(`EXCEPTION EXIT REASON: ${toString(error)}`);
   await database.end();
   process.exit(1);
 });

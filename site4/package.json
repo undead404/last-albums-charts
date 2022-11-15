@@ -1,0 +1,44 @@
+{
+  "name": "@example/basics",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@algolia/autocomplete-core": "^1.7.3",
+    "@algolia/autocomplete-js": "^1.7.3",
+    "@algolia/autocomplete-theme-classic": "^1.7.3",
+    "@astrojs/react": "^1.2.2",
+    "@nearform/sql": "^1.10.0",
+    "algoliasearch": "^4.14.2",
+    "astro": "^1.6.6",
+    "bulma": "^0.9.4",
+    "classnames": "^2.3.2",
+    "date-fns": "^2.29.3",
+    "firebase": "^9.14.0",
+    "lodash": "^4.17.21",
+    "log4js": "^6.7.0",
+    "pg": "^8.8.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-instantsearch-dom": "^6.38.1",
+    "react-instantsearch-hooks-web": "^6.38.1"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.188",
+    "@types/pg": "^8.6.5",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "@types/react-instantsearch-dom": "^6.12.3",
+    "sass": "^1.56.1"
+  },
+  "engines": {
+    "node": "16"
+  }
+}

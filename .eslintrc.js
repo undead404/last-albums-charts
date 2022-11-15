@@ -1,6 +1,5 @@
 module.exports = {
   env: {
-    commonjs: true,
     node: true,
   },
   extends: [
@@ -15,10 +14,30 @@ module.exports = {
     'plugin:eslint-comments/recommended',
     'plugin:sonarjs/recommended',
     'plugin:prettier/recommended',
+    "plugin:astro/recommended",
     'plugin:jest/all',
     'prettier',
   ],
   overrides: [
+    {
+      // Define the configuration for `.astro` file.
+      files: ["*.astro"],
+      // Allows Astro components to be parsed.
+      parser: "astro-eslint-parser",
+      // Parse the script in `.astro` as TypeScript by adding the following configuration.
+      // It's the setting you need when using TypeScript.
+      parserOptions: {
+        parser: "@typescript-eslint/parser",
+        extraFileExtensions: [".astro"],
+      },
+      rules: {
+        // override/add rules settings here, such as:
+        // "astro/no-set-html-directive": "error"
+        "prettier/prettier": 'off',
+        "import/prefer-default-export": 'off',
+        'no-magic-numbers': 'warn'
+      },
+    },
     {
       files: ['./*', 'site2/**/*.js', 'setup-tests.ts'],
       rules: {
@@ -33,7 +52,7 @@ module.exports = {
         'node/no-unpublished-require': 'off',
         '@typescript-eslint/no-var-requires': 'off',
         '@typescript-eslint/explicit-module-boundary-types': 'off',
-        'no-console': 'off'
+        'no-console': 'off',
       },
     },
     {
@@ -51,6 +70,7 @@ module.exports = {
         'lodash/prefer-constant': 'off',
         'no-magic-numbers': 'off',
         'node/no-extraneous-import': 'off',
+        'jest/require-hook': 'error',
       },
     },
     {
@@ -72,7 +92,7 @@ module.exports = {
       },
     },
     {
-      files: ['site2/**/*.tsx', 'site2/**/*.ts'],
+      files: ['site2/components/**/*.tsx', 'site2/**/*.ts'],
       rules: {
         'node/no-unsupported-features/node-builtins': 'off',
         'unicorn/filename-case': [
@@ -84,12 +104,6 @@ module.exports = {
             },
           },
         ],
-        'unicorn/prevent-abbreviations': ['error', {
-          ignore: [
-            'getStaticProps'
-          ]
-        }],
-        'react/react-in-jsx-scope': 'off'
       },
     },
     {
@@ -509,11 +523,30 @@ module.exports = {
         'react-perf/jsx-no-jsx-as-prop': 'error',
       },
     },
+    {
+      files: ['site2/pages/**/*.tsx'],
+      rules: {
+        'unicorn/filename-case': 'off',
+        'unicorn/prevent-abbreviations': [
+          'error',
+          {
+            ignore: ['getStaticProps'],
+          },
+        ],
+        'react/react-in-jsx-scope': 'off',
+      },
+    },
+    {
+      env: {
+        browser: true
+      },
+      files: ['site2/**/*'],
+    }
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 2020,
-    project: ['./scraper/tsconfig.json', './site2/tsconfig.json'],
+    project: ['./scraper/tsconfig.json', './site4/tsconfig.json'],
     sourceType: 'module',
   },
   plugins: [
@@ -532,6 +565,7 @@ module.exports = {
     'react-perf',
     'sonarjs',
     'simple-import-sort',
+    'astro'
   ],
   root: true,
   rules: {
@@ -583,26 +617,34 @@ module.exports = {
     'unicorn/prefer-spread': 'off',
     'no-use-before-define': 'off',
     '@typescript-eslint/no-use-before-define': ['error'],
-    "simple-import-sort/imports": ["error", {
-      groups: [
-        // Node.js builtins.
-        [
-          `^(${require("module").builtinModules.join("|")})(/|$)`,
+    'simple-import-sort/imports': [
+      'error',
+      {
+        groups: [
+          // Node.js builtins.
+          [
+            `^(${require('module')
+              .builtinModules.map((moduleName) => `node:${moduleName}`)
+              .join('|')})(/|$)`,
+          ],
+          // Packages.
+          ['^@?(\\w|.)[^./]'],
+          // Side effect imports.
+          ['^\\u0000'],
+          // Parent imports. Put `..` last.
+          ['^\\.\\.(?!/?$)', '^\\.\\./?$'],
+          // Other relative imports. Put same-folder imports and `.` last.
+          ['^\\./(?=.*/)(?!/?$)', '^\\.(?!/?$)', '^\\./?$'],
+          // Style imports.
+          ['^.+\\.s?css$'],
         ],
-        // Packages.
-        ["^@?(\\w|\.)[^\.\/]"],
-        // Side effect imports.
-        ["^\\u0000"],
-        // Parent imports. Put `..` last.
-        ["^\\.\\.(?!/?$)", "^\\.\\./?$"],
-        // Other relative imports. Put same-folder imports and `.` last.
-        ["^\\./(?=.*/)(?!/?$)", "^\\.(?!/?$)", "^\\./?$"],
-        // Style imports.
-        ["^.+\\.s?css$"],
-      ],
-    }],
-    "simple-import-sort/exports": "error",
-    'import/order': 'off'
+      },
+    ],
+    'simple-import-sort/exports': 'error',
+    'import/order': 'off',
+    'jest/require-hook': 'off',
+    'unicorn/prefer-top-level-await': 'off',
+    'unicorn/no-await-expression-member': 'warn',
   },
   settings: {
     'import/parsers': {
@@ -611,7 +653,7 @@ module.exports = {
     'import/resolver': {
       typescript: {
         alwaysTryTypes: true, // always try to resolve types under `<root>@types` directory even it doesn't contain any source code, like `@types/unist`,
-        project: ['./scraper', './site2'],
+        project: ['./scraper', './site4'],
       },
     },
     react: {

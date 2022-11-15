@@ -10,7 +10,7 @@ const log4js = configure({
     toFile: {
       type: 'file',
       filename: `logs/${APP_NAME}.log`,
-      maxLogSize: 10485760,
+      maxLogSize: 10_485_760,
       backups: 3,
       keepFileExt: true,
     },

@@ -21,18 +21,18 @@ export async function findAlbumTagWithAlbum(
       "AlbumTag"."tagName" = ${where.tagName}
     LIMIT 1
   `;
-
-  const result = head(
-    (await database.query<AlbumTag & Album, (AlbumTag & Album)[]>(query)).rows,
+  const result = await database.query<AlbumTag & Album, (AlbumTag & Album)[]>(
+    query,
   );
+  const resultRow = head(result.rows);
 
-  if (!result) {
+  if (!resultRow) {
     return null;
   }
 
   return {
-    ...pick(result, ['albumArtist', 'albumName', 'count', 'tagName']),
-    album: pick(result, [
+    ...pick(resultRow, ['albumArtist', 'albumName', 'count', 'tagName']),
+    album: pick(resultRow, [
       'artist',
       'cover',
       'date',

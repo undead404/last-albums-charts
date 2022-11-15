@@ -1,0 +1,99 @@
+---
+import join from 'lodash/join';
+
+export interface Properties {
+  baseUrl: string;
+  currentPage: number;
+  numberOfPages: number;
+}
+const { baseUrl, currentPage, numberOfPages } = Astro.props;
+---
+
+<nav class="pagination" role="navigation" aria-label="pagination">
+  <a
+    class={`pagination-previous ${currentPage <= 1 ? 'is-disabled' : ''}`}
+    href={join([baseUrl, currentPage - 1], '/')}>Previous</a
+  >
+  <a
+    class={`pagination-next ${
+      currentPage >= numberOfPages ? 'is-disabled' : ''
+    }`}
+    href={join([baseUrl, currentPage + 1], '/')}>Next page</a
+  >
+  <ul class="pagination-list">
+    {
+      currentPage > 1 && (
+        <li>
+          <a
+            class="pagination-link"
+            aria-label="Goto page 1"
+            href={join([baseUrl, 1], '/')}
+          >
+            1
+          </a>
+        </li>
+      )
+    }
+    {
+      currentPage > 3 && (
+        <li>
+          <span class="pagination-ellipsis">&hellip;</span>
+        </li>
+      )
+    }
+    {
+      currentPage > 2 && (
+        <li>
+          <a
+            class="pagination-link"
+            aria-label={`Goto page ${currentPage - 1}`}
+            href={join([baseUrl, currentPage - 1], '/')}
+          >
+            {currentPage - 1}
+          </a>
+        </li>
+      )
+    }
+    <li>
+      <a
+        class="pagination-link is-current"
+        aria-label={`Page ${currentPage}`}
+        aria-current="page"
+        href={join([baseUrl, currentPage], '/')}>{currentPage}</a
+      >
+    </li>
+    {
+      currentPage + 2 <= numberOfPages && (
+        <li>
+          <a
+            class="pagination-link"
+            aria-label={`Goto page ${currentPage + 1}`}
+            href={join([baseUrl, currentPage + 1], '/')}
+          >
+            {currentPage + 1}
+          </a>
+        </li>
+      )
+    }
+    {
+      currentPage + 2 < numberOfPages && (
+        <li>
+          <span class="pagination-ellipsis">&hellip;</span>
+        </li>
+      )
+    }
+    {
+      currentPage < numberOfPages && (
+        <li>
+          <a
+            class="pagination-link"
+            aria-label={`Goto page ${numberOfPages}`}
+            href={join([baseUrl, numberOfPages], '/')}
+          >
+            {numberOfPages}
+          </a>
+        </li>
+      )
+    }
+  </ul>
+</nav>

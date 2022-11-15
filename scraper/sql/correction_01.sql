@@ -246,7 +246,6 @@ UPDATE "public"."Album" SET "numberOfTracks" = 7, "date" = '1970-06-05' WHERE ar
 UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2004-08-31' WHERE artist = 'Papa Roach' AND "name" = 'Getting Away With Murder';
 UPDATE "public"."Album" SET "numberOfTracks" = 14, "date" = '2010-03-31' WHERE artist = 'Slash' AND "name" = 'Slash';
 UPDATE "public"."Album" SET "numberOfTracks" = 9, "date" = '2011-03-25' WHERE artist = 'Graveyard' AND "name" = 'Hisingen Blues';
-UPDATE "public"."Album" SET "numberOfTracks" = 8, "date" = '2001' WHERE artist = 'Led Zeppelin' AND "name" = 'Led Zeppelin IV (Deluxe Edition)';
 UPDATE "public"."Album" SET "numberOfTracks" = 12, "date" = '2009-10-23' WHERE artist = 'Wolfmother' AND "name" = 'Cosmic Egg';
 UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '1997-03-18' WHERE artist = 'Aerosmith' AND "name" = 'Nine Lives';
 UPDATE "public"."Album" SET "numberOfTracks" = 13, "date" = '2010-08-31' WHERE artist = 'Disturbed' AND "name" = 'Asylum';

@@ -6,6 +6,7 @@ import map from 'lodash/map';
 import nth from 'lodash/nth';
 import pick from 'lodash/pick';
 import size from 'lodash/size';
+import some from 'lodash/some';
 import sortBy from 'lodash/sortBy';
 import take from 'lodash/take';
 
@@ -58,7 +59,11 @@ function didAlbumsChange(
   forEach(albumsToAdd, (album) => {
     logger.debug(`ADDED: ${getAlbumTitle(album)}`);
   });
-  return !isEmpty(albumsToRemove) || !isEmpty(albumsToAdd);
+  return some(
+    map(oldAlbums, 'album'),
+    (oldAlbum, index) =>
+      getAlbumTitle(oldAlbum) !== getAlbumTitle(albums[index]),
+  );
 }
 async function getCorrectedAlbumTag<T extends AlbumTag & { album: Album }>(
   albumTag: T,

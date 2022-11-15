@@ -21,8 +21,7 @@ CREATE TABLE IF NOT EXISTS "public"."Album" (
   "statsUpdatedAt" TIMESTAMP,
   "tagsUpdatedAt" TIMESTAMP,
   thumbnail VARCHAR(1023),
-  PRIMARY KEY (artist, "name"),
-  UNIQUE(mbid)
+  PRIMARY KEY (artist, "name")
 );
 
 CREATE TABLE IF NOT EXISTS "public"."Tag" (

@@ -1,4 +1,4 @@
-import { writeFile } from 'fs';
+import { writeFile } from 'node:fs';
 
 import chunk from 'lodash/chunk';
 
@@ -11,9 +11,9 @@ export default async function saveTagsIndex(tags: unknown[]): Promise<void> {
     // eslint-disable-next-line no-magic-numbers
     chunk(tags, PAGE_SIZE),
     (tagsChunk, index) =>
-      new Promise<void>((resolve, reject) =>
+      new Promise<void>((resolve, reject) => {
         writeFile(
-          `../site2/data/tags-index/tags${index + 1}.json`,
+          `../site4/data/tags-index/tags${index + 1}.json`,
           JSON.stringify(
             tagsChunk,
             (key, value) =>
@@ -28,7 +28,7 @@ export default async function saveTagsIndex(tags: unknown[]): Promise<void> {
               resolve();
             }
           },
-        ),
-      ),
+        );
+      }),
   );
 }

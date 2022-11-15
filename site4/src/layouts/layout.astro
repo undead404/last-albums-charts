@@ -1,0 +1,89 @@
+---
+
+import Navigation from '../components/navigation';
+
+export interface Properties {
+  date: string;
+  imageSrc?: string;
+  subtitle?: string;
+  title: string;
+  url: string;
+}
+
+const ORIGIN = 'https://you-must-hear.web.app';
+
+const { date, imageSrc, subtitle, title, url } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
+    /> -->
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta content={title} name="title" />
+    <meta
+      content="100 albums you must hear before you die"
+      name="description"
+    />
+
+    <meta content="website" property="og:type" />
+    <meta content={new URL(url, ORIGIN)} property="og:url" />
+    <meta content={title} property="og:title" />
+    <meta
+      content="100 albums you must hear before you die"
+      property="og:description"
+    />
+    <meta content="summary_large_image" property="twitter:card" />
+    <meta content={new URL(url, ORIGIN)} property="twitter:url" />
+    <meta content={title} property="twitter:title" />
+    <meta
+      content="100 albums you must hear before you die"
+      property="twitter:description"
+    />
+    {imageSrc && <meta content={imageSrc} property="twitter:image" />}
+    {imageSrc && <meta content={imageSrc} property="og:image" />}
+    {date && <meta content={date} http-equiv="date" />}
+    {date && <meta content={date} http-equiv="last-modified" />}
+  </head>
+  <body>
+    <Navigation client:load />
+    <section class="section">
+      <div class="container">
+        <h1 class="title">{title}</h1>
+        {subtitle && <span class="subtitle">{subtitle}</span>}
+        <slot />
+      </div>
+    </section>
+  </body>
+</html>
+<style is:global>
+  @import 'bulma/css/bulma.css';
+  .is-disabled {
+    pointer-events: none;
+  }
+  .modal-card-head {
+    overflow-x: auto;
+  }
+  .album-table-row {
+    cursor: pointer;
+  }
+  .aa-Panel {
+    z-index: 30;
+  }
+  .search-prompt {
+    margin-right: 1rem;
+  }
+  .aa-Autocomplete {
+    --aa-search-input-height: 34px;
+  }
+  .autocomplete-wrapper {
+    min-width: 224px;
+  }
+</style>

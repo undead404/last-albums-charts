@@ -49,7 +49,7 @@ export default async function populateAlbumDate(
 
     // logger.debug(result.rows);
     return head(result.rows) || null;
-  } catch (error) {
+  } catch (error: any) {
     if (includes(error.message, 'rate limit')) {
       logger.warn('Rate limit... Delaying');
       await sleep(API_DELAY_MS);

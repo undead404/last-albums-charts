@@ -11,11 +11,15 @@ import normalizeTags from './normalize-tags';
 import sequentialAsyncForEach from './sequential-async-for-each';
 import { Album, AlbumTag } from './types';
 
-export default async function populateAlbumTags(album: Album): Promise<void> {
-  const albumRecord = await findAlbum({
-    artist: album.artist,
-    name: album.name,
-  });
+export default async function populateAlbumTags(
+  album: Album,
+  isNew = false,
+): Promise<void> {
+  const albumRecord =
+    (await findAlbum({
+      artist: album.artist,
+      name: album.name,
+    })) || (isNew ? album : null);
 
   if (!albumRecord) {
     logger.warn(
@@ -32,15 +36,14 @@ export default async function populateAlbumTags(album: Album): Promise<void> {
   logger.debug(`populateAlbumTags: ${album.artist} - ${album.name}`);
   const tagsObjects = await getAlbumTopTags(album.name, album.artist);
   const tags = normalizeTags(tagsObjects);
-  const oldTags = (
-    await database.query<AlbumTag>(SQL`
-      SELECT *
-      FROM "AlbumTag"
-      WHERE "albumArtist" = ${album.artist}
-      AND "albumName" = ${album.name}
-      ORDER BY "count" DESC
-  `)
-  ).rows;
+  const oldTagsResult = await database.query<AlbumTag>(SQL`
+    SELECT *
+    FROM "AlbumTag"
+    WHERE "albumArtist" = ${albumRecord.artist}
+    AND "albumName" = ${albumRecord.name}
+    ORDER BY "count" DESC
+  `);
+  const oldTags = oldTagsResult.rows;
 
   const tagsToRemove = reject(oldTags, (albumTag) => !!tags[albumTag.tagName]);
 

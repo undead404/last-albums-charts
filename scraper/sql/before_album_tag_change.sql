@@ -20,7 +20,7 @@ CREATE TRIGGER before_album_tag_insert
   EXECUTE PROCEDURE before_album_tag_change();
 
 CREATE TRIGGER before_album_tag_update
-  BEFORE UPDATE ON "public"."AlbumTag"
+  BEFORE UPDATE ON "public".
   FOR EACH ROW
   WHEN (
     OLD."count" IS DISTINCT FROM NEW."count"
