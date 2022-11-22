@@ -51,6 +51,10 @@ const { date, imageSrc, subtitle, title, url } = Astro.props;
     {imageSrc && <meta content={imageSrc} property="og:image" />}
     {date && <meta content={date} http-equiv="date" />}
     {date && <meta content={date} http-equiv="last-modified" />}
+    <script>
+      import initAnalytics from '../services/firebase';
+      initAnalytics();
+    </script>
   </head>
   <body>
     <Navigation client:load />

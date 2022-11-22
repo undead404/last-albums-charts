@@ -1,0 +1,76 @@
+---
+import { formatDistance, formatISO, parseISO } from 'date-fns';
+import filter from 'lodash/filter';
+import isString from 'lodash/isString';
+import map from 'lodash/map';
+import maxBy from 'lodash/maxBy';
+
+import TimelineChart from '../../../components/timeline-chart';
+import Layout from '../../../layouts/layout.astro';
+import { initDatabase } from '../../../services/data/database';
+import getLatestDate from '../../../services/data/get-latest-date';
+import getTimeline from '../../../services/data/get-timeline';
+import listTags from '../../../services/data/list-tags';
+import formatAlbum from '../../../utils/format-album';
+
+export interface Properties {
+  tagName: string;
+}
+const { tag } = Astro.params;
+if (!isString(tag)) {
+  throw new Error(`tag param of wrong type: ${tag}`);
+}
+await initDatabase();
+const timeline = await getTimeline(tag);
+const latestTagDate = await getLatestDate(tag);
+const latestTagDateISO = latestTagDate
+  ? formatISO(parseISO(latestTagDate))
+  : undefined;
+
+  const peak = maxBy(
+  filter(timeline, ({ year }) => year <= new Date().getFullYear()),
+  'result',
+);
+console.info('peak', peak);
+
+export async function getStaticPaths() {
+  await initDatabase();
+  const tagNames = await listTags();
+  return map(tagNames, (tagName) => ({
+    params: { tag: tagName },
+  }));
+}
+---
+
+<Layout
+  date={latestTagDateISO}
+  subtitle={`${
+    latestTagDate
+      ? `Last relevant album added ${formatDistance(
+          parseISO(latestTagDate),
+          new Date(),
+        )} ago.`
+      : 'Nothing new here.'
+  } ${
+    peak?.topAlbum
+      ? `Peak year: ${peak.year} ${
+          peak.topAlbum ? `(${formatAlbum(peak.topAlbum)})` : ''
+        }`
+      : 'No peak.'
+  }`}
+  title={`Timeline of ${tag} releases' performance`}
+  url={`/tag/${encodeURIComponent(tag)}/timeline`}
+>
+  <main>
+    <div class="tabs">
+      <ul>
+        <li><a href={`/tag/${encodeURIComponent(tag)}`}>Chart</a></li>
+        <li class="is-active">
+          <a href={`/tag/${encodeURIComponent(tag)}/timeline`}>Timeline chart</a
+          >
+        </li>
+      </ul>
+    </div>
+    <TimelineChart timeline={timeline} client:idle />
+  </main>
+</Layout>

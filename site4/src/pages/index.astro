@@ -30,6 +30,15 @@ const imageSource = find(orderBy(topList, ['weight'], ['desc']), 'cover')?.cover
   url="/"
 >
   <main>
+    <div class="tabs">
+      <ul>
+        <li class="is-active"><a href={`/`}>Chart</a></li>
+        <li>
+          <a href={`/timeline`}
+            >Timeline chart</a>
+        </li>
+      </ul>
+    </div>
     <AlbumsTable albumsPlaces={albumsPlaces} client:load />
   </main>
 </Layout>

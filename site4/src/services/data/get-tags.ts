@@ -13,7 +13,12 @@ export default async function getTags(
   logger.debug(`getTags(${tagsLimit})`);
   const basicTags = (
     await database.query<Weighted<Tag>>(SQL`
-      SELECT "Tag".*,
+      SELECT
+        "Tag"."albumsScrapedAt",
+        "Tag"."listCheckedAt",
+        "Tag"."listUpdatedAt",
+        "Tag"."name",
+        "Tag"."registeredAt",
         SUM("AlbumTag"."count"::FLOAT * COALESCE("Album"."playcount", 0) / 1000000 * COALESCE("Album"."listeners", 0) / 1000)
         AS "weight"
       FROM "Tag"

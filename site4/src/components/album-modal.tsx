@@ -1,7 +1,9 @@
 import classNames from 'classnames';
 import map from 'lodash/map';
 import toPairs from 'lodash/toPairs';
+import { useEffect } from 'react';
 
+import { logAnalyticsEvent } from '../services/firebase';
 import type { Album } from '../types';
 import formatAlbum from '../utils/format-album';
 
@@ -15,6 +17,14 @@ const GOLD_TAG_TEXT_CHANGE_BORDER = 75;
 const BLACK_TAG_TEXT_CHANGE_BORDER = 50;
 
 export default function AlbumModal({ album, onClose }: AlbumModalProperties) {
+  useEffect(() => {
+    if (!album) {
+      return;
+    }
+    logAnalyticsEvent('select_content', {
+      album: formatAlbum(album, true),
+    });
+  }, [album]);
   return (
     <div className={classNames('modal', { 'is-active': !!album })}>
       <div className="modal-background" onClick={onClose}></div>

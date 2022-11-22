@@ -1,0 +1,66 @@
+---
+import { formatDistance, formatISO, parseISO } from 'date-fns';
+import filter from 'lodash/filter';
+
+import map from 'lodash/map';
+import maxBy from 'lodash/maxBy';
+
+import TimelineChart from '../components/timeline-chart';
+import Layout from '../layouts/layout.astro';
+import { initDatabase } from '../services/data/database';
+import getLatestDate from '../services/data/get-latest-date';
+import getTimeline from '../services/data/get-timeline';
+import listTags from '../services/data/list-tags';
+import formatAlbum from '../utils/format-album';
+
+await initDatabase();
+const timeline = await getTimeline();
+const latestTagDate = await getLatestDate();
+const latestTagDateISO = latestTagDate
+  ? formatISO(parseISO(latestTagDate))
+  : undefined;
+
+const peak = maxBy(
+  filter(timeline, ({ year }) => year <= new Date().getFullYear()),
+  'result',
+);
+export async function getStaticPaths() {
+  await initDatabase();
+  const tagNames = await listTags();
+  return map(tagNames, (tagName) => ({
+    params: { tag: tagName },
+  }));
+}
+---
+
+<Layout
+  date={latestTagDateISO}
+  subtitle={`${
+    latestTagDate
+      ? `Last relevant album added ${formatDistance(
+          parseISO(latestTagDate),
+          new Date(),
+        )} ago.`
+      : 'Nothing new here.'
+  } ${
+    peak
+      ? `Peak year: ${peak.year} ${
+          peak.topAlbum ? `(${formatAlbum(peak.topAlbum)})` : ''
+        }`
+      : 'No peak.'
+  }`}
+  title={`Timeline of releases' performance`}
+  url={`/timeline`}
+>
+  <main>
+    <div class="tabs">
+      <ul>
+        <li><a href={`/`}>Chart</a></li>
+        <li class="is-active">
+          <a href={`/timeline`}>Timeline chart</a>
+        </li>
+      </ul>
+    </div>
+    <TimelineChart timeline={timeline} client:idle />
+  </main>
+</Layout>

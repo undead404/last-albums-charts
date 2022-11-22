@@ -1,9 +1,9 @@
 ---
-
-import type { PaginateFunction } from 'astro';
+import type { Page, PaginateFunction } from 'astro';
 import { formatDistance, formatISO } from 'date-fns';
 import map from 'lodash/map';
 import toInteger from 'lodash/toInteger';
+import numbro from 'numbro';
 
 import Pagination from '../../components/pagination.astro';
 import Layout from '../../layouts/layout.astro';
@@ -14,12 +14,15 @@ import type { TagPayload } from '../../types';
 const {
   page: {
     currentPage,
-    data,
+    data: tags,
     lastPage: numberOfPages,
     url: { current: currentUrl },
   },
 } = Astro.props;
-const tags: TagPayload[] = data;
+
+export interface Props {
+  page: Page<TagPayload>
+}
 
 export async function getStaticPaths({ paginate }: {paginate: PaginateFunction}) {
   await initDatabase();
@@ -58,13 +61,15 @@ export async function getStaticPaths({ paginate }: {paginate: PaginateFunction})
               </td>
               <td title={`${tag.listUpdatedAt}`}>
                 {tag.listUpdatedAt
-                  ? `${formatDistance(
-                      tag.listUpdatedAt,
-                      new Date(),
-                    )} ago`
+                  ? `${formatDistance(tag.listUpdatedAt, new Date())} ago`
                   : 'Never'}
               </td>
-              <td>{tag.weight}</td>
+              <td>
+                {numbro(tag.weight).format({
+                  mantissa: 2,
+                  thousandSeparated: true,
+                })}
+              </td>
             </tr>
           ))
         }

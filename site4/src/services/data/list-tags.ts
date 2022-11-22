@@ -6,7 +6,7 @@ import logger from '../logger';
 import database from './database';
 
 export default async function listTags(tagsLimit = 100_000): Promise<string[]> {
-  logger.debug(`getTags(${tagsLimit})`);
+  logger.debug(`listTags(${tagsLimit})`);
   const tags = (
     await database.query<{ name: string }>(SQL`
       SELECT "Tag"."name"

@@ -21,6 +21,7 @@ export interface Tag {
   listUpdatedAt: Date | null;
   name: string;
   weight: number;
+  trainingModel?: unknown;
 }
 
 export interface SerializedTag

@@ -3,11 +3,11 @@ import { formatDistance } from 'date-fns';
 import isString from 'lodash/isString';
 import map from 'lodash/map';
 
-import AlbumsTable from '../../components/albums-table';
-import Layout from '../../layouts/layout.astro';
-import { initDatabase } from '../../services/data/database';
-import getTag from '../../services/data/get-tag';
-import listTags from '../../services/data/list-tags';
+import AlbumsTable from '../../../components/albums-table';
+import Layout from '../../../layouts/layout.astro';
+import { initDatabase } from '../../../services/data/database';
+import getTag from '../../../services/data/get-tag';
+import listTags from '../../../services/data/list-tags';
 
 export interface Properties {
   tagName: string;
@@ -43,6 +43,12 @@ export async function getStaticPaths() {
   url={`/tag/${encodeURIComponent(tag)}`}
 >
   <main>
-    <AlbumsTable client:load albumsPlaces={(tagInfo).list} client:load />
+    <div class="tabs">
+      <ul>
+        <li class="is-active"><a href={`/tag/${encodeURIComponent(tag)}`}>Chart</a></li>
+        <li><a href={`/tag/${encodeURIComponent(tag)}/timeline`}>Timeline chart</a></li>
+      </ul>
+    </div>
+    <AlbumsTable albumsPlaces={(tagInfo).list} client:load />
   </main>
 </Layout>
