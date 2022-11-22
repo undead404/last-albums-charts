@@ -13,7 +13,12 @@ export default async function removeTagDuplicates(
   const query = SQL`
     SELECT "weighted_tags"."name" AS "name"
     FROM (
-      SELECT "Tag".*,
+      SELECT
+        "Tag"."albumsScrapedAt",
+        "Tag"."listCheckedAt",
+        "Tag"."listUpdatedAt",
+        "Tag"."name",
+        "Tag"."registeredAt",
         SUM(
           "AlbumTag"."count" :: FLOAT * COALESCE("Album"."playcount", 0) / 1000000 * COALESCE("Album"."listeners", 0) / 1000
         ) AS "weight"
@@ -34,8 +39,6 @@ export default async function removeTagDuplicates(
 
   // logger.debug(query);
   const result = await database.query<{ name: string }>(query);
-  // eslint-disable-next-line no-console
-  console.debug(tagName, result.rows);
   await sequentialAsyncForEach(result.rows, async ({ name }) => {
     await database.query(SQL`
       DELETE FROM "Tag"

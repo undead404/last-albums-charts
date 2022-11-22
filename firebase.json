@@ -6,8 +6,5 @@
       "**/.*",
       "**/node_modules/**"
     ]
-  },
-  "functions": {
-    "predeploy": "yarn --prefix \"$RESOURCE_DIR\" run build"
   }
 }

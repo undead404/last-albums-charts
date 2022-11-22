@@ -1,6 +1,8 @@
+import { format, parse } from 'date-fns';
 import { Discojs } from 'discojs';
 import { closest } from 'fastest-levenshtein';
 import forEach from 'lodash/forEach';
+import includes from 'lodash/includes';
 import map from 'lodash/map';
 import toString from 'lodash/toString';
 import uniq from 'lodash/uniq';
@@ -66,7 +68,16 @@ export default async function getFromDiscogs(
     await waiter;
     const albumInfo = await discojs.getRelease(releaseId);
     waiter = sleep(API_DELAY_MS);
-    return albumInfo.released || null;
+    if (!albumInfo.released) {
+      return null;
+    }
+    if (includes(albumInfo.released, '/')) {
+      return format(
+        parse(albumInfo.released, 'dd/MM/yyyy', new Date()),
+        'yyyy-MM-dd',
+      );
+    }
+    return albumInfo.released?.replaceAll?.('-00', '') || null;
   } catch (error) {
     logger.error(`getFromDiscogs: ${toString(error)}`);
     return null;

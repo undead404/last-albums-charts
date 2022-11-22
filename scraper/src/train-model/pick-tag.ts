@@ -7,30 +7,18 @@ import { deleteTag } from '../common/database/tag';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
 import logger from '../common/logger';
 import removeTagDuplicates from '../common/remove-tag-duplicates';
-import { Tag, Weighted } from '../common/types';
+import type { Tag } from '../common/types';
 
-export default async function pickTag(): Promise<Tag | null> {
-  const result = await database.query<Weighted<Tag>>(SQL`
+export default async function pickTag(): Promise<Pick<Tag, 'name'> | null> {
+  const result = await database.query<Pick<Tag, 'name'>>(SQL`
     SELECT
-      "Tag"."albumsScrapedAt",
-      "Tag"."listCheckedAt",
-      "Tag"."listUpdatedAt",
-      "Tag"."name",
-      "Tag"."registeredAt",
-      SUM("AlbumTag"."count"::FLOAT * COALESCE("Album"."playcount", 0) / 1000000 * COALESCE("Album"."listeners", 0) / 1000)
-      AS "weight"
+      "Tag"."name"
     FROM "Tag"
-    JOIN "AlbumTag"
-    ON "AlbumTag"."tagName" = "Tag"."name"
-    JOIN "Album"
-    ON "Album"."artist" = "AlbumTag"."albumArtist" AND
-      "Album"."name" = "AlbumTag"."albumName"
     WHERE "albumsScrapedAt" IS NOT NULL AND
-      "listCheckedAt" IS NULL AND
-      "listUpdatedAt" IS NULL AND
-      "Album"."hidden" <> true
-    GROUP BY "Tag"."name"
-    ORDER BY "weight" DESC
+      "listCheckedAt" IS NOT NULL AND
+      "listUpdatedAt" IS NOT NULL AND
+      "trainingModel" IS NULL
+    ORDER BY "albumsScrapedAt" ASC
     LIMIT 1
   `);
 

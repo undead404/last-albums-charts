@@ -1,5 +1,7 @@
 import SQL from '@nearform/sql';
 import differenceBy from 'lodash/differenceBy';
+import every from 'lodash/every';
+import filter from 'lodash/filter';
 import forEach from 'lodash/forEach';
 import isEmpty from 'lodash/isEmpty';
 import map from 'lodash/map';
@@ -14,24 +16,28 @@ import { findAlbumTagWithAlbum } from './database/album-tag';
 import { getList } from './database/tag-list-item';
 import populateAlbumDate from './populate-album-date/populate-album-date';
 import database from './database';
+import getAlbumTitle from './get-album-title';
+import logToTelegram, {
+  escapeTelegramMessage,
+  logFreshAlbumToTelegram,
+} from './log-to-telegram';
 import logger from './logger';
 // import maybeMisspelled from './maybe-misspelled';
 import populateAlbumsCovers from './populate-albums-covers';
 import Progress from './progress';
 import saveList from './save-list';
-import { Album, AlbumTag, Tag, TagListItem, Weighted } from './types';
+import sequentialAsyncForEach from './sequential-async-for-each';
+import type { Album, AlbumTag, Tag, TagListItem, Weighted } from './types';
 
 const LIST_LENGTH = 100;
 const TAKE_MODIFIER = 2;
 const MIN_TAG_COUNT = 0;
 
-function getAlbumTitle(album: Album): string {
-  return `${album.artist} - ${album.name} (${album.date})`;
-}
-function didAlbumsChange(
+async function didAlbumsChange(
   oldAlbums: (TagListItem & { album: Album })[],
   albums: Album[],
-): boolean {
+  tagName: string,
+): Promise<boolean> {
   if (isEmpty(albums) && isEmpty(oldAlbums)) {
     logger.debug('Emptiness to emptiness');
     return false;
@@ -59,11 +65,56 @@ function didAlbumsChange(
   forEach(albumsToAdd, (album) => {
     logger.debug(`ADDED: ${getAlbumTitle(album)}`);
   });
-  return some(
-    map(oldAlbums, 'album'),
+
+  await logToTelegram(
+    `\\#tag\\_updates\nПри оновленні тега [${escapeTelegramMessage(
+      tagName,
+    )}](https://you-must-hear.web.app/tag/${encodeURIComponent(
+      tagName,
+    )}) – усувається:\n${
+      map(
+        albumsToRemove,
+        (album) =>
+          `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
+            album.numberOfTracks
+          } пісень`,
+      ).join('\n') || 'Нічого'
+    }\n\nДодається:\n${
+      map(
+        albumsToAdd,
+        (album) =>
+          `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
+            album.numberOfTracks
+          } пісень`,
+      ).join('\n') || 'Нічого'
+    }
+    `,
+  );
+  const oldAlbumsItems = map(oldAlbums, 'album');
+  const appendedAlbums = filter(albums, (newAlbum) =>
+    every(oldAlbumsItems, (oldAlbum) => {
+      if (!oldAlbum.date) {
+        throw new Error(
+          `Old album without a release date: ${getAlbumTitle(oldAlbum)}`,
+        );
+      }
+      if (!newAlbum.date) {
+        throw new Error(
+          `New album without a release date: ${getAlbumTitle(newAlbum)}`,
+        );
+      }
+      return oldAlbum.date < newAlbum.date;
+    }),
+  );
+  const result = some(
+    oldAlbumsItems,
     (oldAlbum, index) =>
       getAlbumTitle(oldAlbum) !== getAlbumTitle(albums[index]),
   );
+  await sequentialAsyncForEach(appendedAlbums, (album) =>
+    logFreshAlbumToTelegram(album, tagName),
+  );
+  return result;
 }
 async function getCorrectedAlbumTag<T extends AlbumTag & { album: Album }>(
   albumTag: T,
@@ -213,9 +264,19 @@ export default async function generateList(tag: Tag): Promise<boolean> {
     );
 
     const oldAlbums = await getList(tag.name);
-    await (didAlbumsChange(oldAlbums, albums)
-      ? saveList(tag, await populateAlbumsCovers(albums))
-      : saveList(tag));
+    if (await didAlbumsChange(oldAlbums, albums, tag.name)) {
+      await saveList(tag, await populateAlbumsCovers(albums));
+
+      await logToTelegram(
+        `\\#create\\_list\nУспішно створено новий список – для тега [${escapeTelegramMessage(
+          tag.name,
+        )}](https://you-must-hear.web.app/tag/${encodeURIComponent(
+          tag.name,
+        )}/)`,
+      );
+    } else {
+      await saveList(tag);
+    }
   }
   logger.debug('generateList: success');
 

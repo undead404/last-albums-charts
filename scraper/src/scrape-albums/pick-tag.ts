@@ -6,7 +6,12 @@ import { Tag } from '../common/types';
 
 export default async function pickTag(): Promise<Tag | undefined> {
   let result = await database.query<Tag>(SQL`
-    SELECT "Tag".*,
+    SELECT
+      "Tag"."albumsScrapedAt",
+      "Tag"."listCheckedAt",
+      "Tag"."listUpdatedAt",
+      "Tag"."name",
+      "Tag"."registeredAt",
       SUM("AlbumTag"."count"::FLOAT * COALESCE("Album"."playcount", 0) / 1000000 * COALESCE("Album"."listeners", 0) / 1000)
       AS "weight"
     FROM "Tag"
@@ -26,7 +31,12 @@ export default async function pickTag(): Promise<Tag | undefined> {
     return result.rows[0];
   }
   result = await database.query<Tag>(SQL`
-    SELECT "Tag".*
+    SELECT
+      "Tag"."albumsScrapedAt",
+      "Tag"."listCheckedAt",
+      "Tag"."listUpdatedAt",
+      "Tag"."name",
+      "Tag"."registeredAt"
     FROM "Tag"
     ORDER BY "albumsScrapedAt" ASC
     LIMIT 1

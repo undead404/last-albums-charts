@@ -4,6 +4,7 @@ import includes from 'lodash/includes';
 import database from '../common/database';
 import { deleteTag } from '../common/database/tag';
 import isTagBlacklisted from '../common/is-tag-blacklisted';
+import logToTelegram from '../common/log-to-telegram';
 import logger from '../common/logger';
 import removeTagDuplicates from '../common/remove-tag-duplicates';
 
@@ -38,4 +39,7 @@ export default async function scrapeAlbums(): Promise<void> {
     WHERE "name" = ${tag.name}
   `);
   logger.debug(`scrapeAlbums: ${tag.name} - success`);
+  await logToTelegram(
+    `\\#scrape\\_albums\nУспішно зібрано альбоми для тега *${tag.name}*`,
+  );
 }

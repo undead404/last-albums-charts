@@ -49,7 +49,13 @@ export async function findTagsWithLists(): Promise<
   (Tag & { list: TagListItem[] })[]
 > {
   const result = await database.query<Tag & TagListItem>(SQL`
-    SELECT "Tag".*, "TagListItem".*
+    SELECT
+      "Tag"."albumsScrapedAt",
+      "Tag"."listCheckedAt",
+      "Tag"."listUpdatedAt",
+      "Tag"."name",
+      "Tag"."registeredAt",
+      "TagListItem".*
     FROM "Tag"
     INNER JOIN "TagListItem"
     ON "TagListItem"."tagName" = "Tag"."name"

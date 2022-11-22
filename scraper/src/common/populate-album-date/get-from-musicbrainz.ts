@@ -1,10 +1,12 @@
+import { format, parse } from 'date-fns';
 import get from 'lodash/get';
+import includes from 'lodash/includes';
 import startsWith from 'lodash/startsWith';
 import { MusicBrainzApi } from 'musicbrainz-api';
 
 import logger from '../logger';
 import sleep from '../sleep';
-import { Album } from '../types';
+import type { Album } from '../types';
 
 const API_DELAY_MS = 5000;
 const musicbrainz = new MusicBrainzApi({
@@ -29,11 +31,16 @@ export default async function getFromMusicbrainz(
     ]);
 
     waiter = sleep(API_DELAY_MS);
-    return (
-      get(release, 'release-group.first-release-date') ||
-      get(release, 'date') ||
-      null
-    );
+    const date =
+      get(release, 'release-group.first-release-date') || get(release, 'date');
+    if (!date) {
+      return null;
+    }
+
+    if (includes(date, '/')) {
+      return format(parse(date, 'dd/MM/yyyy', new Date()), 'yyyy-MM-dd');
+    }
+    return date?.replaceAll?.('-00', '') || null;
   } catch (error: any) {
     if (
       startsWith(error.message, 'Got response status 404') ||

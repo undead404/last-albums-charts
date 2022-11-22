@@ -56,7 +56,7 @@ module.exports = {
     },
     {
       autorestart: false,
-      // cron_restart: '0 * * * *',
+      cron_restart: '0 * * * *',
       env: {
         APP_NAME: 'uList',
       },

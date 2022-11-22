@@ -8,11 +8,13 @@ import omit from 'lodash/omit';
 import toString from 'lodash/toString';
 
 import database from '../common/database';
+import logToTelegram, {
+  escapeTelegramMessage,
+} from '../common/log-to-telegram';
 import logger from '../common/logger';
 
 // import generateTopList from './generate-top-list';
 import getTags from './get-tags';
-import saveTags from './save-tags';
 // import saveTagsIndex from './save-tags-index';
 import saveToAlgolia from './save-to-algolia';
 
@@ -46,7 +48,7 @@ async function run() {
     // await saveTags(PRODUCTION_TAGS_LIMIT);
     // await saveToFirestore();
     const tags = await getTags();
-    await saveTags(tags);
+    // await saveTags(tags);
     const tagsForTagsPage = map(tags, (tag) => {
       const albumWithCover = find(tag.list, 'album.thumbnail')?.album;
       return {
@@ -80,6 +82,11 @@ async function run() {
     }
     logger.info('Deploy successful');
     await database.end();
+    await logToTelegram(
+      escapeTelegramMessage(
+        `#deploy\nОновлений вебсайт – оприлюднено! Біжіть дивитися: https://you-must-hear.web.app/`,
+      ),
+    );
     process.exit(0);
   } catch (error: any) {
     // eslint-disable-next-line no-magic-numbers
@@ -89,11 +96,17 @@ async function run() {
       logger.error(get(error, 'transporterStackTrace[0].request'));
     }
     await database.end();
+    await logToTelegram(
+      `\\#error\nНевдача в роботі deploy: ${toString(error)}`,
+    );
     process.exit(1);
   }
 }
 process.on('uncaughtException', async (error) => {
   logger.error(toString(error));
+  await logToTelegram(
+    `\\#error\nНевідовлений виняток при роботі deploy: ${toString(error)}`,
+  );
   await database.end();
   process.exit(1);
 });
