@@ -35,7 +35,13 @@ module.exports = {
         // "astro/no-set-html-directive": "error"
         "prettier/prettier": 'off',
         "import/prefer-default-export": 'off',
-        'no-magic-numbers': 'warn'
+        'no-magic-numbers': 'warn',
+        'unicorn/prevent-abbreviations': [
+          'error',
+          {
+            ignore: ['Props'],
+          },
+        ],
       },
     },
     {
@@ -71,6 +77,7 @@ module.exports = {
         'no-magic-numbers': 'off',
         'node/no-extraneous-import': 'off',
         'jest/require-hook': 'error',
+        'jest/unbound-method': 'error'
       },
     },
     {
@@ -115,6 +122,7 @@ module.exports = {
             allow: ['_id'],
           },
         ],
+        'lodash/import-scope': ['error', 'full']
       },
     },
     {
@@ -546,7 +554,7 @@ module.exports = {
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 2020,
-    project: ['./scraper/tsconfig.json', './site4/tsconfig.json'],
+    project: ['./scraper/tsconfig.json'/*, './site4/tsconfig.json'*/],
     sourceType: 'module',
   },
   plugins: [
@@ -645,6 +653,7 @@ module.exports = {
     'jest/require-hook': 'off',
     'unicorn/prefer-top-level-await': 'off',
     'unicorn/no-await-expression-member': 'warn',
+    'jest/unbound-method': 'off'
   },
   settings: {
     'import/parsers': {

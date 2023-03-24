@@ -1,12 +1,14 @@
 import SQL from '@nearform/sql';
-import includes from 'lodash/includes';
+import _ from 'lodash';
 
-import database from '../common/database';
-import { deleteTag } from '../common/database/tag';
-import isTagBlacklisted from '../common/is-tag-blacklisted';
-import logger from '../common/logger';
-import removeTagDuplicates from '../common/remove-tag-duplicates';
-import { Tag } from '../common/types';
+import database from '../common/database/index.js';
+import { deleteTag } from '../common/database/tag.js';
+import isTagBlacklisted from '../common/is-tag-blacklisted.js';
+import logger from '../common/logger.js';
+import removeTagDuplicates from '../common/remove-tag-duplicates.js';
+import type { Tag } from '../common/types.js';
+
+const { includes } = _;
 
 export default async function pickTag(): Promise<Tag | null> {
   const result = await database.query<Tag>(SQL`

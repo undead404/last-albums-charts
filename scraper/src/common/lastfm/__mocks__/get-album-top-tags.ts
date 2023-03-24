@@ -1,4 +1,4 @@
-import { Tag } from '../api-types';
+import type { Tag } from '../api-types.js';
 
 const getAlbumTopTags = jest
   .fn()

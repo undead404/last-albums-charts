@@ -1,15 +1,15 @@
 import SQL from '@nearform/sql';
-import head from 'lodash/head';
-import includes from 'lodash/includes';
-import toString from 'lodash/toString';
+import _ from 'lodash';
 
-import database from '../database';
-import logger from '../logger';
-import sleep from '../sleep';
-import { Album } from '../types';
+import database from '../database/index.js';
+import logger from '../logger.js';
+import sleep from '../sleep.js';
+import type { Album } from '../types.js';
 
-import getFromDiscogs from './get-from-discogs';
-import getFromMusicbrainz from './get-from-musicbrainz';
+import getFromDiscogs from './get-from-discogs.js';
+import getFromMusicbrainz from './get-from-musicbrainz.js';
+
+const { head, includes, toString } = _;
 
 const API_DELAY_MS = 5000;
 

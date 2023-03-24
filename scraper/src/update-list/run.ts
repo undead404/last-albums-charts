@@ -1,10 +1,12 @@
-import toString from 'lodash/toString';
+import _ from 'lodash';
 
-import database from '../common/database';
-import logToTelegram from '../common/log-to-telegram';
-import logger from '../common/logger';
+import database from '../common/database/index.js';
+import logToTelegram from '../common/log-to-telegram.js';
+import logger from '../common/logger.js';
 
-import updateList from './update-list';
+import updateList from './update-list.js';
+
+const { toString } = _;
 
 export default async function main(): Promise<void> {
   try {

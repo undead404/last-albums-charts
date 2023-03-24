@@ -69,10 +69,13 @@ export default async function populateTagForPayload(
             tags: reduce(
               (
                 await database.query<AlbumTag>(SQL`
-                  SELECT *
+                  SELECT "AlbumTag".*
                   FROM "AlbumTag"
-                  WHERE "albumArtist" = ${tagListItem.albumArtist} AND
-                    "albumName" = ${tagListItem.albumName}
+                  INNER JOIN "Tag"
+                  ON "AlbumTag"."tagName" = "Tag"."name"
+                  WHERE "albumArtist" = ${tagListItem.albumArtist}
+                  AND "albumName" = ${tagListItem.albumName}
+                  AND "Tag"."listUpdatedAt" IS NOT NULL
                   ORDER BY "count" DESC
                 `)
               ).rows,

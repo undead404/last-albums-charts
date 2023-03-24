@@ -1,14 +1,15 @@
 import axios from 'axios';
-import isEmpty from 'lodash/isEmpty';
-import toString from 'lodash/toString';
-import { stringify } from 'query-string';
+import _ from 'lodash';
+import qs from 'qs';
 
-import { LASTFM_API_ERRORS, MAX_RETRIES } from '../constants';
-import logger from '../logger';
-import sleep from '../sleep';
+import { LASTFM_API_ERRORS, MAX_RETRIES } from '../constants.js';
+import logger from '../logger.js';
+import sleep from '../sleep.js';
 
-import { DEFAULT_PARAMS } from './api-constants';
-import { Parameters, Payload } from './api-types';
+import { DEFAULT_PARAMS } from './api-constants.js';
+import type { Parameters, Payload } from './api-types.js';
+
+const { isEmpty, toString } = _;
 
 const API_DELAY_MS = 1000;
 
@@ -22,7 +23,7 @@ export default async function acquire<T extends Payload>(
   retry = 0,
 ): Promise<T | null> {
   await waiter;
-  const url = `https://ws.audioscrobbler.com/2.0/?${stringify({
+  const url = `https://ws.audioscrobbler.com/2.0/?${qs.stringify({
     ...DEFAULT_PARAMS,
     ...parameters,
   })}`;

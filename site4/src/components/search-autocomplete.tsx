@@ -2,13 +2,14 @@ import * as autocompleteJs from '@algolia/autocomplete-js';
 import type { AutocompleteOptions } from '@algolia/autocomplete-js/dist/esm/types/AutocompleteOptions';
 import noop from 'lodash/noop';
 import {
-  type MutableRefObject,
   createElement,
   Fragment,
+  memo,
+  type MutableRefObject,
   useEffect,
   useRef,
 } from 'react';
-import { type Root, createRoot } from 'react-dom/client';
+import { createRoot, type Root } from 'react-dom/client';
 
 import type { TagPayload } from '../types';
 
@@ -16,9 +17,7 @@ export type SearchAutocompleteProperties = Partial<
   AutocompleteOptions<Record<string, never> & TagPayload>
 >;
 
-export default function SearchAutocomplete(
-  properties: SearchAutocompleteProperties,
-) {
+function SearchAutocomplete(properties: SearchAutocompleteProperties) {
   const containerReference: MutableRefObject<HTMLDivElement | null> =
     useRef(null);
   const panelRootReference: MutableRefObject<null | Root> = useRef(null);
@@ -53,3 +52,5 @@ export default function SearchAutocomplete(
 
   return <div className="autocomplete-wrapper" ref={containerReference} />;
 }
+
+export default memo(SearchAutocomplete);

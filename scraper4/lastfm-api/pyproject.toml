@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "lastfm-api"
+version = "0.1.0"
+description = ""
+authors = ["Vitalii Perehonchuk <vitalii_perehonchuk@epam.com>"]
+readme = "README.md"
+packages = [{include = "lastfm_api"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.28.1"
+loguru = "^0.6.0"
+ratelimit = "^2.2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

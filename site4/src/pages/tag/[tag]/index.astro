@@ -1,25 +1,47 @@
 ---
-import { formatDistance } from 'date-fns';
+import { stat } from 'node:fs/promises';
+import path from 'node:path';
+
+import filenamify from 'filenamify';
+import constant from 'lodash/constant';
+import isEmpty from 'lodash/isEmpty';
 import isString from 'lodash/isString';
 import map from 'lodash/map';
+import split from 'lodash/split';
 
-import AlbumsTable from '../../../components/albums-table';
+import AlbumsTable from '../../../components/albums-table.astro';
+import DateAgo from '../../../components/date-ago.astro';
+import TagBackgroundImage from '../../../components/tag-background-image.astro';
 import Layout from '../../../layouts/layout.astro';
 import { initDatabase } from '../../../services/data/database';
+import getRelatedTags from '../../../services/data/get-related-tags';
 import getTag from '../../../services/data/get-tag';
 import listTags from '../../../services/data/list-tags';
 
-export interface Properties {
+const COLLAGES_FOLDER = path.join('public', 'tag-collage');
+
+const returnTrue = constant(true);
+const returnFalse = constant(false);
+
+export interface Props {
   tagName: string;
 }
 const { tag } = Astro.params;
 if (!isString(tag)) {
-  throw new Error(`tag param of wrong type: ${tag}`)
+  throw new Error(`tag param of wrong type: ${tag}`);
 }
 await initDatabase();
 const tagInfo = await getTag(tag);
-// const tagInfo = await getTagInfo(`${tag}`);
 
+const filename = `${filenamify(tag)}.jpeg`;
+const preview = (await stat(path.join(COLLAGES_FOLDER, filename)).then(
+  returnTrue,
+  returnFalse,
+))
+  ? `/tag-collage/${filename}`
+  : tagInfo.preview;
+const relatedTags = await getRelatedTags(tag);
+const numberFormat = new Intl.NumberFormat();
 
 export async function getStaticPaths() {
   await initDatabase();
@@ -31,24 +53,58 @@ export async function getStaticPaths() {
 ---
 
 <Layout
-  date={(tagInfo).listUpdatedAt}
-  imageSrc={tagInfo.preview}
-  subtitle={(tagInfo).listUpdatedAt
-    ? `Last updated ${formatDistance(
-        (tagInfo).listUpdatedAt,
-        new Date(),
-      )} ago`
-    : 'Never updated'}
-  title={`Best ${tag} releases`}
+  date={tagInfo.listUpdatedAt}
+  imageSrc={preview}
+  title={`Best 100 ${tag} releases`}
   url={`/tag/${encodeURIComponent(tag)}`}
 >
+  <span class="subtitle"
+    >Last updated: <DateAgo date={tagInfo.listUpdatedAt} />, weight: {
+      numberFormat.format(tagInfo.weight)
+    }</span
+  >
   <main>
+    {
+      tagInfo.description && (
+        <details>
+          <summary>Description of {tag} music</summary>
+          {map(split(tagInfo.description, '\n'), (paragraph) => (
+            <p>{paragraph}</p>
+          ))}
+        </details>
+      )
+    }
+    {
+      !isEmpty(relatedTags) && (
+        <p>
+          Related genres:{' '}
+          {map(relatedTags, (relatedTag) => (
+            <a href={`/tag/${encodeURIComponent(relatedTag)}`} class="tag is-link">{relatedTag}</a>
+          ))}
+        </p>
+      )
+    }
     <div class="tabs">
       <ul>
-        <li class="is-active"><a href={`/tag/${encodeURIComponent(tag)}`}>Chart</a></li>
-        <li><a href={`/tag/${encodeURIComponent(tag)}/timeline`}>Timeline chart</a></li>
+        <li class="is-active">
+          <a href={`/tag/${encodeURIComponent(tag)}`}>Chart</a>
+        </li>
+        <li>
+          <a href={`/tag/${encodeURIComponent(tag)}/timeline`}>Timeline chart</a
+          >
+        </li>
       </ul>
     </div>
-    <AlbumsTable albumsPlaces={(tagInfo).list} client:load />
+    <AlbumsTable albumsPlaces={tagInfo.list} />
   </main>
+  <TagBackgroundImage fallbackImage={tagInfo.preview} tagName={tag} />
 </Layout>
+<style>
+  details p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  }
+</style>

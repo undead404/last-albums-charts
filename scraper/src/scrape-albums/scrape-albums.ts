@@ -1,15 +1,19 @@
 import SQL from '@nearform/sql';
-import includes from 'lodash/includes';
+import _ from 'lodash';
 
-import database from '../common/database';
-import { deleteTag } from '../common/database/tag';
-import isTagBlacklisted from '../common/is-tag-blacklisted';
-import logToTelegram from '../common/log-to-telegram';
-import logger from '../common/logger';
-import removeTagDuplicates from '../common/remove-tag-duplicates';
+import database from '../common/database/index.js';
+import { deleteTag } from '../common/database/tag.js';
+import isTagBlacklisted from '../common/is-tag-blacklisted.js';
+import logToTelegram, {
+  escapeTelegramMessage,
+} from '../common/log-to-telegram.js';
+import logger from '../common/logger.js';
+import removeTagDuplicates from '../common/remove-tag-duplicates.js';
 
-import pickTag from './pick-tag';
-import scrapeAlbumsByTag from './scrape-albums-by-tag';
+import pickTag from './pick-tag.js';
+import scrapeAlbumsByTag from './scrape-albums-by-tag.js';
+
+const { includes } = _;
 
 export default async function scrapeAlbums(): Promise<void> {
   logger.debug('scrapeAlbums()');
@@ -40,6 +44,8 @@ export default async function scrapeAlbums(): Promise<void> {
   `);
   logger.debug(`scrapeAlbums: ${tag.name} - success`);
   await logToTelegram(
-    `\\#scrape\\_albums\nУспішно зібрано альбоми для тега *${tag.name}*`,
+    `\\#scrape\\_albums\nУспішно зібрано альбоми для тега *${escapeTelegramMessage(
+      tag.name,
+    )}*`,
   );
 }

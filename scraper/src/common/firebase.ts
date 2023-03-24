@@ -6,7 +6,7 @@ import {
   getFirestore,
 } from 'firebase/firestore/lite';
 
-import type { TagPayload } from './types';
+import type { TagPayload } from './types.js';
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
 

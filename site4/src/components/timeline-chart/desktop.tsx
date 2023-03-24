@@ -1,6 +1,6 @@
 import type { TimelineChartProperties } from '.';
 import map from 'lodash/map';
-import type { ReactNode } from 'react';
+import { memo, ReactNode } from 'react';
 import { AreaChart, ReferenceLine, XAxis, YAxis } from 'recharts';
 import type { AxisDomain, Margin } from 'recharts/types/util/types';
 import * as usehooks from 'usehooks-ts';
@@ -19,7 +19,7 @@ const currentExactYear =
   currentDate.getMonth() / MONTHS_IN_YEAR +
   (currentDate.getDate() - 1) / DAYS_IN_YEAR;
 
-export default function TimelineChartDesktop({
+function TimelineChartDesktop({
   children,
   domain,
   timeline,
@@ -61,3 +61,5 @@ export default function TimelineChartDesktop({
     </AreaChart>
   );
 }
+
+export default memo(TimelineChartDesktop);

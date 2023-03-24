@@ -1,7 +1,9 @@
 import axios from 'axios';
-import toString from 'lodash/toString';
+import _ from 'lodash';
 
-import logger from './logger';
+import logger from './logger.js';
+
+const { toString } = _;
 
 const MIN_ERROR_CODE = 400;
 

@@ -1,23 +1,18 @@
 import SQL from '@nearform/sql';
-import isEmpty from 'lodash/isEmpty';
+import _ from 'lodash';
 
-import database from './database';
-import logger from './logger';
-import sequentialAsyncForEach from './sequential-async-for-each';
-import { Album, Tag } from './types';
+import database from './database/index.js';
+import logger from './logger.js';
+import sequentialAsyncForEach from './sequential-async-for-each.js';
+import type { Album, Tag } from './types.js';
+
+const { isEmpty } = _;
 
 export default async function saveList(
   tag: Tag,
   albums?: Album[],
 ): Promise<void> {
-  if (!albums) {
-    logger.debug(`${tag.name}: no changes`);
-    await database.query(SQL`
-        UPDATE "Tag"
-        SET "listCheckedAt" = NOW()
-        WHERE "name" = ${tag.name}
-      `);
-  } else {
+  if (albums) {
     try {
       await database.query('BEGIN');
       await database.query(SQL`
@@ -57,5 +52,12 @@ export default async function saveList(
       await database.query('ROLLBACK');
       throw error;
     }
+  } else {
+    logger.debug(`${tag.name}: no changes`);
+    await database.query(SQL`
+        UPDATE "Tag"
+        SET "listCheckedAt" = NOW()
+        WHERE "name" = ${tag.name}
+      `);
   }
 }

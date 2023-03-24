@@ -1,12 +1,12 @@
-import isEmpty from 'lodash/isEmpty';
-import map from 'lodash/map';
-import reject from 'lodash/reject';
+import _ from 'lodash';
 
-import assure from '../assure';
-import logger from '../logger';
+import assure from '../assure.js';
+import logger from '../logger.js';
 
-import acquire from './acquire';
-import { TagGetTopAlbumsPayload } from './api-types';
+import acquire from './acquire.js';
+import type { TagGetTopAlbumsPayload } from './api-types.js';
+
+const { isEmpty, map, reject } = _;
 
 const MAX_PAGE_AVAILABLE = 200;
 const MAX_NAME_LENGTH = 1024;

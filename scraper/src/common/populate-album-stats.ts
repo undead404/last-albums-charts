@@ -1,19 +1,15 @@
 import SQL from '@nearform/sql';
 import { isAfter, sub } from 'date-fns';
-import compact from 'lodash/compact';
-import isNil from 'lodash/isNil';
-import map from 'lodash/map';
-import reject from 'lodash/reject';
-import size from 'lodash/size';
-import sumBy from 'lodash/sumBy';
-import toNumber from 'lodash/toNumber';
+import _ from 'lodash';
 
-import { findAlbum } from './database/album';
-import getAlbumInfo from './lastfm/get-album-info';
-import database from './database';
-import logger from './logger';
-import maybeMisspelled from './maybe-misspelled';
-import { Album } from './types';
+import { findAlbum } from './database/album.js';
+import database from './database/index.js';
+import getAlbumInfo from './lastfm/get-album-info.js';
+import logger from './logger.js';
+import maybeMisspelled from './maybe-misspelled.js';
+import type { Album } from './types.js';
+
+const { compact, isNil, map, reject, size, sumBy, toNumber } = _;
 
 const MIN_TRACK_LENGTH = 30;
 
@@ -79,16 +75,21 @@ export default async function populateAlbumStats(
             return null;
           }
           switch (key) {
-            case 'duration':
+            case 'duration': {
               return SQL`"duration" = ${value}`;
-            case 'listeners':
+            }
+            case 'listeners': {
               return SQL`"listeners" = ${value}`;
-            case 'numberOfTracks':
+            }
+            case 'numberOfTracks': {
               return SQL`"numberOfTracks" = ${value}`;
-            case 'playcount':
+            }
+            case 'playcount': {
               return SQL`"playcount" = ${value}`;
-            default:
+            }
+            default: {
               return null;
+            }
           }
         }),
       ),

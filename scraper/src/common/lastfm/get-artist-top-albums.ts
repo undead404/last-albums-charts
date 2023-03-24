@@ -1,15 +1,14 @@
-import compact from 'lodash/compact';
-import isEmpty from 'lodash/isEmpty';
-import reject from 'lodash/reject';
-import uniqBy from 'lodash/uniqBy';
+import _ from 'lodash';
 
-import assure from '../assure';
-import logger from '../logger';
-import sequentialAsyncMap from '../sequential-async-map';
+import assure from '../assure.js';
+import logger from '../logger.js';
+import sequentialAsyncMap from '../sequential-async-map.js';
 
-import acquire from './acquire';
-import { AlbumInfo, ArtistGetTopAlbumsPayload } from './api-types';
-import getAlbumInfo from './get-album-info';
+import acquire from './acquire.js';
+import type { AlbumInfo, ArtistGetTopAlbumsPayload } from './api-types.js';
+import getAlbumInfo from './get-album-info.js';
+
+const { compact, isEmpty, reject, uniqBy } = _;
 
 // const DEFAULT_PAGE_LIMIT = 200;
 const DEFAULT_PAGE_LIMIT = 4;

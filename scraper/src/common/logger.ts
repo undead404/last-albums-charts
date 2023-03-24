@@ -1,11 +1,11 @@
-import { configure } from 'log4js';
+import log4js from 'log4js';
 
-import { APP_NAME } from './environment';
+import { APP_NAME } from './environment.js';
 
 const environment =
   process.env.NODE_ENV === undefined ? 'development' : process.env.NODE_ENV;
 
-const log4js = configure({
+const log4jsConfigured = log4js.configure({
   appenders: {
     toFile: {
       type: 'file',
@@ -28,5 +28,5 @@ const log4js = configure({
   pm2: true,
 });
 
-const logger = log4js.getLogger();
+const logger = log4jsConfigured.getLogger();
 export default logger;

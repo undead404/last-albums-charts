@@ -13,6 +13,7 @@ export default async function getTag(tagName: string): Promise<TagPayload> {
     await database.query<Weighted<Tag>>(SQL`
       SELECT
         "Tag"."albumsScrapedAt",
+        "Tag"."description",
         "Tag"."listCheckedAt",
         "Tag"."listUpdatedAt",
         "Tag"."name",
@@ -25,8 +26,8 @@ export default async function getTag(tagName: string): Promise<TagPayload> {
       JOIN "Album"
       ON "Album"."artist" = "AlbumTag"."albumArtist"
       AND "Album"."name" = "AlbumTag"."albumName"
-      AND "Album"."hidden" <> true
       WHERE "Tag"."name" = ${tagName}
+      AND "Album"."hidden" <> true
       GROUP BY "Tag"."name"
       ORDER BY "weight" DESC
       LIMIT 1`)

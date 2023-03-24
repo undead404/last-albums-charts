@@ -1,4 +1,4 @@
-import getAlbumTopTags from './get-album-top-tags';
+import getAlbumTopTags from './get-album-top-tags.js';
 
 jest.mock('../lib/acquire');
 jest.mock('../tags-whitelist');

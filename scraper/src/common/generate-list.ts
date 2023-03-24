@@ -1,37 +1,44 @@
 import SQL from '@nearform/sql';
-import differenceBy from 'lodash/differenceBy';
-import every from 'lodash/every';
-import filter from 'lodash/filter';
-import forEach from 'lodash/forEach';
-import isEmpty from 'lodash/isEmpty';
-import map from 'lodash/map';
-import nth from 'lodash/nth';
-import pick from 'lodash/pick';
-import size from 'lodash/size';
-import some from 'lodash/some';
-import sortBy from 'lodash/sortBy';
-import take from 'lodash/take';
+import _ from 'lodash';
 
-import { findAlbumTagWithAlbum } from './database/album-tag';
-import { getList } from './database/tag-list-item';
-import populateAlbumDate from './populate-album-date/populate-album-date';
-import database from './database';
-import getAlbumTitle from './get-album-title';
+import { findAlbumTagWithAlbum } from './database/album-tag.js';
+import database from './database/index.js';
+import { getList } from './database/tag-list-item.js';
+import populateAlbumDate from './populate-album-date/populate-album-date.js';
+import createTagCollage from './create-tag-collage.js';
+import getAlbumTitle from './get-album-title.js';
 import logToTelegram, {
   escapeTelegramMessage,
   logFreshAlbumToTelegram,
-} from './log-to-telegram';
-import logger from './logger';
-// import maybeMisspelled from './maybe-misspelled';
-import populateAlbumsCovers from './populate-albums-covers';
-import Progress from './progress';
-import saveList from './save-list';
-import sequentialAsyncForEach from './sequential-async-for-each';
-import type { Album, AlbumTag, Tag, TagListItem, Weighted } from './types';
+} from './log-to-telegram.js';
+import logger from './logger.js';
+// import maybeMisspelled from './maybe-misspelled.js';
+import populateAlbumsCovers from './populate-albums-covers.js';
+import Progress from './progress.js';
+import saveList from './save-list.js';
+import sequentialAsyncForEach from './sequential-async-for-each.js';
+import type { Album, AlbumTag, Tag, TagListItem, Weighted } from './types.js';
+
+const {
+  differenceBy,
+  every,
+  filter,
+  find,
+  forEach,
+  isEmpty,
+  map,
+  nth,
+  pick,
+  size,
+  some,
+  sortBy,
+  take,
+} = _;
 
 const LIST_LENGTH = 100;
 const TAKE_MODIFIER = 2;
 const MIN_TAG_COUNT = 0;
+const ALBUM_LOG_LIMIT = 10;
 
 async function didAlbumsChange(
   oldAlbums: (TagListItem & { album: Album })[],
@@ -72,21 +79,25 @@ async function didAlbumsChange(
     )}](https://you-must-hear.web.app/tag/${encodeURIComponent(
       tagName,
     )}) – усувається:\n${
-      map(
-        albumsToRemove,
-        (album) =>
-          `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
-            album.numberOfTracks
-          } пісень`,
-      ).join('\n') || 'Нічого'
+      (albumsToRemove.length <= ALBUM_LOG_LIMIT
+        ? map(
+            albumsToRemove,
+            (album) =>
+              `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
+                album.numberOfTracks
+              } пісень`,
+          ).join('\n')
+        : 'Понад 10 альбомів') || 'Нічого'
     }\n\nДодається:\n${
-      map(
-        albumsToAdd,
-        (album) =>
-          `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
-            album.numberOfTracks
-          } пісень`,
-      ).join('\n') || 'Нічого'
+      (albumsToAdd.length <= ALBUM_LOG_LIMIT
+        ? map(
+            albumsToAdd,
+            (album) =>
+              `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
+                album.numberOfTracks
+              } пісень`,
+          ).join('\n')
+        : 'Понад 10 альбомів') || 'Нічого'
     }
     `,
   );
@@ -265,7 +276,21 @@ export default async function generateList(tag: Tag): Promise<boolean> {
 
     const oldAlbums = await getList(tag.name);
     if (await didAlbumsChange(oldAlbums, albums, tag.name)) {
-      await saveList(tag, await populateAlbumsCovers(albums));
+      const albumsWithCovers = await populateAlbumsCovers(albums);
+
+      await saveList(tag, albumsWithCovers);
+
+      await createTagCollage(
+        tag.name,
+        map(albumTagsWithDates, (albumTag) => ({
+          ...albumTag,
+          album:
+            find(albumsWithCovers, {
+              artist: albumTag.album.artist,
+              name: albumTag.album.name,
+            }) || albumTag.album,
+        })),
+      );
 
       await logToTelegram(
         `\\#create\\_list\nУспішно створено новий список – для тега [${escapeTelegramMessage(

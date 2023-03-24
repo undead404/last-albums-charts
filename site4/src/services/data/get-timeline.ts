@@ -3,12 +3,10 @@ import find from 'lodash/find';
 import map from 'lodash/map';
 
 import type { Album } from '../../types';
-import predictNext from '../../utils/predict';
 import sequentialAsyncMap from '../../utils/sequential-async-map';
 import logger from '../logger';
 
 import database from './database';
-import getTrainModel from './get-train-model';
 import getYearTopAlbum from './get-year-top-album';
 
 export interface TimelineItem {
@@ -19,12 +17,9 @@ export interface TimelineItem {
   year: number;
 }
 
-const PREDICTION_YEARS = 10;
-
 export default async function getTimeline(
   tagName?: string,
   includeTopAlbum = true,
-  includePrediction = false,
 ): Promise<TimelineItem[]> {
   logger.debug(`getTimeline(${tagName})`);
   const query = tagName
@@ -69,25 +64,6 @@ export default async function getTimeline(
   //   year: yearNow + 1,
   // });
   const yearNow = new Date().getFullYear();
-  const currentTopAlbum = timeline.at(-1)?.topAlbum;
-  if (includePrediction && tagName) {
-    const trainModel = await getTrainModel(tagName);
-    if (trainModel) {
-      timeline.length -= 1;
-      const predictions = await predictNext(
-        trainModel,
-        map(timeline, 'result'),
-        PREDICTION_YEARS,
-      );
-      timeline.push(
-        ...map(predictions, (predictedValue, index) => ({
-          result: predictedValue,
-          topAlbum: index === 0 ? currentTopAlbum : undefined,
-          year: yearNow + index,
-        })),
-      );
-    }
-  }
 
   const startingYear = Math.min(...map(timeline, 'year'));
   const endingYear = Math.max(...map(timeline, 'year'), yearNow);

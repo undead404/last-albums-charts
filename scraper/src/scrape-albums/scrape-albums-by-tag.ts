@@ -1,16 +1,16 @@
 import SQL from '@nearform/sql';
-import isEmpty from 'lodash/isEmpty';
-import map from 'lodash/map';
-import toString from 'lodash/toString';
+import _ from 'lodash';
 
-import database from '../common/database';
-import getTagTopAlbums from '../common/lastfm/get-tag-top-albums';
-import logger from '../common/logger';
-import populateAlbumStats from '../common/populate-album-stats';
-import populateAlbumTags from '../common/populate-album-tags';
-import Progress from '../common/progress';
-import sequentialAsyncForEach from '../common/sequential-async-for-each';
-import { Album, Tag } from '../common/types';
+import database from '../common/database/index.js';
+import getTagTopAlbums from '../common/lastfm/get-tag-top-albums.js';
+import logger from '../common/logger.js';
+import populateAlbumStats from '../common/populate-album-stats.js';
+import populateAlbumTags from '../common/populate-album-tags.js';
+import Progress from '../common/progress.js';
+import sequentialAsyncForEach from '../common/sequential-async-for-each.js';
+import type { Album, Tag } from '../common/types.js';
+
+const { isEmpty, map, toString } = _;
 
 export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
   logger.info(`scrapeAlbumsByTag(${tag.name})`);

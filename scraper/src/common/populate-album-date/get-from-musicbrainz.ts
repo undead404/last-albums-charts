@@ -1,12 +1,12 @@
 import { format, parse } from 'date-fns';
-import get from 'lodash/get';
-import includes from 'lodash/includes';
-import startsWith from 'lodash/startsWith';
+import _ from 'lodash';
 import { MusicBrainzApi } from 'musicbrainz-api';
 
-import logger from '../logger';
-import sleep from '../sleep';
-import type { Album } from '../types';
+import logger from '../logger.js';
+import sleep from '../sleep.js';
+import type { Album } from '../types.js';
+
+const { get, includes, startsWith } = _;
 
 const API_DELAY_MS = 5000;
 const musicbrainz = new MusicBrainzApi({
@@ -26,7 +26,7 @@ export default async function getFromMusicbrainz(
   }
   try {
     await waiter;
-    const release = await musicbrainz.getRelease(album.mbid, [
+    const release = await musicbrainz.lookupRelease(album.mbid, [
       'release-groups',
     ]);
 

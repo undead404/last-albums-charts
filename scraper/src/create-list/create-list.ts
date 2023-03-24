@@ -1,11 +1,13 @@
-import includes from 'lodash/includes';
+import _ from 'lodash';
 
-import generateList from '../common/generate-list';
-import logger from '../common/logger';
-import removeTagDuplicates from '../common/remove-tag-duplicates';
-import { Tag } from '../common/types';
+import generateList from '../common/generate-list.js';
+import logger from '../common/logger.js';
+import removeTagDuplicates from '../common/remove-tag-duplicates.js';
+import type { Tag } from '../common/types.js';
 
-import pickTag from './pick-tag';
+import pickTag from './pick-tag.js';
+
+const { includes } = _;
 
 export default async function createList(): Promise<void> {
   logger.debug('createList: start');

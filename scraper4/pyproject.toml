@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "lac-scraper4"
+version = "0.1.0"
+description = ""
+authors = ["Vitalii Perehonchuk <brute18@gmail.com>"]
+readme = "README.md"
+packages = [{include = "lac_scraper4"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+autopep8 = "^2.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

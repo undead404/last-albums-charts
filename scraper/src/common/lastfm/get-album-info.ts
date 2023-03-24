@@ -1,8 +1,8 @@
-import assure from '../assure';
-import logger from '../logger';
+import assure from '../assure.js';
+import logger from '../logger.js';
 
-import acquire from './acquire';
-import { AlbumGetInfoPayload, AlbumInfo } from './api-types';
+import acquire from './acquire.js';
+import type { AlbumGetInfoPayload, AlbumInfo } from './api-types.js';
 
 export default async function getAlbumInfo(
   albumName: string,

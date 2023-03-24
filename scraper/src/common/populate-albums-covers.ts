@@ -1,14 +1,16 @@
 import SQL from '@nearform/sql';
-import isEmpty from 'lodash/isEmpty';
+import _ from 'lodash';
 
-import checkUrl from './check-url';
-import database from './database';
-import getFromCoverArtArchive from './get-from-cover-art-archive';
-import getFromDiscogs from './get-from-discogs';
-import logger from './logger';
-import Progress from './progress';
-import sequentialAsyncMap from './sequential-async-map';
-import { Album } from './types';
+import database from './database/index.js';
+import checkUrl from './check-url.js';
+import getFromCoverArtArchive from './get-from-cover-art-archive.js';
+import getFromDiscogs from './get-from-discogs.js';
+import logger from './logger.js';
+import Progress from './progress.js';
+import sequentialAsyncMap from './sequential-async-map.js';
+import type { Album } from './types.js';
+
+const { isEmpty } = _;
 
 async function check(album: Album): Promise<boolean> {
   return !!(

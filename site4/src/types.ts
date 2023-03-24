@@ -17,6 +17,7 @@ export interface Album {
 
 export interface Tag {
   albumsScrapedAt: Date | null;
+  description: string | null;
   listCheckedAt: Date | null;
   listUpdatedAt: Date | null;
   name: string;
@@ -82,4 +83,11 @@ export interface TagPayload extends Weighted<Tag> {
   })[];
   preview?: string;
   title?: string;
+}
+
+export type WithRequired<T, K extends keyof T> = T & { [P in K]-?: T[P] };
+
+export interface AlbumPlaceItem {
+  album: Album;
+  place: number;
 }

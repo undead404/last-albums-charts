@@ -1,4 +1,4 @@
-import getArtistTopAlbums from './get-artist-top-albums';
+import getArtistTopAlbums from './get-artist-top-albums.js';
 
 jest.mock('../lib/acquire');
 jest.mock('./get-album-info');

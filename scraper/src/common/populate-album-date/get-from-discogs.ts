@@ -1,16 +1,14 @@
 import { format, parse } from 'date-fns';
 import { Discojs } from 'discojs';
 import { closest } from 'fastest-levenshtein';
-import forEach from 'lodash/forEach';
-import includes from 'lodash/includes';
-import map from 'lodash/map';
-import toString from 'lodash/toString';
-import uniq from 'lodash/uniq';
+import _ from 'lodash';
 
-import { DISCOGS_ACCESS_TOKEN } from '../environment';
-import logger from '../logger';
-import searchDiscogs from '../search-discogs';
-import sleep from '../sleep';
+import { DISCOGS_ACCESS_TOKEN } from '../environment.js';
+import logger from '../logger.js';
+import searchDiscogs from '../search-discogs.js';
+import sleep from '../sleep.js';
+
+const { forEach, includes, map, toString, uniq } = _;
 
 const discojs = new Discojs({
   userToken: DISCOGS_ACCESS_TOKEN,

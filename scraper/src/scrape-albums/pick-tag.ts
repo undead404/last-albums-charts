@@ -1,8 +1,10 @@
 import SQL from '@nearform/sql';
-import head from 'lodash/head';
+import _ from 'lodash';
 
-import database from '../common/database';
-import { Tag } from '../common/types';
+import database from '../common/database/index.js';
+import type { Tag } from '../common/types.js';
+
+const { head } = _;
 
 export default async function pickTag(): Promise<Tag | undefined> {
   let result = await database.query<Tag>(SQL`

@@ -1,9 +1,11 @@
 import SQL from '@nearform/sql';
-import head from 'lodash/head';
+import _ from 'lodash';
 
-import { Album } from '../types';
+import type { Album } from '../types.js';
 
-import database from '.';
+import database from './index.js';
+
+const { head } = _;
 
 // eslint-disable-next-line import/prefer-default-export
 export async function findAlbum(

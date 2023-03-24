@@ -1,9 +1,10 @@
 import { Discojs, SearchTypeEnum } from 'discojs';
-import includes from 'lodash/includes';
-import toString from 'lodash/toString';
+import _ from 'lodash';
 
-import { DISCOGS_ACCESS_TOKEN } from './environment';
-import sleep from './sleep';
+import { DISCOGS_ACCESS_TOKEN } from './environment.js';
+import sleep from './sleep.js';
+
+const { includes, toString } = _;
 
 const discojs = new Discojs({
   userToken: DISCOGS_ACCESS_TOKEN,

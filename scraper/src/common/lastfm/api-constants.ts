@@ -1,6 +1,6 @@
-import { LASTFM_API_KEY } from '../environment';
+import { LASTFM_API_KEY } from '../environment.js';
 
-import { DefaultParameters } from './api-types';
+import type { DefaultParameters } from './api-types.js';
 
 if (!LASTFM_API_KEY) {
   throw new Error('LASTFM_API_KEY is required');

@@ -1,10 +1,11 @@
 import SQL from '@nearform/sql';
-import head from 'lodash/head';
-import pick from 'lodash/pick';
+import _ from 'lodash';
 
-import { Album, AlbumTag } from '../types';
+import type { Album, AlbumTag } from '../types.js';
 
-import database from '.';
+import database from './index.js';
+
+const { head, pick } = _;
 
 // eslint-disable-next-line import/prefer-default-export
 export async function findAlbumTagWithAlbum(

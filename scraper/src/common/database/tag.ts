@@ -1,11 +1,11 @@
 import SQL from '@nearform/sql';
-import find from 'lodash/find';
-import forEach from 'lodash/forEach';
-import pick from 'lodash/pick';
+import _ from 'lodash';
 
-import { Tag, TagListItem } from '../types';
+import type { Tag, TagListItem } from '../types.js';
 
-import database from '.';
+import database from './index.js';
+
+const { find, forEach, pick } = _;
 
 export async function deleteTag({ name }: { name: string }): Promise<void> {
   await database.query(SQL`

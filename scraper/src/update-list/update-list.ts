@@ -1,12 +1,14 @@
-import includes from 'lodash/includes';
+import _ from 'lodash';
 
-import { deleteTag } from '../common/database/tag';
-import generateList from '../common/generate-list';
-import isTagBlacklisted from '../common/is-tag-blacklisted';
-import logger from '../common/logger';
-import removeTagDuplicates from '../common/remove-tag-duplicates';
+import { deleteTag } from '../common/database/tag.js';
+import generateList from '../common/generate-list.js';
+import isTagBlacklisted from '../common/is-tag-blacklisted.js';
+import logger from '../common/logger.js';
+import removeTagDuplicates from '../common/remove-tag-duplicates.js';
 
-import pickTag from './pick-tag';
+import pickTag from './pick-tag.js';
+
+const { includes } = _;
 
 export default async function updateList(): Promise<void> {
   logger.debug('updateList: start');

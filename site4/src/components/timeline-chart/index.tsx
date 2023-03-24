@@ -5,7 +5,7 @@ import isNil from 'lodash/isNil';
 import map from 'lodash/map';
 import minBy from 'lodash/minBy';
 import times from 'lodash/times';
-import { useEffect, useMemo } from 'react';
+import { memo, useEffect, useMemo } from 'react';
 import { Area, CartesianGrid, Tooltip } from 'recharts';
 import * as usehooks from 'usehooks-ts';
 
@@ -29,7 +29,7 @@ export interface TimelineChartProperties {
 const DOMAIN_UNIT_SIZE = 1000;
 const TREND_TIMESPAN = 10;
 
-export default function TimelineChart(properties: TimelineChartProperties) {
+function TimelineChart(properties: TimelineChartProperties) {
   const { timeline } = properties;
   const isMobile = useIsMobile();
   const [wrapperReference, { width: wrapperWidth }] = useElementSize();
@@ -113,6 +113,7 @@ export default function TimelineChart(properties: TimelineChartProperties) {
       >
         <CartesianGrid stroke="#ccc" />
         <Area
+          enableBackground="white"
           type="step"
           dataKey="result"
           stroke="#8884d8"
@@ -124,3 +125,5 @@ export default function TimelineChart(properties: TimelineChartProperties) {
     </div>
   );
 }
+
+export default memo(TimelineChart);

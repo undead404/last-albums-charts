@@ -1,9 +1,9 @@
 import SQL from '@nearform/sql';
 
-import { AlbumInfo } from './lastfm/api-types';
-import getAlbumInfo from './lastfm/get-album-info';
-import database from './database';
-import { Album } from './types';
+import database from './database/index.js';
+import type { AlbumInfo } from './lastfm/api-types.js';
+import getAlbumInfo from './lastfm/get-album-info.js';
+import type { Album } from './types.js';
 
 export default async function maybeMisspelled(
   { artist, name }: Pick<Album, 'artist' | 'name'>,

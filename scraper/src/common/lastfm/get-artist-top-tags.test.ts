@@ -1,4 +1,4 @@
-import getArtistTopTags from './get-artist-top-tags';
+import getArtistTopTags from './get-artist-top-tags.js';
 
 jest.mock('../lib/acquire');
 

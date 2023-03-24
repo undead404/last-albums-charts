@@ -1,0 +1,26 @@
+---
+import { stat } from 'node:fs/promises';
+import path from 'node:path';
+
+import filenamify from 'filenamify';
+import constant from 'lodash/constant';
+
+import BackgroundImage from './background-image.astro';
+
+export interface Props {
+  fallbackImage?: string | undefined;
+  tagName: string;
+}
+const COLLAGES_FOLDER = path.join('public', 'tag-collage');
+const returnTrue = constant(true);
+const returnFalse = constant(false);
+const { fallbackImage, tagName } = Astro.props;
+const filename = `${filenamify(tagName)}.jpeg`;
+const preview = (await stat(path.join(COLLAGES_FOLDER, filename)).then(
+returnTrue,
+returnFalse,
+))
+  ? `/tag-collage/${filename}`
+  : fallbackImage;
+---
+<BackgroundImage imageSource={preview} />

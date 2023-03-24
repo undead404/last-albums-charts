@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "tag-blacklist"
+version = "0.1.0"
+description = ""
+authors = ["Vitalii Perehonchuk <vitalii_perehonchuk@epam.com>"]
+readme = "README.md"
+packages = [{include = "tag_blacklist"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,13 +1,9 @@
-import keyBy from 'lodash/keyBy';
-import mapValues from 'lodash/mapValues';
-import max from 'lodash/max';
-import pickBy from 'lodash/pickBy';
-import some from 'lodash/some';
-import toLower from 'lodash/toLower';
-import values from 'lodash/values';
+import _ from 'lodash';
 
-import { Tag } from './lastfm/api-types';
-import isTagBlacklisted from './is-tag-blacklisted';
+import type { Tag } from './lastfm/api-types.js';
+import isTagBlacklisted from './is-tag-blacklisted.js';
+
+const { keyBy, mapValues, max, pickBy, some, toLower, values } = _;
 
 const DESIRED_MAX_TAG_COUNT = 100;
 

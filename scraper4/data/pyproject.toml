@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "data"
+version = "0.1.0"
+description = ""
+authors = ["Vitalii Perehonchuk <vitalii_perehonchuk@epam.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+psycopg-pool = "^3.1.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

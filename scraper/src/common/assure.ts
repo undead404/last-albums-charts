@@ -1,4 +1,6 @@
-import forEach from 'lodash/forEach';
+import _ from 'lodash';
+
+const { forEach } = _;
 
 export default function assure(
   where: string,

@@ -1,4 +1,5 @@
 import numbro from 'numbro';
+import { memo } from 'react';
 import type { TooltipProps } from 'recharts';
 
 import type { TimelineItem } from '../../services/data/get-timeline';
@@ -8,7 +9,7 @@ export interface TimelineChartTooltipProperties {
   payload: TimelineItem[];
 }
 
-export default function TimelineChartTooltip({
+function TimelineChartTooltip({
   payload: [{ payload } = { payload: null }] = [],
 }: TooltipProps<string, number>) {
   if (!payload) {
@@ -43,3 +44,6 @@ export default function TimelineChartTooltip({
     </div>
   );
 }
+
+// This component cannot be wrapped with React.memo
+export default TimelineChartTooltip;

@@ -73,3 +73,5 @@ export interface AlbumPayload extends Weighted<Album> {
   places: TagListItem[];
   tags: AlbumTag[];
 }
+
+export type WithRequired<T, K extends keyof T> = T & { [P in K]-?: T[P] };

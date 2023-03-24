@@ -1,12 +1,13 @@
-import isEmpty from 'lodash/isEmpty';
-import uniqBy from 'lodash/uniqBy';
+import _ from 'lodash';
 
-import assure from '../assure';
-import logger from '../logger';
+import assure from '../assure.js';
+import logger from '../logger.js';
 
-import acquire from './acquire';
-import { AlbumGetTopTagsPayload, Tag } from './api-types';
-import getArtistTopTags from './get-artist-top-tags';
+import acquire from './acquire.js';
+import type { AlbumGetTopTagsPayload, Tag } from './api-types.js';
+import getArtistTopTags from './get-artist-top-tags.js';
+
+const { isEmpty, uniqBy } = _;
 
 export default async function getAlbumTopTags(
   albumName: string,

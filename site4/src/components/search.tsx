@@ -1,5 +1,6 @@
 import * as autocompleteJs from '@algolia/autocomplete-js';
 import type { AutocompleteComponents } from '@algolia/autocomplete-js/dist/esm/types/AutocompleteComponents';
+import { memo } from 'react';
 import { connectAutoComplete } from 'react-instantsearch-dom';
 
 import searchClient from '../services/algolia';
@@ -43,4 +44,4 @@ function Search() {
   );
 }
 
-export default connectAutoComplete(Search);
+export default memo(connectAutoComplete(Search));

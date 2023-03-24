@@ -1,10 +1,11 @@
 import SQL from '@nearform/sql';
-import map from 'lodash/map';
-import pick from 'lodash/pick';
+import _ from 'lodash';
 
-import { Album, TagListItem } from '../types';
+import type { Album, TagListItem } from '../types.js';
 
-import database from '.';
+import database from './index.js';
+
+const { map, pick } = _;
 
 // eslint-disable-next-line import/prefer-default-export
 export async function getList(

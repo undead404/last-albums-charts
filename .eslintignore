@@ -37,7 +37,7 @@ site2/node_modules
 site2/artifacts
 site2/dist
 site2/tmp
-scraper/ecosystem.config.js
+scraper/ecosystem.config.cjs
 site/static.config.js
 
 site
@@ -50,3 +50,4 @@ scraper/node_modules
 site4/dist
 site4/node_modules
 site4/data/**/*.json
+scraper4

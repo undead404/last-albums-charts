@@ -1,0 +1,28 @@
+---
+import classNames from 'classnames';
+---
+
+<album-modal class={classNames('modal', 'album-modal', { 'is-active': false })}>
+  <div class="modal-background"></div>
+
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title"></p>
+      <button class="delete" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <p class="image is-1by1">
+        <img alt="Cover art" />
+      </p>
+      <p class="m-1 tags album-places">
+        Places:{' '}
+      </p>
+      <p class="m-1 tags album-tags">
+        Tags:{' '}
+      </p>
+    </section>
+
+    <button class="modal-close is-large" aria-label="close"></button>
+  </div>
+</album-modal>
+<script src="./album-modal.ts"></script>

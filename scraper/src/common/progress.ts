@@ -1,4 +1,6 @@
-import toInteger from 'lodash/toInteger';
+import _ from 'lodash';
+
+const { toInteger } = _;
 
 const PERCENTS = 100;
 

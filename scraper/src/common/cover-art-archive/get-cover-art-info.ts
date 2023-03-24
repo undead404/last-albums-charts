@@ -1,9 +1,9 @@
 import axios from 'axios';
 
-import logger from '../logger';
-import sleep from '../sleep';
+import logger from '../logger.js';
+import sleep from '../sleep.js';
 
-import { CoverArtArchiveResponse } from './cover-art-archive-types';
+import type { CoverArtArchiveResponse } from './cover-art-archive-types.js';
 
 const API_DELAY_MS = 1000;
 

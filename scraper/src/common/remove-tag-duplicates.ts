@@ -1,10 +1,11 @@
 import SQL from '@nearform/sql';
-import map from 'lodash/map';
-import replace from 'lodash/replace';
+import _ from 'lodash';
 
-import database from './database';
-import logger from './logger';
-import sequentialAsyncForEach from './sequential-async-for-each';
+import database from './database/index.js';
+import logger from './logger.js';
+import sequentialAsyncForEach from './sequential-async-for-each.js';
+
+const { map, replace } = _;
 
 export default async function removeTagDuplicates(
   tagName: string,

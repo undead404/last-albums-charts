@@ -1,9 +1,11 @@
-import toString from 'lodash/toString';
-import { Client } from 'pg';
+import _ from 'lodash';
+import pg from 'pg';
 
-import logger from '../logger';
+import logger from '../logger.js';
 
-const database = new Client({
+const { toString } = _;
+
+const database = new pg.Client({
   database: 'lac',
   host: 'localhost',
   password: 'lac',

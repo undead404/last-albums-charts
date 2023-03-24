@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "scrape-albums"
+version = "0.1.0"
+description = ""
+authors = ["Vitalii Perehonchuk <vitalii_perehonchuk@epam.com>"]
+readme = "README.md"
+packages = [{include = "scrape_albums"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+loguru = "^0.6.0"
+data = {path = "../data", develop = true }
+lastfm-api = {path = '../lastfm-api', develop = true}
+psycopg-pool = "^3.1.4"
+telegram_logger = {path = "../telegram_logger", develop = true }
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,6 +1,6 @@
 import type { TimelineChartProperties } from '.';
 import map from 'lodash/map';
-import { ReactNode, useMemo } from 'react';
+import { memo, ReactNode, useMemo } from 'react';
 import { Area, AreaChart, ReferenceLine, XAxis, YAxis } from 'recharts';
 import type { AxisDomain, Margin } from 'recharts/types/util/types';
 import * as usehooks from 'usehooks-ts';
@@ -19,7 +19,7 @@ const currentExactYear =
   currentDate.getMonth() / MONTHS_IN_YEAR +
   (currentDate.getDate() - 1) / DAYS_IN_YEAR;
 
-export default function TimelineChartMobile({
+function TimelineChartMobile({
   children,
   domain,
   timeline,
@@ -80,3 +80,5 @@ export default function TimelineChartMobile({
     </AreaChart>
   );
 }
+
+export default memo(TimelineChartMobile);

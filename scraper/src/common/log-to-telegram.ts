@@ -1,34 +1,45 @@
+import _ from 'lodash';
 import TelegramBot from 'node-telegram-bot-api';
 
-import getAlbumTitle from './get-album-title';
-import logger from './logger';
-import type { Album } from './types';
+import getAlbumTitle from './get-album-title.js';
+import logger from './logger.js';
+import type { Album } from './types.js';
+
+const { truncate } = _;
 
 const token = process.env.TELEGRAM_BOT_TOKEN;
 const chatId = process.env.TELEGRAM_CHAT_ID;
+const MAX_MESSAGE_LENGTH = 4096;
 
 const bot = token ? new TelegramBot(token) : null;
 
+function truncateMessage(message: string) {
+  return truncate(message, { length: MAX_MESSAGE_LENGTH, separator: '\n' });
+}
+
 export function escapeTelegramMessage(message: string) {
-  return message
-    .replaceAll('_', '\\_')
-    .replaceAll('*', '\\*')
-    .replaceAll('[', '\\[')
-    .replaceAll(']', '\\]')
-    .replaceAll('(', '\\(')
-    .replaceAll(')', '\\)')
-    .replaceAll('~', '\\~')
-    .replaceAll('`', '\\`')
-    .replaceAll('>', '\\>')
-    .replaceAll('#', '\\#')
-    .replaceAll('+', '\\+')
-    .replaceAll('-', '\\-')
-    .replaceAll('=', '\\=')
-    .replaceAll('|', '\\|')
-    .replaceAll('{', '\\{')
-    .replaceAll('}', '\\}')
-    .replaceAll('.', '\\.')
-    .replaceAll('!', '\\!');
+  return truncateMessage(
+    message
+      .replaceAll('_', '\\_')
+      .replaceAll('*', '\\*')
+      .replaceAll('[', '\\[')
+      .replaceAll(']', '\\]')
+      .replaceAll('(', '\\(')
+      .replaceAll(')', '\\)')
+      .replaceAll('~', '\\~')
+      .replaceAll('`', '\\`')
+      .replaceAll('>', '\\>')
+      .replaceAll('#', '\\#')
+      .replaceAll('+', '\\+')
+      .replaceAll('-', '\\-')
+      .replaceAll('=', '\\=')
+      .replaceAll('|', '\\|')
+      .replaceAll('{', '\\{')
+      .replaceAll('}', '\\}')
+      .replaceAll('.', '\\.')
+      .replaceAll('!', '\\!')
+      .slice(0, MAX_MESSAGE_LENGTH),
+  );
 }
 
 export default async function logToTelegram(message: string) {
@@ -41,7 +52,7 @@ export default async function logToTelegram(message: string) {
     logger.warn('Telegram channel is not defined');
     return;
   }
-  await bot.sendMessage(chatId, message, {
+  await bot.sendMessage(chatId, truncateMessage(message), {
     parse_mode: 'MarkdownV2',
   });
 }
@@ -59,13 +70,13 @@ export async function logFreshAlbumToTelegram(album: Album, tagName: string) {
     logger.warn('Telegram channel is not defined');
     return;
   }
-  const message = `\\#pearl\nСвіжа перлина в тегу [${tagName}](https://you-must-hear.web.app/tag/${encodeURIComponent(
+  const message = `\\#pearl\nСвіжа перлина в тегу [${escapeTelegramMessage(
     tagName,
-  )}/) – ${
+  )}](https://you-must-hear.web.app/tag/${encodeURIComponent(tagName)}/) – ${
     escapeTelegramMessage(
       getAlbumTitle(album),
     ) /* .replaceAll('(', '\\(').replaceAll(')', '\\)') */
-  }!`;
+  }\\!`;
   await (album.cover
     ? bot.sendPhoto(chatId, album.cover, {
         caption: message,

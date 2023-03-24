@@ -1,0 +1,12 @@
+---
+export interface Properties {
+  date: Date;
+}
+const { date } = Astro.props;
+const isoDate = date?.toISOString?.();
+---
+
+<script src="./date-ago.ts"></script>
+<date-ago data-date={date.valueOf()}
+  ><time datetime={isoDate || null}>{isoDate || 'Never'}</time>
+</date-ago>

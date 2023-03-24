@@ -1,13 +1,14 @@
 import SQL from '@nearform/sql';
-import head from 'lodash/head';
-import includes from 'lodash/includes';
+import _ from 'lodash';
 
-import database from '../common/database';
-import { deleteTag } from '../common/database/tag';
-import isTagBlacklisted from '../common/is-tag-blacklisted';
-import logger from '../common/logger';
-import removeTagDuplicates from '../common/remove-tag-duplicates';
-import { Tag, Weighted } from '../common/types';
+import database from '../common/database/index.js';
+import { deleteTag } from '../common/database/tag.js';
+import isTagBlacklisted from '../common/is-tag-blacklisted.js';
+import logger from '../common/logger.js';
+import removeTagDuplicates from '../common/remove-tag-duplicates.js';
+import type { Tag, Weighted } from '../common/types.js';
+
+const { head, includes } = _;
 
 export default async function pickTag(): Promise<Tag | null> {
   const result = await database.query<Weighted<Tag>>(SQL`
@@ -36,9 +37,7 @@ export default async function pickTag(): Promise<Tag | null> {
 
   const tag = head(result.rows);
 
-  if (!tag) {
-    logger.warn('No tags picked');
-  } else {
+  if (tag) {
     if (isTagBlacklisted(tag.name)) {
       logger.warn(`${tag.name} - blacklisted...`);
       await deleteTag({ name: tag.name });
@@ -52,6 +51,8 @@ export default async function pickTag(): Promise<Tag | null> {
       return pickTag();
     }
     logger.debug(`Picked tag: ${tag.name}`);
+  } else {
+    logger.warn('No tags picked');
   }
 
   return tag || null;

@@ -1,11 +1,12 @@
-import find from 'lodash/find';
-import toLower from 'lodash/toLower';
+import _ from 'lodash';
 
-import assure from '../assure';
-import logger from '../logger';
+import assure from '../assure.js';
+import logger from '../logger.js';
 
-import { Tag } from './api-types';
-import getAlbumTopTags from './get-album-top-tags';
+import type { Tag } from './api-types.js';
+import getAlbumTopTags from './get-album-top-tags.js';
+
+const { find, toLower } = _;
 
 export default async function getAlbumTagCount(
   albumName: string,

@@ -1,0 +1,51 @@
+---
+import SearchWidget from './search-widget';
+---
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">You Must Hear</a>
+
+    <a
+      role="button"
+      class="navbar-burger"
+      aria-label="menu"
+      aria-expanded="false"
+    >
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div class="navbar-menu">
+    <div class="navbar-start">
+      <a class="navbar-item is-primary" href="/tags/1">
+        <strong>Tags</strong>
+      </a>
+      <a class="navbar-item" href="/"> Best of all</a>
+    </div>
+
+    <div class="navbar-end">
+      <div class="navbar-item">
+        <strong class="search-prompt">Search tags:</strong>
+        <SearchWidget client:visible />
+      </div>
+      <a class="navbar-item" href="/about"> About</a>
+      <div class="navbar-item"></div>
+    </div>
+  </div>
+</nav>
+<script defer>
+  const $initialBurger = document.querySelector('.navbar-burger');
+  const $navbar = document.querySelector('.navbar');
+  const $navbarMenu = document.querySelector('.navbar-menu');
+  if ($navbar && $initialBurger) {
+    const $newBurger = $initialBurger.cloneNode(true);
+    $initialBurger.parentElement.replaceChild($newBurger, $initialBurger);
+    $newBurger.addEventListener('click', () => {
+      $navbarMenu.classList.toggle('is-active');
+      $newBurger.classList.toggle('is-active');
+    });
+  }
+</script>

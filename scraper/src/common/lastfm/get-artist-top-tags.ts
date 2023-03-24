@@ -1,10 +1,12 @@
-import uniqBy from 'lodash/uniqBy';
+import _ from 'lodash';
 
-import assure from '../assure';
-import logger from '../logger';
+import assure from '../assure.js';
+import logger from '../logger.js';
 
-import acquire from './acquire';
-import { ArtistGetTopTagsPayload, Tag } from './api-types';
+import acquire from './acquire.js';
+import type { ArtistGetTopTagsPayload, Tag } from './api-types.js';
+
+const { uniqBy } = _;
 
 export default async function getArtistTopTags(
   artistName: string,

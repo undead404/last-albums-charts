@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "telegram-logger"
+version = "0.1.0"
+description = ""
+authors = ["Vitalii Perehonchuk <vitalii_perehonchuk@epam.com>"]
+readme = "README.md"
+packages = [{include = "telegram_logger"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyTelegramBotAPI = "^4.7.1"
+python-dotenv = "^0.21.0"
+loguru = "^0.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

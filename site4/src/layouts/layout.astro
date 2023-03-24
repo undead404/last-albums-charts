@@ -1,18 +1,16 @@
 ---
-
-import Navigation from '../components/navigation';
+import Navigation from '../components/navigation.astro';
 
 export interface Properties {
   date: string;
   imageSrc?: string;
-  subtitle?: string;
   title: string;
   url: string;
 }
 
 const ORIGIN = 'https://you-must-hear.web.app';
 
-const { date, imageSrc, subtitle, title, url } = Astro.props;
+const { date, imageSrc, title, url } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -57,16 +55,23 @@ const { date, imageSrc, subtitle, title, url } = Astro.props;
     </script>
   </head>
   <body>
-    <Navigation client:load />
+    <Navigation />
     <section class="section">
       <div class="container">
-        <h1 class="title">{title}</h1>
-        {subtitle && <span class="subtitle">{subtitle}</span>}
+        <div class="hero is-primary">
+          <div class="hero-body"><h1 class="title">{title}</h1></div>
+        </div>
         <slot />
       </div>
     </section>
   </body>
 </html>
+<style>
+  .container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 1vw 1vh;
+  }
+</style>
 <style is:global>
   @import 'bulma/css/bulma.css';
   .is-disabled {
@@ -89,5 +94,14 @@ const { date, imageSrc, subtitle, title, url } = Astro.props;
   }
   .autocomplete-wrapper {
     min-width: 224px;
+  }
+  .sort-trigger svg {
+    visibility: hidden;
+  }
+  .sort-trigger.active svg {
+    visibility: visible;
+  }
+  .sort-trigger.reverse svg {
+    transform: rotate(180deg);
   }
 </style>

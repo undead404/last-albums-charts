@@ -1,4 +1,4 @@
-import getAlbumTagCount from './get-album-tag-count';
+import getAlbumTagCount from './get-album-tag-count.js';
 
 jest.mock('./get-album-top-tags');
 

@@ -1,10 +1,12 @@
 ---
-import type { Page, PaginateFunction } from 'astro';
-import { formatDistance, formatISO } from 'date-fns';
+// import { Picture } from '@astrojs/image/components';
+import type { GetStaticPathsOptions, Page } from 'astro';
+import { formatISO } from 'date-fns';
 import map from 'lodash/map';
 import toInteger from 'lodash/toInteger';
 import numbro from 'numbro';
 
+import DateAgo from '../../components/date-ago.astro';
 import Pagination from '../../components/pagination.astro';
 import Layout from '../../layouts/layout.astro';
 import { initDatabase } from '../../services/data/database';
@@ -21,10 +23,10 @@ const {
 } = Astro.props;
 
 export interface Props {
-  page: Page<TagPayload>
+  page: Page<TagPayload>;
 }
 
-export async function getStaticPaths({ paginate }: {paginate: PaginateFunction}) {
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
   await initDatabase();
   const allTags = await getTags();
   return paginate(allTags, { pageSize: 20 });
@@ -55,14 +57,27 @@ export async function getStaticPaths({ paginate }: {paginate: PaginateFunction})
                 <a href={`/tag/${encodeURIComponent(tag.name)}`}>{tag.name}</a>
               </th>
               <td>
-                <figure class="image is-32x32" title={tag.title}>
-                  <img class="is-rounded" src={tag.preview} />
-                </figure>
+                {tag.preview && (
+                  <figure class="image is-32x32" title={tag.title}>
+                    {/* <Picture
+                      aspectRatio="1:1"
+                      class="is-rounded"
+                      key={tag.title}
+                      src={tag.preview}
+                      alt={tag.title || ''}
+                      sizes="32px"
+                      widths={[32]}
+                    /> */}
+                    <img
+                      class="is-rounded"
+                      src={tag.preview}
+                      alt={tag.title || ''}
+                    />
+                  </figure>
+                )}
               </td>
-              <td title={`${tag.listUpdatedAt}`}>
-                {tag.listUpdatedAt
-                  ? `${formatDistance(tag.listUpdatedAt, new Date())} ago`
-                  : 'Never'}
+              <td>
+                <DateAgo date={tag.listUpdatedAt} />
               </td>
               <td>
                 {numbro(tag.weight).format({

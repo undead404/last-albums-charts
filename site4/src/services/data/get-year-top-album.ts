@@ -15,7 +15,7 @@ export default async function getYearTopAlbum(
   logger.debug(`getYearTopAlbum(${year}, ${tagName})`);
   const query = tagName
     ? SQL`
-  SELECT "Album"."artist", "Album"."name", "Album"."date", "Album"."numberOfTracks"
+    SELECT "Album"."artist", "Album"."name", "Album"."date", "Album"."numberOfTracks"
     FROM "Album"
     INNER JOIN "AlbumTag"
     ON "AlbumTag"."albumArtist" = "Album"."artist"
@@ -24,11 +24,11 @@ export default async function getYearTopAlbum(
     AND "Album"."hidden" <> TRUE
     AND "AlbumTag"."tagName" = ${tagName}
     ORDER BY
-      "AlbumTag"."count"::FLOAT / 1000 * "Album"."playcount"::FLOAT DESC
+      "AlbumTag"."count"::FLOAT / 1000 * "Album"."playcount"::FLOAT / 100 * "AlbumTag"."count" DESC
     LIMIT 1
   `
     : SQL`
-  SELECT "Album"."artist", "Album"."name", "Album"."date", "Album"."numberOfTracks"
+    SELECT "Album"."artist", "Album"."name", "Album"."date", "Album"."numberOfTracks"
     FROM "Album"
     INNER JOIN "AlbumTag"
     ON "AlbumTag"."albumArtist" = "Album"."artist"
@@ -36,7 +36,7 @@ export default async function getYearTopAlbum(
     WHERE "Album"."date" LIKE ${`${year}%`}
     AND "Album"."hidden" <> TRUE
     ORDER BY
-      "AlbumTag"."count"::FLOAT / 1000 * "Album"."playcount"::FLOAT DESC
+      "AlbumTag"."count"::FLOAT / 1000 * "Album"."playcount"::FLOAT / 100 * "AlbumTag"."count" DESC
     LIMIT 1
   `;
   const result = await database.query<

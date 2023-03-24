@@ -7,14 +7,18 @@ const getAlbumInfo = jest
   .mockImplementation((albumName: string, artistName: string) => {
     if (artistName === 'Exodus') {
       switch (albumName) {
-        case 'Bonded by Blood':
+        case 'Bonded by Blood': {
           return Promise.resolve(exodus1);
-        case 'Tempo of the Damned':
+        }
+        case 'Tempo of the Damned': {
           return Promise.resolve(exodus2);
-        case 'Shovel Headed Kill Machine':
+        }
+        case 'Shovel Headed Kill Machine': {
           return Promise.resolve(exodus3);
-        default:
+        }
+        default: {
           return Promise.resolve();
+        }
       }
     }
 

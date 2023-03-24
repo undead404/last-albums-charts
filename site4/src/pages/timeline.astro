@@ -1,7 +1,6 @@
 ---
 import { formatDistance, formatISO, parseISO } from 'date-fns';
 import filter from 'lodash/filter';
-
 import map from 'lodash/map';
 import maxBy from 'lodash/maxBy';
 
@@ -35,24 +34,24 @@ export async function getStaticPaths() {
 
 <Layout
   date={latestTagDateISO}
-  subtitle={`${
-    latestTagDate
-      ? `Last relevant album added ${formatDistance(
-          parseISO(latestTagDate),
-          new Date(),
-        )} ago.`
-      : 'Nothing new here.'
-  } ${
-    peak
-      ? `Peak year: ${peak.year} ${
-          peak.topAlbum ? `(${formatAlbum(peak.topAlbum)})` : ''
-        }`
-      : 'No peak.'
-  }`}
   title={`Timeline of releases' performance`}
   url={`/timeline`}
 >
   <main>
+    {
+      latestTagDate
+        ? `Last relevant album added ${formatDistance(
+            parseISO(latestTagDate),
+            new Date(),
+          )} ago.`
+        : 'Nothing new here.'
+    } {
+      peak
+        ? `Peak year: ${peak.year} ${
+            peak.topAlbum ? `(${formatAlbum(peak.topAlbum)})` : ''
+          }`
+        : 'No peak.'
+    }
     <div class="tabs">
       <ul>
         <li><a href={`/`}>Chart</a></li>

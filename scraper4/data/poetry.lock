@@ -1,0 +1,18 @@
+[[package]]
+name = "psycopg-pool"
+version = "3.1.4"
+description = "Connection Pool for Psycopg"
+category = "main"
+optional = false
+python-versions = ">=3.7"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.10"
+content-hash = "928df5856b5a7c075e5639359992348cf74f373011514ccf2709b2177b994a07"
+
+[metadata.files]
+psycopg-pool = [
+    {file = "psycopg-pool-3.1.4.tar.gz", hash = "sha256:fbbb61442f1c59dd53b606b489683c83ca64b3bcf64c6e47e955c8bfa59beac7"},
+    {file = "psycopg_pool-3.1.4-py3-none-any.whl", hash = "sha256:ca12cc083f4166eea746679a6e2ab89307765968d3ad416e0616f887db0360fd"},
+]

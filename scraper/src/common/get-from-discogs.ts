@@ -1,13 +1,12 @@
 import { closest } from 'fastest-levenshtein';
-import find from 'lodash/find';
-import forEach from 'lodash/forEach';
-import map from 'lodash/map';
-import uniq from 'lodash/uniq';
+import _ from 'lodash';
 
-import logger from './logger';
-import searchDiscogs from './search-discogs';
-import sleep from './sleep';
-import { Album } from './types';
+import logger from './logger.js';
+import searchDiscogs from './search-discogs.js';
+import sleep from './sleep.js';
+import type { Album } from './types.js';
+
+const { find, forEach, map, uniq } = _;
 
 let waiter = Promise.resolve();
 const API_DELAY_MS = 2000;

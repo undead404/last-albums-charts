@@ -1,9 +1,9 @@
-import find from 'lodash/find';
-import get from 'lodash/get';
-import size from 'lodash/size';
+import _ from 'lodash';
 
-import getCoverArtInfo from './cover-art-archive/get-cover-art-info';
-import { Album } from './types';
+import getCoverArtInfo from './cover-art-archive/get-cover-art-info.js';
+import type { Album } from './types.js';
+
+const { find, get, size } = _;
 
 export default async function getFromCoverArtArchive(
   albumMbid: string,

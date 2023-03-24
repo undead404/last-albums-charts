@@ -4,5 +4,11 @@
   "eslint.run": "onSave",
   "editor.formatOnSave": false,
   "eslint.validate": ["astro", "typescript", "typescriptreact"],
-  "editor.codeActionsOnSave": ["source.fixAll.eslint"]
+  "editor.codeActionsOnSave": [
+    "source.fixAll.eslint"
+  ],
+  "files.trimTrailingWhitespace": false,
+  "editor.trimAutoWhitespace": false,
+  "cSpell.language": "en,uk-UA",
+  "cSpell.enabled": false
 }

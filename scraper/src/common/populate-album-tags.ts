@@ -1,15 +1,16 @@
 import SQL from '@nearform/sql';
 import { isAfter, sub } from 'date-fns';
-import reject from 'lodash/reject';
-import toPairs from 'lodash/toPairs';
+import _ from 'lodash';
 
-import { findAlbum } from './database/album';
-import getAlbumTopTags from './lastfm/get-album-top-tags';
-import database from './database';
-import logger from './logger';
-import normalizeTags from './normalize-tags';
-import sequentialAsyncForEach from './sequential-async-for-each';
-import { Album, AlbumTag } from './types';
+import { findAlbum } from './database/album.js';
+import database from './database/index.js';
+import getAlbumTopTags from './lastfm/get-album-top-tags.js';
+import logger from './logger.js';
+import normalizeTags from './normalize-tags.js';
+import sequentialAsyncForEach from './sequential-async-for-each.js';
+import type { Album, AlbumTag } from './types.js';
+
+const { reject, toPairs } = _;
 
 export default async function populateAlbumTags(
   album: Album,

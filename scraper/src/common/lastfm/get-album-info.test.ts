@@ -1,4 +1,4 @@
-import getAlbumInfo from './get-album-info';
+import getAlbumInfo from './get-album-info.js';
 
 jest.mock('../lib/acquire');
 

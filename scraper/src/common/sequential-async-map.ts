@@ -1,4 +1,6 @@
-import reduce from 'lodash/reduce';
+import _ from 'lodash';
+
+const { reduce } = _;
 
 export default async function sequentialAsyncMap<T1, T2>(
   collection: readonly T1[],
