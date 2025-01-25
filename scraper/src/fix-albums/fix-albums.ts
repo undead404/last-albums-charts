@@ -1,15 +1,13 @@
 import SQL from '@nearform/sql';
-import _ from 'lodash';
 
 import database from '../common/database/index.js';
+import formatError from '../common/format-error.js';
 import logger from '../common/logger.js';
 import populateAlbumStats from '../common/populate-album-stats.js';
 import populateAlbumTags from '../common/populate-album-tags.js';
 import Progress from '../common/progress.js';
 import sequentialAsyncForEach from '../common/sequential-async-for-each.js';
 import type { Album } from '../common/types.js';
-
-const { toString } = _;
 
 const LIMIT_FOR_ONE_SHOT = 1000;
 
@@ -44,12 +42,12 @@ export default async function fixAlbums(): Promise<void> {
     try {
       await populateAlbumStats(album);
     } catch (error) {
-      logger.error(`populateAlbumStats: ${toString(error)}`);
+      logger.error(`populateAlbumStats: ${formatError(error)}`);
     }
     try {
       await populateAlbumTags(album);
     } catch (error) {
-      logger.error(`populateAlbumTags: ${toString(error)}`);
+      logger.error(`populateAlbumTags: ${formatError(error)}`);
     }
     progress.increment();
   });

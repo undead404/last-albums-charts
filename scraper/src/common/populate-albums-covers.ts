@@ -2,7 +2,7 @@ import SQL from '@nearform/sql';
 import _ from 'lodash';
 
 import database from './database/index.js';
-import checkUrl from './check-url.js';
+// import checkUrl from './check-url.js';
 import getFromCoverArtArchive from './get-from-cover-art-archive.js';
 import getFromDiscogs from './get-from-discogs.js';
 import logger from './logger.js';
@@ -14,10 +14,9 @@ const { isEmpty } = _;
 
 async function check(album: Album): Promise<boolean> {
   return !!(
-    album.cover &&
-    album.thumbnail &&
-    (await checkUrl(album.cover)) &&
-    (await checkUrl(album.thumbnail))
+    (album.cover && album.thumbnail) // &&
+    // (await checkUrl(album.cover)) &&
+    // (await checkUrl(album.thumbnail))
   );
 }
 

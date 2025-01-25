@@ -2,9 +2,8 @@
   "extends": "astro/tsconfigs/strictest",
   "compilerOptions": {
     "esModuleInterop": true,
+    "experimentalDecorators": true,
     "importsNotUsedAsValues": "error",
-    "jsx": "react-jsx",
-    "jsxImportSource": "react",
     "skipLibCheck": true,
     "traceResolution": true,
     "typeRoots": ["./types", "./node_modules/@types"]

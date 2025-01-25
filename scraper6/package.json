@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "effect": "~3.7.0",
+    "log4js": "^6.9.1",
+    "valibot": "^0.41.0"
+  },
+  "devDependencies": {
+    "@jest/globals": "^29.7.0",
+    "@tsconfig/node21": "^21.0.3",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^22.5.2",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-jest-resolver": "^2.0.1",
+    "ts-mockito": "^2.6.1",
+    "typescript": "^5.5.4"
+  },
+  "engines": {
+    "node": "21"
+  },
+  "name": "scraper",
+  "type": "module"
+}

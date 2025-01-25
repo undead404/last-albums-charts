@@ -1,14 +1,14 @@
 // https://astro.build/config
 // import image from '@astrojs/image';
-import react from '@astrojs/react';
+import lit from '@astrojs/lit';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 import robotsTxt from 'astro-robots-txt';
 
 import getTagLastmod from './get-tag-lastmod.mjs';
 
-const external = [];
-const noExternal = ['usehooks-ts'];
+const external = ['lit/decorators.js', '@carbon/web-components'];
+const noExternal = ['@brightspace-ui/core', '@brightspace-ui/intl'];
 
 // https://astro.build/config
 
@@ -18,7 +18,7 @@ export default defineConfig({
     // image({
     //   serviceEntryPoint: '@astrojs/image/sharp',
     // }),
-    react(),
+    lit(),
     robotsTxt(),
     sitemap({
       async serialize(item) {

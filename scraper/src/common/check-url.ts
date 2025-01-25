@@ -1,9 +1,7 @@
 import axios from 'axios';
-import _ from 'lodash';
 
+import formatError from './format-error.js';
 import logger from './logger.js';
-
-const { toString } = _;
 
 const MIN_ERROR_CODE = 400;
 
@@ -20,7 +18,7 @@ export default async function checkUrl(url: string): Promise<boolean> {
     return true;
   } catch (error) {
     logger.debug(`checkUrl(${url})`);
-    logger.error(toString(error));
+    logger.error(formatError(error));
     return false;
   }
 }

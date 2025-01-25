@@ -6,12 +6,13 @@ import { fileURLToPath } from 'node:url';
 import _ from 'lodash';
 
 import execute from '../common/execute.js';
+import formatError from '../common/format-error.js';
 import logToTelegram, {
   escapeTelegramMessage,
 } from '../common/log-to-telegram.js';
 import logger from '../common/logger.js';
 
-const { get, toString } = _;
+const { get } = _;
 const directory = dirname(fileURLToPath(import.meta.url));
 const ROOT_FOLDER = path.resolve(path.join(directory, '..', '..', '..'));
 const DIST_FOLDER = path.join(ROOT_FOLDER, 'site4', 'dist');
@@ -52,23 +53,23 @@ export default async function run() {
     process.exit(0);
   } catch (error: any) {
     // eslint-disable-next-line no-magic-numbers
-    logger.error(`FAILURE EXIT REASON: ${toString(error)}`);
+    logger.error(`FAILURE EXIT REASON: ${formatError(error)}`);
     if (error?.transporterStackTrace) {
       logger.error(get(error, 'transporterStackTrace[0].host'));
       logger.error(get(error, 'transporterStackTrace[0].request'));
     }
     await logToTelegram(
       `\\#error\nНевдача в роботі deploy2: ${escapeTelegramMessage(
-        toString(error),
+        formatError(error),
       )}`,
     );
     process.exit(1);
   }
 }
 process.on('uncaughtException', async (error) => {
-  logger.error(toString(error));
+  logger.error(formatError(error));
   await logToTelegram(
-    `\\#error\nНевідовлений виняток при роботі deploy2: ${toString(error)}`,
+    `\\#error\nНевідовлений виняток при роботі deploy2: ${formatError(error)}`,
   );
   process.exit(1);
 });

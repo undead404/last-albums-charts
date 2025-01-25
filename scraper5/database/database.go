@@ -14,5 +14,5 @@ var Database *sql.DB
 func init() {
 	var err error
 	Database, err = sql.Open("postgres", connString)
-	utils.HandleError(err)
+	utils.HandleError(err, "database/database.go:init")
 }

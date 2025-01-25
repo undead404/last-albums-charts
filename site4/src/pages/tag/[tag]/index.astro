@@ -9,8 +9,8 @@ import isString from 'lodash/isString';
 import map from 'lodash/map';
 import split from 'lodash/split';
 
-import AlbumsTable from '../../../components/albums-table.astro';
-import DateAgo from '../../../components/date-ago.astro';
+import AlbumsTable from '../../../components/albums-table';
+import DateAgo from '../../../components/date-ago';
 import TagBackgroundImage from '../../../components/tag-background-image.astro';
 import Layout from '../../../layouts/layout.astro';
 import { initDatabase } from '../../../services/data/database';
@@ -59,7 +59,7 @@ export async function getStaticPaths() {
   url={`/tag/${encodeURIComponent(tag)}`}
 >
   <span class="subtitle"
-    >Last updated: <DateAgo date={tagInfo.listUpdatedAt} />, weight: {
+    >Last updated: <DateAgo client:load date={tagInfo.listUpdatedAt} ></DateAgo>, weight: {
       numberFormat.format(tagInfo.weight)
     }</span
   >
@@ -95,7 +95,7 @@ export async function getStaticPaths() {
         </li>
       </ul>
     </div>
-    <AlbumsTable albumsPlaces={tagInfo.list} />
+    <AlbumsTable client:load albumsPlaces={tagInfo.list} />
   </main>
   <TagBackgroundImage fallbackImage={tagInfo.preview} tagName={tag} />
 </Layout>

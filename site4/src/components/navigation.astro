@@ -1,5 +1,5 @@
 ---
-import SearchWidget from './search-widget';
+import AlgoliaSearch from './algolia-search';
 ---
 
 <nav class="navbar" role="navigation" aria-label="main navigation">
@@ -29,7 +29,7 @@ import SearchWidget from './search-widget';
     <div class="navbar-end">
       <div class="navbar-item">
         <strong class="search-prompt">Search tags:</strong>
-        <SearchWidget client:visible />
+        <AlgoliaSearch client:visible />
       </div>
       <a class="navbar-item" href="/about"> About</a>
       <div class="navbar-item"></div>

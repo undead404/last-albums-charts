@@ -11,7 +11,7 @@ import (
 func initBot() *tgbotapi.BotAPI {
 	bot, err := tgbotapi.NewBotAPI(os.Getenv("TELEGRAM_BOT_TOKEN"))
 	if err != nil {
-		utils.HandleError(err)
+		utils.HandleError(err, "services/telegram.go:initBot")
 	}
 
 	bot.Debug = true

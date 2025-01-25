@@ -5,9 +5,10 @@ import (
 	"os"
 )
 
-func HandleError(err error) {
+// If err is not nil, log the error and exit the program
+func HandleError(err error, location string) {
 	if err != nil {
-		log.Fatal("error: ", err)
+		log.Fatal(location, "error", err)
 		os.Exit(1)
 	}
 }

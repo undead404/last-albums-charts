@@ -7,6 +7,8 @@ export interface Properties {
   numberOfPages: number;
 }
 const { baseUrl, currentPage, numberOfPages } = Astro.props;
+const hasNoMoreThanTwoPagesAhead = currentPage + 2 <= numberOfPages;
+const hasNoMoreThanOnePageAhead = currentPage + 2 < numberOfPages;
 ---
 
 <nav class="pagination" role="navigation" aria-label="pagination">
@@ -63,7 +65,7 @@ const { baseUrl, currentPage, numberOfPages } = Astro.props;
       >
     </li>
     {
-      currentPage + 2 <= numberOfPages && (
+      hasNoMoreThanTwoPagesAhead && (
         <li>
           <a
             class="pagination-link"
@@ -76,7 +78,7 @@ const { baseUrl, currentPage, numberOfPages } = Astro.props;
       )
     }
     {
-      currentPage + 2 < numberOfPages && (
+      hasNoMoreThanOnePageAhead && (
         <li>
           <span class="pagination-ellipsis">&hellip;</span>
         </li>

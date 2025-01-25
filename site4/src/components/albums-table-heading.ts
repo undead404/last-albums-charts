@@ -1,64 +1,137 @@
+import classNames from 'classnames';
+import { css, html, LitElement, svg } from 'lit';
+import { customElement, property, queryAll } from 'lit/decorators.js';
 import forEach from 'lodash/forEach';
 
-class AlbumsTableHeading extends HTMLElement {
-  #table: HTMLElement | null = null;
+export const tagName = 'albums-table-heading';
+@customElement(tagName)
+export default class AlbumsTableHeading extends LitElement {
+  @queryAll('button') declare buttons!: HTMLButtonElement[];
 
-  #sortTriggers: NodeListOf<HTMLButtonElement> | null = null;
+  @property() declare sortCriterion: string;
 
-  #sortTriggerHandlers = new WeakMap<
-    HTMLButtonElement,
-    (event: MouseEvent) => void
-  >();
+  @property() declare sortOrder: string;
 
-  get table(): HTMLElement {
-    if (!this.#table) {
-      if (!this.dataset.tableId) {
-        throw new Error('No table found');
-      }
-      this.#table = document.querySelector(`#${this.dataset.tableId}`);
-      if (!this.#table) throw new Error('Table not found');
+  static override styles = css`
+    :host {
+      display: table-header-group;
     }
-    return this.#table;
+    .tr {
+      display: table-row;
+    }
+    .th {
+      display: table-cell;
+      text-align: center;
+      border-bottom: 1px solid grey;
+    }
+    .button {
+      align-items: center;
+      cursor: pointer;
+      display: flex;
+      justify-content: space-between;
+      background-color: white;
+      border: none;
+      width: 100%;
+      height: 100%;
+    }
+    svg {
+      display: none;
+    }
+    .active svg {
+      display: initial;
+    }
+    :host([sortOrder='desc']) svg {
+      transform: rotate(180deg);
+    }
+  `;
+
+  constructor() {
+    super();
+    this.sortCriterion = 'date';
+    this.sortOrder = 'asc';
   }
 
-  connectedCallback() {
-    this.#sortTriggers = this.table.querySelectorAll('.sort-trigger');
-    forEach(this.#sortTriggers, (sortTrigger) => {
-      const handleClick = () => {
-        if (!sortTrigger.dataset.criterion) {
-          return;
-        }
-        if (sortTrigger.classList.contains('active')) {
-          sortTrigger.classList.toggle('reverse');
-        } else {
-          forEach(this.#sortTriggers, (otherSortTrigger) =>
-            otherSortTrigger.classList.remove('active'),
-          );
-          sortTrigger.classList.add('active');
-        }
-        this.table.dispatchEvent(
-          new CustomEvent('sort', {
-            detail: {
-              criterion: sortTrigger.dataset.criterion,
-              isReverse: sortTrigger.classList.contains('reverse'),
-            },
-          }),
-        );
-      };
-      this.#sortTriggerHandlers.set(sortTrigger, handleClick);
-      sortTrigger.addEventListener('click', handleClick);
+  override connectedCallback(): void {
+    super.connectedCallback();
+    forEach(this.buttons, (button) => {
+      button.addEventListener('click', this.handleClick as EventListener);
     });
   }
 
-  disconnectedCallback() {
-    this.#table = null;
-    forEach(this.#sortTriggers, (sortTrigger) => {
-      const handleClick = this.#sortTriggerHandlers.get(sortTrigger);
-      if (handleClick) {
-        sortTrigger.removeEventListener('click', handleClick);
-      }
+  override disconnectedCallback(): void {
+    forEach(this.buttons, (button) => {
+      button.removeEventListener('click', this.handleClick as EventListener);
     });
-    this.#sortTriggers = null;
+    super.disconnectedCallback();
+  }
+
+  handleClick = (event: MouseEvent) => {
+    const criterion = (event.target as HTMLElement)?.dataset?.criterion;
+    if (!criterion) {
+      return;
+    }
+    this.dispatchEvent(
+      new CustomEvent('sort', {
+        bubbles: true,
+        composed: true,
+        detail: {
+          criterion,
+          isReverse:
+            this.sortCriterion === criterion ? this.sortOrder === 'asc' : false,
+        },
+      }),
+    );
+  };
+
+  static renderIcon() {
+    const svgIcon = svg`
+      <path d="M24 22h-24l12-20z"></path>
+    `;
+    return html`<svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="12"
+      height="12"
+      viewBox="0 0 24 24"
+    >
+      ${svgIcon}
+    </svg>`;
+  }
+
+  override render() {
+    return html`
+      <div class="tr">
+        <div class="th" scope="col">
+          <button
+            class="${classNames('button', {
+              active: this.sortCriterion === 'place',
+            })}"
+            data-criterion="place"
+          >
+            #${AlbumsTableHeading.renderIcon()}
+          </button>
+        </div>
+        <div class="th" scope="col">
+          <button
+            class="${classNames('button', {
+              active: this.sortCriterion === 'album',
+            })}"
+            data-criterion="album"
+          >
+            Album${AlbumsTableHeading.renderIcon()}
+          </button>
+        </div>
+        <div class="th" scope="col">
+          <button
+            class="${classNames('button', {
+              active: this.sortCriterion === 'date',
+            })}"
+            data-criterion="date"
+          >
+            Date${AlbumsTableHeading.renderIcon()}
+          </button>
+        </div>
+        <div aria-label="Cover thumbnail" class="th" scope="col"></div>
+      </div>
+    `;
   }
 }
-globalThis.customElements.define('albums-table-heading', AlbumsTableHeading);

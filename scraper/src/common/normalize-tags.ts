@@ -3,7 +3,7 @@ import _ from 'lodash';
 import type { Tag } from './lastfm/api-types.js';
 import isTagBlacklisted from './is-tag-blacklisted.js';
 
-const { keyBy, mapValues, max, pickBy, some, toLower, values } = _;
+const { keyBy, mapValues, max, min, pickBy, some, toLower, values } = _;
 
 const DESIRED_MAX_TAG_COUNT = 100;
 
@@ -17,6 +17,12 @@ export default function normalizeTags(
     ),
     (tagCount, tagName) => !isTagBlacklisted(tagName),
   );
+
+  const minValue = min(values(result)) || 0;
+
+  if (minValue < DESIRED_MAX_TAG_COUNT) {
+    result = pickBy(result, (tagCount) => tagCount > minValue);
+  }
 
   if (!some(result, (tagCount) => tagCount === DESIRED_MAX_TAG_COUNT)) {
     const maxTagCount = max(values(result));

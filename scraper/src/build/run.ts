@@ -1,11 +1,6 @@
 import path from 'node:path';
 
 import _ from 'lodash';
-const { find } = _;
-const { get } = _;
-const { map } = _;
-const { omit } = _;
-const { toString } = _;
 
 import database from '../common/database/index.js';
 import logToTelegram, {
@@ -20,6 +15,9 @@ import saveToAlgolia from './save-to-algolia.js';
 import execute from '../common/execute.js';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
+import formatError from '../common/format-error.js';
+
+const { find, get, map, omit } = _;
 const directory = dirname(fileURLToPath(import.meta.url));
 
 const ROOT_FOLDER = path.resolve(path.join(directory, '..', '..', '..'));
@@ -68,7 +66,7 @@ async function run() {
     process.exit(0);
   } catch (error: any) {
     // eslint-disable-next-line no-magic-numbers
-    logger.error(`FAILURE EXIT REASON: ${toString(error)}`);
+    logger.error(`FAILURE EXIT REASON: ${formatError(error)}`);
     if (error?.transporterStackTrace) {
       logger.error(get(error, 'transporterStackTrace[0].host'));
       logger.error(get(error, 'transporterStackTrace[0].request'));
@@ -76,16 +74,16 @@ async function run() {
     await database.end();
     await logToTelegram(
       `\\#error\nНевдача в роботі build: ${escapeTelegramMessage(
-        toString(error),
+        formatError(error),
       )}`,
     );
     process.exit(1);
   }
 }
 process.on('uncaughtException', async (error) => {
-  logger.error(toString(error));
+  logger.error(formatError(error));
   await logToTelegram(
-    `\\#error\nНевідовлений виняток при роботі build: ${toString(error)}`,
+    `\\#error\nНевідовлений виняток при роботі build: ${formatError(error)}`,
   );
   await database.end();
   process.exit(1);

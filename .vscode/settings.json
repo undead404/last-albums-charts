@@ -1,6 +1,5 @@
 {
   "eslint.format.enable": true,
-  "eslint.packageManager": "yarn",
   "eslint.run": "onSave",
   "editor.formatOnSave": false,
   "eslint.validate": ["astro", "typescript", "typescriptreact"],
@@ -10,5 +9,13 @@
   "files.trimTrailingWhitespace": false,
   "editor.trimAutoWhitespace": false,
   "cSpell.language": "en,uk-UA",
-  "cSpell.enabled": false
+  "cSpell.enabled": false,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "github.copilot.editor.enableAutoCompletions": true
 }

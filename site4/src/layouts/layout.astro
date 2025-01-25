@@ -19,10 +19,6 @@ const { date, imageSrc, title, url } = Astro.props;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <!-- <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css"
-    /> -->
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta content={title} name="title" />
@@ -48,7 +44,12 @@ const { date, imageSrc, title, url } = Astro.props;
     {imageSrc && <meta content={imageSrc} property="twitter:image" />}
     {imageSrc && <meta content={imageSrc} property="og:image" />}
     {date && <meta content={date} http-equiv="date" />}
-    {date && <meta content={date} http-equiv="last-modified" />}
+    {date && <meta content={date} http-equiv="last-modified" />}<link
+      rel="stylesheet"
+      href="https://nordcdn.net/ds/css/3.1.0/nord.min.css"
+      integrity="sha384-+vS/TIHe79BcW02M3g4ZgYIw64iHDRgJ1cUofcVIvh7MWg8J9aarfGkjepw6MZhV"
+      crossorigin="anonymous"
+    />
     <script>
       import initAnalytics from '../services/firebase';
       initAnalytics();

@@ -3,13 +3,14 @@ import _ from 'lodash';
 import qs from 'qs';
 
 import { LASTFM_API_ERRORS, MAX_RETRIES } from '../constants.js';
+import formatError from '../format-error.js';
 import logger from '../logger.js';
 import sleep from '../sleep.js';
 
 import { DEFAULT_PARAMS } from './api-constants.js';
 import type { Parameters, Payload } from './api-types.js';
 
-const { isEmpty, toString } = _;
+const { isEmpty } = _;
 
 const API_DELAY_MS = 1000;
 
@@ -53,7 +54,7 @@ export default async function acquire<T extends Payload>(
     waiter = sleep(API_DELAY_MS);
     return response.data;
   } catch (error) {
-    logger.error(toString(error));
+    logger.error(formatError(error));
     if (retry >= MAX_RETRIES) {
       throw error;
     }

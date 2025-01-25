@@ -6,7 +6,7 @@ import map from 'lodash/map';
 import toInteger from 'lodash/toInteger';
 import numbro from 'numbro';
 
-import DateAgo from '../../components/date-ago.astro';
+import DateAgo from '../../components/date-ago';
 import Pagination from '../../components/pagination.astro';
 import Layout from '../../layouts/layout.astro';
 import { initDatabase } from '../../services/data/database';
@@ -77,7 +77,7 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
                 )}
               </td>
               <td>
-                <DateAgo date={tag.listUpdatedAt} />
+                <DateAgo client:load date={tag.listUpdatedAt} ></DateAgo>
               </td>
               <td>
                 {numbro(tag.weight).format({

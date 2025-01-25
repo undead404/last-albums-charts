@@ -1,9 +1,7 @@
-import _ from 'lodash';
 import pg from 'pg';
 
+import formatError from '../format-error.js';
 import logger from '../logger.js';
-
-const { toString } = _;
 
 const database = new pg.Client({
   database: 'lac',
@@ -13,7 +11,7 @@ const database = new pg.Client({
 });
 
 database.on('error', (error) => {
-  logger.error(toString(error));
+  logger.error(formatError(error));
 });
 
 export default database;

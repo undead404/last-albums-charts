@@ -2,15 +2,17 @@ import SQL from '@nearform/sql';
 import _ from 'lodash';
 
 import database from '../common/database/index.js';
+import formatError from '../common/format-error.js';
 import getTagTopAlbums from '../common/lastfm/get-tag-top-albums.js';
 import logger from '../common/logger.js';
+import populateAlbumDate from '../common/populate-album-date/populate-album-date.js';
 import populateAlbumStats from '../common/populate-album-stats.js';
 import populateAlbumTags from '../common/populate-album-tags.js';
 import Progress from '../common/progress.js';
 import sequentialAsyncForEach from '../common/sequential-async-for-each.js';
 import type { Album, Tag } from '../common/types.js';
 
-const { isEmpty, map, toString } = _;
+const { isEmpty, map } = _;
 
 export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
   logger.info(`scrapeAlbumsByTag(${tag.name})`);
@@ -55,19 +57,22 @@ export default async function scrapeAlbumsByTag(tag: Tag): Promise<void> {
           DO NOTHING
         `);
     } catch (error) {
-      logger.error(`album insert: ${toString(error)}`);
+      logger.error(`album insert: ${formatError(error)}`);
     }
   });
   await sequentialAsyncForEach(albumsRecords, async (album) => {
     try {
       await populateAlbumStats(album, true);
+      populateAlbumDate(album).catch((error) =>
+        logger.error(`populateAlbumDate: ${formatError(error)}`),
+      );
     } catch (error) {
-      logger.error(`populateAlbumStats: ${toString(error)}`);
+      logger.error(`populateAlbumStats: ${formatError(error)}`);
     }
     try {
       await populateAlbumTags(album, true);
     } catch (error) {
-      logger.error(`populateAlbumTags: ${toString(error)}`);
+      logger.error(`populateAlbumTags: ${formatError(error)}`);
     }
     progress.increment();
   });

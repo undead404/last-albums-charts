@@ -3,7 +3,7 @@ import { formatISO } from 'date-fns';
 import map from 'lodash/map';
 import orderBy from 'lodash/orderBy';
 
-import AlbumsTable from '../components/albums-table.astro';
+import AlbumsTable from '../components/albums-table';
 import BackgroundImage from '../components/background-image.astro';
 import Layout from '../layouts/layout.astro';
 import { initDatabase } from '../services/data/database';
@@ -30,14 +30,13 @@ const albumsPlaces = map(
   <main>
     <div class="tabs">
       <ul>
-        <li class="is-active"><a href={`/`}>Chart</a></li>
+        <li class="is-active"><a href="/">Chart</a></li>
         <li>
-          <a href={`/timeline`}
-            >Timeline chart</a>
+          <a href={`/timeline`}>Timeline chart</a>
         </li>
       </ul>
     </div>
-    <AlbumsTable albumsPlaces={albumsPlaces} />
+    <AlbumsTable albumsPlaces={albumsPlaces} client:load />
   </main>
   <BackgroundImage imageSource="/ymh.jpg" />
 </Layout>

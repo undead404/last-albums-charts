@@ -1,132 +1,152 @@
-import forEach from 'lodash/forEach';
+import { css, html, LitElement, nothing } from 'lit';
+import { customElement, property } from 'lit/decorators.js';
+import { repeat } from 'lit/directives/repeat.js';
 import toPairs from 'lodash/toPairs';
-import toString from 'lodash/toString';
+import { nanoid } from 'nanoid';
 
+import './copy-text';
 import './album-place';
 import './album-tag';
+import './modal';
 
 import type { Album } from '../types';
 import formatAlbum from '../utils/format-album';
-import createElement from '../utils/create-element';
+import stopPropagation from '../utils/stop-propagation';
 
-const WRONG_HTML_ERROR_MESSAGE = 'Wrong HTML';
+@customElement('album-modal')
+export default class AlbumModal extends LitElement {
+  randomId = nanoid();
 
-class AlbumModal extends HTMLElement {
-  #titleElement: null | Element = null;
+  static override styles = css`
+    ymh-modal {
+      text-align: center;
+    }
+    .header {
+      flex-direction: row;
+    }
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.1rem;
+    }
+    album-place,
+    album-tag {
+      overflow: hidden;
+    }
+  `;
 
-  #imgElement: null | HTMLImageElement = null;
+  @property({
+    reflect: true,
+  })
+  declare active: null | true;
 
-  #tagsElement: null | HTMLElement = null;
+  @property({
+    hasChanged(value, oldValue) {
+      return (
+        (value && formatAlbum(value as Album)) !==
+        (oldValue && formatAlbum(oldValue as Album))
+      );
+    },
+    type: Object,
+  })
+  declare album: Album | null;
+  // @query('.image img') imgElement!: HTMLImageElement;
+  // @query('.album-places') placesElement!: HTMLElement;
+  // @query('.modal-card-title') titleElement!: HTMLElement;
+  // @query('.album-tags') tagsElement!: HTMLElement;
 
-  #placesElement: null | HTMLElement = null;
-
-  connectedCallback() {
-    this.addEventListener(
-      'activate-album',
-      this.handleActivateAlbum as EventListener,
-    );
-    forEach(
-      this.querySelectorAll('.close, .delete, .modal-background, .modal-close'),
-      (closeButton) => {
-        closeButton.addEventListener('click', this.handleClose);
-      },
-    );
+  handleClose() {
+    this.dispatchEvent(new CustomEvent('close'));
+    this.active = null;
   }
 
-  disconnectedCallback() {
-    this.removeEventListener(
-      'activate-album',
-      this.handleActivateAlbum as EventListener,
-    );
-    forEach(
-      this.querySelectorAll('.close, .delete, .modal-background, .modal-close'),
-      (closeButton) => {
-        closeButton.removeEventListener('click', this.handleClose);
-      },
-    );
+  constructor() {
+    super();
+    this.active = null;
   }
 
-  get imgElement() {
-    if (this.#imgElement) {
-      return this.#imgElement;
-    }
-    const result = this.querySelector<HTMLImageElement>('.image img');
-    if (!result) {
-      throw new Error(WRONG_HTML_ERROR_MESSAGE);
-    }
-    this.#imgElement = result;
-    return result;
+  get albumTitle() {
+    return this.album && formatAlbum(this.album, true);
   }
 
-  get placesElement() {
-    if (this.#placesElement) {
-      return this.#placesElement;
+  get textToCopy() {
+    if (!this.album) {
+      return '';
     }
-    const result = this.querySelector<HTMLElement>('.tags');
-    if (!result) {
-      throw new Error(WRONG_HTML_ERROR_MESSAGE);
-    }
-    this.#placesElement = result;
-    return result;
+    return `"${this.album.artist}" - "${this.album.name}"`;
   }
 
-  get tagsElement() {
-    if (this.#tagsElement) {
-      return this.#tagsElement;
+  override attributeChangedCallback(
+    attributeName: string,
+    oldValue: string | null,
+    newValue: string | null,
+  ) {
+    super.attributeChangedCallback(attributeName, oldValue, newValue);
+    if (attributeName !== 'album') {
+      return;
     }
-    const result = this.querySelector<HTMLElement>('.album-tags');
-    if (!result) {
-      throw new Error(WRONG_HTML_ERROR_MESSAGE);
+    if ((!oldValue || oldValue === 'null') && newValue && newValue !== 'null') {
+      this.active = true;
+    } else if (oldValue && (!newValue || newValue === 'null')) {
+      this.active = null;
     }
-    this.#tagsElement = result;
-    return result;
   }
 
-  get titleElement() {
-    if (this.#titleElement) {
-      return this.#titleElement;
-    }
-    const result = this.querySelector('.modal-card-title');
-    if (!result) {
-      throw new Error(WRONG_HTML_ERROR_MESSAGE);
-    }
-    this.#titleElement = result;
-    return result;
+  renderContent() {
+    return html`<img
+        height="400"
+        width="400"
+        alt="Cover art"
+        src="${this.album?.cover}"
+        @click="${stopPropagation}"
+      />
+      <p class="tags" @click="${stopPropagation}">
+        Places:${' '}${repeat(
+          toPairs(this.album?.places),
+          ([tagName]) => tagName,
+          ([tagName, place]) => {
+            return html`<album-place
+              place="${place}"
+              tag="${tagName}"
+            ></album-place>`;
+          },
+        )}
+      </p>
+      <p class="tags" @click="${stopPropagation}">
+        Tags:${' '}${repeat(
+          toPairs(this.album?.tags || undefined),
+          ([tagName]) => tagName,
+          ([tagName, value]) => {
+            return html`
+              <album-tag tag="${tagName}" value="${value}"></album-tag>
+            `;
+          },
+        )}
+      </p>`;
   }
 
-  handleActivateAlbum = (event: CustomEvent<Album>) => {
-    const album = event.detail;
-    this.titleElement.textContent = formatAlbum(album);
-    if (album.cover) {
-      this.imgElement.setAttribute('src', album.cover);
-    } else {
-      this.imgElement.style.display = 'none';
-    }
-    this.placesElement.textContent = 'Places: ';
-    forEach(toPairs(album.places), ([tagName, place]) => {
-      const albumPlaceElement = createElement('album-place', {
-        dataset: {
-          place: toString(place),
-          tagName: tagName,
-        }
-      });
-      this.placesElement.append(albumPlaceElement);
-    });
-    this.tagsElement.textContent = 'Tags: ';
-    forEach(toPairs(album.tags || {}), ([tagName, value]) => {
-      const albumTagElement = createElement('album-tag', {
-        dataset: {
-          value: toString(value),
-          tagName: tagName,
-        }
-      });
-      this.tagsElement.append(albumTagElement);
-    });
-    this.classList.add('is-active');
-  };
+  override render() {
+    return this.renderNord();
+  }
 
-  handleClose = () => {
-    this.classList.remove('is-active');
-  };
+  renderNord() {
+    return html`
+      <ymh-modal
+        @close="${this.handleClose}"
+        id="modal-${this.randomId}"
+        ?open="${this.active}"
+        aria-labelledby="title-${this.randomId}"
+      >
+        <h2 @click="${stopPropagation}" id="title-${this.randomId}">
+          ${this.albumTitle}
+          ${this.album
+            ? html`<copy-text text="${this.textToCopy}">Copy</copy-text>`
+            : nothing}
+        </h2>
+        ${this.renderContent()}
+
+        <button @click="${this.handleClose}" id="cancelButton">Close</button>
+      </ymh-modal>
+    `;
+  }
 }
-globalThis.customElements.define('album-modal', AlbumModal);

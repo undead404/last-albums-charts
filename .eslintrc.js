@@ -15,6 +15,8 @@ module.exports = {
     'plugin:sonarjs/recommended',
     'plugin:prettier/recommended',
     "plugin:astro/recommended",
+    "plugin:wc/recommended",
+    "plugin:lit/recommended",
     'plugin:jest/all',
     'prettier',
   ],
@@ -549,12 +551,19 @@ module.exports = {
         browser: true
       },
       files: ['site2/**/*'],
+    },
+    {
+      files: ['scraper6/**/*'],
+      rules: {
+        'max-classes-per-file': 'off',
+        'lodash/prefer-lodash-method': 'off'
+      }
     }
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     ecmaVersion: 2020,
-    project: ['./scraper/tsconfig.json'/*, './site4/tsconfig.json'*/],
+    project: ['./scraper/tsconfig.json', './site4/tsconfig.json', './scraper6/tsconfig.json'],
     sourceType: 'module',
   },
   plugins: [
@@ -604,7 +613,7 @@ module.exports = {
       'error',
       'ignorePackages',
       {
-        js: 'never',
+        js: 'ignorePackages',
         ts: 'never',
         tsx: 'never',
       },
@@ -653,7 +662,8 @@ module.exports = {
     'jest/require-hook': 'off',
     'unicorn/prefer-top-level-await': 'off',
     'unicorn/no-await-expression-member': 'warn',
-    'jest/unbound-method': 'off'
+    'jest/unbound-method': 'off',
+    'unicorn/template-indent': 'off'
   },
   settings: {
     'import/parsers': {
@@ -662,7 +672,7 @@ module.exports = {
     'import/resolver': {
       typescript: {
         alwaysTryTypes: true, // always try to resolve types under `<root>@types` directory even it doesn't contain any source code, like `@types/unist`,
-        project: ['./scraper', './site4'],
+        project: ['./scraper', './site4', './scraper6'],
       },
     },
     react: {

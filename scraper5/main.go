@@ -11,10 +11,10 @@ import (
 )
 
 func main() {
+	utils.SetupLog()
+	defer utils.CloseLog()
 	err := godotenv.Load()
-	if err != nil {
-		utils.HandleError(err)
-	}
+	utils.HandleError(err, "main.go:main:godotenv.Load")
 	// errorChannel := make(chan error)
 	// go errorMonitor.New(errorChannel).Run()
 	fmt.Println("Hello, world.")

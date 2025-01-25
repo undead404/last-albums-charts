@@ -15,9 +15,15 @@ import formatAlbum from '../utils/format-album';
 await initDatabase();
 const timeline = await getTimeline();
 const latestTagDate = await getLatestDate();
-const latestTagDateISO = latestTagDate
-  ? formatISO(parseISO(latestTagDate))
-  : undefined;
+let latestTagDateISO;
+if (latestTagDate) {
+  try {
+    latestTagDateISO = formatISO(parseISO(latestTagDate));
+  } catch (error) {
+    console.error(error);
+    console.error(`Invalid tag date: ${latestTagDate}`)
+  }
+}
 
 const peak = maxBy(
   filter(timeline, ({ year }) => year <= new Date().getFullYear()),
@@ -30,6 +36,17 @@ export async function getStaticPaths() {
     params: { tag: tagName },
   }));
 }
+let latestTime = 'unknown time';
+if (latestTagDate)
+try {
+  latestTime = formatDistance(
+            parseISO(latestTagDate),
+            new Date(),
+          )
+} catch (error){
+  console.error(error);
+  console.error(`Invalid tag date: ${latestTagDate}`)
+}
 ---
 
 <Layout
@@ -40,10 +57,7 @@ export async function getStaticPaths() {
   <main>
     {
       latestTagDate
-        ? `Last relevant album added ${formatDistance(
-            parseISO(latestTagDate),
-            new Date(),
-          )} ago.`
+        ? `Last relevant album added ${latestTime} ago.`
         : 'Nothing new here.'
     } {
       peak

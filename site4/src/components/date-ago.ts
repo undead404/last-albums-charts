@@ -1,22 +1,33 @@
 import { formatDistance } from 'date-fns';
+import { html, LitElement } from 'lit';
+import { customElement, property } from 'lit/decorators.js';
 
-class DateAgo extends HTMLElement {
-  constructor() {
-    super();
+export const tagName = 'date-ago';
 
-    const dateTimestamp = this.dataset.date;
-    if (!dateTimestamp) {
-      return;
+@customElement(tagName)
+export default class DateAgo extends LitElement {
+  @property({
+    converter(value) {
+      if (!value) {
+        return null;
+      }
+      return new Date(Number.parseInt(value, 10));
+    },
+  })
+  declare date: Date | null;
+
+  get distance() {
+    if (!this.date) {
+      return 'Never';
     }
-    const date = new Date(Number.parseInt(dateTimestamp, 10));
-    const $timeElement = this.querySelector('time');
-    if (!$timeElement) {
-      return;
-    }
-    $timeElement.textContent = formatDistance(date, new Date(), {
-      addSuffix: true,
-    });
+    return formatDistance(this.date, new Date(), { addSuffix: true });
+  }
+
+  override render() {
+    return html`
+      <time datetime=${this.date?.toISOString?.() || null}
+        >${this.distance}</time
+      >
+    `;
   }
 }
-
-globalThis.customElements.define('date-ago', DateAgo);

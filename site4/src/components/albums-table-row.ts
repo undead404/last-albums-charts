@@ -1,42 +1,93 @@
-import activateAlbum from '../helpers/activate-album';
+import { css, html, LitElement } from 'lit';
+import { customElement, property } from 'lit/decorators.js';
+
 import type { Album } from '../types';
 import formatAlbum from '../utils/format-album';
 
-class AlbumsTableRow extends HTMLElement {
-  #album: null | Album = null;
-
-  #trElement: null | HTMLElement = null;
-
-  get trElement() {
-    if (!this.#trElement) {
-      throw new Error('Wrong HTML');
+export const tagName = 'albums-table-row';
+@customElement(tagName)
+export default class AlbumsTableRow extends LitElement {
+  static override styles = css`
+    :host {
+      display: table-row;
     }
-    return this.#trElement;
-  }
-
-  connectedCallback() {
-    if (!this.dataset.data || !this.dataset.trId) {
-      throw new Error('No album data');
+    :host > div {
+      display: table-cell;
+      vertical-align: middle;
+      border-bottom: 1px solid lightgrey;
     }
-    this.#album = JSON.parse(this.dataset.data);
-    if (!this.#album) {
+    .place {
+      padding-left: 1vw;
+    }
+    :host img {
+      border-radius: 50%;
+      height: 2rem;
+      width: 2rem;
+    }
+  `;
+
+  @property({
+    hasChanged(value, oldValue) {
+      return (
+        (value && formatAlbum(value as Album)) !==
+        (oldValue && formatAlbum(oldValue as Album))
+      );
+    },
+    type: Object,
+  })
+  declare album: Album;
+
+  @property({ type: Number }) declare place: number;
+
+  override connectedCallback() {
+    super.connectedCallback();
+    if (!this.album) {
       throw new Error('No album data');
     }
     // eslint-disable-next-line no-console
-    console.debug(formatAlbum(this.#album, true), `${this.#album.numberOfTracks} tracks`);
-    this.#trElement = document.querySelector(`#${this.dataset.trId}`);
-    this.trElement.addEventListener('click', this.handleClick);
+    console.debug(
+      formatAlbum(this.album, true),
+      `${this.album.numberOfTracks} tracks`,
+    );
+    this.addEventListener('click', this.handleClick);
   }
 
-  disconnectedCallback() {
-    this.trElement.removeEventListener('click', this.handleClick);
+  override disconnectedCallback(): void {
+    this.removeEventListener('click', this.handleClick);
+    super.disconnectedCallback();
   }
 
   handleClick = () => {
-    if (!this.#album) {
-      throw new Error('album missing');
-    }
-    activateAlbum(this.#album);
+    this.dispatchEvent(
+      new CustomEvent('activate-album', {
+        bubbles: true,
+        composed: true,
+        detail: this.album,
+      }),
+    );
   };
+
+  override render() {
+    if (!this.album) {
+      return 'No data';
+    }
+    return html`
+      <div class="place">${this.place}</div>
+      <div>${this.album ? formatAlbum(this.album, false) : null}</div>
+      <div>
+        ${this.album.date
+          ? html`<time datetime="${this.album.date}">${this.album.date}</time>`
+          : ''}
+      </div>
+      <div>
+        ${this.album.thumbnail
+          ? html`
+              <figure class="image is-32x32">
+                <img class="is-rounded" src="${this.album.thumbnail}" />
+              </figure>
+            `
+          : ''}
+      </div>
+    `;
+  }
 }
-globalThis.customElements.define('albums-table-row', AlbumsTableRow);

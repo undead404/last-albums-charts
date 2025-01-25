@@ -12,7 +12,8 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "moduleResolution": "nodenext",
-    "typeRoots": [ "./types", "./node_modules/@types"]
+    "typeRoots": [ "./types", "./node_modules/@types"],
+    "skipLibCheck": true
   },
   "compileOnSave": true,
   "include": [

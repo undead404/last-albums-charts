@@ -3,10 +3,10 @@ package interfaces
 import "time"
 
 type Tag struct {
-	AlbumsScrapedAt time.Time
-	ListCheckedAt   time.Time
-	ListUpdatedAt   time.Time
-	Name            string
-	RegisteredAt    time.Time
-	Weight          float32
+	AlbumsScrapedAt time.Time `db:"albumsScrapedAt"`
+	ListCheckedAt   time.Time `db:"listCheckedAt"`
+	ListUpdatedAt   time.Time `db:"listUpdatedAt"`
+	Name            string    `db:"name"`
+	RegisteredAt    time.Time `db:"registeredAt"`
+	Weight          float32   `db:"weight"`
 }

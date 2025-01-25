@@ -1,14 +1,30 @@
-.button {
+.root {
+  display: table-header-group;
+}
+.root tr {
+  display: table-row;
+}
+.root th {
+  display: table-cell;
+  text-align: center;
+  border-bottom: 1px solid grey;
+}
+.root button {
   align-items: center;
   cursor: pointer;
   display: flex;
   justify-content: space-between;
-  background-color: transparent;
+  background-color: white;
   border: none;
   width: 100%;
   height: 100%;
 }
-
-.thButton {
-  cursor: pointer;
+.root svg {
+  display: none;
+}
+.active svg {
+  display: initial;
+}
+.root.desc svg {
+  transform: rotate(180deg);
 }

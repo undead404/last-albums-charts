@@ -1,55 +1,67 @@
-import toInteger from 'lodash/toInteger';
-import createElement from '../utils/create-element';
+import { css, html, LitElement } from 'lit';
+import { customElement, property } from 'lit/decorators.js';
 
 import getNextId from '../utils/get-next-id';
 
-const HSL_SATURATION_CEILING = 101;
-const BLACK_TAG_TEXT_CHANGE_BORDER = 50;
-
-export default class AlbumTag extends HTMLElement {
-  connectedCallback() {
-    const { tagName, value: valueString } = this.dataset;
-    if (!valueString || !tagName) {
-      throw new Error('Wrong arguments');
+@customElement('album-tag')
+export default class AlbumTag extends LitElement {
+  static override styles = css`
+    :host {
+      cursor: pointer;
     }
-    const value = toInteger(valueString);
+    a {
+      display: flex;
+      font-size: 0.75rem;
+      padding: 0.5rem;
+      white-space: nowrap;
+      line-height: 0.75rem;
+      text-decoration: none;
+      box-sizing: border-box;
+      height: 1.75rem;
+    }
+    a:hover {
+      border-bottom: 1px solid #0000ee;
+    }
+    a:visited:hover {
+      border-bottom: 1px solid #551a8b;
+    }
+    meter {
+      margin-left: 0.5rem;
+    }
+  `;
 
-    const aElement = createElement('a', {
-      attributes: { href: `/tag/${encodeURIComponent(tagName)}` },
-      classes: ['tag', 'is-black'],
-      style: {
-        backgroundColor: `hsl(0, 0%, ${HSL_SATURATION_CEILING - value}%)`,
-        color: value > BLACK_TAG_TEXT_CHANGE_BORDER ? 'white' : 'black',
-        display: 'flex',
-        gap: '1em',
-      },
-    });
+  @property({
+    type: Number,
+  })
+  declare value: number;
 
-    const meterId = getNextId();
+  @property() declare tag: string;
 
-    const labelElement = createElement('label', {
-      attributes: {
-        for: meterId,
-      },
-      textContent: tagName,
-    });
-    aElement.append(labelElement);
+  declare meterId: string;
 
-    const meterElement = createElement('meter', {
-      attributes: {
-        id: meterId,
-        low: '50',
-        max: '100',
-        min: '0',
-        optimum: '100',
-        value: valueString,
-      },
-      textContent: `${valueString}%`,
-    });
-    aElement.append(meterElement);
+  constructor() {
+    super();
+    this.value = 0;
+    this.tag = '';
+    this.meterId = getNextId();
+  }
 
-    this.append(aElement);
+  override render() {
+    return html`
+      <a href="/tag/${encodeURIComponent(this.tag)}"
+        ><label for="${this.meterId}"
+          >${this.tag}<meter
+            id="${this.meterId}"
+            low="50"
+            max="100"
+            min="0"
+            optimum="100"
+            value="${this.value}"
+          >
+            ${this.value}
+          </meter></label
+        ></a
+      >
+    `;
   }
 }
-
-globalThis.customElements.define('album-tag', AlbumTag);

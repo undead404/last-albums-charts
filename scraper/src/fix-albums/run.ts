@@ -1,12 +1,9 @@
-import _ from 'lodash';
-
 import database from '../common/database/index.js';
+import formatError from '../common/format-error.js';
 import logToTelegram from '../common/log-to-telegram.js';
 import logger from '../common/logger.js';
 
 import fixAlbums from './fix-albums.js';
-
-const { toString } = _;
 
 export default async function main(): Promise<void> {
   try {
@@ -15,19 +12,19 @@ export default async function main(): Promise<void> {
     await database.end();
     process.exit(0);
   } catch (error) {
-    logger.error(`FAILURE EXIT REASON: ${toString(error)}`);
+    logger.error(`FAILURE EXIT REASON: ${formatError(error)}`);
     await database.end();
     await logToTelegram(
-      `\\#error\nНевдача в роботі fAlbums: ${toString(error)}`,
+      `\\#error\nНевдача в роботі fAlbums: ${formatError(error)}`,
     );
     process.exit(1);
   }
 }
 process.on('uncaughtException', async (error) => {
-  logger.error(`EXCEPTION EXIT REASON: ${toString(error)}`);
+  logger.error(`EXCEPTION EXIT REASON: ${formatError(error)}`);
   await database.end();
   await logToTelegram(
-    `\\#error\nНевідловлений виняток при роботі fAlbums: ${toString(error)}`,
+    `\\#error\nНевідловлений виняток при роботі fAlbums: ${formatError(error)}`,
   );
   process.exit(1);
 });

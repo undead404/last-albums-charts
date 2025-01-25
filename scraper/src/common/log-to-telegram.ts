@@ -77,10 +77,15 @@ export async function logFreshAlbumToTelegram(album: Album, tagName: string) {
       getAlbumTitle(album),
     ) /* .replaceAll('(', '\\(').replaceAll(')', '\\)') */
   }\\!`;
-  await (album.cover
-    ? bot.sendPhoto(chatId, album.cover, {
+  if (album.cover) {
+    try {
+      await bot.sendPhoto(chatId, album.cover, {
         caption: message,
         parse_mode: 'MarkdownV2',
-      })
-    : logToTelegram(message));
+      });
+    } catch (error) {
+      logger.error(error);
+      await logToTelegram(message);
+    }
+  }
 }

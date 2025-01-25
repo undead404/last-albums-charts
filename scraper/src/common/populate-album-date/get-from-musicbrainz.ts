@@ -33,7 +33,7 @@ export default async function getFromMusicbrainz(
     waiter = sleep(API_DELAY_MS);
     const date =
       get(release, 'release-group.first-release-date') || get(release, 'date');
-    if (!date) {
+    if (!date || date === 'Unknown') {
       return null;
     }
 

@@ -29,6 +29,10 @@ export type Track = {
 
 export type AlbumInfo = NameWrapper & {
   artist: string;
+  readonly image: {
+    size: 'small' | 'medium' | 'large' | 'extralarge' | 'mega' | '';
+    '#text': string;
+  }[];
   listeners: string;
   mbid?: string;
   playcount: string;

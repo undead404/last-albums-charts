@@ -17,7 +17,9 @@ export async function initDatabase() {
 }
 
 database.on('error', (error: unknown) => {
-  logger.error(toString(error));
+  logger.error(
+    toString((error as any)?.message || (error as any)?.code || error),
+  );
 });
 
 process.on('SIGTERM', async () => {

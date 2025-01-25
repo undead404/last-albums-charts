@@ -43,9 +43,11 @@ export default async function scrapeAlbums(): Promise<void> {
     WHERE "name" = ${tag.name}
   `);
   logger.debug(`scrapeAlbums: ${tag.name} - success`);
-  await logToTelegram(
-    `\\#scrape\\_albums\nУспішно зібрано альбоми для тега *${escapeTelegramMessage(
-      tag.name,
-    )}*`,
-  );
+  if (tag.listUpdatedAt) {
+    await logToTelegram(
+      `\\#scrape\\_albums\nУспішно зібрано альбоми для тега *${escapeTelegramMessage(
+        tag.name,
+      )}*`,
+    );
+  }
 }

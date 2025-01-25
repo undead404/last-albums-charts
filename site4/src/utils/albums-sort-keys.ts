@@ -16,7 +16,7 @@ const ALBUMS_SORT_KEYS = {
   date: (albumPlace: AlbumPlaceItem) => {
     let { date } = albumPlace.album;
     if (!date) {
-      return date;
+      return '';
     }
     if (date.length < YEAR_MONTH_DATE_LENGTH) {
       date += '-99';

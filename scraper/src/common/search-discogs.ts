@@ -2,17 +2,22 @@ import { Discojs, SearchTypeEnum } from 'discojs';
 import _ from 'lodash';
 
 import { DISCOGS_ACCESS_TOKEN } from './environment.js';
+import formatError from './format-error.js';
 import sleep from './sleep.js';
+import withTimeout from './with-timeout.js';
 
-const { includes, toString } = _;
+const { includes } = _;
 
 const discojs = new Discojs({
   userToken: DISCOGS_ACCESS_TOKEN,
 });
 
 let waiter = Promise.resolve();
+const TIMEOUT = 30_000;
 const API_DELAY_MS = 60_000;
 const MAX_RETRIES = 1;
+
+const searchRelease = withTimeout(discojs.searchRelease.bind(discojs), TIMEOUT);
 
 export default async function searchDiscogs(
   artist: string,
@@ -53,7 +58,7 @@ export default async function searchDiscogs(
 }> {
   await waiter;
   try {
-    const result = await discojs.searchRelease('', {
+    const result = await searchRelease('', {
       artist,
       releaseTitle: name,
       type: SearchTypeEnum.RELEASE,
@@ -61,7 +66,7 @@ export default async function searchDiscogs(
     });
 
     if (result.pagination.items === 0 && year) {
-      return await discojs.searchRelease('', {
+      return await searchRelease('', {
         artist,
         releaseTitle: name,
         type: SearchTypeEnum.RELEASE,
@@ -72,7 +77,7 @@ export default async function searchDiscogs(
   } catch (error) {
     if (
       retry <= MAX_RETRIES &&
-      includes(toString(error), 'Too Many Requests')
+      includes(formatError(error), 'Too Many Requests')
     ) {
       waiter = sleep(API_DELAY_MS);
       return searchDiscogs(artist, name, year, retry + 1);

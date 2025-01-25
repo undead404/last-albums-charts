@@ -4,11 +4,12 @@ import { closest } from 'fastest-levenshtein';
 import _ from 'lodash';
 
 import { DISCOGS_ACCESS_TOKEN } from '../environment.js';
+import formatError from '../format-error.js';
 import logger from '../logger.js';
 import searchDiscogs from '../search-discogs.js';
 import sleep from '../sleep.js';
 
-const { forEach, includes, map, toString, uniq } = _;
+const { forEach, includes, map, uniq } = _;
 
 const discojs = new Discojs({
   userToken: DISCOGS_ACCESS_TOKEN,
@@ -77,7 +78,7 @@ export default async function getFromDiscogs(
     }
     return albumInfo.released?.replaceAll?.('-00', '') || null;
   } catch (error) {
-    logger.error(`getFromDiscogs: ${toString(error)}`);
+    logger.error(`getFromDiscogs: ${formatError(error)}`);
     return null;
   }
 }

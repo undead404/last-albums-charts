@@ -16,7 +16,7 @@ export async function initDatabase() {
 
 database.on('error', (error) => {
   // eslint-disable-next-line no-console
-  console.error(toString(error));
+  console.error(toString(error?.message || error?.code || error));
 });
 
 process.on('SIGTERM', async () => {

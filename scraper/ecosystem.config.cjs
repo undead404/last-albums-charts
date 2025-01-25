@@ -30,7 +30,7 @@ module.exports = {
     },
     {
       autorestart: false,
-      cron_restart: '0 2 * * *',
+      // cron_restart: '0 2 * * *',
       env: {
         APP_NAME: 'build',
         NODE_OPTIONS: '--max_old_space_size=8192',

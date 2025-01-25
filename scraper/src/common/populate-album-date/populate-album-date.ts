@@ -2,6 +2,7 @@ import SQL from '@nearform/sql';
 import _ from 'lodash';
 
 import database from '../database/index.js';
+import formatError from '../format-error.js';
 import logger from '../logger.js';
 import sleep from '../sleep.js';
 import type { Album } from '../types.js';
@@ -9,7 +10,7 @@ import type { Album } from '../types.js';
 import getFromDiscogs from './get-from-discogs.js';
 import getFromMusicbrainz from './get-from-musicbrainz.js';
 
-const { head, includes, toString } = _;
+const { head, includes } = _;
 
 const API_DELAY_MS = 5000;
 
@@ -55,7 +56,7 @@ export default async function populateAlbumDate(
       await sleep(API_DELAY_MS);
       return populateAlbumDate(album);
     }
-    logger.error(toString(error));
+    logger.error(formatError(error));
     logger.error(`Failed to get date for: ${album.artist} - ${album.name}`);
     return null;
   }

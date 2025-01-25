@@ -35,7 +35,7 @@ func pickTag() *interfaces.Tag {
 	case sql.ErrNoRows:
 		// Go to next step
 	default:
-		utils.HandleError(err)
+		utils.HandleError(err, "scrape/pickTag.go:pickTag")
 	}
 	row = database.Database.QueryRow(`SELECT
     "Tag"."albumsScrapedAt",
@@ -53,7 +53,7 @@ func pickTag() *interfaces.Tag {
 	case sql.ErrNoRows:
 		return nil
 	default:
-		utils.HandleError(err)
+		utils.HandleError(err, "scrape/pickTag.go:pickTag")
 	}
 	return nil
 }

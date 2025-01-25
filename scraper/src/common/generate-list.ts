@@ -5,6 +5,7 @@ import { findAlbumTagWithAlbum } from './database/album-tag.js';
 import database from './database/index.js';
 import { getList } from './database/tag-list-item.js';
 import populateAlbumDate from './populate-album-date/populate-album-date.js';
+import { postAlbumToBsky } from './bsky.js';
 import createTagCollage from './create-tag-collage.js';
 import getAlbumTitle from './get-album-title.js';
 import logToTelegram, {
@@ -13,7 +14,7 @@ import logToTelegram, {
 } from './log-to-telegram.js';
 import logger from './logger.js';
 // import maybeMisspelled from './maybe-misspelled.js';
-import populateAlbumsCovers from './populate-albums-covers.js';
+// import populateAlbumsCovers from './populate-albums-covers.js';
 import Progress from './progress.js';
 import saveList from './save-list.js';
 import sequentialAsyncForEach from './sequential-async-for-each.js';
@@ -40,6 +41,7 @@ const TAKE_MODIFIER = 2;
 const MIN_TAG_COUNT = 0;
 const ALBUM_LOG_LIMIT = 10;
 
+// eslint-disable-next-line sonarjs/cognitive-complexity
 async function didAlbumsChange(
   oldAlbums: (TagListItem & { album: Album })[],
   albums: Album[],
@@ -73,34 +75,36 @@ async function didAlbumsChange(
     logger.debug(`ADDED: ${getAlbumTitle(album)}`);
   });
 
-  await logToTelegram(
-    `\\#tag\\_updates\nПри оновленні тега [${escapeTelegramMessage(
-      tagName,
-    )}](https://you-must-hear.web.app/tag/${encodeURIComponent(
-      tagName,
-    )}) – усувається:\n${
-      (albumsToRemove.length <= ALBUM_LOG_LIMIT
-        ? map(
-            albumsToRemove,
-            (album) =>
-              `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
-                album.numberOfTracks
-              } пісень`,
-          ).join('\n')
-        : 'Понад 10 альбомів') || 'Нічого'
-    }\n\nДодається:\n${
-      (albumsToAdd.length <= ALBUM_LOG_LIMIT
-        ? map(
-            albumsToAdd,
-            (album) =>
-              `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
-                album.numberOfTracks
-              } пісень`,
-          ).join('\n')
-        : 'Понад 10 альбомів') || 'Нічого'
-    }
+  if (albumsToRemove.length > 0 && albumsToAdd.length > 0) {
+    await logToTelegram(
+      `\\#tag\\_updates\nПри оновленні тега [${escapeTelegramMessage(
+        tagName,
+      )}](https://you-must-hear.web.app/tag/${encodeURIComponent(
+        tagName,
+      )}) – усувається:\n${
+        (albumsToRemove.length <= ALBUM_LOG_LIMIT
+          ? map(
+              albumsToRemove,
+              (album) =>
+                `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
+                  album.numberOfTracks
+                } пісень`,
+            ).join('\n')
+          : 'Понад 10 альбомів') || 'Нічого'
+      }\n\nДодається:\n${
+        (albumsToAdd.length <= ALBUM_LOG_LIMIT
+          ? map(
+              albumsToAdd,
+              (album) =>
+                `\\* ${escapeTelegramMessage(getAlbumTitle(album))} – ${
+                  album.numberOfTracks
+                } пісень`,
+            ).join('\n')
+          : 'Понад 10 альбомів') || 'Нічого'
+      }
     `,
-  );
+    );
+  }
   const oldAlbumsItems = map(oldAlbums, 'album');
   const appendedAlbums = filter(albums, (newAlbum) =>
     every(oldAlbumsItems, (oldAlbum) => {
@@ -124,6 +128,9 @@ async function didAlbumsChange(
   );
   await sequentialAsyncForEach(appendedAlbums, (album) =>
     logFreshAlbumToTelegram(album, tagName),
+  );
+  await sequentialAsyncForEach(appendedAlbums, (album) =>
+    postAlbumToBsky(album, tagName),
   );
   return result;
 }
@@ -276,7 +283,8 @@ export default async function generateList(tag: Tag): Promise<boolean> {
 
     const oldAlbums = await getList(tag.name);
     if (await didAlbumsChange(oldAlbums, albums, tag.name)) {
-      const albumsWithCovers = await populateAlbumsCovers(albums);
+      // const albumsWithCovers = await populateAlbumsCovers(albums);
+      const albumsWithCovers = albums;
 
       await saveList(tag, albumsWithCovers);
 

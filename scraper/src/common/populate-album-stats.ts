@@ -4,6 +4,7 @@ import _ from 'lodash';
 
 import { findAlbum } from './database/album.js';
 import database from './database/index.js';
+import type { AlbumInfo } from './lastfm/api-types.js';
 import getAlbumInfo from './lastfm/get-album-info.js';
 import logger from './logger.js';
 import maybeMisspelled from './maybe-misspelled.js';
@@ -12,6 +13,16 @@ import type { Album } from './types.js';
 const { compact, isNil, map, reject, size, sumBy, toNumber } = _;
 
 const MIN_TRACK_LENGTH = 30;
+
+function getSmallImage(albumInfo: AlbumInfo) {
+  return albumInfo.image.find((image) => image.size === 'small')?.['#text'];
+}
+
+function getLargeImage(albumInfo: AlbumInfo) {
+  return (albumInfo.image.findLast((image) => image.size === 'mega') ||
+    albumInfo.image.findLast((image) => image.size === 'extralarge') ||
+    albumInfo.image.findLast((image) => image.size === 'large'))?.['#text'];
+}
 
 export default async function populateAlbumStats(
   album: Album,
@@ -47,12 +58,14 @@ export default async function populateAlbumStats(
 
   const albumUpdate: Partial<Album> = {
     // artist: albumInfo.artist,
+    cover: getLargeImage(albumInfo),
     duration:
       sumBy(albumInfo.tracks?.track, (track) => toNumber(track?.duration)) ||
       null,
     listeners: toNumber(albumInfo.listeners),
     // name: albumInfo.name,
     playcount: toNumber(albumInfo.playcount),
+    thumbnail: getSmallImage(albumInfo),
   };
 
   if (!originalAlbum.numberOfTracks) {

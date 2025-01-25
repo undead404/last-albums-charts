@@ -1,5 +1,4 @@
 ---
-
 import { formatDistance, formatISO, parseISO } from 'date-fns';
 import filter from 'lodash/filter';
 import isString from 'lodash/isString';
@@ -22,11 +21,18 @@ if (!isString(tag)) {
 await initDatabase();
 const timeline = await getTimeline(tag);
 const latestTagDate = await getLatestDate(tag);
-const latestTagDateISO = latestTagDate
-  ? formatISO(parseISO(latestTagDate))
-  : undefined;
 
-  const peak = maxBy(
+let latestTagDateISO;
+if (latestTagDate) {
+  try {
+    latestTagDateISO = formatISO(parseISO(latestTagDate));
+  } catch (error) {
+    console.error(error);
+    console.error(`Invalid tag date: ${latestTagDate}`)
+  }
+}
+
+const peak = maxBy(
   filter(timeline, ({ year }) => year <= new Date().getFullYear()),
   'result',
 );
@@ -36,6 +42,19 @@ export async function getStaticPaths() {
   return map(tagNames, (tagName) => ({
     params: { tag: tagName },
   }));
+}
+
+let distanceString = 'some time';
+try {
+  if (latestTagDate) {
+    distanceString = formatDistance(
+            parseISO(latestTagDate),
+            new Date(),
+          )
+  }
+} catch (error) {
+  // eslint-disable-next-line no-console
+  console.error(error);
 }
 ---
 
@@ -47,12 +66,10 @@ export async function getStaticPaths() {
   <main>
     {
       latestTagDate
-        ? `Last relevant album added ${formatDistance(
-            parseISO(latestTagDate),
-            new Date(),
-          )} ago.`
+        ? `Last relevant album added ${distanceString} ago.`
         : 'Nothing new here.'
-    } {
+    }
+    {
       peak?.topAlbum
         ? `Peak year: ${peak.year} ${
             peak.topAlbum ? `(${formatAlbum(peak.topAlbum)})` : ''
@@ -68,7 +85,7 @@ export async function getStaticPaths() {
         </li>
       </ul>
     </div>
-    <TimelineChart timeline={timeline} client:only="react" />
+    <TimelineChart timeline={timeline} client:idle />
   </main>
   <TagBackgroundImage tagName={tag} />
 </Layout>

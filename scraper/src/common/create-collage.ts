@@ -57,41 +57,48 @@ export default async function createCollage(
     // eslint-disable-next-line no-magic-numbers
     `createCollage(..., ${fileName})`,
   );
-  const fullOptions: FullCollageOptions = {
-    backgroundColor: '#eeeeee',
-    lines: [],
-    spacing: 0,
-    textStyle: { height: 0, ...options?.textStyle },
-    ...options,
-  };
+  try {
+    const fullOptions: FullCollageOptions = {
+      backgroundColor: '#eeeeee',
+      lines: [],
+      spacing: 0,
+      textStyle: { height: 0, ...options?.textStyle },
+      ...options,
+    };
 
-  const canvasWidth =
-    fullOptions.width * fullOptions.imageWidth +
-    (fullOptions.width - 1) * fullOptions.spacing;
-  const canvasHeight =
-    fullOptions.height * fullOptions.imageHeight +
-    (fullOptions.height - 1) * fullOptions.spacing +
-    (fullOptions.textStyle.height || 0);
-  const canvas = new Canvas(canvasWidth, canvasHeight);
+    const canvasWidth =
+      fullOptions.width * fullOptions.imageWidth +
+      (fullOptions.width - 1) * fullOptions.spacing;
+    const canvasHeight =
+      fullOptions.height * fullOptions.imageHeight +
+      (fullOptions.height - 1) * fullOptions.spacing +
+      (fullOptions.textStyle.height || 0);
+    const canvas = new Canvas(canvasWidth, canvasHeight);
 
-  const context = canvas.getContext('2d');
-  context.fillStyle = fullOptions.backgroundColor;
-  context.fillRect(0, 0, canvasWidth, canvasHeight);
-  const { height, imageHeight, imageWidth, sources, spacing, width } =
-    fullOptions;
-  const maxImages = width * height;
+    const context = canvas.getContext('2d');
+    context.fillStyle = fullOptions.backgroundColor;
+    context.fillRect(0, 0, canvasWidth, canvasHeight);
+    const { height, imageHeight, imageWidth, sources, spacing, width } =
+      fullOptions;
+    const maxImages = width * height;
 
-  await sequentialAsyncForEach(sources, async (source: ImageSource, index) => {
-    const photoBuffer = await getPhoto(source);
+    await sequentialAsyncForEach(
+      sources,
+      async (source: ImageSource, index) => {
+        const photoBuffer = await getPhoto(source);
 
-    if (index >= maxImages) return;
+        if (index >= maxImages) return;
 
-    const img = new CanvasImage();
-    img.src = photoBuffer;
+        const img = new CanvasImage();
+        img.src = photoBuffer;
 
-    const x = (index % width) * (imageWidth + spacing);
-    const y = Math.floor(index / width) * (imageHeight + spacing);
-    context.drawImage(img, x, y, imageWidth, imageHeight);
-  });
-  await writeFile(fileName, canvas.toBuffer('image/jpeg'), { flag: 'w' });
+        const x = (index % width) * (imageWidth + spacing);
+        const y = Math.floor(index / width) * (imageHeight + spacing);
+        context.drawImage(img, x, y, imageWidth, imageHeight);
+      },
+    );
+    await writeFile(fileName, canvas.toBuffer('image/jpeg'), { flag: 'w' });
+  } catch (error) {
+    logger.error(`createCollage: ${error}`);
+  }
 }
